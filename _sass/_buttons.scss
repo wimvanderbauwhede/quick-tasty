@@ -4,33 +4,31 @@
 // call to action
 .btn {
 	display: inline-block;
-	padding: 4px 20px;
-	@include font-size(16);
+	padding: 8px 20px;
+	@include font-size(14);
 	font-family: $alt-font;
-	background-color: $orange;//white;//$primary-color;
-	color: black;//$white;
+	background-color: $primary-color;
+	color: $white;
 	text-decoration: none;
-    font-weight: bold; 
 	border: 0 !important;
 	border-radius: 10 * $border-radius;
 	@include transition(background 0.2s, border 0.2s);
 	&:hover {
 		color: $white;
-		background-color: lighten($orange, 10);
+		background-color: lighten($primary-color, 10);
 	}
 	&:active {
 		// move button slightly on click
 		@include transform(translateY(1px));
 	}
 }
-
 .btn-inverse {
 	@extend .btn;
 	background-color: $white;
-	color: $black; //$text-color;
+	color: $text-color;
 	&:visited,
 	&:active {
-		color: $black;//$text-color;
+		color: $text-color;
 	}
 	&:hover {
 		color: $white;
@@ -96,7 +94,7 @@
 		(vimeo, $vimeo-color),
 		(youtube, $youtube-color);
 	@extend .btn-inverse;
-	color: black !important;
+	color: $text-color !important;
 	&:visited,
 	&:active {
 		color: $text-color;

@@ -2,7 +2,6 @@
 // --------------------------------------------------
 
 body {
-    background-color: $body-color;
 	font-family: $base-font;
 	color: $text-color;
 	@include font-size(16);
@@ -23,7 +22,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
 	@include font-size(36);
-    color: $orange;
 }
 h2 {
 	@include font-size(32);
@@ -51,7 +49,7 @@ ins {
 a {
 	color: $link-color;
 	&:hover {
-		color: $orange;//darken($link-color, 20);
+		color: darken($link-color, 20);
 	}
 	&:focus {
 		@extend %tab-focus;
@@ -355,7 +353,3 @@ nav {
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, .highlight {
 	@include transition (color 0.2s ease-out, opacity 0.2s ease-out, background 0.2s ease-out, border-color 0.2s ease-out);
 }
-
-// COLOR 
-.orange { color: $orange; }
-.small { font-size: 80%; }

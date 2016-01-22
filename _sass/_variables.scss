@@ -16,17 +16,15 @@ $border-radius               	: 3px;
 
 
 // Color variables
-$orange                         : #FF9900;
-$body-color                  	: #ebebeb; // was #000
-$text-color                  	: #eeeeee; 
-//#313130;
+
+$body-color                  	: #000000; //#ebebeb;
+$text-color                  	: #eeeeee; //#313130;
 $base-color                  	: #343434;    
 $comp-color                  	: complement($base-color); 
 $border-color                	: #ddd;
-$white                       	: #ffffff;
-$black                       	: #eeeeee;
-$link-color                  	: #dddddd; 
-// #222;
+$white                       	: #fff;
+$black                       	: #000;
+$link-color                  	: #dddddd; // #222;
 $primary-color               	: $black;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
@@ -70,7 +68,7 @@ $form-font-size              	: $doc-font-size;
 // Sliding Menu Navigation
 
 $sliding-menu-border-color	 	: $black;
-$sliding-menu-background 		: #111;//$black;
+$sliding-menu-background 		: $black;
 $sliding-menu-color 	 		: $white;
 $sliding-menu-background-hover	: $black;
 $sliding-menu-color-hover	 	: $white;

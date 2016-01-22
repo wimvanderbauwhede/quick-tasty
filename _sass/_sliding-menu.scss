@@ -87,17 +87,10 @@
 		.title {
 			display: block;
 			font-family: $alt-font;
-// WV: use default font size            
-//			@include font-size(32,no); 
-			@include font-size(32,no); 
+			@include font-size(32,no);
 			font-weight: 700;
 			@include media($medium) {
 				margin-left: 170px;
-                font-size: 32px;
-			}
-			@include media($large) {
-				margin-left: 170px;
-                font-size: 32px;
 			}
 		}
 		.excerpt {
