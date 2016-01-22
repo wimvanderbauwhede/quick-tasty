@@ -243,7 +243,7 @@
 	background-repeat: no-repeat;
 //	background-attachment: fixed;
 	text-align: center;
-	color: $white;
+	color: $black;
 
     background-size: 150%;
 	@include media($medium) {
@@ -269,7 +269,7 @@
 	}
     
 	h1 {
-        color: $white;
+        color: $black;
 		@include font-size(48);
 		@include media($medium) {
 			@include font-size(60);
@@ -279,7 +279,7 @@
 		}
 	}
 	h2 {
-        color: $white;
+        color: $black;
 		@include font-size(20);
 		@include media($medium) {
 			@include font-size(24);
@@ -310,14 +310,14 @@
 		right: 0;
 		margin: 0 auto;
 		padding: 10px 15px;
-		background-color: rgba($black,.5);
-		color: $white;
+		background-color: rgba($white,.5);
+		color: $black;
 		font-family: $alt-font;
 		@include font-size(12,no);
 		text-align: right;
 		z-index: 10;
 		a {
-			color: $white;
+			color: $black;
 			text-decoration: none;
 		}
 	}
