@@ -3,24 +3,24 @@
   <head>
     <meta charset="utf-8">
     <title>The Store Cupboard • Quick & Tasty - Get Cooking!</title>
-    <meta name="description" content="The Store Cupboard">
+    <meta name="description" content="You can find all the ingredients used in the recipes in the supermarket.">
     <meta name="keywords" content="ingredients">
     
     
     	<!-- Twitter Cards -->
 	<meta name="twitter:title" content="The Store Cupboard">
-	<meta name="twitter:description" content="The Store Cupboard">
+	<meta name="twitter:description" content="You can find all the ingredients used in the recipes in the supermarket.">
 	<meta name="twitter:site" content="@wim_v12e">
 	<meta name="twitter:creator" content="@wim_v12e">
 	
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:image" content="https://wimvanderbauwhede.github.io/quick-tasty//images/dried_tomatoes_1600x800.jpg">
+	<meta name="twitter:image" content="https://wimvanderbauwhede.github.io/quick-tasty//images/dried_tomatoes_1600x500.jpg">
 	
 	<!-- Open Graph -->
 	<meta property="og:locale" content="en_GB">
 	<meta property="og:type" content="article">
 	<meta property="og:title" content="The Store Cupboard">
-	<meta property="og:description" content="The Store Cupboard">
+	<meta property="og:description" content="You can find all the ingredients used in the recipes in the supermarket.">
 	<meta property="og:url" content="https://wimvanderbauwhede.github.io/quick-tasty//ingredients/">
 	<meta property="og:site_name" content="Quick & Tasty - Get Cooking!">
     
@@ -87,15 +87,21 @@
     <!--
     <a href="https://wimvanderbauwhede.github.io/quick-tasty/" class="site-title">Quick & Tasty - Get Cooking!</a>
 -->
+<!--
 
-    <div >
 
+
+ style="max-width:25%; width=100px"
+ <div >
+-->
+
+  <!--
       <form action="https://wimvanderbauwhede.github.io/quick-tasty//search.html" >
-    <input style="max-width:25%; width=100px" type="text" name="q" id="tipue_search_input" autocomplete="off" required>
-
+    <input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
   </form>
-<a href="https://wimvanderbauwhede.github.io/quick-tasty/" class="site-title">Quick&nbsp;&amp;&nbsp;Tasty</a>
 </div>
+-->
+<a href="https://wimvanderbauwhede.github.io/quick-tasty/" class="site-title">Quick&nbsp;&amp;&nbsp;Tasty</a>
 
     <nav role="navigation" class="menu top-menu">
         <ul class="menu-item">
@@ -123,8 +129,12 @@
   
 </ul>
 
+
     </nav>
+<form style="float: right;" action="https://wimvanderbauwhede.github.io/quick-tasty//search.html" ><input type="text" name="q" id="tipue_search_input" autocomplete="off" required></form>
   </div><!-- /.inner-wrap -->
+
+
 </header><!-- /.masthead -->
 
     <nav role="navigation" class="js-menu sliding-menu-content">
@@ -154,7 +164,7 @@
       
         
       
-			<a href="https://wimvanderbauwhede.github.io/quick-tasty//about/"><img src="https://wimvanderbauwhede.github.io/quick-tasty//images/basilicum.jpg" alt="teaser" class="teaser"></a>
+			<a href="https://wimvanderbauwhede.github.io/quick-tasty//about/"><img src="https://wimvanderbauwhede.github.io/quick-tasty//images/W_at_shrine.jpg" alt="teaser" class="teaser"></a>
 			<a href="https://wimvanderbauwhede.github.io/quick-tasty//about/" class="title">About</a>
 			
 		</li>
@@ -173,7 +183,7 @@
 		
 		<div class="page-feature">
 			<div class="page-image">
-				<img src="https://wimvanderbauwhede.github.io/quick-tasty//images/dried_tomatoes_1600x800.jpg" class="page-feature-image" alt="The Store Cupboard" itemprop="image">
+				<img src="https://wimvanderbauwhede.github.io/quick-tasty//images/dried_tomatoes_1600x500.jpg" class="page-feature-image" alt="The Store Cupboard" itemprop="image">
 				
 			</div><!-- /.page-image -->
 		</div><!-- /.page-feature -->
@@ -318,7 +328,8 @@ var sc_partition=24;
 var sc_security="2e1832c4";
 </script>
 
-<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c25.statcounter.com/counter.php?sc_project=2524252&java=0&security=2e1832c4&invisible=0" alt="blog stats" border="0"></a> </noscript>
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c25.statcounter.com/counter.php?sc_project=2524252&java=0&security=2e1832c4&invisible=0" alt="blog stats" border="0"></a> </noscript>
 <!-- End of StatCounter Code -->
 </footer>
 
@@ -327,6 +338,27 @@ var sc_security="2e1832c4";
     <script src="https://wimvanderbauwhede.github.io/quick-tasty//js/vendor/jquery-1.9.1.min.js"></script>
     <script src="https://wimvanderbauwhede.github.io/quick-tasty//js/main.js"></script>
 
+    
+    <script type="text/javascript">
+      $('.toc').toc({
+        'selectors': 'h2', //elements to use as headings
+        'container': '.page-content', //element to find all selectors in
+        'smoothScrolling': true, //enable or disable smooth scrolling on click
+        'prefix': 'toc', //prefix for anchor tags and class names
+        'onHighlight': function(el) {}, //called when a new section is highlighted
+        'highlightOnScroll': true, //add class to heading that is currently in focus
+        'highlightOffset': 100, //offset to trigger the next headline
+        'anchorName': function(i, heading, prefix) { //custom function for anchor name
+          return prefix+i;
+        },
+        'headerText': function(i, heading, $heading) { //custom function building the header-item text
+          return $heading.text();
+        },
+        'itemClass': function(i, heading, $heading, prefix) { //custom function for item class
+          return $heading[0].tagName.toLowerCase();
+        }
+      });
+    </script>
     
 
   </body>
