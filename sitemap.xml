@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://wimvanderbauwhede.github.io/quick-tasty//ingredients/</loc>
-    <lastmod>2016-01-31T20:42:47+00:00</lastmod>
+    <loc>http://www.quickandtastycooking.org.uk//ingredients/</loc>
+    <lastmod>2016-02-01T19:25:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wimvanderbauwhede.github.io/quick-tasty//basics/</loc>
-    <lastmod>2016-01-31T20:42:47+00:00</lastmod>
+    <loc>http://www.quickandtastycooking.org.uk//basics/</loc>
+    <lastmod>2016-02-01T19:25:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wimvanderbauwhede.github.io/quick-tasty//about/</loc>
-    <lastmod>2016-01-31T20:42:47+00:00</lastmod>
+    <loc>http://www.quickandtastycooking.org.uk//about/</loc>
+    <lastmod>2016-02-01T19:25:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wimvanderbauwhede.github.io/quick-tasty//</loc>
-    <lastmod>2016-01-31T20:42:47+00:00</lastmod>
+    <loc>http://www.quickandtastycooking.org.uk//</loc>
+    <lastmod>2016-02-01T19:25:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://wimvanderbauwhede.github.io/quick-tasty//recipes/</loc>
-    <lastmod>2016-01-31T20:42:47+00:00</lastmod>
+    <loc>http://www.quickandtastycooking.org.uk//recipes/</loc>
+    <lastmod>2016-02-01T19:25:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wimvanderbauwhede.github.io/quick-tasty//search.html</loc>
-    <lastmod>2016-01-31T20:42:47+00:00</lastmod>
+    <loc>http://www.quickandtastycooking.org.uk//search.html</loc>
+    <lastmod>2016-02-01T19:25:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

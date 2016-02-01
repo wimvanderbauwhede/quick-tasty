@@ -5,15 +5,15 @@
 
     <title>Quick & Tasty - Get Cooking!</title>
     <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
-		<icon>https://wimvanderbauwhede.github.io/quick-tasty//apple-touch-icon-precomposed.png</icon>
+		<icon>http://www.quickandtastycooking.org.uk//apple-touch-icon-precomposed.png</icon>
     <subtitle>Quick and Tasty</subtitle>
-    <link href="https://wimvanderbauwhede.github.io/quick-tasty//atom.xml" rel="self"/>
-    <link href="https://wimvanderbauwhede.github.io/quick-tasty//" rel="alternate" type="text/html"/>
-    <updated>2016-01-31T20:42:47+00:00</updated>
-    <id>https://wimvanderbauwhede.github.io/quick-tasty//</id>
+    <link href="http://www.quickandtastycooking.org.uk//atom.xml" rel="self"/>
+    <link href="http://www.quickandtastycooking.org.uk//" rel="alternate" type="text/html"/>
+    <updated>2016-02-01T19:25:46+00:00</updated>
+    <id>http://www.quickandtastycooking.org.uk//</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
-			<uri>https://wimvanderbauwhede.github.io/quick-tasty//</uri>
+			<uri>http://www.quickandtastycooking.org.uk//</uri>
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
