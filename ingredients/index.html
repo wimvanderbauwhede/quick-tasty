@@ -34,7 +34,7 @@
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="cleartype" content="on">
-
+    <meta name="p:domain_verify" content="e31ad34d4267c0ac4d997da5cb5ea898"/>
     <style>
     .sliding-menu-content {
       top: 0;
@@ -94,6 +94,14 @@
   </head>
 
   <body>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>    
     <header id="masthead">
   <div class="inner-wrap">
     <!--
@@ -139,11 +147,13 @@
     
     <li><a href="http://www.quickandtastycooking.org.uk/about/" >About</a></li>
   
-</ul>
 
+</ul>
 
     </nav>
 <form style="float: right;" action="http://www.quickandtastycooking.org.uk/search.html" ><input type="text" name="q" id="tipue_search_input" autocomplete="off" required></form>
+
+
   </div><!-- /.inner-wrap -->
 
 
@@ -190,7 +200,7 @@
 
     <div id="page-wrapper">
 
-      <div id="main" role="main">			
+      <div id="main" role="main">
 	<article class="wrap" itemscope itemtype="http://schema.org/Article">
 		
 		<div class="page-feature">
@@ -292,12 +302,17 @@
 				<footer class="page-footer">
 					
 					<div class="inline-btn">
-	<a class="btn-social twitter" href="https://twitter.com/intent/tweet?text=The%20Store%20Cupboard&amp;url=http://www.quickandtastycooking.org.uk/ingredients/&amp;via=wim_v12e" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Share on Twitter</a>
-	<a class="btn-social facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://www.quickandtastycooking.org.uk/ingredients/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> Share on Facebook</a>
-	<a class="btn-social google-plus"  href="https://plus.google.com/share?url=http://www.quickandtastycooking.org.uk/ingredients/" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i> Share on Google+</a>
-</div><!-- /.share-this -->
+
+	<a href="https://www.pinterest.com/fussfreefood" target="_blank"><i class="fa fa-pinterest"></i></a>
+	<a href="https://twitter.com/fuss_free_food" target="_blank"><i class="fa fa-twitter"></i></a>
+	<a href="https://www.facebook.com/quickandtasyfood/" target="_blank"><i class="fa fa-facebook"></i></a>
+	&nbsp;
+<div class="fb-like" data-href="https://www.facebook.com/quickandtasyfood/" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+</div><!-- /.follow-us -->
+
+					
 					<div class="page-meta">
-	<p>Updated <time datetime="2015-01-24T00:00:00Z" itemprop="datePublished">January 24, 2015</time></p>
+	<p>Updated <time datetime="2016-02-07T00:00:00Z" itemprop="datePublished">February 07, 2016</time></p>
 </div><!-- /.page-meta -->
 				</footer><!-- /.footer -->
 				<aside>
@@ -308,6 +323,7 @@
 		
 	</article><!-- ./wrap -->
 </div><!-- /#main -->
+
 
       <footer role="contentinfo" id="site-footer">
 	<nav role="navigation" class="menu bottom-menu">
