@@ -9,7 +9,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2016-02-14T11:27:07+00:00</updated>
+    <updated>2016-02-20T16:58:14+00:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -17,5 +17,48 @@
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
+    
+    <entry>
+        <title>7 tips for making quick &amp; tasty meals</title>
+        <link href="http://www.quickandtastycooking.org.uk/articles/seven-tips/"/>
+        <updated>2016-02-20T00:00:00+00:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/articles/seven-tips</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/homepage_banner_1600_2.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;With these tips, making tasty meals will be a breeze.&lt;/p&gt;
+
+&lt;h2 id=&quot;build-a-core-set-of-recipesa-namehomepagebannera&quot;&gt;Build a core set of recipes&lt;a name=&quot;homepage_banner&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;To make a quick meal it is important that you don’t have to think about it. By having a set of 14 favourite recipes, you can quickly make what you like and have a wide variety.&lt;/p&gt;
+
+&lt;h2 id=&quot;use-fresh-vegetables-for-taste&quot;&gt;Use fresh vegetables for taste&lt;/h2&gt;
+
+&lt;p&gt;I think it is really important to have fresh vegetables not only because they are good for you :-) but  because they simply taste so much better than the ones in tins or jars.&lt;/p&gt;
+
+&lt;h2 id=&quot;dont-overcook&quot;&gt;Don’t overcook&lt;/h2&gt;
+
+&lt;p&gt;This may sound totally obvious, but cook the food for the shortest possible time. Many vegetables don’t need to be cooked at all. All you want is that they are hot and maybe slightly softened. They will taste at their best too. Overcooking your food takes longer and destroys the taste.&lt;/p&gt;
+
+&lt;h2 id=&quot;add-umami&quot;&gt;Add &lt;em&gt;umami&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Umami&lt;/em&gt; is a loanword from the Japanese which can be translated as “pleasant savory taste”&lt;/p&gt;
+
+&lt;h2 id=&quot;think-about-texture&quot;&gt;Think about texture&lt;/h2&gt;
+
+&lt;h2 id=&quot;make-a-one-pot-meal&quot;&gt;Make a one-pot meal&lt;/h2&gt;
+
+&lt;p&gt;Part of the difficulty with cooking is having to multitask with several pots on the hob. Making a one-pot meal is much simpler and quicker.&lt;/p&gt;
+
+&lt;h2 id=&quot;use-the-microwave&quot;&gt;Use the microwave&lt;/h2&gt;
+
+&lt;p&gt;The microwave oven is much underrated for cooking. It has the advantages of preparing food quickly, preserving more of the nutrients, and it is hassle-free: you don’t have to attend to it and there is less cleaning-up afterwards too.&lt;/p&gt;
+
+        </content>
+    </entry>
     
 </feed>
