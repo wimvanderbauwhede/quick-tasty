@@ -9,7 +9,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2016-03-20T11:49:32+00:00</updated>
+    <updated>2016-03-27T17:30:45+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -17,6 +17,91 @@
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
+    
+    <entry>
+        <title>The zen way of cooking</title>
+        <link href="http://www.quickandtastycooking.org.uk/articles/zen-cooking/"/>
+        <updated>2016-04-06T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/articles/zen-cooking</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/zencookbook_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;There is a famous Zen poem about the right way to make tea (“cha no yu”), and it translates loosely as follows:&lt;/p&gt;
+
+&lt;!--
+茶の湯とは、
+ただ湯を沸かし
+茶を点てて、
+飲むばかり
+なる本を知るべし
+--&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“To make tea, just boil water, make tea, then you drink it properly.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Zen way of cooking is somewhat similar. Japanese Zen Buddhism has a long tradition of what is called “temple cuisine”, a refined and essentially vegan way of cooking.&lt;/p&gt;
+
+&lt;p&gt;When I was living in Japan, near Kyoto, there was a Zen temple close by, the beautiful Manpukuji.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/manpukuji-1.jpg&quot; /&gt;
+  &lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/manpukuji-2.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In the shop of the Manpukuji temple I bought this cookbook (in Japanese only) about “fucha ryori” (Zen temple cuisine):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/zencookbook.jpg&quot; alt=&quot;sample image&quot; title=&quot;Zen temple cookbook&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The book is full of delicious-looking pictures of the recipes, like this one:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/zencookbook_page.jpg&quot; alt=&quot;sample image&quot; title=&quot;Page from the zen temple cookbook&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What is very different from a regular cookbook is the way the recipes are described: typically, there is a list of ingredients but no amounts, and the method of cooking is described but usually no cooking times are given. Clearly, these details are not the essence of Zen cooking.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, for every recipe the book mentions if it is for spring, summer, autumn or winter. This connection with the seasons is of great importance in Japan. Also, the the recipes give detailed instructions  related to the way the prepared food looks. The aesthetic aspect is as important as the taste.&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>The 3 great virtues of a cook: laziness, impatience and hubris</title>
+        <link href="http://www.quickandtastycooking.org.uk/articles/three-virtues/"/>
+        <updated>2016-03-26T00:00:00+00:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/articles/three-virtues</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/shiitake_shichimi_wakame_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Some of the qualities of a geek boffin are transferable to cooking.&lt;a name=&quot;homepage_banner&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;laziness&quot;&gt;Laziness&lt;/h2&gt;
+
+&lt;p&gt;The quality that makes you go to great effort to reduce overall energy expenditure. It makes you create recipes that are easy to make with ingredients that are easy to find. Hence, the first great virtue of a cook.&lt;/p&gt;
+
+&lt;h2 id=&quot;impatience&quot;&gt;Impatience&lt;/h2&gt;
+
+&lt;p&gt;Not wanting to spend ages preparing food. This makes you create recipes that are quick to prepare and quick to cook, with minimal cleaning-up. Hence, the second great virtue of a cook.&lt;/p&gt;
+
+&lt;h2 id=&quot;hubris&quot;&gt;Hubris&lt;/h2&gt;
+
+&lt;p&gt;The quality that makes you create tasty recipes that the whole world will want to cook. Hence, the third great virtue of a cook.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;This post is inspired by Larry Wall’s views on the virtues of a programmer in “Programming Perl” (2nd ed.) by Tom Christiansen, Randal L. Schwartz, Larry Wall published by O’Reilly, 1996&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>7 tips for making quick &amp; tasty meals</title>
@@ -29,7 +114,7 @@
 					<email>wimvanderbauwhede@yahoo.co.uk</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/homepage_banner_1600_2.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/dried_tomatoes_bold_1600x600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;With these tips, making tasty meals will be a breeze.&lt;/p&gt;
 
 &lt;h2 id=&quot;build-a-core-set-of-recipesa-namehomepagebannera&quot;&gt;Build a core set of recipes&lt;a name=&quot;homepage_banner&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
@@ -59,6 +144,38 @@
 &lt;h2 id=&quot;use-the-microwave&quot;&gt;Use the microwave&lt;/h2&gt;
 
 &lt;p&gt;The microwave oven is much underrated for cooking. It has the advantages of preparing food quickly, preserving more of the nutrients, and it is hassle-free: you don’t have to watch it and there is less cleaning-up afterwards too.&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Why quick and tasty cooking</title>
+        <link href="http://www.quickandtastycooking.org.uk/articles/welcome/"/>
+        <updated>2016-01-18T00:00:00+00:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/articles/welcome</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/homepage_banner_1600_2.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;My aim with Quick and Tasty Cooking is to get more people to cook healthy food and ultimately to write a cookbook and donate the proceeds to the &lt;a href=&quot;http://www.wfp.org/&quot;&gt;UN World Food Programme&lt;/a&gt;. For a publisher to take interest, I need to have many, many followers on Facebook and Twitter. Please help me to achieve this goal by liking my Facebook page or following me on Twitter:&lt;/p&gt;
+
+&lt;div class=&quot;inline-btn&quot;&gt;
+	&lt;a href=&quot;https://twitter.com/fuss_free_food&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+	&lt;a href=&quot;https://www.pinterest.com/fussfreefood&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;	
+	&lt;a href=&quot;https://www.facebook.com/quickandtasyfood/&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+	&amp;nbsp;
+&lt;div class=&quot;fb-like&quot; data-href=&quot;https://www.facebook.com/quickandtasyfood/&quot; data-layout=&quot;button&quot; data-action=&quot;like&quot; data-show-faces=&quot;false&quot; data-share=&quot;false&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- /.follow-us --&gt;
+
+&lt;p&gt;My recipes are quick (really) and easy, don’t require any gadgets and use few ingredients — all of which you can find in the supermarket.&lt;/p&gt;
+
+&lt;p&gt;All recipes are my own creation, unless credited. I’ll post a new quick &amp;amp; tasty recipe every week.&lt;/p&gt;
+
+&lt;p&gt;Wim&lt;/p&gt;
 
         </content>
     </entry>
