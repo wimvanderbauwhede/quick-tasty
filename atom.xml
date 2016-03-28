@@ -9,7 +9,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2016-03-27T21:13:03+01:00</updated>
+    <updated>2016-03-28T12:09:01+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -20,9 +20,9 @@
     
     <entry>
         <title>The zen way of cooking</title>
-        <link href="http://www.quickandtastycooking.org.uk/articles/zen-cooking/"/>
+        <link href="http://www.quickandtastycooking.org.uk/unpublished/zen-cooking/"/>
         <updated>2016-04-06T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/articles/zen-cooking</id>
+        <id>http://www.quickandtastycooking.org.uk/unpublished/zen-cooking</id>
         <author>
 					<name>Wim Vanderbauwhede</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
@@ -64,6 +64,14 @@
 &lt;p&gt;What is very different from a regular cookbook is the way the recipes are described: typically, there is a list of ingredients but no amounts, and the method of cooking is described but usually no cooking times are given. Clearly, these details are not the essence of Zen cooking.&lt;/p&gt;
 
 &lt;p&gt;On the other hand, for every recipe the book mentions if it is for spring, summer, autumn or winter. This connection with the seasons is of great importance in Japan. Also, the the recipes give detailed instructions  related to the way the prepared food looks. The aesthetic aspect is as important as the taste.&lt;/p&gt;
+
+&lt;p&gt;So maybe we can express the zen way of cooking like this:&lt;/p&gt;
+
+&lt;p&gt;普茶料理のはただ材料を選び食を作って盛るばかりなる本を知るべし&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“To cook the zen way, just take the right ingredients, prepare the food, then serve it properly.”&lt;/p&gt;
+&lt;/blockquote&gt;
 
         </content>
     </entry>
