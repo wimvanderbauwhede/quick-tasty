@@ -9,7 +9,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2016-05-07T12:17:46+01:00</updated>
+    <updated>2016-05-13T20:53:40+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -17,6 +17,42 @@
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
+    
+    <entry>
+        <title>Murakami meals</title>
+        <link href="http://www.quickandtastycooking.org.uk/articles/murakami-meals/"/>
+        <updated>2016-05-13T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/articles/murakami-meals</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/murakami-meals_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;As promised in my previous post, &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;My journey of learning Japanese&lt;/a&gt;, I will start posting recipes for what I call “Murakami meals”, named after one of my favourite authors, Haruki Murakami.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Haruki_Murakami&quot;&gt;Haruki Murakami&lt;/a&gt; is a bestselling Japanese author. Food is a recurrent theme in his novels.&lt;/p&gt;
+
+&lt;p&gt;I love the way he lets his characters prepare food, like Nakata in “Kafka on the Shore” peering in the fridge and whipping up a great meal in no time for himself and Hoshino, or Aomame in “1Q84” eating cucumber with mayonaise, or the narrator in “Hard-Boiled Wonderland and the End of the World” cooking for the librarian. &lt;!-- resp p368, p152, p90 --&gt;&lt;/p&gt;
+
+&lt;!--
+Somebody made a very nice illustration of Nakata with Hoshino eating a bowl of ramen:
+![Nakata and Hoshino](http://rittlerion.com/img/bigimg/07big.jpg &quot;Nakata and Hoshino&quot;)
+--&gt;
+
+&lt;p&gt;What I call a “Murakami meal” is a meal made quickly with what you find in the fridge. And although Murakami frequently lets his characters prepare and eat Western-style food, I’ll post recipes for Japanese-style food. Also, of course, my recipes will be vegetarian.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/aubergines-ponzu-soybeans-rice_1600.jpg&quot; alt=&quot;Aubergines with ponzu, soy beans, brown rice&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My “Murakami meal #1” is &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/#aubergines-ponzu-soybeans-rice&quot;&gt;aubergines with &lt;em&gt;ponzu&lt;/em&gt;, soy beans with &lt;em&gt;shiitake&lt;/em&gt; and brown rice with &lt;em&gt;konbu&lt;/em&gt;&lt;/a&gt;.
+&lt;!--
+ tamagoyaki (Japanese-style omelet) with ajizuki nori (seaweed), Japanese-style potato salad and silken tofu. I explain how to make it [on the recipes page](http://www.quickandtastycooking.org.uk/recipes/).
+![](http://www.quickandtastycooking.org.uk/images/)
+--&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>My journey of learning Japanese</title>
