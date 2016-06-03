@@ -9,7 +9,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2016-05-28T18:46:44+01:00</updated>
+    <updated>2016-06-03T20:36:35+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -17,6 +17,49 @@
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
+    
+    <entry>
+        <title>Three of my favourite Japanese kitchen tools</title>
+        <link href="http://www.quickandtastycooking.org.uk/articles/japanese-kitchen-tools/"/>
+        <updated>2016-05-29T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/articles/japanese-kitchen-tools</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/japanese-kitchen-tools_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;The apartment where I stayed in Japan had a kitchen but no pots, pans, cutlery or anything. So I had to go and buy everything — great fun when you’re jet-lagged.&lt;/p&gt;
+
+&lt;p&gt;I went to a supermarket and bought amongst other things a very sharp knife (partly showing on the banner of the &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/&quot;&gt;recipes page&lt;/a&gt;), a great versatile microwave pot (featuring on the banner of &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/microwave-cooking&quot;&gt;my post about the microwave&lt;/a&gt;), and the cheap-but-beautiful &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/murakami-meals/&quot;&gt;black-and-red bowls&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I also bought three kitchen tools that I particularly like:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/japanese-kitchen-tools_1600.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-flexible-antibacterial-cutting-mat&quot;&gt;A flexible, antibacterial cutting mat&lt;/h2&gt;
+
+&lt;p&gt;This mat contains a phytoncide, an antibacterial organic compound derived from plants. To kill all the germs you simply put it in the microwave for a minute. And it can go in the dishwasher as well. You can buy it on line, just search for “phytoncide cutting board”.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-pair-of-bamboo-cooking-chopsticks&quot;&gt;A pair of bamboo cooking chopsticks&lt;/h2&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/long-chopsticks-detail_800.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Long chopsticks are great for cooking pasta or noodles. No risk of burning your fingers and handier than a fork too. You can easily find plain ones but I liked the &lt;em&gt;sakura&lt;/em&gt; decoration (cherry blossoms), and it actually has ridges for a better grip.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-rice-scoop&quot;&gt;A rice scoop&lt;/h2&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/rice-scoop_800.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Japanese rice is different from other rice in the way it sticks together: when properly cooked, each grain is still quite firm but the grains have a sticky outer layer. That’s why every Japanese kitchen has a rice scoop like this, with little nobs that stop the rice from sticking to it. The scoop can be put upright on its handle, very nifty!&lt;/p&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Murakami meals</title>
