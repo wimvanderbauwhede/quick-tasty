@@ -9,7 +9,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2016-06-26T21:11:17+01:00</updated>
+    <updated>2016-07-02T21:02:21+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -17,6 +17,72 @@
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
+    
+    <entry>
+        <title>Reading Japanese as a Learner</title>
+        <link href="http://www.quickandtastycooking.org.uk/articles/reading-japanese/"/>
+        <updated>2016-07-02T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/articles/reading-japanese</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/sign_kanji_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;In &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/learning-japanese&quot;&gt;my previous post about learning Japanese&lt;/a&gt; I mentioned that I am very slowly reading a book (“1Q84” by Haruki Murakami) in Japanese. (It’s now July 2016 and I’ve finally finished the first volume!)&lt;br /&gt;&lt;br /&gt;&lt;!--In this post I&#39;d like to explain how I, as a learner, read a Japanese text. I --&gt;
+This post is about reading Japanese. I’ll give some tips on how to look up kanji and a few handy rules to simplify the reading process. I haven’t really encountered these tips and rules as such in my learning materials, so I thought they may be of interest to other learners as well.
+&lt;!--
+, so it&#39;s probably mostly of interest to other learners of Japanese.
+--&gt;
+&lt;!--
+Reading a Japanese text as a learner is very different from reading --&gt;&lt;!--a text--&gt;&lt;!-- in a language that uses an alphabet.--&gt;&lt;!--, like English. In English, --&gt;&lt;!--When you know the alphabet, you can --&gt;&lt;!--read the words in a text. You may not know what they mean, but it is easy to--&gt;&lt;!-- look them up in a dictionary--&gt;&lt;!-- thanks to the ordering of the alphabet--&gt;&lt;!--.
+--&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;the-kanji-conundrum&quot;&gt;The kanji conundrum&lt;/h4&gt;
+
+&lt;p&gt;When learning to read in a language that uses an alphabet, you can simply look up any word you don’t know in a dictionary. Because of the use of &lt;em&gt;kanji&lt;/em&gt; (漢字, Chinese characters), things are more complicated for the learner of Japanese. Words written in &lt;em&gt;katakana&lt;/em&gt; or &lt;em&gt;hiragana&lt;/em&gt; (the sets of about fifty characters used to write Japanese phonetically) are easy to look it up. But what to do with kanji? There are about two thousand kanji in general use. Learning them all takes a long time: in the Japanese school system, it takes nine years. &lt;!-- I have, after 5 years of learning, studied about a thousand of them, but I can&#39;t claim the really know them completely: t--&gt; Typically each kanji has several possible readings (pronunciation) and meanings. &lt;!--, and I don&#39;t always remember them all. And even if I did, that would still not help me for--&gt; And knowing every meaning of every kanji does not mean knowing the meaning of words that use combinations of kanji.&lt;/p&gt;
+
+&lt;h4 id=&quot;reading-for-learning&quot;&gt;Reading for learning&lt;/h4&gt;
+
+&lt;p&gt;For me, reading for learning is different from ordinary reading. Normally, I read to understand the meaning of a text. When learning Japanese, I also want to learn the readings of the kanji I encounter and I want to practise recall of the kanji and compound words that I’ve  already learnt.&lt;/p&gt;
+
+&lt;p&gt;Usually I make a first pass through a page of the text without looking anything up, trying to remember as much as possible, both readings and meanings, and to guess at readings and meanings of compound words where possible. Very often the context helps to guess at meanings, so I make sure to read enough text to get sufficient context.
+Then in a second pass I look up every kanji for which I don’t know either the reading or the meaning, and every compound word that I don’t know.&lt;/p&gt;
+
+&lt;h4 id=&quot;looking-up-kanji&quot;&gt;Looking up kanji&lt;/h4&gt;
+
+&lt;p&gt;I find that the most convenient way to look up a kanji is an electronic dictionary on a smartphone, because I need to know just one of the readings. If I don’t know any of the readings, I use three different ways, depending on the kanji. All of them require understanding of the basics of kanji writing and structure: the stroke order, stroke count and the “radicals”, the kanji building blocks that make up the more complex kanji.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The first way is to draw the kanji stroke by stroke. I prefer this approach as a learner, because I tend to remember the kanji better if I’ve had to write it. Typically, a kanji writing app will present a list of kanji that match the handwritten one. If my writing was good, I’ll get the kanji I was looking for on the first page.&lt;/li&gt;
+  &lt;li&gt;The second approach is to look up the kanji by radical. Most electronic dictionaries offer that facility. It usually works well if the radicals making up the kanji are clear. It really helps to know how to count the strokes in a radical, because they are usually ordered by stroke count.&lt;/li&gt;
+  &lt;li&gt;My final way is to use a (paper) dictionary with the SKIP (System of Kanji Indexing by Patterns) system for ordering kanji. I have the well-known “Kodansha Kanji Learner’s Dictionary”. The SKIP method is based on first classifying the kanji into one of 4 groups (Left-Right ◧, Up-Down ⬒, Enclosure ◻, and Solid ◼). For the first two categories, further indexing is by stroke count of both parts. Kanji in the third category (enclosure) are indexed by the number of sides of the enclosure. Kanji in the last category typically can’t always be broken down, but there aren’t that many of them and most of them are simple kanji.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img title=&quot;Kanji dictionary page&quot; src=&quot;http://www.quickandtastycooking.org.uk/images/kanji_learners_dict_1600&quot; alt=&quot;Kanji dictionary page&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;reading-for-learners-a-few-handy-rules&quot;&gt;Reading for learners: a few handy rules&lt;/h4&gt;
+
+&lt;p&gt;Although the many readings and meanings may sound horribly complicated, I found that there are actually a few general rules that simplify the reading process. Of course there are exceptions to all of these rules but they hold most of the time.&lt;/p&gt;
+
+&lt;p&gt;Kanji have typically two types of readings, called &lt;em&gt;on&lt;/em&gt; (音,”sound”) and &lt;em&gt;kun&lt;/em&gt; (訓,”instruction” or “explanation”). The &lt;em&gt;on&lt;/em&gt;-reading is based on the sound of the original Chinese reading of a character; the &lt;em&gt;kun&lt;/em&gt;-reading is the Japanese word with the same meaning. Chinese used to play a similar role as Latin or Greek in ancient Japan, so in a way &lt;em&gt;on&lt;/em&gt;-readings are comparable with words with a Latin or Greek root in English.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The first  general rule is that kanji appearing on their own (i.e. not in combination with other kanji) have almost always the &lt;em&gt;kun&lt;/em&gt;-reading. For example, for the kanji 食, it will be one of the four &lt;em&gt;kun&lt;/em&gt;-readings (く.う “ku-u”, く.らう “ku-rau”, た.べる “ta-beru” or は.む “ha-mu”), not one of the &lt;em&gt;on&lt;/em&gt;-readings. To select the correct &lt;em&gt;kun&lt;/em&gt;-reading, look at the hiragana following the kanji so 食う is pronounced as “kuu” and 食べる is pronounced as “taberu”.&lt;/li&gt;
+  &lt;li&gt;The second general rule is that in a compound word, all kanji have either the &lt;em&gt;on&lt;/em&gt;- or the &lt;em&gt;kun&lt;/em&gt;-reading. And for the vast majority of the compound words, it will be the &lt;em&gt;on&lt;/em&gt;-reading. For example, 食事 is shokuji (&lt;em&gt;on&lt;/em&gt;-&lt;em&gt;on&lt;/em&gt;), not “ta-ji” (&lt;em&gt;kun&lt;/em&gt;-&lt;em&gt;on&lt;/em&gt;) or “shoku-koto” (&lt;em&gt;on&lt;/em&gt;-&lt;em&gt;kun&lt;/em&gt;). Generally, there are fewer &lt;em&gt;on&lt;/em&gt;-readings than &lt;em&gt;kun&lt;/em&gt;-readings for a kanji, and &lt;em&gt;on&lt;/em&gt;-readings are also mostly single-syllable.&lt;/li&gt;
+  &lt;li&gt;Although there are indeed many &lt;em&gt;on&lt;/em&gt;- and &lt;em&gt;kun&lt;/em&gt;-readings, for most kanji one of each will be the most frequently used, and the others will likely be used only in fixed combinations.&lt;/li&gt;
+  &lt;li&gt;The same is true for meanings: usually one of the meanings is used much more frequently than all the others.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--
+- Finally, meanings and readings are usually coupled, so a given meaning has a given reading.　For example 着 means &quot;arrive&quot; and &quot;wear&quot;, but &quot;arrive&quot; is always ”tsuku” and wear &quot;kiru&quot;. So 着る can only mean &quot;wear&quot; and 着く can only mean &quot;arrive&quot;.
+--&gt;
+
+&lt;p&gt;Even if reading a Japanese text may seem daunting at first, it is a very rewarding experience, and it is actually less complicated than it seems&lt;!-- would seem if you&#39;ve mostly focused on learning kanji--&gt;. I hope these tips and rules will help you to read Japanese more easily.&lt;/p&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Three of my favourite Japanese kitchen tools</title>
