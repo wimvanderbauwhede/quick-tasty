@@ -5,35 +5,35 @@
     <loc>http://quickandtastycooking.org.uk/basics/</loc>
     <lastmod>2016-07-03T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.5</priority>
   </url>
 
   <url>
     <loc>http://quickandtastycooking.org.uk/ingredients/</loc>
     <lastmod>2016-07-03T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.5</priority>
   </url>
 
   <url>
     <loc>http://quickandtastycooking.org.uk/recipes/</loc>
     <lastmod>2016-07-03T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>1</priority>
   </url>
 
   <url>
     <loc>http://quickandtastycooking.org.uk/about/</loc>
     <lastmod>2016-07-03T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.5</priority>
   </url>
 
   <url>
     <loc>http://quickandtastycooking.org.uk/articles/</loc>
     <lastmod>2016-07-03T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.75</priority>
   </url>
 
   <url>
