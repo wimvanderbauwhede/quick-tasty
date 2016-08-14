@@ -9,7 +9,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2016-08-07T16:09:58+01:00</updated>
+    <updated>2016-08-14T16:22:32+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -17,6 +17,71 @@
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
+    
+    <entry>
+        <title>Risotto with green peas</title>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/risotto-green-peas/"/>
+        <updated>2016-08-14T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/recipes/risotto-green-peas</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/risotto-green-peas_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Risotto is a popular Italian-style one-pan dish, delicious and easy to make, and you can keep on creating variations. It works best with a proper risotto rice like Arborio. This recipe takes about 30 minutes to prepare.&lt;/p&gt;
+
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Italian-style&quot;&gt;&lt;em&gt;Italian-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#healthy&quot;&gt;&lt;em&gt;healthy&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;For two people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fresh ingredients and groceries
+    &lt;ul&gt;
+      &lt;li&gt;a cup of green peas (I use frozen ones)&lt;/li&gt;
+      &lt;li&gt;a teaspoon of finely chopped or grated ginger&lt;/li&gt;
+      &lt;li&gt;some grated hard Italian cheese (grana padano or parmezan) or pesto for serving&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;From the store cupboard
+    &lt;ul&gt;
+      &lt;li&gt;a cup of risotto rice&lt;/li&gt;
+      &lt;li&gt;three  dried tomatoes&lt;/li&gt;
+      &lt;li&gt;half a cup of dried porcini mushrooms&lt;/li&gt;
+      &lt;li&gt;a handful of pine kernels&lt;/li&gt;
+      &lt;li&gt;a teaspoon ground cumin&lt;/li&gt;
+      &lt;li&gt;a tablespoon soy sauce&lt;/li&gt;
+      &lt;li&gt;garlic oil&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Boil half a litre of water.&lt;/li&gt;
+  &lt;li&gt;Soak the dried tomatoes and the porcini in a cup of boiled water each.&lt;/li&gt;
+  &lt;li&gt;While the tomatoes and the porcini are soaking:
+    &lt;ul&gt;
+      &lt;li&gt;If the peas are frozen ones, put them in the microwave with a tablespoon of water for 3 minutes at full power (900W).&lt;/li&gt;
+      &lt;li&gt;Heat the oil and fry the pine kernels, ginger and cumin.&lt;/li&gt;
+      &lt;li&gt;Add the rice, shake/stir to coat it with the spices and the oil.&lt;/li&gt;
+      &lt;li&gt;Add some of the boiled water (just enough to cover the rice) and simmer, covered, until the rice has absorbed the water.&lt;/li&gt;
+      &lt;li&gt;Add the tomatoes and porcini mushrooms and their soaking liquid, and some more boiled water. Stir and simmer, covered, until the rice has absorbed it.&lt;/li&gt;
+      &lt;li&gt;Add the soy sauce and more boiled water, stir and simmer, covered, until the rice has absorbed the water.&lt;/li&gt;
+      &lt;li&gt;You may have to add water a few more times, depending on how much you added at a time.&lt;/li&gt;
+      &lt;li&gt;When the rice is getting quite creamy, add the peas. &lt;/li&gt;
+      &lt;li&gt;Simmer for a few more minutes, then drizzle on some garlic oil and serve with pesto or cheese.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+
+        </content>
+    </entry>
     
     <entry>
         <title>Cauliflower, potatoes and lentils</title>
@@ -1477,64 +1542,6 @@ http://www.youmeusdesign.com/casestudies/124_002_02/
 
 &lt;p&gt;This is really a complete one-pan meal but sometimes I serve it with rice too.&lt;/p&gt;
 
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>The Zen way of cooking</title>
-        <link href="http://www.quickandtastycooking.org.uk/articles/zen-cooking/"/>
-        <updated>2016-04-06T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/articles/zen-cooking</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/zencookbook_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;There is a famous Zen poem about the right way to make tea (“cha no yu”), and it translates loosely as follows:&lt;/p&gt;
-
-&lt;!--
-茶の湯とは、
-ただ湯を沸かし
-茶を点てて、
-飲むばかり
-なる本を知るべし
---&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“To make tea, just boil water, make tea, then you drink it properly.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The Zen way of cooking is somewhat similar. Japanese Zen Buddhism has a long tradition of what is called “temple cuisine”, a refined and essentially vegan way of cooking.&lt;/p&gt;
-
-&lt;p&gt;When I was living in Japan, near Kyoto, there was a Zen temple close by, the beautiful Manpukuji.&lt;/p&gt;
-
-&lt;figure class=&quot;half&quot;&gt;
-	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/manpukuji-1.jpg&quot; /&gt;
-  &lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/manpukuji-2.jpg&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;In the shop of the Manpukuji temple I bought this cookbook (in Japanese only) about “fucha ryori” (Zen temple cuisine):&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/zencookbook.jpg&quot; alt=&quot;Zen temple cookbook&quot; title=&quot;Zen temple cookbook&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The book is full of delicious-looking pictures of the recipes, like this one:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/zencookbook_page.jpg&quot; alt=&quot;Page from the zen temple cookbook&quot; title=&quot;Page from the zen temple cookbook&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;What is very different from a regular cookbook is the way the recipes are described: typically, there is a list of ingredients but no amounts, and the method of cooking is described but usually no cooking times are given. Clearly, these details are not the essence of Zen cooking.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, for every recipe the book mentions if it is for spring, summer, autumn or winter. This connection with the seasons is of great importance in Japan. Also, the the recipes give detailed instructions  related to the way the prepared food looks. The aesthetic aspect is as important as the taste.&lt;/p&gt;
-
-&lt;p&gt;So maybe we can express the Zen way of cooking like this:&lt;/p&gt;
-
-&lt;p&gt;普茶料理とはただ材料を選び食を作って盛るばかりなる本を知るべし&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“To cook the Zen way, just take the right ingredients, prepare the food, then serve it properly.”&lt;/p&gt;
-&lt;/blockquote&gt;
 
         </content>
     </entry>
