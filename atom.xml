@@ -9,7 +9,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2016-08-14T16:22:32+01:00</updated>
+    <updated>2016-08-20T13:46:10+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -17,6 +17,69 @@
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
+    
+    <entry>
+        <title>Tortilla with mushrooms and pine nuts</title>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/tortilla-mushrooms-pine-nuts/"/>
+        <updated>2016-08-14T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/recipes/tortilla-mushrooms-pine-nuts</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/tortilla-mushrooms-pine-nuts_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;A tortilla is a Spanish-style omelette with potatoes, very quick and easy to make. Adding mushrooms and pine kernels makes for a great combination. I usually serve this with a green side salad.&lt;/p&gt;
+
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Spanish-style&quot;&gt;&lt;em&gt;Spanish-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#one-pan&quot;&gt;&lt;em&gt;one-pan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;For two people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fresh ingredients and groceries
+    &lt;ul&gt;
+      &lt;li&gt;4 medium eggs&lt;/li&gt;
+      &lt;li&gt;400 g medium potatoes&lt;/li&gt;
+      &lt;li&gt;a pack of chestnut mushrooms (about 200g)	&lt;/li&gt;
+      &lt;li&gt;a cup of grated hard cheese (Grana Padano or parmezan)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;From the store cupboard
+    &lt;ul&gt;
+      &lt;li&gt;a handful of pine kernels&lt;/li&gt;
+      &lt;li&gt;three dried tomatoes&lt;/li&gt;
+      &lt;li&gt;a teaspoon ground cumin&lt;/li&gt;
+      &lt;li&gt;a tablespoon of olive oil &lt;/li&gt;
+      &lt;li&gt;a drizzle of garlic oil (optional)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wash the potatoes. Cook them in the microwave, about 8-10 minutes on full power (900W). Stir after 5 minutes.&lt;/li&gt;
+  &lt;li&gt;While the potatoes are cooking:
+    &lt;ul&gt;
+      &lt;li&gt;Soak the dried tomatoes in a cup of boiled water for about 10 minutes.&lt;/li&gt;
+      &lt;li&gt;Wash and slice the mushrooms.&lt;/li&gt;
+      &lt;li&gt;Beat the eggs in a bowl until you have a smooth mixture.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Dice the cooked potatoes.&lt;/li&gt;
+  &lt;li&gt;Stir-fry the mushrooms, cumin and pine kernels in olive oil until the mushrooms start to release their liquid.&lt;/li&gt;
+  &lt;li&gt;Add the potatoes and dried tomatoes and stir-fry for a few more minutes.&lt;/li&gt;
+  &lt;li&gt;Lower the heat to minimum setting and pour the egg mixture in the pan, moving the pan around so it distributes evenly.&lt;/li&gt;
+  &lt;li&gt;Let the tortilla simmer with the lid on until the egg has set.&lt;/li&gt;
+  &lt;li&gt;Drizzle on some garlic oil and sprinkle on the cheese.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+        </content>
+    </entry>
     
     <entry>
         <title>Risotto with green peas</title>
@@ -1475,72 +1538,6 @@ http://www.youmeusdesign.com/casestudies/124_002_02/
   &lt;li&gt;Cook the gnocchi: simply put them in boiling water until they float to the top (about 3 minutes).&lt;/li&gt;
   &lt;li&gt;Meanwhile, cook the stuffed courgette halves in the microwave at full power (900W) for 3 minutes.&lt;/li&gt;
 &lt;/ul&gt;
-
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Curry of potatoes, spinach and paneer</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/pot-spin-pan/"/>
-        <updated>2016-04-08T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/pot-spin-pan</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/pot_spin_pan_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This very tasty recipe takes about 30 minutes to prepare, it’s a mild potato curry with a base of spices and seeds. The paneer (Indian fresh cheese, available in most supermarkets) is great when fried like this with sesame seeds and turmeric. I also make this recipe with chickpeas instead, and prepare it in quite the same way.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#curry&quot;&gt;&lt;em&gt;curry&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#healthy&quot;&gt;&lt;em&gt;healthy&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients:
-    &lt;ul&gt;
-      &lt;li&gt;about 400 g small potatoes&lt;/li&gt;
-      &lt;li&gt;2 large tomatoes&lt;/li&gt;
-      &lt;li&gt;about 200 g spinach&lt;/li&gt;
-      &lt;li&gt;1 pack of paneer (about 200 g)&lt;/li&gt;
-      &lt;li&gt;1 cm fresh ginger&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard&lt;br /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;spices: turmeric, coriander seeds, cumin seeds, cardamom pods, cayenne pepper to taste (I use about a teaspoon of each of the spices and just a pinch of the cayenne pepper)&lt;/li&gt;
-      &lt;li&gt;seeds: sesame, sunflower, some pumpkin (I use about 1 table spoon of each)&lt;/li&gt;
-      &lt;li&gt;1 table spoon of soy sauce&lt;/li&gt;
-      &lt;li&gt;oil for cooking (I use olive oil)&lt;/li&gt;
-      &lt;li&gt;optional: garlic oil&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Wash the potatoes and cut them in two. Cook them in the microwave.&lt;/li&gt;
-  &lt;li&gt;Chop the tomatoes very fine.&lt;/li&gt;
-  &lt;li&gt;If you’re using whole seeds like I do, grind the coriander seeds, cumin seeds and cardamom pods.&lt;/li&gt;
-  &lt;li&gt;Chop the ginger very fine.&lt;/li&gt;
-  &lt;li&gt;Cut the paneer into cubes of about 1 cm on the side.&lt;/li&gt;
-  &lt;li&gt;Heat the oil in a large deep pan. I recommend a non-stick pan with a lid.&lt;/li&gt;
-  &lt;li&gt;When the oil is hot, add the ginger, seeds and spices and fry over medium heat for a few minutes.&lt;/li&gt;
-  &lt;li&gt;Add the paneer and stir until it is evenly covered with the seeds and spices.&lt;/li&gt;
-  &lt;li&gt;Fry for a few minutes more over medium heat, then turn up the heat for 30 seconds or so.&lt;/li&gt;
-  &lt;li&gt;Clear some space in the middle of the pan and put in the soy sauce. Stir vigorously.&lt;/li&gt;
-  &lt;li&gt;Add the tomatoes and stir well. Lower the heat and leave to simmer for a few minutes until the tomatoes have softened. You can speed this up by first putting the chopped tomatoes in the microwave for 2 minutes.&lt;/li&gt;
-  &lt;li&gt;Cook the spinach in the microwave at full power (900W) for 1 minute.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, add the potatoes to the pan, stir until the potatoes are no longer looking white.&lt;/li&gt;
-  &lt;li&gt;Cut up the spinach. Add the spinach to the pan, stir and let simmer for a few more minutes.&lt;/li&gt;
-  &lt;li&gt;Add garlic oil to taste.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This is really a complete one-pan meal but sometimes I serve it with rice too.&lt;/p&gt;
 
 
         </content>
