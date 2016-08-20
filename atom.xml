@@ -9,7 +9,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2016-08-20T13:46:10+01:00</updated>
+    <updated>2016-08-20T13:47:41+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -21,7 +21,7 @@
     <entry>
         <title>Tortilla with mushrooms and pine nuts</title>
         <link href="http://www.quickandtastycooking.org.uk/recipes/tortilla-mushrooms-pine-nuts/"/>
-        <updated>2016-08-14T00:00:00+01:00</updated>
+        <updated>2016-08-20T00:00:00+01:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/tortilla-mushrooms-pine-nuts</id>
         <author>
 					<name>Wim Vanderbauwhede</name>
