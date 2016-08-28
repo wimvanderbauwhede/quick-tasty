@@ -9,7 +9,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2016-08-21T16:24:27+01:00</updated>
+    <updated>2016-08-28T17:34:53+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -19,10 +19,69 @@
 
     
     <entry>
+        <title>Orzo with broccoli and paneer</title>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/orzo-broccoli-paneer/"/>
+        <updated>2016-08-28T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/recipes/orzo-broccoli-paneer</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/orzo-broccoli-paneer_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;This is a surprising combination of orzo (pasta shaped like grains of barley) with steamed broccoli and stir-fried paneer (fresh Indian cheese).&lt;/p&gt;
+
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#one-pan&quot;&gt;&lt;em&gt;one-pan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;For two people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fresh ingredients and groceries
+    &lt;ul&gt;
+      &lt;li&gt;350 g broccoli (2 medium heads)&lt;/li&gt;
+      &lt;li&gt;1 pack paneer (about 200 g)&lt;/li&gt;
+      &lt;li&gt;small amount (1 cm) of grated ginger&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;From the store cupboard
+    &lt;ul&gt;
+      &lt;li&gt;four dried tomatoes&lt;/li&gt;
+      &lt;li&gt;1 cup orzo&lt;/li&gt;
+      &lt;li&gt;a handful of pine kernels&lt;/li&gt;
+      &lt;li&gt;1 teaspoon ground cumin 	&lt;/li&gt;
+      &lt;li&gt;1 teaspoon ground coriander&lt;/li&gt;
+      &lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;
+      &lt;li&gt;1 tablespoon olive oil for frying&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cook the orzo just like &lt;a href=&quot;http://www.quickandtastycooking.org.uk/basics/#toc2&quot;&gt;regular pasta&lt;/a&gt;.    &lt;/li&gt;
+  &lt;li&gt;Meanwhile:
+    &lt;ul&gt;
+      &lt;li&gt;Soak the dried tomatoes in boiled water for about 10 minutes, then chop up into pieces of about 0.5cm.&lt;/li&gt;
+      &lt;li&gt;Wash the broccoli. Divide into florets and steam them. I cook them in the microwave for 5 minutes on full power (900W); I use a pot with a small insert, similar to a steamer basket, so that the cooking liquid can drain.&lt;/li&gt;
+      &lt;li&gt;Stir-fry the paneer with the spices, ginger and pine kernels over medium to high heat, until the paneer starts to brown a little.&lt;/li&gt;
+      &lt;li&gt;Add the soya sauce, then the broccoli and the soaked tomatoes, fry some more over low heat.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Drain the orzo and add to the pan, drizzle on garlic oil and serve.&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
         <title>Tortilla with mushrooms and pine nuts</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/tortilla-mushrooms-pine-nuts/"/>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/tortilla-mushrooms-pine-nuts%20copy/"/>
         <updated>2016-08-20T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/tortilla-mushrooms-pine-nuts</id>
+        <id>http://www.quickandtastycooking.org.uk/recipes/tortilla-mushrooms-pine-nuts copy</id>
         <author>
 					<name>Wim Vanderbauwhede</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
@@ -1486,57 +1545,6 @@ http://www.youmeusdesign.com/casestudies/124_002_02/
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Serve with the rice.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Stuffed courgettes with gnocchi</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/stuffed-courgettes-gnocchi/"/>
-        <updated>2016-04-15T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/stuffed-courgettes-gnocchi</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/stuffed_courgettes_gnocchi_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is a very simple recipe with few ingredients and ready in about 20 minutes.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Italian-style&quot;&gt;&lt;em&gt;Italian-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients:
-    &lt;ul&gt;
-      &lt;li&gt;3 small courgettes (500 g)&lt;/li&gt;
-      &lt;li&gt;1 pack gnocchi (500 g)&lt;/li&gt;
-      &lt;li&gt;brown breadcrumbs (1 cup)&lt;/li&gt;
-      &lt;li&gt;50 g hard cheese (grana padano or parmezan), grated&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard&lt;br /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;1 tablespoon garlic oil&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Slice the courgettes in half and scoop out the flesh. Put the scooped-out courgettes in a microwave dish.&lt;/li&gt;
-  &lt;li&gt;Cut the scooped-out flesh fine and mix with the breadcrumbs in another microwave dish.&lt;/li&gt;
-  &lt;li&gt;Put both dishes in the microwave at full power (900W). Cook for 5 minutes if together, for 3 minutes each if separately.&lt;/li&gt;
-  &lt;li&gt;Fill the courgette halves with the mixture. Sprinkle each of them with a little garlic oil and cover with the grated cheese.&lt;/li&gt;
-  &lt;li&gt;Cook the gnocchi: simply put them in boiling water until they float to the top (about 3 minutes).&lt;/li&gt;
-  &lt;li&gt;Meanwhile, cook the stuffed courgette halves in the microwave at full power (900W) for 3 minutes.&lt;/li&gt;
 &lt;/ul&gt;
 
 
