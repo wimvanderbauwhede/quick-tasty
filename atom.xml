@@ -9,7 +9,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2016-08-28T17:34:53+01:00</updated>
+    <updated>2016-09-11T17:32:14+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -17,6 +17,72 @@
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
+    
+    <entry>
+        <title>Tofu-hummus, fried potatoes and aubergines</title>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/tofu-hummus-potatoes-aubergines/"/>
+        <updated>2016-09-10T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/recipes/tofu-hummus-potatoes-aubergines</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/tofu-hummus-potatoes-aubergines_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;This is not a typically Japanese recipe but many of the ingredients are very common in Japanese cuisine. Butter and soy sauce is a great combination for frying potatoes, and the &lt;em&gt;umami&lt;/em&gt; of tomato puree blends really well with the aubergines.&lt;/p&gt;
+
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;For two people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fresh ingredients and groceries
+    &lt;ul&gt;
+      &lt;li&gt;about 400 g small or medium potatoes&lt;/li&gt;
+      &lt;li&gt;1 cm fresh ginger, sliced very thinly&lt;/li&gt;
+      &lt;li&gt;2 medium aubergines (about 200 g each)&lt;/li&gt;
+      &lt;li&gt;1 tablespoon butter (or olive oil) for frying&lt;/li&gt;
+      &lt;li&gt;1 tablespoon of tomato puree (preferably pure tomato, no added salt or sugar)&lt;/li&gt;
+      &lt;li&gt;200 g firm tofu&lt;/li&gt;
+      &lt;li&gt;fresh coriander&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;From the store cupboard
+    &lt;ul&gt;
+      &lt;li&gt;1 tablespoon sesame seeds&lt;/li&gt;
+      &lt;li&gt;1 tablespoon soy sauce 	&lt;/li&gt;
+      &lt;li&gt;2 tablespoons tahini&lt;/li&gt;
+      &lt;li&gt;2 teaspoons miso&lt;/li&gt;
+      &lt;li&gt;1 teaspoon sugar&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wash and dice the potatoes. &lt;/li&gt;
+  &lt;li&gt;Cook the potatoes in the microwave for about 4-5 minutes on full power (900W). &lt;/li&gt;
+  &lt;li&gt;Stir and cook for another 4-5 minutes.&lt;/li&gt;
+  &lt;li&gt;Meanwhile, prepare the tofu-hummus. This is very similar to the Japanese shiraae (白和え), and very easy to make:
+    &lt;ul&gt;
+      &lt;li&gt;Put the block of tofu on a plate and dice it carefully so it keeps its original shape. Cover it with another plate and put some weight on it (e.g. some more plates) to squeeze out the excess water.&lt;/li&gt;
+      &lt;li&gt;Put the tofu pieces in a bowl with the tahini, miso and sugar and scramble with a fork until the mixture is smooth but still a little chunky.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Wash and slice the aubergines.&lt;/li&gt;
+  &lt;li&gt;Put the aubergine slices and the ginger in a pot and microwave for about 4 minutes on full power (900W). &lt;/li&gt;
+  &lt;li&gt;Stir in the tomato puree and cook for another 4 minutes.&lt;/li&gt;
+  &lt;li&gt;Heat the butter or oil and stir-fry the potatoes with the sesame seeds for a minute. &lt;/li&gt;
+  &lt;li&gt;Add the soy sauce and continue to stir-fry until the potatoes start to brown.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+        </content>
+    </entry>
     
     <entry>
         <title>Orzo with broccoli and paneer</title>
@@ -1476,76 +1542,6 @@ I had aubergines so I decided to prepare them with ponzu (a Japanese dressing). 
 
 http://www.youmeusdesign.com/casestudies/124_002_02/
  --&gt;
-
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Aubergines, apples and chickpeas, served with rice</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/aubergines-apples-chickpeas/"/>
-        <updated>2016-04-22T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/aubergines-apples-chickpeas</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/aubergines_apples_chickpeas_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;In this recipe I sweetened the aubergines by cooking them together with apples. The chickpeas and seeds make the meal sustaining and add a crunchy texture. This recipe takes about 25-30 minutes to prepare.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients &amp;amp; groceries
-    &lt;ul&gt;
-      &lt;li&gt;2 small aubergines (2x200g)&lt;/li&gt;
-      &lt;li&gt;1 apple (I used Cox but Braeburn or similar will also work. Sour apples like cooking apples or Granny Smith are not so suitable.)&lt;/li&gt;
-      &lt;li&gt;1 lemon&lt;/li&gt;
-      &lt;li&gt;1 tin of chickpeas&lt;/li&gt;
-      &lt;li&gt;a piece of ginger, about 1 tablespoon when chopped finely&lt;/li&gt;
-      &lt;li&gt;fresh coriander as garnish (optional)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard  &lt;br /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;1 teaspoon allspice&lt;/li&gt;
-      &lt;li&gt;1 tablespoon of soy sauce&lt;/li&gt;
-      &lt;li&gt;1-2 tablespoon sesame seeds&lt;/li&gt;
-      &lt;li&gt;1-2 tablespoon sunflower seeds&lt;/li&gt;
-      &lt;li&gt;3 tablespoon raisins&lt;/li&gt;
-      &lt;li&gt;1 tablespoon olive oil for frying&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cook the rice (see &lt;a href=&quot;http://www.quickandtastycooking.org.uk/basics&quot;&gt;basics&lt;/a&gt; for how to cook rice).&lt;/li&gt;
-  &lt;li&gt;While the rice is cooking:
-    &lt;ul&gt;
-      &lt;li&gt;Chop the aubergines in slices of about half a cm thick.&lt;/li&gt;
-      &lt;li&gt;Peel the apple and cut rather finely.&lt;/li&gt;
-      &lt;li&gt;Squeeze the lemon into a cup.&lt;/li&gt;
-      &lt;li&gt;Put the aubergine slices and apple pieces in a microwave pot and pour half of the lemon juice over it.&lt;/li&gt;
-      &lt;li&gt;Cook in the microwave: 6 minutes on full power (900W), stir, then cook for 4 more minutes on full power.&lt;/li&gt;
-      &lt;li&gt;Meanwhile, heat the olive oil, and fry the ginger, allspice, sesame seeds and sunflower seeds for half a minute or so on moderate heat, stirring all the time.&lt;/li&gt;
-      &lt;li&gt;Add the chickpeas and fry for a few minutes more on moderate heat, stirring all the time.&lt;/li&gt;
-      &lt;li&gt;Add the raisins.&lt;/li&gt;
-      &lt;li&gt;Pour the soy sauce in the pan, stir well over high heat for about half a minute.&lt;/li&gt;
-      &lt;li&gt;Pour the remaining lemon juice in the pan, stir well and let simmer for a few minutes.&lt;/li&gt;
-      &lt;li&gt;Add the aubergines, let simmer on low heat for 5 minutes.&lt;/li&gt;
-      &lt;li&gt;Optionally, add chopped fresh coriander as garnish.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Serve with the rice.&lt;/li&gt;
-&lt;/ul&gt;
 
 
         </content>
