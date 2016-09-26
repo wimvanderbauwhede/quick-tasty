@@ -107,6 +107,13 @@
   </url>
 
   <url>
+    <loc>http://quickandtastycooking.org.uk/recipes/aubergine-boats-soy-beans/</loc>
+    <lastmod>2016-09-26T14:42:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
     <loc>http://quickandtastycooking.org.uk/recipes/aubergines-apples-chickpeas/</loc>
     <lastmod>2016-09-26T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -114,7 +121,28 @@
   </url>
 
   <url>
+    <loc>http://quickandtastycooking.org.uk/recipes/aubergines-ponzu-soybeans-rice/</loc>
+    <lastmod>2016-09-26T14:42:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>http://quickandtastycooking.org.uk/recipes/aubergines-sweet-potatoes-tofu/</loc>
+    <lastmod>2016-09-26T14:42:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
     <loc>http://quickandtastycooking.org.uk/recipes/bananas-black-eyed-beans-sweet-potatoes/</loc>
+    <lastmod>2016-09-26T14:42:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>http://quickandtastycooking.org.uk/recipes/carrots-potatoes-shiitake/</loc>
     <lastmod>2016-09-26T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -149,6 +177,13 @@
   </url>
 
   <url>
+    <loc>http://quickandtastycooking.org.uk/recipes/japanese-potato-salad/</loc>
+    <lastmod>2016-09-26T14:42:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
     <loc>http://quickandtastycooking.org.uk/recipes/linguine-al-pesto/</loc>
     <lastmod>2016-09-26T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -164,6 +199,13 @@
 
   <url>
     <loc>http://quickandtastycooking.org.uk/recipes/mild-root-vegetable-curry/</loc>
+    <lastmod>2016-09-26T14:42:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>http://quickandtastycooking.org.uk/recipes/murakami-2/</loc>
     <lastmod>2016-09-26T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -247,49 +289,7 @@
   </url>
 
   <url>
-    <loc>http://quickandtastycooking.org.uk/recipes/tortilla-mushrooms-pine-nuts copy/</loc>
-    <lastmod>2016-09-26T14:42:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>http://quickandtastycooking.org.uk/japanese/aubergine-boats-soy-beans/</loc>
-    <lastmod>2016-09-26T14:42:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>http://quickandtastycooking.org.uk/japanese/aubergines-ponzu-soybeans-rice/</loc>
-    <lastmod>2016-09-26T14:42:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>http://quickandtastycooking.org.uk/japanese/aubergines-sweet-potatoes-tofu/</loc>
-    <lastmod>2016-09-26T14:42:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>http://quickandtastycooking.org.uk/japanese/carrots-potatoes-shiitake/</loc>
-    <lastmod>2016-09-26T14:42:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>http://quickandtastycooking.org.uk/japanese/japanese-potato-salad/</loc>
-    <lastmod>2016-09-26T14:42:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>http://quickandtastycooking.org.uk/japanese/murakami-2/</loc>
+    <loc>http://quickandtastycooking.org.uk/recipes/tortilla-mushrooms-pine-nuts/</loc>
     <lastmod>2016-09-26T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
