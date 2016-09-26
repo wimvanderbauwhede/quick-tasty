@@ -9,7 +9,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2016-09-22T21:07:09+01:00</updated>
+    <updated>2016-09-26T13:32:39+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -145,9 +145,9 @@
     
     <entry>
         <title>Tortilla with mushrooms and pine nuts</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/tortilla-mushrooms-pine-nuts%20copy/"/>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/tortilla-mushrooms-pine-nuts/"/>
         <updated>2016-08-20T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/tortilla-mushrooms-pine-nuts copy</id>
+        <id>http://www.quickandtastycooking.org.uk/recipes/tortilla-mushrooms-pine-nuts</id>
         <author>
 					<name>Wim Vanderbauwhede</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
@@ -342,9 +342,9 @@
     
     <entry>
         <title>Murakami meal #3: Aubergine boats with soy beans and ginger served with red rice</title>
-        <link href="http://www.quickandtastycooking.org.uk/japanese/aubergine-boats-soy-beans/"/>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/aubergine-boats-soy-beans/"/>
         <updated>2016-07-23T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/japanese/aubergine-boats-soy-beans</id>
+        <id>http://www.quickandtastycooking.org.uk/recipes/aubergine-boats-soy-beans</id>
         <author>
 					<name>Wim Vanderbauwhede</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
@@ -539,9 +539,9 @@
     
     <entry>
         <title>Japanese-style potato salad</title>
-        <link href="http://www.quickandtastycooking.org.uk/japanese/japanese-potato-salad/"/>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/japanese-potato-salad/"/>
         <updated>2016-07-09T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/japanese/japanese-potato-salad</id>
+        <id>http://www.quickandtastycooking.org.uk/recipes/japanese-potato-salad</id>
         <author>
 					<name>Wim Vanderbauwhede</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
@@ -922,9 +922,9 @@ Then in a second pass I look up every kanji for which I don’t know either the 
     
     <entry>
         <title>Murakami meal #2: soba noodles, soy beans, tomato and carrot</title>
-        <link href="http://www.quickandtastycooking.org.uk/japanese/murakami-2/"/>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/murakami-2/"/>
         <updated>2016-06-06T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/japanese/murakami-2</id>
+        <id>http://www.quickandtastycooking.org.uk/recipes/murakami-2</id>
         <author>
 					<name>Wim Vanderbauwhede</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
@@ -1258,9 +1258,9 @@ Somebody made a very nice illustration of Nakata with Hoshino eating a bowl of r
     
     <entry>
         <title>Murakami meal #1: aubergines with ponzu, soy beans and brown rice</title>
-        <link href="http://www.quickandtastycooking.org.uk/japanese/aubergines-ponzu-soybeans-rice/"/>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/aubergines-ponzu-soybeans-rice/"/>
         <updated>2016-05-13T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/japanese/aubergines-ponzu-soybeans-rice</id>
+        <id>http://www.quickandtastycooking.org.uk/recipes/aubergines-ponzu-soybeans-rice</id>
         <author>
 					<name>Wim Vanderbauwhede</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
@@ -1534,7 +1534,7 @@ I had aubergines so I decided to prepare them with ponzu (a Japanese dressing). 
   &lt;li&gt;&lt;a name=&quot;ref1&quot;&gt;[1]&lt;/a&gt; &lt;a href=&quot;http://randd.defra.gov.uk/Document.aspx?Document=FO0409_8192_FRP.pdf&quot;&gt;Understanding the greenhouse gas (GHG) impacts of food preparation and consumption in the home&lt;/a&gt;  DEFRA Research Project Final Report FO 0409&lt;/li&gt;
   &lt;li&gt;&lt;a name=&quot;ref2&quot;&gt;[2]&lt;/a&gt; &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0963996913001385&quot;&gt;Microwave food processing—A review&lt;/a&gt; S. Chandrasekaran, S. Ramanathan, Tanmay Basak, &lt;em&gt;Food Research International Volume 52, Issue 1, June 2013, Pages 243–261&lt;/em&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a name=&quot;ref3&quot;&gt;[3]&lt;/a&gt; &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0889157506000561&quot;&gt;Nutritional composition of chickpea as affected by microwave cooking and other traditional cooking methods&lt;/a&gt; Saleh A. Alajaji, Tarek A. El-Adawy, &lt;em&gt;Journal of Food Composition and Analysis Volume 19, Issue 8, December 2006, Pages 806–812&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a name=&quot;ref1&quot;&gt;[4]&lt;/a&gt; &lt;a href=&quot;Anne Lassen, Lars Ovesen, Nutrition &amp;amp; Food Science, Vol. 95 Iss: 4, pp.8 - 10, 1995 http://www.emeraldinsight.com/doi/abs/10.1108/00346659510088654 &quot;&gt;Nutritional effects of microwave cooking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a name=&quot;ref1&quot;&gt;[4]&lt;/a&gt; &lt;a href=&quot;http://www.emeraldinsight.com/doi/abs/10.1108/00346659510088654 &quot;&gt;Nutritional effects of microwave cooking&lt;/a&gt; Anne Lassen, Lars Ovesen, &lt;em&gt;Nutrition &amp;amp; Food Science, Vol. 95 Iss: 4, 1995, pp.8 - 10&lt;/em&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a name=&quot;ref4&quot;&gt;[5]&lt;/a&gt; &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0260877405004462&quot;&gt;Impact of different cooking methods on food quality: Retention of lipophilic vitamins in fresh and frozen vegetables&lt;/a&gt; Simone Bernhardt, Elmar Schlich, &lt;em&gt;Journal of Food Engineering Volume 77, Issue 2, November 2006, Pages 327–333&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
