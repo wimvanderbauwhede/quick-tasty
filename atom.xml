@@ -9,7 +9,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2016-09-26T13:32:39+01:00</updated>
+    <updated>2016-09-29T14:47:32+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -17,6 +17,64 @@
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
+    
+    <entry>
+        <title>Carrot and chickpea stir-fry with maftoul</title>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/carrots-chickpeas-couscous/"/>
+        <updated>2016-09-29T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/recipes/carrots-chickpeas-couscous</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/carrots-chickpeas-couscous_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;This is a really quick and simple stir-fry of carrots and chickpeas, ready in 15 minutes, and very tasty.  I serve this with maftoul (Palestinian or giant couscous) and garnish with fresh coriander.&lt;/p&gt;
+
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#15-minutes&quot;&gt;&lt;em&gt;15-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;For two people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fresh ingredients and groceries
+    &lt;ul&gt;
+      &lt;li&gt;about 400 g carrots&lt;/li&gt;
+      &lt;li&gt;1 teaspoon chopped ginger&lt;/li&gt;
+      &lt;li&gt;fresh coriander&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;From the store cupboard
+    &lt;ul&gt;
+      &lt;li&gt;1 teaspoon ground coriander&lt;/li&gt;
+      &lt;li&gt;1 teaspoon ground cumin&lt;/li&gt;
+      &lt;li&gt;2 tablespoons sunflower seeds&lt;/li&gt;
+      &lt;li&gt;2 tablespoons sesame seeds&lt;/li&gt;
+      &lt;li&gt;1 tin chickpeas&lt;/li&gt;
+      &lt;li&gt;1 cup maftoul (Palestinian or giant couscous)&lt;/li&gt;
+      &lt;li&gt;2 tablespoon olive oil&lt;/li&gt;
+      &lt;li&gt;2 teaspoon soy sauce&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Put the maftoul in a microwave pot with 2 tablespoon water and cook for 4 minutes at full power (900W).&lt;/li&gt;
+  &lt;li&gt;Meanwhile, wash and dice the carrots. Cook them in the microwave, about 5 minutes on full power (900W).&lt;/li&gt;
+  &lt;li&gt;When the carrots are done, stir the maftoul, then cook it for 4 more minutes on full power (900W).&lt;/li&gt;
+  &lt;li&gt;Meanwhile, heat the olive oil and fry the ginger, spices and seeds for a few minutes on medium heat.&lt;/li&gt;
+  &lt;li&gt;Add the chickpeas and fry for a few minutes on high heat.&lt;/li&gt;
+  &lt;li&gt;Add the soy sauce and stir.&lt;/li&gt;
+  &lt;li&gt;Add the carrots and stir-fry on high heat for a few minutes.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+        </content>
+    </entry>
     
     <entry>
         <title>Tofu-hummus, fried potatoes and aubergines</title>
@@ -1493,56 +1551,6 @@ I had aubergines so I decided to prepare them with ponzu (a Japanese dressing). 
 &lt;ul&gt;
   &lt;li&gt;I’d like to thank my teacher Rie Ogura for her patience with me, waiting endlessly while I fumble for the right words.&lt;/li&gt;
 &lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>The most underrated kitchen appliance</title>
-        <link href="http://www.quickandtastycooking.org.uk/articles/microwave-cooking/"/>
-        <updated>2016-04-23T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/articles/microwave-cooking</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/microwave_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;!-- &quot;The most underrated kitchen appliance&quot; --&gt;
-
-&lt;p&gt;The microwave oven is probably the most common appliance in any kitchen, but also the most underrated one. &lt;/p&gt;
-
-&lt;p&gt;Most people use the microwave oven to heat ready meals or defrost food, but don’t see it as an appliance for cooking proper food.&lt;/p&gt;
-
-&lt;p&gt;This is really a shame as cooking food in the microwave has many advantages: &lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Tasty&lt;/em&gt;: food cooked in the microwave retains its natural taste and texture.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Quick&lt;/em&gt;: generally microwave cooking needs shorter cooking times than other cooking methods.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Healthy&lt;/em&gt;: most food retains &lt;em&gt;more&lt;/em&gt; nutrients and vitamins when cooked in the microwave, as explained by the &lt;a href=&quot;http://www.health.harvard.edu/staying-healthy/microwave-cooking-and-nutrition&quot;&gt; (see also e.g. [&lt;a href=&quot;#ref2&quot;&gt;2&lt;/a&gt;,&lt;a href=&quot;#ref3&quot;&gt;3&lt;/a&gt;,&lt;a href=&quot;#ref4&quot;&gt;4&lt;/a&gt;,&lt;a href=&quot;#ref5&quot;&gt;5&lt;/a&gt;]).&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Eco&lt;/em&gt;: cooking in the microwave is generally more energy-efficient than cooking using a conventional oven or hob: according to a DEFRA study from 2008 &lt;a href=&quot;#ref1&quot;&gt;[1]&lt;/a&gt;, overall, the microwave oven has the lowest greenhouse gas emissions.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Versatile&lt;/em&gt;: you have very accurate control over the heating level and cooking time. &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Less messy&lt;/em&gt;: cooking in the microwave requires no fat and the food doesn’t stick to the pot.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;So give the microwave a try for cooking food. It’s really easy. If you’re unsure, have a look at &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/&quot;&gt;my recipes&lt;/a&gt;. I use the microwave in all of them.&lt;/p&gt;
-
-&lt;h4 id=&quot;references&quot;&gt;References&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a name=&quot;ref1&quot;&gt;[1]&lt;/a&gt; &lt;a href=&quot;http://randd.defra.gov.uk/Document.aspx?Document=FO0409_8192_FRP.pdf&quot;&gt;Understanding the greenhouse gas (GHG) impacts of food preparation and consumption in the home&lt;/a&gt;  DEFRA Research Project Final Report FO 0409&lt;/li&gt;
-  &lt;li&gt;&lt;a name=&quot;ref2&quot;&gt;[2]&lt;/a&gt; &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0963996913001385&quot;&gt;Microwave food processing—A review&lt;/a&gt; S. Chandrasekaran, S. Ramanathan, Tanmay Basak, &lt;em&gt;Food Research International Volume 52, Issue 1, June 2013, Pages 243–261&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a name=&quot;ref3&quot;&gt;[3]&lt;/a&gt; &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0889157506000561&quot;&gt;Nutritional composition of chickpea as affected by microwave cooking and other traditional cooking methods&lt;/a&gt; Saleh A. Alajaji, Tarek A. El-Adawy, &lt;em&gt;Journal of Food Composition and Analysis Volume 19, Issue 8, December 2006, Pages 806–812&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a name=&quot;ref1&quot;&gt;[4]&lt;/a&gt; &lt;a href=&quot;http://www.emeraldinsight.com/doi/abs/10.1108/00346659510088654 &quot;&gt;Nutritional effects of microwave cooking&lt;/a&gt; Anne Lassen, Lars Ovesen, &lt;em&gt;Nutrition &amp;amp; Food Science, Vol. 95 Iss: 4, 1995, pp.8 - 10&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a name=&quot;ref4&quot;&gt;[5]&lt;/a&gt; &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0260877405004462&quot;&gt;Impact of different cooking methods on food quality: Retention of lipophilic vitamins in fresh and frozen vegetables&lt;/a&gt; Simone Bernhardt, Elmar Schlich, &lt;em&gt;Journal of Food Engineering Volume 77, Issue 2, November 2006, Pages 327–333&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!--
-
-http://www.youmeusdesign.com/casestudies/124_002_02/
- --&gt;
-
 
         </content>
     </entry>
