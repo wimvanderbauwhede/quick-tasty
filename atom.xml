@@ -9,7 +9,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2016-10-02T16:41:43+01:00</updated>
+    <updated>2016-10-15T17:20:25+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -17,6 +17,66 @@
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
+    
+    <entry>
+        <title>My favourite types of rice</title>
+        <link href="http://www.quickandtastycooking.org.uk/articles/my-favourite-types-of-rice/"/>
+        <updated>2016-10-10T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/articles/my-favourite-types-of-rice</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/my-favourite-types-of-rice_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;I love rice, and most of &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes&quot;&gt;my recipes&lt;/a&gt; go very well with rice. There are many, many varieties of rice but in this post I just want to introduce the ones I like and use frequently.&lt;/p&gt;
+
+&lt;h4 id=&quot;basmati-rice&quot;&gt;Basmati rice&lt;/h4&gt;
+
+&lt;figure class=&quot;full&quot;&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/basmati-rice_800x600.jpg&quot; alt=&quot;Basmati rice&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Basmati rice, a fragrant, aromatic rice from India, is my staple, mainly because it has such a short cooking time (just 15 minutes). It is very fluffy &lt;a href=&quot;http://www.quickandtastycooking.org.uk/basics/#toc0&quot;&gt;when cooked right&lt;/a&gt;. I have used it in several recipes, for example my favourite &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/tom-hal/&quot;&gt;basmati rice with tomatoes and halloumi&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h4 id=&quot;brown-rice&quot;&gt;Brown rice&lt;/h4&gt;
+
+&lt;figure class=&quot;full&quot;&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/brown-rice_800x600.jpg&quot; alt=&quot;Brown rice&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The brown rice I use is either Basmati or regular long grain rice. The picture shows Kilombero rice from Malawi. Brown rice has a more earthy taste than white rice and takes longer to cook (about 30 minutes). It it a better source of dietary fiber and vitamines than white rice. Broadly speaking brown rice contains 3x more fiber and vitamins than white rice. It also contains about 3x more magnesium, phosphorus and manganese; for other minerals (calcium, iron, zinc) the difference is smaller. A brown rice meal of 200 g cooked rice will get you about 40% RDA of phosphorus and vitamin B6, 10% RDA of magnesium and vitamin B3.
+Brown rice &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/courgettes-mushrooms-puy-lentils/&quot;&gt;goes really well with lentils&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h4 id=&quot;red-rice&quot;&gt;Red rice&lt;/h4&gt;
+
+&lt;figure class=&quot;full&quot;&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/red-rice_800x600.jpg&quot; alt=&quot;Red rice&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Red rice has a nice nutty flavour. I use red rice from the Camargue region in France. This is a recent variety, a result of cross-pollination of cultivated white rice with wild red rice in the 1980s. In terms of cooking time and nutritional value it is similar to brown rice. For an unusual recipe with red rice, check out my &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/aubergine-boats-soy-beans/&quot;&gt;aubergine boats with soy beans and red rice&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;risotto-rice&quot;&gt;Risotto rice&lt;/h4&gt;
+
+&lt;figure class=&quot;full&quot;&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/risotto-rice_800x600.jpg&quot; alt=&quot;Risotto rice&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;To make risotto you need a rice that can absorb a lot of water without getting sticky. To cook risotto rice you should add the water a little bit at at time, and keep stirring until it has been absorbed, rather than adding it all at once. Through constant stirring, the outer part of the rice grain is ground off by the friction and the starch mixes with the cooking liquid and turns into a creamy sauce that binds the grains together. The typical variety that I use is Arborio. My &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/risotto-oyster-mushrooms/&quot;&gt;favourite risotto is the one with oyster mushrooms&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!-- http://www.disgracesonthemenu.com/2011/05/rice-demystified.html --&gt;
+
+&lt;h4 id=&quot;japanese-rice&quot;&gt;Japanese rice&lt;/h4&gt;
+
+&lt;figure class=&quot;full&quot;&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/japanese-rice_800x600.jpg&quot; alt=&quot;Japanese rice&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For Japanese-style dishes you really need proper &lt;em&gt;Japonica&lt;/em&gt; rice: the rice grains cling together without being mushy &lt;a href=&quot;http://www.justhungry.com/japanese-basics-plain-rice-sushi-rice&quot;&gt;when cooked properly&lt;/a&gt;. It doesn’t necessarily have to come from Japan though. I use either Yumenishiki or Clearspring’s sushi rice, both are grown in Italy. Yumenishiki’s &lt;em&gt;koshihikari&lt;/em&gt; is an actual Japanese variety; the Clearspring rice is an Italian &lt;em&gt;Japonica&lt;/em&gt; variety, Selenio, which is very similar in taste and properties to Japanese rice. When I was in Japan I used &lt;em&gt;kinuhikari&lt;/em&gt;, a local variety from Kyoto. A nice Japanese-style recipe is &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/aubergines-sweet-potatoes-tofu/&quot;&gt;aubergines, sweet potatoes, tofu and wakame with rice&lt;/a&gt;.&lt;/p&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Carrot and chickpea stir-fry with maftoul</title>
@@ -1504,53 +1564,6 @@ I had aubergines so I decided to prepare them with ponzu (a Japanese dressing). 
   &lt;li&gt;Serve with the rice.&lt;/li&gt;
 &lt;/ul&gt;
 
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>My journey of learning Japanese</title>
-        <link href="http://www.quickandtastycooking.org.uk/articles/learning-japanese/"/>
-        <updated>2016-05-01T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/articles/learning-japanese</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/kanji_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;In early 2011, as a result of a press release about my work, a researcher from Japan contacted me and proposed a research collaboration. I had always been very interested in Japan, so this was a great opportunity. I started planning a research visit, and at that point I thought it would be better to learn some Japanese. So about three months before the trip I started my first Japanese lesson.&lt;/p&gt;
-
-&lt;p&gt;Fortunately, nobody told me one should not attempt to learn a new language over the age of forty. And anyone who has learned some Japanese will appreciate how ridiculously short a time three months is; luckily I didn’t know any better.&lt;/p&gt;
-
-&lt;p&gt;In any case, I started learning very basic Japanese and I loved it: the writing system, the grammar, the culture as expressed through the language. Learning your first kanji (Chinese characters used in Japanese) is a great experience, because kanji are mysterious, beautiful and concise – and you think you can see the logic to it. And learning the first phrases makes you feel it won’t be all that hard. It’s wonderful.&lt;/p&gt;
-
-&lt;p&gt;Because of the earthquake and tsunami in March 2011, I had to postpone my trip. But in the summer of 2012, having learned Japanese for a bit more than a year, I went to Kyoto for a two-month research visit.&lt;/p&gt;
-
-&lt;p&gt;And it was amazing: kanji everywhere! Somewhere along the path, learning Japanese had become a goal in its own right, not just a practical tool for survival in the wild. It was that as well, of course – just try shopping in a Japanese supermarket without knowing any Japanese.&lt;/p&gt;
-
-&lt;figure class=&quot;half&quot;&gt;
-   &lt;img title=&quot;Kyoto street just after sunset&quot; src=&quot;http://www.quickandtastycooking.org.uk/images/kyoto_street_night_600x800.jpg&quot; alt=&quot;Kyoto street after sunset&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;So I conversed in broken Japanese, and looked up kanji on my phone (and was surprised how many signs said “dentist”), and tried to improve my &lt;a href=&quot;https://www.tofugu.com/japanese/learn-hiragana/&quot;&gt;hiragana&lt;/a&gt; and &lt;a href=&quot;https://www.tofugu.com/japanese/learn-katakana/&quot;&gt;katakana&lt;/a&gt; reading skills. I didn’t actively study, the total immersion was all I wanted.&lt;/p&gt;
-
-&lt;p&gt;At that time I had learned only basic grammar and sentence structure, very little informal Japanese – my teacher does not hold with that – and about 100 of the 500 most frequent kanji. I quickly discovered that “most frequent” does not really mean “common” or vice versa. The “most frequent kanji” list is based on newspaper articles, so there are many common kanji that are not in that list. Also, “knowing” or “having learned” a kanji is a rather vague term, and being able to tick them off in a spaced repetition app like Anki or Memrise (great tools though they are!) does not mean you know the meaning of a word consisting of “known” kanji, let alone its pronunciation.&lt;/p&gt;
-
-&lt;p&gt;Kanji typically have several meanings, sometimes wildly different (e.g. 洗　means both “wash” and “inquire into”) and several readings, some based on the original Chinese pronunciation of the character, some on the Japanese pronunciation of the meaning of the character (e.g. 明日 “tomorrow” can be read as “ashita”, “asu” or “myonichi”). So there is a lot to learn.&lt;/p&gt;
-
-&lt;p&gt;By now I was hooked, by both the language and the country.  Two more years of study later I visited Japan again. On that visit I bought the paperback version of Haruki Murakami’s “1Q84”. It comes in 6 volumes, each about 400 pages.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/murakami_1Q84_1600.jpg&quot; alt=&quot;&amp;quot;Paperback version of 1Q84 by 村上春樹, 6 volumes&amp;quot;&quot; title=&quot;1Q84 by 村上春樹&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I started reading it on my return (October 2014). It is a slow process because really my Japanese is by far not good enough. I continuously encounter kanji that I have not learned yet or already forgotten, so I have to look them up. Luckily I can do this on my phone, by writing them stroke by stroke. It is now April 2016 and I have reached page 295 (of 357) in the first volume. At this rate, it will take me another 15 years to finish the book. This may not seem very encouraging. However, I hope of course that my reading skills will improve. And in fact I have found reading this way to be more enjoyable than reading the book in English translation: reading Japanese requires a deeper concentration and I feel more immersed in the story – and I find the Japanese writing simply beautiful.&lt;/p&gt;
-
-&lt;p&gt;The books have also inspired me to make a few “Murakami meals”, which I’ll be posting soon. Speaking of food, I also bought a &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/zen-cooking/&quot;&gt;Zen temple cuisine cookbook&lt;/a&gt;, available in Japanese only. It gives a unique insight in the Zen way of cooking – and the language and vocabulary are much easier than Murakami’s.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;I’d like to thank my teacher Rie Ogura for her patience with me, waiting endlessly while I fumble for the right words.&lt;/li&gt;
-&lt;/ul&gt;
 
         </content>
     </entry>
