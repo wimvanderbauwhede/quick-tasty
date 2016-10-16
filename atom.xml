@@ -9,7 +9,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2016-10-15T17:25:10+01:00</updated>
+    <updated>2016-10-16T13:14:51+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -17,6 +17,62 @@
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
+    
+    <entry>
+        <title>Rigatoni, chickpeas and cucumber with a miso dressing</title>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/pasta-chickpeas-cucumber/"/>
+        <updated>2016-10-15T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/recipes/pasta-chickpeas-cucumber</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/pasta-chickpeas-cucumber_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;This is a really easy and super quick recipe, ready in 15 minutes (the time to cook the pasta). The &lt;em&gt;miso&lt;/em&gt; dressing and golden sesame seeds make it special. &lt;em&gt;Miso&lt;/em&gt; paste is a Japanese seasoning made from fermented soy beans, the taste is salty and very rich. Golden sesame seeds  (&lt;em&gt;irigoma&lt;/em&gt;) are also very commonly used in Japan, they add a delicous nutty flavour. You can find both in most supermarkets.&lt;/p&gt;
+
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#15-minutes&quot;&gt;&lt;em&gt;15-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;For two people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fresh ingredients and groceries
+    &lt;ul&gt;
+      &lt;li&gt;1 cucumber&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;From the store cupboard
+    &lt;ul&gt;
+      &lt;li&gt;1 tin chickpeas&lt;/li&gt;
+      &lt;li&gt;200 g pasta (I used rigatoni)&lt;/li&gt;
+      &lt;li&gt;1 teaspoon &lt;em&gt;miso&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;2 tablespoons olive oil&lt;/li&gt;
+      &lt;li&gt;1 tablespoon vinegar&lt;/li&gt;
+      &lt;li&gt;1 tablespoon golden sesame seeds	&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cook the pasta (see &lt;a href=&quot;http://www.quickandtastycooking.org.uk/basics#toc2&quot;&gt;basics&lt;/a&gt; for how to cook pasta).&lt;/li&gt;
+  &lt;li&gt;While the pasta is cooking:
+    &lt;ul&gt;
+      &lt;li&gt;Peel and slice the cucumber.&lt;/li&gt;
+      &lt;li&gt;Rinse and drain the chickpeas.&lt;/li&gt;
+      &lt;li&gt;Mix the miso, oil and vinegar in a bowl into a smooth dressing.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Serve the pasta with the cucumber and chickpeas. Season with the dressing and sprinkle on the sesame seeds.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+        </content>
+    </entry>
     
     <entry>
         <title>My favourite types of rice</title>
@@ -1497,71 +1553,6 @@ I had aubergines so I decided to prepare them with ponzu (a Japanese dressing). 
   &lt;li&gt;Add the soy sauce and stir-fry briefly over high heat until it is evaporated.&lt;/li&gt;
   &lt;li&gt;Add the lemon juice and stir-fry briefly over high heat, then reduce the heat and stir-fry for a few minutes more.&lt;/li&gt;
   &lt;li&gt;The parsnips and sweet potato will be ready by now. Add them to the pan. Add the cayenne pepper and garlic oil, stir and let simmer for about five minutes.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Mushrooms, apples and cranberries with fried chickpeas and rice</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/mushrooms-apple-cranberries/"/>
-        <updated>2016-05-01T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/mushrooms-apple-cranberries</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/mushrooms_apple_cranberries_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This surprising combination is very easy to make and really tasty. Cranberries are very sour so I combine them with apples to sweeten them. The mushrooms make the dish hearty and the chickpeas add crunchiness.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients and groceries
-    &lt;ul&gt;
-      &lt;li&gt;two small apples (I used 1 1/2 large ones)&lt;/li&gt;
-      &lt;li&gt;1 mug of frozen cranberries&lt;/li&gt;
-      &lt;li&gt;pack of chestnut mushrooms (ordinary mushrooms are fine too)&lt;/li&gt;
-      &lt;li&gt;1 tin chickpeas&lt;/li&gt;
-      &lt;li&gt;1 teaspoon chopped ginger&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;1 teaspoon ground cumin&lt;/li&gt;
-      &lt;li&gt;2 tablespoon sunflower seeds&lt;/li&gt;
-      &lt;li&gt;2 tablespoon sesame seeds&lt;/li&gt;
-      &lt;li&gt;1 cup basmati rice&lt;/li&gt;
-      &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
-      &lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cook the rice (see &lt;a href=&quot;http://www.quickandtastycooking.org.uk/basics&quot;&gt;basics&lt;/a&gt; for how to cook rice).&lt;/li&gt;
-  &lt;li&gt;While the rice is cooking:
-    &lt;ul&gt;
-      &lt;li&gt;Cook the frozen cranberries in the microwave for 3 minutes at full power (900 W).&lt;/li&gt;
-      &lt;li&gt;Peel &amp;amp; slice the apples and add them to the cranberries, cook in the microwave for 3 minutes at full power (900 W).&lt;/li&gt;
-      &lt;li&gt;Wash, clean &amp;amp; slice the mushrooms.&lt;/li&gt;
-      &lt;li&gt;Cook the mushrooms in the microwave for 3 minutes at full power (900 W).&lt;/li&gt;
-      &lt;li&gt;Heat the olive oil and fry the ginger, cumin and seeds for a few minutes on medium heat.&lt;/li&gt;
-      &lt;li&gt;Add the chickpeas and fry for a few minutes on high heat.&lt;/li&gt;
-      &lt;li&gt;Add the soy sauce and stir.&lt;/li&gt;
-      &lt;li&gt;Add the mushrooms and stir-fry on high heat for a few minutes, then on low heat for a few more minutes.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Serve with the rice.&lt;/li&gt;
 &lt;/ul&gt;
 
 
