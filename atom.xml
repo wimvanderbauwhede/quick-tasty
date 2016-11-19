@@ -7,11 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-<<<<<<< HEAD
-    <updated>2016-11-19T15:52:31+00:00</updated>
-=======
-    <updated>2016-11-17T19:57:01+00:00</updated>
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
+    <updated>2016-11-19T16:13:09+00:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -21,7 +17,6 @@
 
     
     <entry>
-<<<<<<< HEAD
         <title>Potato and vegetable bake with cream cheese</title>
         <link href="http://www.quickandtastycooking.org.uk/recipes/potato-vegetable-bake/"/>
         <updated>2016-11-19T00:00:00+00:00</updated>
@@ -78,13 +73,10 @@
     </entry>
     
     <entry>
-=======
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
         <title>Stir-fry of mixed mushrooms with black beans, celeriac and potatoes</title>
         <link href="http://www.quickandtastycooking.org.uk/recipes/mushrooms-black-beans-celeriac/"/>
         <updated>2016-10-23T00:00:00+01:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/mushrooms-black-beans-celeriac</id>
-<<<<<<< HEAD
         <author>
 					<name>Wim Vanderbauwhede</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
@@ -447,375 +439,6 @@ Brown rice &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/courg
         <link href="http://www.quickandtastycooking.org.uk/recipes/orzo-broccoli-paneer/"/>
         <updated>2016-08-28T00:00:00+01:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/orzo-broccoli-paneer</id>
-=======
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-<<<<<<< HEAD
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/orzo-broccoli-paneer_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is a surprising combination of orzo (pasta shaped like grains of barley) with steamed broccoli and stir-fried paneer (fresh Indian cheese).&lt;/p&gt;
-
-=======
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/mushrooms-black-beans-celeriac_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is a suprising and very tasty stir-fry of Japanese mushrooms, black beans and celeriac served with Japanese rice. The black beans I used are the common ones (ブラックビーン, “&lt;em&gt;burakkubiin&lt;/em&gt;” in Japanese), not the black-skinned soy beans (黒豆,”&lt;em&gt;kuromame&lt;/em&gt;”) because they are hard to find here.
-Celeriac is not a common vegetable in Japan either but the taste goes really well with the mushrooms and beans.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Japanes-style&quot;&gt;&lt;em&gt;Japanes-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients and groceries
-    &lt;ul&gt;
-      &lt;li&gt;150-200 g mixed mushrooms (in the picture: &lt;em&gt;eringi&lt;/em&gt;, oyster (&lt;em&gt;hiratake&lt;/em&gt;), &lt;em&gt;shimeji&lt;/em&gt;)&lt;/li&gt;
-      &lt;li&gt;half a celeriac&lt;/li&gt;
-      &lt;li&gt;about 400 g small potatoes&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;a pack or tin of black beans&lt;/li&gt;
-      &lt;li&gt;a cup of Japanese rice&lt;/li&gt;
-      &lt;li&gt;1 cm ginger, finely chopped &lt;/li&gt;
-      &lt;li&gt;2 tablespoons of white sesame seeds&lt;/li&gt;
-      &lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;
-      &lt;li&gt;1 tablespoon olive oil for frying&lt;/li&gt;
-      &lt;li&gt;1 teaspoon &lt;em&gt;miso&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;2 teaspoons &lt;em&gt;mirin&lt;/em&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cook the rice (see &lt;a href=&quot;http://www.quickandtastycooking.org.uk/basics#toc0&quot;&gt;basics&lt;/a&gt; for how to cook Japanese rice).&lt;/li&gt;
-  &lt;li&gt;While the rice is cooking:
-    &lt;ul&gt;
-      &lt;li&gt;Slice the potatoes and celeriac in pieces suitable for eating with chop sticks an put in a microwave pot with a tablespoon of &lt;em&gt;mirin&lt;/em&gt;.&lt;/li&gt;
-      &lt;li&gt;Cook in the microwave for 5 minutes at full power (900W), shake or stir, cook for another 5 minutes. &lt;/li&gt;
-      &lt;li&gt;After cooking, strain the cooking liquid into a bowl.&lt;/li&gt;
-      &lt;li&gt;Wash and slice the mushrooms in pieces suitable for eating with chop sticks.&lt;/li&gt;
-      &lt;li&gt;Wash and drain the black beans.&lt;/li&gt;
-      &lt;li&gt;Stir-fry the ginger, sesame seeds and mushrooms over high heat until the mushrooms start to brown.&lt;/li&gt;
-      &lt;li&gt;Reduce the heat to low and add the beans, potatoes and celeriac.&lt;/li&gt;
-      &lt;li&gt;Create some space in the middle of the pan and pour the soy sauce into it, the stir well so it is evenly mixed.&lt;/li&gt;
-      &lt;li&gt;Stir-fry for a few more minutes at over heat.&lt;/li&gt;
-      &lt;li&gt;Swith of the hob.&lt;/li&gt;
-      &lt;li&gt;Mix the &lt;em&gt;miso&lt;/em&gt; with the &lt;em&gt;mirin&lt;/em&gt; and the cooking liquid of the celeriac and potatoes.&lt;/li&gt;
-      &lt;li&gt;Pour the mixture in the pan and stir well.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Serve in a bowl, with the rice in a separate bowl.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Trofie, tomatoes and mozarella with a cream cheese dressing</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/trofie-tomatoes-mozarella/"/>
-        <updated>2016-10-21T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/trofie-tomatoes-mozarella</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/trofie-tomatoes-mozarella_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is a another really easy and super quick recipe, ready in the time to cook the pasta. Trofie is a short, thin, twisted pasta. It tastes great with pesto – or with the much less salty cream cheese and tomato puree mixture that I use in this recipe.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Italian-style&quot;&gt;&lt;em&gt;Italian-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#15-minutes&quot;&gt;&lt;em&gt;15-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients and groceries
-    &lt;ul&gt;
-      &lt;li&gt;1 pack of small tomatoes&lt;/li&gt;
-      &lt;li&gt;1 pack of mozarella (I used small mozarella balls)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;200 g trofie pasta&lt;/li&gt;
-      &lt;li&gt;3 tablespoons cream cheese&lt;/li&gt;
-      &lt;li&gt;1 tablespoon tomato puree&lt;/li&gt;
-      &lt;li&gt;walnuts and black pepper for garnishing&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cook the pasta. &lt;/li&gt;
-  &lt;li&gt;While the pasta is cooking.
-    &lt;ul&gt;
-      &lt;li&gt;Slice the tomatoes.&lt;/li&gt;
-      &lt;li&gt;Mix the cream cheese and tomato puree into a smooth paste.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Serve the pasta with the mozarella, tomatoes and the dressing, garnishe with walnuts and black pepper to taste.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Rigatoni, chickpeas and cucumber with a miso dressing</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/pasta-chickpeas-cucumber/"/>
-        <updated>2016-10-15T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/pasta-chickpeas-cucumber</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/pasta-chickpeas-cucumber_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is a really easy and super quick recipe, ready in 15 minutes (the time to cook the pasta). The &lt;em&gt;miso&lt;/em&gt; dressing and golden sesame seeds make it special. &lt;em&gt;Miso&lt;/em&gt; paste is a Japanese seasoning made from fermented soy beans, the taste is salty and very rich. Golden sesame seeds  (&lt;em&gt;irigoma&lt;/em&gt;) are also very commonly used in Japan, they add a delicous nutty flavour. You can find both in most supermarkets.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#15-minutes&quot;&gt;&lt;em&gt;15-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients and groceries
-    &lt;ul&gt;
-      &lt;li&gt;1 cucumber&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;1 tin chickpeas&lt;/li&gt;
-      &lt;li&gt;200 g pasta (I used rigatoni)&lt;/li&gt;
-      &lt;li&gt;1 teaspoon &lt;em&gt;miso&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;2 tablespoons olive oil&lt;/li&gt;
-      &lt;li&gt;1 tablespoon vinegar&lt;/li&gt;
-      &lt;li&gt;1 tablespoon golden sesame seeds	&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cook the pasta (see &lt;a href=&quot;http://www.quickandtastycooking.org.uk/basics#toc2&quot;&gt;basics&lt;/a&gt; for how to cook pasta).&lt;/li&gt;
-  &lt;li&gt;While the pasta is cooking:
-    &lt;ul&gt;
-      &lt;li&gt;Peel and slice the cucumber.&lt;/li&gt;
-      &lt;li&gt;Rinse and drain the chickpeas.&lt;/li&gt;
-      &lt;li&gt;Mix the miso, oil and vinegar in a bowl into a smooth dressing.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Serve the pasta with the cucumber and chickpeas. Season with the dressing and sprinkle on the sesame seeds.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>My favourite types of rice</title>
-        <link href="http://www.quickandtastycooking.org.uk/articles/my-favourite-types-of-rice/"/>
-        <updated>2016-10-10T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/articles/my-favourite-types-of-rice</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/my-favourite-types-of-rice_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;I love rice, and most of &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes&quot;&gt;my recipes&lt;/a&gt; go very well with rice. There are many, many varieties of rice but in this post I just want to introduce the ones I like and use frequently.&lt;/p&gt;
-
-&lt;h4 id=&quot;basmati-rice&quot;&gt;Basmati rice&lt;/h4&gt;
-
-&lt;figure class=&quot;full&quot;&gt;
-&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/basmati-rice_800x600.jpg&quot; alt=&quot;Basmati rice&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Basmati rice, a fragrant, aromatic rice from India, is my staple, mainly because it has such a short cooking time (just 15 minutes). It is very fluffy &lt;a href=&quot;http://www.quickandtastycooking.org.uk/basics/#toc0&quot;&gt;when cooked right&lt;/a&gt;. I have used it in several recipes, for example my favourite &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/tom-hal/&quot;&gt;Basmati rice with tomatoes and halloumi&lt;/a&gt;. &lt;/p&gt;
-
-&lt;h4 id=&quot;brown-rice&quot;&gt;Brown rice&lt;/h4&gt;
-
-&lt;figure class=&quot;full&quot;&gt;
-&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/brown-rice_800x600.jpg&quot; alt=&quot;Brown Kilombero rice from Malawi&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;The brown rice I use is either Basmati or regular long grain rice. The picture shows Kilombero rice from Malawi. Brown rice has a more earthy taste than white rice and takes longer to cook (about 30 minutes). It it a better source of dietary fiber and vitamines than white rice. Broadly speaking brown rice contains 3x more fiber and vitamins than white rice. It also contains about 3x more magnesium, phosphorus and manganese; for other minerals (calcium, iron, zinc) the difference is smaller. A brown rice meal of 200 g cooked rice will get you about 40% RDA of phosphorus and vitamin B6, 10% RDA of magnesium and vitamin B3.
-Brown rice &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/courgettes-mushrooms-puy-lentils/&quot;&gt;goes really well with lentils&lt;/a&gt;. &lt;/p&gt;
-
-&lt;h4 id=&quot;red-rice&quot;&gt;Red rice&lt;/h4&gt;
-
-&lt;figure class=&quot;full&quot;&gt;
-&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/red-rice_800x600.jpg&quot; alt=&quot;Camargue red rice&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Red rice has a nice nutty flavour. I use red rice from the Camargue region in France. This is a recent variety, a result of cross-pollination of cultivated white rice with wild red rice in the 1980s. In terms of cooking time and nutritional value it is similar to brown rice. For an unusual recipe with red rice, check out my &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/aubergine-boats-soy-beans/&quot;&gt;aubergine boats with soy beans and red rice&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;risotto-rice&quot;&gt;Risotto rice&lt;/h4&gt;
-
-&lt;figure class=&quot;full&quot;&gt;
-&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/risotto-rice_800x600.jpg&quot; alt=&quot;Arborio risotto rice&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;To make risotto you need a rice that can absorb a lot of water without getting sticky. To cook risotto rice you should add the water a little bit at at time, and keep stirring until it has been absorbed, rather than adding it all at once. Through constant stirring, the outer part of the rice grain is ground off by the friction and the starch mixes with the cooking liquid and turns into a creamy sauce that binds the grains together. The typical variety that I use is Arborio. My &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/risotto-oyster-mushrooms/&quot;&gt;favourite risotto is the one with oyster mushrooms&lt;/a&gt;.&lt;/p&gt;
-
-&lt;!-- http://www.disgracesonthemenu.com/2011/05/rice-demystified.html --&gt;
-
-&lt;h4 id=&quot;japanese-rice&quot;&gt;Japanese rice&lt;/h4&gt;
-
-&lt;figure class=&quot;full&quot;&gt;
-&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/japanese-rice_800x600.jpg&quot; alt=&quot;Japanese rice&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;For Japanese-style dishes you really need proper &lt;em&gt;Japonica&lt;/em&gt; rice: the rice grains cling together without being mushy &lt;a href=&quot;http://www.justhungry.com/japanese-basics-plain-rice-sushi-rice&quot;&gt;when cooked properly&lt;/a&gt;. It doesn’t necessarily have to come from Japan though. I use either Yumenishiki or Clearspring’s sushi rice, both are grown in Italy. Yumenishiki’s &lt;em&gt;koshihikari&lt;/em&gt; is an actual Japanese variety; the Clearspring rice is an Italian &lt;em&gt;Japonica&lt;/em&gt; variety, Selenio, which is very similar in taste and properties to Japanese rice. When I was in Japan I used &lt;em&gt;kinuhikari&lt;/em&gt;, a local variety from Kyoto. A nice Japanese-style recipe is &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/aubergines-sweet-potatoes-tofu/&quot;&gt;aubergines, sweet potatoes, tofu and wakame with rice&lt;/a&gt;.&lt;/p&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Carrot and chickpea stir-fry with maftoul</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/carrots-chickpeas-couscous/"/>
-        <updated>2016-09-29T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/carrots-chickpeas-couscous</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/carrots-chickpeas-couscous_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is a really quick and simple stir-fry of carrots and chickpeas, ready in 15 minutes, and very tasty.  I serve this with maftoul (Palestinian or giant couscous) and garnish with fresh coriander.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#15-minutes&quot;&gt;&lt;em&gt;15-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients and groceries
-    &lt;ul&gt;
-      &lt;li&gt;about 400 g carrots&lt;/li&gt;
-      &lt;li&gt;1 teaspoon chopped ginger&lt;/li&gt;
-      &lt;li&gt;fresh coriander&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;1 teaspoon ground coriander&lt;/li&gt;
-      &lt;li&gt;1 teaspoon ground cumin&lt;/li&gt;
-      &lt;li&gt;2 tablespoons sunflower seeds&lt;/li&gt;
-      &lt;li&gt;2 tablespoons sesame seeds&lt;/li&gt;
-      &lt;li&gt;1 tin chickpeas&lt;/li&gt;
-      &lt;li&gt;1 cup maftoul (Palestinian or giant couscous)&lt;/li&gt;
-      &lt;li&gt;2 tablespoons olive oil&lt;/li&gt;
-      &lt;li&gt;3 teaspoons soy sauce&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Put the maftoul in a microwave pot with 1.5 cups of water and a teaspoon soy sauce and cook for 4 minutes at full power (900W).&lt;/li&gt;
-  &lt;li&gt;Meanwhile, wash and dice the carrots. Cook them in the microwave, about 5 minutes on full power (900W).&lt;/li&gt;
-  &lt;li&gt;When the carrots are done, stir the maftoul, then cook it for 4 more minutes on full power (900W).&lt;/li&gt;
-  &lt;li&gt;Meanwhile, heat the olive oil and fry the ginger, spices and seeds for a few minutes on medium heat.&lt;/li&gt;
-  &lt;li&gt;Add the chickpeas and fry for a few minutes on high heat.&lt;/li&gt;
-  &lt;li&gt;Add the soy sauce and stir.&lt;/li&gt;
-  &lt;li&gt;Add the carrots and stir-fry on high heat for a few minutes.&lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Tofu-hummus, fried potatoes and aubergines</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/tofu-hummus-potatoes-aubergines/"/>
-        <updated>2016-09-10T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/tofu-hummus-potatoes-aubergines</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/tofu-hummus-potatoes-aubergines_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is not a typically Japanese recipe but many of the ingredients are very common in Japanese cuisine. Butter and soy sauce is a great combination for frying potatoes, and the &lt;em&gt;umami&lt;/em&gt; of tomato puree blends really well with the aubergines.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients and groceries
-    &lt;ul&gt;
-      &lt;li&gt;about 400 g small or medium potatoes&lt;/li&gt;
-      &lt;li&gt;1 cm fresh ginger, sliced very thinly&lt;/li&gt;
-      &lt;li&gt;2 medium aubergines (about 200 g each)&lt;/li&gt;
-      &lt;li&gt;1 tablespoon butter (or olive oil) for frying&lt;/li&gt;
-      &lt;li&gt;1 tablespoon of tomato puree (preferably pure tomato, no added salt or sugar)&lt;/li&gt;
-      &lt;li&gt;200 g firm tofu&lt;/li&gt;
-      &lt;li&gt;fresh coriander&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;1 tablespoon sesame seeds&lt;/li&gt;
-      &lt;li&gt;1 tablespoon soy sauce 	&lt;/li&gt;
-      &lt;li&gt;2 tablespoons tahini&lt;/li&gt;
-      &lt;li&gt;2 teaspoons miso&lt;/li&gt;
-      &lt;li&gt;1 teaspoon sugar&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Wash and dice the potatoes.&lt;/li&gt;
-  &lt;li&gt;Cook the potatoes in the microwave for about 4-5 minutes on full power (900W).&lt;/li&gt;
-  &lt;li&gt;Stir and cook for another 4-5 minutes.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, prepare the tofu-hummus. This is very similar to the Japanese shiraae (白和え), and very easy to make:
-    &lt;ul&gt;
-      &lt;li&gt;Put the block of tofu on a plate and dice it carefully so it keeps its original shape. Cover it with another plate and put some weight on it (e.g. some more plates) to squeeze out the excess water.&lt;/li&gt;
-      &lt;li&gt;Put the tofu pieces in a bowl with the tahini, miso and sugar and scramble with a fork until the mixture is smooth but still a little chunky.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Wash and slice the aubergines.&lt;/li&gt;
-  &lt;li&gt;Put the aubergine slices and the ginger in a pot and microwave for about 4 minutes on full power (900W).&lt;/li&gt;
-  &lt;li&gt;Stir in the tomato puree and cook for another 4 minutes.&lt;/li&gt;
-  &lt;li&gt;Heat the butter or oil and stir-fry the potatoes with the sesame seeds for a minute.&lt;/li&gt;
-  &lt;li&gt;Add the soy sauce and continue to stir-fry until the potatoes start to brown.&lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Orzo with broccoli and paneer</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/orzo-broccoli-paneer/"/>
-        <updated>2016-08-28T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/orzo-broccoli-paneer</id>
         <author>
 					<name>Wim Vanderbauwhede</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
@@ -825,7 +448,6 @@ Brown rice &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/courg
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/orzo-broccoli-paneer_1600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;This is a surprising combination of orzo (pasta shaped like grains of barley) with steamed broccoli and stir-fried paneer (fresh Indian cheese).&lt;/p&gt;
 
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
 &lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#one-pan&quot;&gt;&lt;em&gt;one-pan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
 
 &lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
@@ -845,11 +467,7 @@ Brown rice &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/courg
       &lt;li&gt;four dried tomatoes&lt;/li&gt;
       &lt;li&gt;1 cup orzo&lt;/li&gt;
       &lt;li&gt;a handful of pine kernels&lt;/li&gt;
-<<<<<<< HEAD
       &lt;li&gt;1 teaspoon ground cumin&lt;/li&gt;
-=======
-      &lt;li&gt;1 teaspoon ground cumin 	&lt;/li&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
       &lt;li&gt;1 teaspoon ground coriander&lt;/li&gt;
       &lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;
       &lt;li&gt;1 tablespoon olive oil for frying&lt;/li&gt;
@@ -860,11 +478,7 @@ Brown rice &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/courg
 &lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
 
 &lt;ul&gt;
-<<<<<<< HEAD
   &lt;li&gt;Cook the orzo just like &lt;a href=&quot;http://www.quickandtastycooking.org.uk/basics/#toc2&quot;&gt;regular pasta&lt;/a&gt;.&lt;/li&gt;
-=======
-  &lt;li&gt;Cook the orzo just like &lt;a href=&quot;http://www.quickandtastycooking.org.uk/basics/#toc2&quot;&gt;regular pasta&lt;/a&gt;.    &lt;/li&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
   &lt;li&gt;Meanwhile:
     &lt;ul&gt;
       &lt;li&gt;Soak the dried tomatoes in boiled water for about 10 minutes, then chop up into pieces of about 0.5cm.&lt;/li&gt;
@@ -1029,11 +643,7 @@ Brown rice &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/courg
   &lt;li&gt;Fresh ingredients and groceries
     &lt;ul&gt;
       &lt;li&gt;1 cauliflower&lt;/li&gt;
-<<<<<<< HEAD
       &lt;li&gt;about 400 g small potatoes&lt;/li&gt;
-=======
-      &lt;li&gt;about 400 g small potatoes  &lt;/li&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
       &lt;li&gt;1 cup puy lentils&lt;/li&gt;
       &lt;li&gt;1 cm fresh ginger, chopped finely&lt;/li&gt;
     &lt;/ul&gt;
@@ -1067,15 +677,9 @@ Brown rice &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/courg
       &lt;li&gt;Cook the cauliflower in the microwave for 4 minutes at full power (900W).&lt;/li&gt;
       &lt;li&gt;Cook the potatoes in the microwave for 8 minutes at full power (900W).&lt;/li&gt;
       &lt;li&gt;Heat the oil in a large deep pan. I recommend a non-stick pan with a lid.&lt;/li&gt;
-<<<<<<< HEAD
       &lt;li&gt;When the oil is hot, add the ginger, seeds and spices and fry over medium heat for a minute.&lt;/li&gt;
       &lt;li&gt;Add the potatoes and fry for a few minutes.&lt;/li&gt;
       &lt;li&gt;Add the cauliflower and stir-fry over high heat for a few minutes.&lt;/li&gt;
-=======
-      &lt;li&gt;When the oil is hot, add the ginger, seeds and spices and fry over medium heat for a minute.  &lt;/li&gt;
-      &lt;li&gt;Add the potatoes and fry for a few minutes.&lt;/li&gt;
-      &lt;li&gt;Add the cauliflower and stir-fry over high heat for a few minutes.  &lt;/li&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -1136,20 +740,12 @@ Brown rice &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/courg
       &lt;li&gt;After soaking the &lt;em&gt;shiitake&lt;/em&gt;, slice them thinly.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-<<<<<<< HEAD
   &lt;li&gt;Cooking: 20 minutes
-=======
-  &lt;li&gt;Cooking: 20 minutes&lt;br /&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
     &lt;ul&gt;
       &lt;li&gt;Cook the rice with the &lt;em&gt;konbu&lt;/em&gt; for 6 minutes, either on the hob or in the microwave at full power (900W).&lt;/li&gt;
       &lt;li&gt;Meanwhile, cook the beans for 3 minutes in the microwave at full power (900W).&lt;/li&gt;
       &lt;li&gt;Scoop out the flesh from the aubergines and cook the shells for 5 minutes in the microwave at full power (900W). Chop the flesh coarsely.&lt;/li&gt;
-<<<<<<< HEAD
       &lt;li&gt;Remove the &lt;em&gt;konbu&lt;/em&gt; from the pot with rice and slice it into smaller strips. Return half of it to the pot and continue cooking for another 20 minutes or until all the water has been absorbed.&lt;/li&gt;
-=======
-      &lt;li&gt;Remove the &lt;em&gt;konbu&lt;/em&gt; from the pot with rice and slice it into smaller strips. Return half of it to the pot and continue cooking for another 20 minutes or until all the water has been absorbed.  &lt;/li&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
       &lt;li&gt;Heat the oil and fry the ginger and the other half of the &lt;em&gt;konbu&lt;/em&gt;. Add the aubergine flesh and fry over medium heat until the aubergine has softened.&lt;/li&gt;
       &lt;li&gt;Add the soy beans, &lt;em&gt;shiitake&lt;/em&gt; and &lt;em&gt;wakame&lt;/em&gt; and cook for a few minutes on low heat.&lt;/li&gt;
       &lt;li&gt;Dissolve the &lt;em&gt;miso&lt;/em&gt; in a few tablespoons of soaking liquid from the &lt;em&gt;shiitake&lt;/em&gt;, and pour it over the aubergines.&lt;/li&gt;
@@ -1175,11 +771,7 @@ Brown rice &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/courg
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/curry-celeriac-spinach_1600.jpg&quot;&gt;&lt;br/&gt;
-<<<<<<< HEAD
         	&lt;p&gt;Celeriac, spinach and mushrooms go together surprisingly well. Combined with fried paneer (Indian fresh cheese, available in most supermarkets) this makes a great mild curry.&lt;/p&gt;
-=======
-        	&lt;p&gt;Celeriac, spinach and mushrooms go together surprisingly well. Combined with fried paneer (Indian fresh cheese, available in most supermarkets) this makes a great mild curry.   &lt;/p&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
 
 &lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#curry&quot;&gt;&lt;em&gt;curry&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
 
@@ -1197,11 +789,7 @@ Brown rice &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/courg
       &lt;li&gt;1 cm fresh ginger&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-<<<<<<< HEAD
   &lt;li&gt;From the store cupboard
-=======
-  &lt;li&gt;From the store cupboard&lt;br /&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
     &lt;ul&gt;
       &lt;li&gt;1 cup basmati rice&lt;/li&gt;
       &lt;li&gt;spices: turmeric, coriander seeds, cumin seeds, cardamom pods, cayenne pepper to taste (I use about a teaspoon of each of the spices and just a pinch of the cayenne pepper)&lt;/li&gt;
@@ -1265,21 +853,13 @@ Brown rice &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/courg
 &lt;ul&gt;
   &lt;li&gt;Fresh ingredients:
     &lt;ul&gt;
-<<<<<<< HEAD
       &lt;li&gt;200 g small potatoes&lt;/li&gt;
-=======
-      &lt;li&gt;200 g small potatoes	 &lt;/li&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
       &lt;li&gt;200 g green beans&lt;/li&gt;
       &lt;li&gt;50 g hard cheese (grana padano or parmezan), grated&lt;/li&gt;
       &lt;li&gt;basil and pine nut pesto&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-<<<<<<< HEAD
   &lt;li&gt;From the store cupboard
-=======
-  &lt;li&gt;From the store cupboard&lt;br /&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
     &lt;ul&gt;
       &lt;li&gt;200 g linguine&lt;/li&gt;
     &lt;/ul&gt;
@@ -1334,11 +914,7 @@ Brown rice &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/courg
       &lt;li&gt;3 tbsp mayonnaise, preferably Japanese (I use Kewpie) or homemade&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-<<<<<<< HEAD
   &lt;li&gt;From the store cupboard
-=======
-  &lt;li&gt;From the store cupboard&lt;br /&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
     &lt;ul&gt;
       &lt;li&gt;salt and pepper&lt;/li&gt;
     &lt;/ul&gt;
@@ -1416,11 +992,7 @@ Brown rice &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/courg
           &lt;li&gt;Put the lentils and chopped dried tomatoes in a microwave pot with 2 cups water.&lt;/li&gt;
           &lt;li&gt;Cook in the microwave for 2 minutes on full power (900W), then for 10 minutes on 50%.&lt;/li&gt;
           &lt;li&gt;Stir; cook for 5 minutes on 50%.&lt;/li&gt;
-<<<<<<< HEAD
           &lt;li&gt;Stir, cook on 50% until there is hardly any liquid left in the pot (typically 5 minutes).&lt;/li&gt;
-=======
-          &lt;li&gt;Stir, cook on 50% until there is hardly any liquid left in the pot (typically 5 minutes).  &lt;/li&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
         &lt;/ul&gt;
       &lt;/li&gt;
       &lt;li&gt;Heat the olive oil.&lt;/li&gt;
@@ -1429,11 +1001,7 @@ Brown rice &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/courg
       &lt;li&gt;Add the soy sauce and let it reduce over medium to high heat (this takes just a few seconds).&lt;/li&gt;
       &lt;li&gt;Mix the ground almonds with the lentils and add to the pan, stirring well.&lt;/li&gt;
       &lt;li&gt;Add the cayenne/nanami and stir for another minute.&lt;/li&gt;
-<<<<<<< HEAD
       &lt;li&gt;Finally add the vegetables and the garlic oil and let it simmer, stirring occasionally, for about 10 minutes or so.&lt;/li&gt;
-=======
-      &lt;li&gt;Finally add the vegetables and the garlic oil and let it simmer, stirring occasionally, for about 10 minutes or so.  &lt;/li&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Serve with the rice.&lt;/li&gt;
@@ -1485,7 +1053,6 @@ Then in a second pass I look up every kanji for which I don’t know either the 
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img title=&quot;Kanji dictionary page&quot; src=&quot;http://www.quickandtastycooking.org.uk/images/kanji_learners_dict_1600&quot; alt=&quot;Kanji dictionary page&quot; /&gt;&lt;/p&gt;
-<<<<<<< HEAD
 
 &lt;h4 id=&quot;reading-for-learners-a-few-handy-rules&quot;&gt;Reading for learners: a few handy rules&lt;/h4&gt;
 
@@ -1690,50 +1257,21 @@ Then in a second pass I look up every kanji for which I don’t know either the 
   &lt;li&gt;You may have to add water a few more times, depending on how much you added at a time.&lt;/li&gt;
   &lt;li&gt;It’s ready when the rice is quite creamy (in Italian it’s called &lt;em&gt;all’onda&lt;/em&gt;, “wavy”).&lt;/li&gt;
 &lt;/ul&gt;
-=======
-
-&lt;h4 id=&quot;reading-for-learners-a-few-handy-rules&quot;&gt;Reading for learners: a few handy rules&lt;/h4&gt;
-
-&lt;p&gt;Although the many readings and meanings may sound horribly complicated, I found that there are actually a few general rules that simplify the reading process. Of course there are exceptions to all of these rules but they hold most of the time.&lt;/p&gt;
-
-&lt;p&gt;Kanji have typically two types of readings, called &lt;em&gt;on&lt;/em&gt; (音,”sound”) and &lt;em&gt;kun&lt;/em&gt; (訓,”instruction” or “explanation”). The &lt;em&gt;on&lt;/em&gt;-reading is based on the sound of the original Chinese reading of a character; the &lt;em&gt;kun&lt;/em&gt;-reading is the Japanese word with the same meaning. Chinese used to play a similar role as Latin or Greek in ancient Japan, so in a way &lt;em&gt;on&lt;/em&gt;-readings are comparable with words with a Latin or Greek root in English.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The first  general rule is that kanji appearing on their own (i.e. not in combination with other kanji) have almost always the &lt;em&gt;kun&lt;/em&gt;-reading. For example, for the kanji 食, it will be one of the four &lt;em&gt;kun&lt;/em&gt;-readings (く.う “ku-u”, く.らう “ku-rau”, た.べる “ta-beru” or は.む “ha-mu”), not one of the &lt;em&gt;on&lt;/em&gt;-readings. To select the correct &lt;em&gt;kun&lt;/em&gt;-reading, look at the hiragana following the kanji so 食う is pronounced as “kuu” and 食べる is pronounced as “taberu”.&lt;/li&gt;
-  &lt;li&gt;The second general rule is that in a compound word, all kanji have either the &lt;em&gt;on&lt;/em&gt;- or the &lt;em&gt;kun&lt;/em&gt;-reading. And for the vast majority of the compound words, it will be the &lt;em&gt;on&lt;/em&gt;-reading. For example, 食事 is shokuji (&lt;em&gt;on&lt;/em&gt;-&lt;em&gt;on&lt;/em&gt;), not “ta-ji” (&lt;em&gt;kun&lt;/em&gt;-&lt;em&gt;on&lt;/em&gt;) or “shoku-koto” (&lt;em&gt;on&lt;/em&gt;-&lt;em&gt;kun&lt;/em&gt;). Generally, there are fewer &lt;em&gt;on&lt;/em&gt;-readings than &lt;em&gt;kun&lt;/em&gt;-readings for a kanji, and &lt;em&gt;on&lt;/em&gt;-readings are also mostly single-syllable.&lt;/li&gt;
-  &lt;li&gt;Although there are indeed many &lt;em&gt;on&lt;/em&gt;- and &lt;em&gt;kun&lt;/em&gt;-readings, for most kanji one of each will be the most frequently used, and the others will likely be used only in fixed combinations.&lt;/li&gt;
-  &lt;li&gt;The same is true for meanings: usually one of the meanings is used much more frequently than all the others.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!--
-- Finally, meanings and readings are usually coupled, so a given meaning has a given reading.　For example 着 means &quot;arrive&quot; and &quot;wear&quot;, but &quot;arrive&quot; is always ”tsuku” and wear &quot;kiru&quot;. So 着る can only mean &quot;wear&quot; and 着く can only mean &quot;arrive&quot;.
---&gt;
-
-&lt;p&gt;Even if reading a Japanese text may seem daunting at first, it is a very rewarding experience, and it is actually less complicated than it seems&lt;!-- would seem if you&#39;ve mostly focused on learning kanji--&gt;. I hope these tips and rules will help you to read Japanese more easily.&lt;/p&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
 
         </content>
     </entry>
     
     <entry>
-<<<<<<< HEAD
         <title>Murakami meal #2: soba noodles, soy beans, tomato and carrot</title>
         <link href="http://www.quickandtastycooking.org.uk/recipes/murakami-2/"/>
         <updated>2016-06-06T00:00:00+01:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/murakami-2</id>
-=======
-        <title>Asparagus and paneer on a bed of rocket and courgettes</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/asparagus-paneer-courgette-rocket-salad/"/>
-        <updated>2016-06-22T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/asparagus-paneer-courgette-rocket-salad</id>
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
         <author>
 					<name>Wim Vanderbauwhede</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
 					<email>wimvanderbauwhede@yahoo.co.uk</email>
 				</author>
         <content type="html">
-<<<<<<< HEAD
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/murakami-2_1600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;This is the second of my &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/murakami-meals&quot;&gt;Murakami meals&lt;/a&gt;. It’s a &lt;em&gt;very&lt;/em&gt; quick meal, hardly any cooking at all!&lt;/p&gt;
 
@@ -1849,138 +1387,22 @@ Then in a second pass I look up every kanji for which I don’t know either the 
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Cook the chickpeas in the microwave for 4 minutes on full power (900W).&lt;/li&gt;
-=======
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/asparagus-paneer-courgette-rocket-salad_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;Asparagus is a delicious vegetable that needs very little preparation. I combined it with pan-fried paneer and fresh rocket and courgettes to make an original summer salad.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#15-minutes&quot;&gt;&lt;em&gt;15-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients and groceries
-    &lt;ul&gt;
-      &lt;li&gt;100-150 g asparagus&lt;/li&gt;
-      &lt;li&gt;1 medium courgette (about 150 g)&lt;/li&gt;
-      &lt;li&gt;1 teaspoon chopped ginger&lt;/li&gt;
-      &lt;li&gt;a pack of paneer&lt;/li&gt;
-      &lt;li&gt;1 tablespoon butter or oil for frying&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;1 teaspoon ground coriander&lt;/li&gt;
-      &lt;li&gt;1 tablespoon sesame seeds&lt;/li&gt;
-      &lt;li&gt;1 tablespoon sunflower seeds&lt;/li&gt;
-      &lt;li&gt;2 tablespoon pumpkin seeds&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cook the rice (see &lt;a href=&quot;http://www.quickandtastycooking.org.uk/basics&quot;&gt;basics&lt;/a&gt; for how to cook rice).&lt;/li&gt;
-  &lt;li&gt;While the rice is cooking:
-    &lt;ul&gt;
-      &lt;li&gt;Wash the courgette, peel it partially (I leave on half of the skin in lengthwise strips) and slice it thinly.&lt;/li&gt;
-      &lt;li&gt;Wash the rocket if required.&lt;/li&gt;
-      &lt;li&gt;Wash the asparagus, put it immediately in a microwave pot and cook in the microwave for 2 minutes on full power (900W).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;While the asparagus is cooking:
-    &lt;ul&gt;
-      &lt;li&gt;Heat the oil or butter and fry the seeds, ginger and coriander.&lt;/li&gt;
-      &lt;li&gt;Fry the paneer over high heat until it starts to brown (just a few minutes).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Chop the asparagus into pieces of 3-4 cm.  &lt;/li&gt;
-  &lt;li&gt;Lower the heat, add the asparagus and fry for just a few minutes.&lt;/li&gt;
-  &lt;li&gt;Serve the asparagus and paneer on a bed of the rocket and courgettes. I served the rice in separate bowls.&lt;/li&gt;
 &lt;/ul&gt;
 
         </content>
     </entry>
     
     <entry>
-        <title>Imam bayildi with couscous and feta</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/imam-bayildi-couscous-feta/"/>
-        <updated>2016-06-15T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/imam-bayildi-couscous-feta</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/imam_bayildi_couscous_feta_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;“Imam bayildi” is Turkish for “the priest has fainted”, and a very well-known Turkish aubergine dish. Usually the aubergines are scooped out and then stuffed, but as that takes longer, in this recipe I simply chop them. The original recipe also uses a lot of onion, which I don’t like. The characteristic spice in this dish is allspice, also known as Jamaica pepper. I serve this with maftoul (Palestinian or giant couscous) and feta and garnish with some lime wedges.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Turkish-style&quot;&gt;&lt;em&gt;Turkish-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients and groceries
-    &lt;ul&gt;
-      &lt;li&gt;1 large aubergine&lt;/li&gt;
-      &lt;li&gt;2 medium tomatoes&lt;/li&gt;
-      &lt;li&gt;1/2 pack feta (Greek goat cheese)&lt;/li&gt;
-      &lt;li&gt;1 lime&lt;/li&gt;
-      &lt;li&gt;1 cup of maftoul (Palestinian or giant couscous)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;a handful of pine kernels&lt;/li&gt;
-      &lt;li&gt;1 tablespoon ground allspice&lt;/li&gt;
-      &lt;li&gt;some salt or soy sauce&lt;/li&gt;
-      &lt;li&gt;optionally some sugar&lt;/li&gt;
-      &lt;li&gt;some garlic oil&lt;/li&gt;
-      &lt;li&gt;some olive oil (1 tablespoon) for frying&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Wash the aubergine and cut into slices of about half a cm thick.&lt;/li&gt;
-  &lt;li&gt;Put the aubergine slices in a microwave pot with 2 tablespoons water and cook for 5 minutes at full power (900W), stir, then cook for 3 more minutes on full power.&lt;/li&gt;
-  &lt;li&gt;Put the couscous in a microwave pot with 1.5 cups of water and a teaspoon soy sauce. Cook for 90 s at full power, then for about 10 minutes at 40%. It’s ready when almost all liquid has been absorbed. Fluff it up with a fork and add some lime juice and lime wedges (about half a lime).&lt;/li&gt;
-  &lt;li&gt;Heat the oil in a deep pan. Fry the spices and the pine kernels for a few minutes over medium to low heat.&lt;/li&gt;
-  &lt;li&gt;Add the finely chopped tomatoes and fry for a few more minutes, until the tomatoes start to soften.&lt;/li&gt;
-  &lt;li&gt;Add the aubergines, juice of half a lime and maybe a pinch of sugar, and fry for a few more minutes at low heat&lt;/li&gt;
-  &lt;li&gt;Serve with the couscous and feta.&lt;/li&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-<<<<<<< HEAD
         <title>Three of my favourite Japanese kitchen tools</title>
         <link href="http://www.quickandtastycooking.org.uk/articles/japanese-kitchen-tools/"/>
         <updated>2016-05-29T00:00:00+01:00</updated>
         <id>http://www.quickandtastycooking.org.uk/articles/japanese-kitchen-tools</id>
-=======
-        <title>Risotto with oyster mushrooms</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/risotto-oyster-mushrooms/"/>
-        <updated>2016-06-08T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/risotto-oyster-mushrooms</id>
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
         <author>
 					<name>Wim Vanderbauwhede</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
 					<email>wimvanderbauwhede@yahoo.co.uk</email>
 				</author>
         <content type="html">
-<<<<<<< HEAD
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/japanese-kitchen-tools_1600x600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;The apartment where I stayed in Japan had a kitchen but no pots, pans, cutlery or anything. So I had to go and buy everything — great fun when you’re jet-lagged.&lt;/p&gt;
 
@@ -2031,192 +1453,34 @@ Then in a second pass I look up every kanji for which I don’t know either the 
 
 &lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
 
-=======
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/risotto_oyster_mushrooms_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;Risotto is a popular Italian-style one-pan dish, delicious and easy to make. It works best with a proper risotto rice like Arborio. I like to serve it with an apple and cherry tomato side salad for contrast. This recipe takes about 30 minutes to prepare.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Italian-style&quot;&gt;&lt;em&gt;Italian-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
 &lt;p&gt;For two people:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Fresh ingredients and groceries
     &lt;ul&gt;
-      &lt;li&gt;pack of oyster mushrooms (150 g)&lt;/li&gt;
-      &lt;li&gt;1 teaspoon ginger, finely chopped&lt;/li&gt;
-      &lt;li&gt;half a cup of grated hard cheese (Grana Padano or Parmezan)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;1 cup of risotto rice&lt;/li&gt;
-      &lt;li&gt;2 tablespoons pine kernels&lt;/li&gt;
-      &lt;li&gt;4 dried tomatoes&lt;/li&gt;
-      &lt;li&gt;1 teaspoon turmeric&lt;/li&gt;
-      &lt;li&gt;1 teaspoon ground coriander&lt;/li&gt;
-      &lt;li&gt;1/2 teaspoon salt&lt;/li&gt;
-      &lt;li&gt;olive oil for frying (1 tablespoon)&lt;/li&gt;
-      &lt;li&gt;1 teaspoon garlic oil (optional)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Boil half a litre of water.&lt;/li&gt;
-  &lt;li&gt;Use some of it (1 cup) to soak the dried tomatoes.&lt;/li&gt;
-  &lt;li&gt;While the tomatoes are soaking:
-    &lt;ul&gt;
-      &lt;li&gt;Heat the oil and fry the pine kernels, spices and the oyster mushrooms.&lt;/li&gt;
-      &lt;li&gt;Add the rice, shake or stir until it’s covered with the spices and the oil.&lt;/li&gt;
-      &lt;li&gt;Add some hot water (just enough to cover the rice) and simmer, covered, until the rice has absorbed the water.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Add the tomatoes and their soaking liquid, and some more boiled water, stir and simmer, covered, until the rice has absorbed all the liquid.&lt;/li&gt;
-  &lt;li&gt;Add the salt and more water, stir and simmer, covered, until the rice has absorbed the water.&lt;/li&gt;
-  &lt;li&gt;You may have to add water a few more times, depending on how much you added at a time.&lt;/li&gt;
-  &lt;li&gt;It’s ready when the rice is quite creamy (in Italian it’s called &lt;em&gt;all’onda&lt;/em&gt;, “wavy”).&lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Murakami meal #2: soba noodles, soy beans, tomato and carrot</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/murakami-2/"/>
-        <updated>2016-06-06T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/murakami-2</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/murakami-2_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is the second of my &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/murakami-meals&quot;&gt;Murakami meals&lt;/a&gt;. It’s a &lt;em&gt;very&lt;/em&gt; quick meal, hardly any cooking at all!&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Japanese-style&quot;&gt;&lt;em&gt;Japanese-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#10-minutes&quot;&gt;&lt;em&gt;10-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Main ingredients:
-    &lt;ul&gt;
-      &lt;li&gt;a pack of &lt;em&gt;soba&lt;/em&gt; noodles&lt;/li&gt;
-      &lt;li&gt;a cup of frozen soy beans&lt;/li&gt;
-      &lt;li&gt;a large carrot&lt;/li&gt;
-      &lt;li&gt;a tomato&lt;/li&gt;
-      &lt;li&gt;1/2 teaspoon dried &lt;em&gt;wakame&lt;/em&gt; seaweed&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;For seasoning I used:
-    &lt;ul&gt;
-      &lt;li&gt;some soy sauce&lt;/li&gt;
-      &lt;li&gt;a 1/2 cm piece of ginger, thinly sliced&lt;/li&gt;
-      &lt;li&gt;some rice vinegar&lt;/li&gt;
-      &lt;li&gt;some &lt;em&gt;ume&lt;/em&gt; vinegar&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Soak the &lt;em&gt;wakame&lt;/em&gt; seaweed in about half a liter of cold water for about 10 minutes.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, cook the &lt;em&gt;soba&lt;/em&gt; noodles for 5 minutes on the hob. For a great explanation of how to cook &lt;em&gt;soba&lt;/em&gt; noodles, see &lt;a href=&quot;http://justhungry.com/basics-cold-soba-noodles-dipping-sauce&quot;&gt;Makiko Ito’s site Just Hungry&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, cook the beans for 3 minutes in the microwave at full power (900W).&lt;/li&gt;
-  &lt;li&gt;Wash and slice the tomato and the carrot.&lt;/li&gt;
-  &lt;li&gt;Strain the &lt;em&gt;wakame&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Serve in four bowls:
-    &lt;ul&gt;
-      &lt;li&gt;the carrots seasoned with &lt;em&gt;ume&lt;/em&gt; vinegar and rice vinegar and a little soy sauce,&lt;/li&gt;
-      &lt;li&gt;the tomato slices seasoned with rice vinegar and soy sauce,&lt;/li&gt;
-      &lt;li&gt;the beans with soy sauce and some ginger,&lt;/li&gt;
-      &lt;li&gt;the &lt;em&gt;wakame&lt;/em&gt; seaweed.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Serve the noodles in bowls. Sprinkle with some &lt;em&gt;shichimi&lt;/em&gt;, sesame seeds (&lt;em&gt;irigoma&lt;/em&gt;) and soy sauce. おいしい！&lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Stuffed yellow peppers with chickpeas and rice</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/stuffed-yellow-peppers-chickpeas/"/>
-        <updated>2016-06-01T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/stuffed-yellow-peppers-chickpeas</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/stuffed-yellow-peppers-chickpeas_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This recipe is my own take on a recipe from “Sarah Brown’s Vegetarian Cookbook”. It’s very easy to make and guaranteed to impress your guests.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients and groceries
-    &lt;ul&gt;
-<<<<<<< HEAD
       &lt;li&gt;carrots, parsnips, potatoes and a small sweet potato (about 1/2 kg all together)&lt;/li&gt;
       &lt;li&gt;2 small tomatoes&lt;/li&gt;
       &lt;li&gt;paneer (Indian fresh cheese) (1 pack)&lt;/li&gt;
       &lt;li&gt;fresh ginger (1 tablespoon chopped finely)&lt;/li&gt;
-=======
-      &lt;li&gt;2 yellow or orange bell peppers&lt;/li&gt;
-      &lt;li&gt;2 medium tomatoes&lt;/li&gt;
-      &lt;li&gt;2 slices of brown bread&lt;/li&gt;
-      &lt;li&gt;2 tablespoons muesli&lt;/li&gt;
-      &lt;li&gt;1 teaspoon chopped ginger&lt;/li&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;From the store cupboard
     &lt;ul&gt;
-<<<<<<< HEAD
       &lt;li&gt;1 cup basmati rice&lt;/li&gt;
       &lt;li&gt;spices: ground cumin seeds (1 teaspoon), ground coriander seeds (1 teaspoon), ground turmeric (2 teaspoons), cayenne pepper or nanami togarashi (Japanese spice mix) (1 teaspoon)&lt;/li&gt;
       &lt;li&gt;seeds and nuts: sunflower seeds and/or sesame seeds (2 tablespoons), cashew nuts (1 cup)&lt;/li&gt;
       &lt;li&gt;soy sauce (1 tablespoon)&lt;/li&gt;
       &lt;li&gt;oil for cooking (I use olive oil) (1 tablespoon)&lt;/li&gt;
       &lt;li&gt;optional: garlic oil (1 teaspoon)&lt;/li&gt;
-=======
-      &lt;li&gt;1 teaspoon ground coriander&lt;/li&gt;
-      &lt;li&gt;2 tablespoon sunflower seeds&lt;/li&gt;
-      &lt;li&gt;2 tablespoon pumpkin seeds&lt;/li&gt;
-      &lt;li&gt;1 tin chickpeas&lt;/li&gt;
-      &lt;li&gt;1 cup basmati rice&lt;/li&gt;
-      &lt;li&gt;2 tablespoon olive oil&lt;/li&gt;
-      &lt;li&gt;2 teaspoon soy sauce&lt;/li&gt;
-      &lt;li&gt;1 teaspoon garlic oil 	&lt;/li&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-<<<<<<< HEAD
-=======
-
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
 &lt;ul&gt;
   &lt;li&gt;Cook the rice (see &lt;a href=&quot;http://www.quickandtastycooking.org.uk/basics&quot;&gt;basics&lt;/a&gt; for how to cook rice).&lt;/li&gt;
   &lt;li&gt;While the rice is cooking:
     &lt;ul&gt;
-<<<<<<< HEAD
       &lt;li&gt;Chop up the tomatoes and let them reduce (I do this in the microwave, 2 minutes at full power 900 W).&lt;/li&gt;
       &lt;li&gt;Peel and dice the vegetables, then either steam or microwave (6 minutes at full power 900 W).&lt;/li&gt;
       &lt;li&gt;Grind the cashew nuts (I use a pestle and mortar). The finer you grind them the creamier the curry will be.&lt;/li&gt;
@@ -2230,169 +1494,6 @@ Then in a second pass I look up every kanji for which I don’t know either the 
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Serve with the rice&lt;/li&gt;
-=======
-      &lt;li&gt;Make the filling for the peppers: crumble the bread and mix it with the muesli, a tablespoon of olive oil, a teaspoon of soy sauce and the coriander.&lt;/li&gt;
-      &lt;li&gt;Wash the peppers, cut off the top and remove the seeds from the inside.&lt;/li&gt;
-      &lt;li&gt;Stuff the peppers with the filling.  	&lt;/li&gt;
-      &lt;li&gt;Chop the tomatoes into small bits.&lt;/li&gt;
-      &lt;li&gt;Put half of the chopped tomatoes on top of the filling, then put the top of the pepper back on.&lt;/li&gt;
-      &lt;li&gt;Put in the microwave for 8-10 minutes on full power (900W).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;While the peppers are cooking:
-    &lt;ul&gt;
-      &lt;li&gt;Rinse the chickpeas and put them in a microwave pot with the other half of the chopped tomatoes, the ginger, the seeds, a teaspoon of soy sauce and a teaspoon of garlic oil.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Cook the chickpeas in the microwave for 4 minutes on full power (900W).&lt;/li&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-<<<<<<< HEAD
-        <title>Orzo with ricotta and mushrooms</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/orzo-ricotta-mushrooms/"/>
-        <updated>2016-05-15T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/orzo-ricotta-mushrooms</id>
-=======
-        <title>Three of my favourite Japanese kitchen tools</title>
-        <link href="http://www.quickandtastycooking.org.uk/articles/japanese-kitchen-tools/"/>
-        <updated>2016-05-29T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/articles/japanese-kitchen-tools</id>
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-<<<<<<< HEAD
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/orzo_ricotta_mushrooms_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;Orzo is pasta shaped like grains of barley. You can use in instead of rice for risotto-style dishes. It goes really well with porcini mushrooms. The ricotta cheese makes it creamy and mild. I like to serve it with a rocket, apple and cherry tomato side salad. This recipe takes about 30 minutes to prepare.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Italian-style&quot;&gt;&lt;em&gt;Italian-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients:
-    &lt;ul&gt;
-      &lt;li&gt;1 pack chestnut mushrooms&lt;/li&gt;
-      &lt;li&gt;150 g ricotta&lt;/li&gt;
-      &lt;li&gt;50 g grated grana padano or parmezan&lt;/li&gt;
-      &lt;li&gt;1 tablespoon ginger, chopped finely&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;1/2 cup dried porcini mushrooms&lt;/li&gt;
-      &lt;li&gt;5 dried tomatoes&lt;/li&gt;
-      &lt;li&gt;3 tablespoon pine kernels&lt;/li&gt;
-      &lt;li&gt;1 teaspoon cumin, coriander&lt;/li&gt;
-      &lt;li&gt;1 cup orzo&lt;/li&gt;
-      &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
-      &lt;li&gt;garlic oil (optional)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-=======
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/japanese-kitchen-tools_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;The apartment where I stayed in Japan had a kitchen but no pots, pans, cutlery or anything. So I had to go and buy everything — great fun when you’re jet-lagged.&lt;/p&gt;
-
-&lt;p&gt;I went to a supermarket and bought amongst other things a very sharp knife (partly showing on the banner of the &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/&quot;&gt;recipes page&lt;/a&gt;), a great versatile microwave pot (featuring on the banner of &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/microwave-cooking&quot;&gt;my post about the microwave&lt;/a&gt;), and the cheap-but-beautiful &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/murakami-meals/&quot;&gt;black-and-red bowls&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I also bought three kitchen tools that I particularly like:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/japanese-kitchen-tools_1600.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-flexible-antibacterial-cutting-mat&quot;&gt;A flexible, antibacterial cutting mat&lt;/h2&gt;
-
-&lt;p&gt;This mat contains a phytoncide, an antibacterial organic compound derived from plants. To kill all the germs you simply put it in the microwave for a minute. And it can go in the dishwasher as well. You can buy it on line, just search for “phytoncide cutting board”.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-pair-of-bamboo-cooking-chopsticks&quot;&gt;A pair of bamboo cooking chopsticks&lt;/h2&gt;
-
-&lt;figure class=&quot;half&quot;&gt;
-&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/long-chopsticks-detail_800.jpg&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Long chopsticks are great for cooking pasta or noodles. No risk of burning your fingers and handier than a fork too. You can easily find plain ones but I liked the &lt;em&gt;sakura&lt;/em&gt; decoration (cherry blossoms), and it actually has ridges for a better grip.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-rice-scoop&quot;&gt;A rice scoop&lt;/h2&gt;
-
-&lt;figure class=&quot;half&quot;&gt;
-&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/rice-scoop_800.jpg&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Japanese rice is different from other rice in the way it sticks together: when properly cooked, each grain is still quite firm but the grains have a sticky outer layer. That’s why every Japanese kitchen has a rice scoop like this, with little nobs that stop the rice from sticking to it. The scoop can be put upright on its handle, very nifty!&lt;/p&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Mild root vegetable curry with paneer and rice</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/mild-root-vegetable-curry/"/>
-        <updated>2016-05-22T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/mild-root-vegetable-curry</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/mild_root_vegetable_curry_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This very tasty recipe takes about 30 minutes to prepare. It is a mild root vegetable curry with a base of spices and seeds. The paneer (Indian fresh cheese, available in most supermarkets) is great when fried like this with sunflower seeds and turmeric. I also make this recipe with chickpeas instead, and prepare it in quite the same way.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#curry&quot;&gt;&lt;em&gt;curry&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients and groceries
-    &lt;ul&gt;
-      &lt;li&gt;carrots, parsnips, potatoes and a small sweet potato (about 1/2 kg all together)&lt;/li&gt;
-      &lt;li&gt;2 small tomatoes&lt;/li&gt;
-      &lt;li&gt;paneer (Indian fresh cheese) (1 pack)&lt;/li&gt;
-      &lt;li&gt;fresh ginger (1 tablespoon chopped finely)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;1 cup basmati rice&lt;/li&gt;
-      &lt;li&gt;spices: ground cumin seeds (1 teaspoon), ground coriander seeds (1 teaspoon), ground turmeric (2 teaspoons), cayenne pepper or nanami togarashi (Japanese spice mix) (1 teaspoon)&lt;/li&gt;
-      &lt;li&gt;seeds and nuts: sunflower seeds and/or sesame seeds (2 tablespoons), cashew nuts (1 cup)&lt;/li&gt;
-      &lt;li&gt;soy sauce (1 tablespoon)&lt;/li&gt;
-      &lt;li&gt;oil for cooking (I use olive oil) (1 tablespoon)&lt;/li&gt;
-      &lt;li&gt;optional: garlic oil (1 teaspoon)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Cook the rice (see &lt;a href=&quot;http://www.quickandtastycooking.org.uk/basics&quot;&gt;basics&lt;/a&gt; for how to cook rice).&lt;/li&gt;
-  &lt;li&gt;While the rice is cooking:
-    &lt;ul&gt;
-      &lt;li&gt;Chop up the tomatoes and let them reduce (I do this in the microwave, 2 minutes at full power 900 W).&lt;/li&gt;
-      &lt;li&gt;Peel and dice the vegetables, then either steam or microwave (6 minutes at full power 900 W).&lt;/li&gt;
-      &lt;li&gt;Grind the cashew nuts (I use a pestle and mortar). The finer you grind them the creamier the curry will be.&lt;/li&gt;
-      &lt;li&gt;Dice the paneer.&lt;/li&gt;
-      &lt;li&gt;Heat the olive oil.&lt;/li&gt;
-      &lt;li&gt;Add ginger, spices (except cayenne/nanami) and sunflower seeds, and fry over low heat for a few minutes, then add the paneer, fry for a few more minutes, stirring all the time.&lt;/li&gt;
-      &lt;li&gt;Add the cayenne/nanami and stir for another minute.&lt;/li&gt;
-      &lt;li&gt;Add the tomatoes, then the soy sauce and stir for another minute.&lt;/li&gt;
-      &lt;li&gt;Then add the cashew nuts and stir for another minute.&lt;/li&gt;
-      &lt;li&gt;Finally add the vegetables and the garlic oil and let it simmer, stirring occasionally, for about 10 minutes or so.  &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Serve with the rice&lt;/li&gt;
 &lt;/ul&gt;
 
         </content>
@@ -2427,7 +1528,7 @@ Then in a second pass I look up every kanji for which I don’t know either the 
       &lt;li&gt;1 tablespoon ginger, chopped finely&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;From the store cupboard&lt;br /&gt;
+  &lt;li&gt;From the store cupboard
     &lt;ul&gt;
       &lt;li&gt;1/2 cup dried porcini mushrooms&lt;/li&gt;
       &lt;li&gt;5 dried tomatoes&lt;/li&gt;
@@ -2440,7 +1541,6 @@ Then in a second pass I look up every kanji for which I don’t know either the 
   &lt;/li&gt;
 &lt;/ul&gt;
 
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
 &lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
 
 &lt;ul&gt;
@@ -2453,45 +1553,6 @@ Then in a second pass I look up every kanji for which I don’t know either the 
   &lt;li&gt;Spoon the ricotta into the pan, stirring gently.&lt;/li&gt;
   &lt;li&gt;Drizzle on some garlic oil and serve with grated cheese sprinkled on top.&lt;/li&gt;
 &lt;/ul&gt;
-<<<<<<< HEAD
-=======
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Murakami meals</title>
-        <link href="http://www.quickandtastycooking.org.uk/articles/murakami-meals/"/>
-        <updated>2016-05-13T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/articles/murakami-meals</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/murakami-meals_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;As promised in my previous post, &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;My journey of learning Japanese&lt;/a&gt;, I will start posting recipes for what I call “Murakami meals”, named after one of my favourite authors, Haruki Murakami.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Haruki_Murakami&quot;&gt;Haruki Murakami&lt;/a&gt; is a bestselling Japanese author. Food is a recurrent theme in his novels.&lt;/p&gt;
-
-&lt;p&gt;I love the way he lets his characters prepare food, like Nakata in “Kafka on the Shore” peering in the fridge and whipping up a great meal in no time for himself and Hoshino, or Aomame in “1Q84” eating cucumber with mayonaise, or the narrator in “Hard-Boiled Wonderland and the End of the World” cooking for the librarian. &lt;!-- resp p368, p152, p90 --&gt;&lt;/p&gt;
-
-&lt;!--
-Somebody made a very nice illustration of Nakata with Hoshino eating a bowl of ramen:
-![Nakata and Hoshino](http://rittlerion.com/img/bigimg/07big.jpg &quot;Nakata and Hoshino&quot;)
---&gt;
-
-&lt;p&gt;What I call a “Murakami meal” is a meal made quickly with what you find in the fridge. And although Murakami frequently lets his characters prepare and eat Western-style food, I’ll post recipes for Japanese-style food. Also, of course, my recipes will be vegetarian.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/aubergines-ponzu-soybeans-rice_1600.jpg&quot; alt=&quot;Aubergines with ponzu, soy beans, brown rice&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;My “Murakami meal #1” is &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/#aubergines-ponzu-soybeans-rice&quot;&gt;aubergines with &lt;em&gt;ponzu&lt;/em&gt;, soy beans with &lt;em&gt;shiitake&lt;/em&gt; and brown rice with &lt;em&gt;konbu&lt;/em&gt;&lt;/a&gt;.
-&lt;!--
- tamagoyaki (Japanese-style omelet) with ajizuki nori (seaweed), Japanese-style potato salad and silken tofu. I explain how to make it [on the recipes page](http://www.quickandtastycooking.org.uk/recipes/).
-![](http://www.quickandtastycooking.org.uk/images/)
---&gt;&lt;/p&gt;
->>>>>>> a6b45e37fce2a58deed60048a67815fbb803a302
 
         </content>
     </entry>
