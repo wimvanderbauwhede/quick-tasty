@@ -9,7 +9,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2016-12-25T21:06:12+00:00</updated>
+    <updated>2016-12-26T15:56:44+00:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -17,6 +17,77 @@
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
+    
+    <entry>
+        <title>Festive bake with aubergines, mushrooms and cream</title>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/festive-aubergines-mushrooms-bake/"/>
+        <updated>2016-12-25T00:00:00+00:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/recipes/festive-aubergines-mushrooms-bake</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/festive-aubergines-mushrooms-bake_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;This is a great festive meal, a rich bake of aubergines, mushrooms and potatoes with cream and cheese. It takes a bit longer, about 45 minutes, that’s why I only make it on special occasions.&lt;/p&gt;
+
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;975 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#800-1000kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_4.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;For two people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Main ingredients:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;400 g baking potatoes&lt;/li&gt;
+      &lt;li&gt;2 medium aubergines&lt;/li&gt;
+      &lt;li&gt;1 pack mushrooms&lt;/li&gt;
+      &lt;li&gt;half a cup of dried porcini mushrooms or other dried mushrooms&lt;/li&gt;
+      &lt;li&gt;150 ml double cream&lt;/li&gt;
+      &lt;li&gt;75 g cream cheese&lt;/li&gt;
+      &lt;li&gt;one cup of grated Grana Padano or parmezan&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For seasoning I used:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;a 1 cm piece of ginger, chopped finely&lt;/li&gt;
+      &lt;li&gt;1 tablespoon pine kernels&lt;/li&gt;
+      &lt;li&gt;1 teaspoon ground cumin&lt;/li&gt;
+      &lt;li&gt;1 teaspoon ground coriander     &lt;/li&gt;
+      &lt;li&gt;2 teaspoons garlic oil
+a pinch of salt
+a some freshly ground pepper&lt;/li&gt;
+      &lt;li&gt;a tablespoon olive oil&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Soak the dried mushrooms in a large cup of boiling water for about 20 minutes.&lt;/li&gt;
+  &lt;li&gt;Wash the potatoes and cook them in the microwave for 5 minutes at full power (900W), shake or stir them, then cook for another 5 minutes.&lt;/li&gt;
+  &lt;li&gt;Wash the aubergines, slice them and cook them in the microwave for 7 minutes at full power (900W).&lt;/li&gt;
+  &lt;li&gt;Wash and slice the mushrooms.&lt;/li&gt;
+  &lt;li&gt;Heat the oil, fry the spices and ginger over medium heat for a few minutes and add the mushrooms.&lt;/li&gt;
+  &lt;li&gt;Fry for a few minutes over high heat, then add the pine kernels.&lt;/li&gt;
+  &lt;li&gt;When the mushrooms have released their liquid, drain it into a cup.&lt;/li&gt;
+  &lt;li&gt;Add the soaked dried mushrooms and fry for a few more minutes, then add the salt and the garlic oil and switch of the heat.&lt;/li&gt;
+  &lt;li&gt;Slice the cooked potatoes and let them cool for a while.&lt;/li&gt;
+  &lt;li&gt;Combine the cream cheese and cream and whisk with a fork until the mixture is smooth.&lt;/li&gt;
+  &lt;li&gt;In a heatproof glass dish with a cover, put a layer of potato slices, and pour over part of the mixture. Then add a layer of aubergines and cover with the fried mushrooms, and so on.&lt;/li&gt;
+  &lt;li&gt;Sprinkle the grated cheese on top and put covered in the microwave for 5 minutes at full power (900W).&lt;/li&gt;
+  &lt;li&gt;Uncover and grill for 3 minutes.&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Courgettes with feta and pine kernels, served with basmati rice</title>
@@ -1533,68 +1604,6 @@ Then in a second pass I look up every kanji for which I don’t know either the 
   &lt;li&gt;Add the salt and more water, stir and simmer, covered, until the rice has absorbed the water.&lt;/li&gt;
   &lt;li&gt;You may have to add water a few more times, depending on how much you added at a time.&lt;/li&gt;
   &lt;li&gt;It’s ready when the rice is quite creamy (in Italian it’s called &lt;em&gt;all’onda&lt;/em&gt;, “wavy”).&lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Murakami meal #2: soba noodles, soy beans, tomato and carrot</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/murakami-2/"/>
-        <updated>2016-06-06T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/murakami-2</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/murakami-2_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is the second of my &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/murakami-meals&quot;&gt;Murakami meals&lt;/a&gt;. It’s a &lt;em&gt;very&lt;/em&gt; quick meal, hardly any cooking at all!&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Japanese-style&quot;&gt;&lt;em&gt;Japanese-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#10-minutes&quot;&gt;&lt;em&gt;10-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;525 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#400-600kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_2.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Main ingredients:
-    &lt;ul&gt;
-      &lt;li&gt;a pack of &lt;em&gt;soba&lt;/em&gt; noodles&lt;/li&gt;
-      &lt;li&gt;a cup of frozen soy beans&lt;/li&gt;
-      &lt;li&gt;a large carrot&lt;/li&gt;
-      &lt;li&gt;a tomato&lt;/li&gt;
-      &lt;li&gt;half a teaspoon dried &lt;em&gt;wakame&lt;/em&gt; seaweed&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;For seasoning I used:
-    &lt;ul&gt;
-      &lt;li&gt;some soy sauce&lt;/li&gt;
-      &lt;li&gt;half a cm piece of ginger, thinly sliced&lt;/li&gt;
-      &lt;li&gt;some rice vinegar&lt;/li&gt;
-      &lt;li&gt;some &lt;em&gt;ume&lt;/em&gt; vinegar&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Soak the &lt;em&gt;wakame&lt;/em&gt; seaweed in about half a liter of cold water for about 10 minutes.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, cook the &lt;em&gt;soba&lt;/em&gt; noodles for 5 minutes on the hob. For a great explanation of how to cook &lt;em&gt;soba&lt;/em&gt; noodles, see &lt;a href=&quot;http://justhungry.com/basics-cold-soba-noodles-dipping-sauce&quot;&gt;Makiko Ito’s site Just Hungry&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, cook the beans for 3 minutes in the microwave at full power (900W).&lt;/li&gt;
-  &lt;li&gt;Wash and slice the tomato and the carrot.&lt;/li&gt;
-  &lt;li&gt;Strain the &lt;em&gt;wakame&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Serve in four bowls:
-    &lt;ul&gt;
-      &lt;li&gt;the carrots seasoned with &lt;em&gt;ume&lt;/em&gt; vinegar and rice vinegar and a little soy sauce,&lt;/li&gt;
-      &lt;li&gt;the tomato slices seasoned with rice vinegar and soy sauce,&lt;/li&gt;
-      &lt;li&gt;the beans with soy sauce and some ginger,&lt;/li&gt;
-      &lt;li&gt;the &lt;em&gt;wakame&lt;/em&gt; seaweed.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Serve the noodles in bowls. Sprinkle with some &lt;em&gt;shichimi&lt;/em&gt;, sesame seeds (&lt;em&gt;irigoma&lt;/em&gt;) and soy sauce. おいしい！&lt;/li&gt;
 &lt;/ul&gt;
 
         </content>
