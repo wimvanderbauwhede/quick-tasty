@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2017-01-07T17:02:16+00:00</updated>
+    <updated>2017-01-15T17:39:47+00:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -15,6 +15,60 @@
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
+    
+    <entry>
+        <title>Simple winter hotpot with root vegetables and adzuki beans</title>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/winter-hotpot-root-vegetables-adzuki-beans/"/>
+        <updated>2017-01-15T00:00:00+00:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/recipes/winter-hotpot-root-vegetables-adzuki-beans</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/winter-hotpot-root-vegetables-adzuki-beans_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;This is a very easy to make winter hotpot with root vegetables and adzuki beans, small red beans that are mainly used in Japan in sweet red bean paste, but are great in savoury meals too, and very nourishing. The ginger and miso round of the taste of the vegetables and beans.&lt;/p&gt;
+
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#one-pot&quot;&gt;&lt;em&gt;one-pot&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;425 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#400-600kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_2.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;For two people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fresh ingredients:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;500 g potatoes and sweet potatoes&lt;/li&gt;
+      &lt;li&gt;500 g carrots and parsnips&lt;/li&gt;
+      &lt;li&gt;1 cm root ginger, sliced thinly&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;From the store cupboard:&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;1 tin adzuki beans&lt;/li&gt;
+      &lt;li&gt;1 tablespoon miso&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wash the vegetables. Peel the sweet potatoes and parsnips; it’s OK to scrape or peel the carrots but just washing is enough.&lt;/li&gt;
+  &lt;li&gt;Put them in a microwave pot and cook at full power (900W) for 5 minutes, then stir.&lt;/li&gt;
+  &lt;li&gt;Add the ginger and cook for another 5 minutes.&lt;/li&gt;
+  &lt;li&gt;Pour the cooking liquid into a bowl and mix with the miso.&lt;/li&gt;
+  &lt;li&gt;Rinse the beans under running water and add them to the pot, then pour over the miso mixture.&lt;/li&gt;
+  &lt;li&gt;Cook at full power (900W) for another 5 minutes.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+        </content>
+    </entry>
     
     <entry>
         <title>Scrambled tofu, hijiki, spinach and rice</title>
@@ -1680,80 +1734,6 @@ Brown rice &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/courg
   &lt;li&gt;Peel the hard-boiled egg and chop up finely.&lt;/li&gt;
   &lt;li&gt;Leave the potatoes and carrot to cool until almost room temperature.&lt;/li&gt;
   &lt;li&gt;When the potatoes and carrot have cooled down, mix in the courgette, ginger and egg. Mix in the mayonnaise and mash coarsely with a fork.&lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Mild curry with red lentils and rice</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/mild-curry-red-lentils/"/>
-        <updated>2016-07-08T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/mild-curry-red-lentils</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/mild-curry-red-lentils_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is a recipe for a delicious mild root vegetable curry. The red lentils give this curry a smooth creamy texture. The tomatoes provide some extra fiber and &lt;em&gt;umami&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#curry&quot;&gt;&lt;em&gt;curry&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;775 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients and groceries
-    &lt;ul&gt;
-      &lt;li&gt;carrots, parsnips (250 g)&lt;/li&gt;
-      &lt;li&gt;potatoes (250 g)&lt;/li&gt;
-      &lt;li&gt;2 small tomatoes (100 g)&lt;/li&gt;
-      &lt;li&gt;1 cup of red lentils&lt;/li&gt;
-      &lt;li&gt;1 tablespoon finely chopped fresh ginger&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;half a cup basmati rice&lt;/li&gt;
-      &lt;li&gt;spices: ground cumin seeds (1 teaspoon), ground coriander seeds (1 teaspoon), ground turmeric (2 teaspoons), cayenne pepper or &lt;em&gt;nanami togarashi&lt;/em&gt; (Japanese spice mix) (1 teaspoon)&lt;/li&gt;
-      &lt;li&gt;seeds and nuts: sunflower seeds and/or sesame seeds (2 tablespoons), ground almonds (1 cup)&lt;/li&gt;
-      &lt;li&gt;2 dried tomatoes&lt;/li&gt;
-      &lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;
-      &lt;li&gt;1 tablespoon oil for cooking (I use olive oil)&lt;/li&gt;
-      &lt;li&gt;1 teaspoon garlic oil (optional)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cook the rice (see &lt;a href=&quot;http://www.quickandtastycooking.org.uk/basics&quot;&gt;basics&lt;/a&gt; for how to cook rice).&lt;/li&gt;
-  &lt;li&gt;While the rice is cooking:
-    &lt;ul&gt;
-      &lt;li&gt;Slice the tomatoes very thinly.&lt;/li&gt;
-      &lt;li&gt;Peel and dice the root vegetables, then either steam or microwave (6 minutes at full power 900 W).&lt;/li&gt;
-      &lt;li&gt;Cook the red lentils:
-        &lt;ul&gt;
-          &lt;li&gt;Put the lentils and chopped dried tomatoes in a microwave pot with 2 cups water.&lt;/li&gt;
-          &lt;li&gt;Cook in the microwave for 2 minutes on full power (900W), then for 10 minutes on 50%.&lt;/li&gt;
-          &lt;li&gt;Stir; cook for 5 minutes on 50%.&lt;/li&gt;
-          &lt;li&gt;Stir, cook on 50% until there is hardly any liquid left in the pot (typically 5 minutes).&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Heat the olive oil.&lt;/li&gt;
-      &lt;li&gt;Add ginger, spices (except cayenne/nanami) and sunflower seeds, and fry over low heat for a few minutes.&lt;/li&gt;
-      &lt;li&gt;Add the tomato slices and fry over medium heat for a few minutes.&lt;/li&gt;
-      &lt;li&gt;Add the soy sauce and let it reduce over medium to high heat (this takes just a few seconds).&lt;/li&gt;
-      &lt;li&gt;Mix the ground almonds with the lentils and add to the pan, stirring well.&lt;/li&gt;
-      &lt;li&gt;Add the cayenne/nanami and stir for another minute.&lt;/li&gt;
-      &lt;li&gt;Finally add the vegetables and the garlic oil and let it simmer, stirring occasionally, for about 10 minutes or so.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Serve with the rice.&lt;/li&gt;
 &lt;/ul&gt;
 
         </content>
