@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2017-02-19T21:14:13+00:00</updated>
+    <updated>2017-02-25T14:08:31+00:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -15,6 +15,50 @@
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
+    
+    <entry>
+        <title>Should you eat 10-a-day, and how much is that anyway?</title>
+        <link href="http://www.quickandtastycooking.org.uk/articles/how-much-is-10-a-day/"/>
+        <updated>2017-02-25T00:00:00+00:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/articles/how-much-is-10-a-day</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/how-much-is-10-a-day_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;h2 id=&quot;the-study&quot;&gt;The study&lt;/h2&gt;
+
+&lt;!-- researchers at Imperial College sent out a press release about results of a study  --&gt;
+&lt;p&gt;A few days ago a &lt;a href=&quot;https://academic.oup.com/ije/article/doi/10.1093/ije/dyw319/3039477/Fruit-and-vegetable-intake-and-the-risk-of&quot;&gt;new study&lt;/a&gt; was published
+saying that &lt;a href=&quot;www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_22-2-2017-16-38-0&quot;&gt;“Eating more fruits and vegetables may prevent millions of premature deaths”&lt;/a&gt;. The &lt;a href=&quot;https://www.theguardian.com/society/2017/feb/23/five-day-10-portions-fruit-veg-cut-early-death&quot;&gt;media message&lt;/a&gt; was that we should eat “10 portions of fruit/veg per day”. But what did the paper really say, and how much is this “10-a-day” anyway?&lt;/p&gt;
+
+&lt;p&gt;What &lt;a href=&quot;https://academic.oup.com/ije/article/doi/10.1093/ije/dyw319/3039477/Fruit-and-vegetable-intake-and-the-risk-of&quot;&gt;the study&lt;/a&gt; did was looking at a large number (92) of other studies on this topic. The study does not actually mention “10 portions”, instead they looked at fruit and veg intake up to 800g/day. This is twice the official UK recommendation of 400g/day, hence the “10-a-day”. For comparison, the US recommendation is &lt;a href=&quot;https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6426a1.htm&quot;&gt;“1.5–2.0 cups of fruit and 2–3 cups of vegetables daily”&lt;/a&gt;, and as a cup is 240ml, this is considerably more than 400g/day.&lt;/p&gt;
+
+&lt;p&gt;I have read the paper and I think this is a reliable study with a sound methodology. The main uncertainty I think comes from the fact that in the individual studies (what they call “cohort studies”), the amounts of fruit and vegetables consumed are self-reported by the participants using food-frequency questionnaires. This &lt;a href=&quot;https://nutritionj.biomedcentral.com/articles/10.1186/1475-2891-7-18&quot;&gt;has been shown&lt;/a&gt; to lead to overestimating the consumption due to “social approval bias” (eating more fruit is good). It is not clear if the cohort studies corrected for this factor; in any case this would not change the observed trends.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-risky-is-this&quot;&gt;How risky is this?&lt;/h2&gt;
+
+&lt;p&gt;The paper shows that the relative risk for dying from  coronary heart disease, stroke and cancer is lower for people who eat more fruit and vegetables. As you can see from the figure, eating 400g/day already leads to a considerably lower risk.&lt;/p&gt;
+
+&lt;p&gt;To put this into perspective, the relative risk of death from coronary heart disease for men of age 40-44 due to &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/books/NBK53012/&quot;&gt;smoking&lt;/a&gt; is &lt;em&gt;6.3&lt;/em&gt;. That means that smoking increases your risk by more than 6 times compared to not smoking. By comparison, eating 800g/day instead of 400g/day reduces your relative risk from 0.75 to 0.70 compared to eating no fruits or vegetables at all.&lt;/p&gt;
+
+&lt;p&gt;&lt;img title=&quot;Fruits, vegetables and all-cause mortality, dose response&quot; src=&quot;http://www.quickandtastycooking.org.uk/images/eat_more_fruit.png&quot; alt=&quot;Fruits, vegetables and all-cause mortality, dose response&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The key message of paper is that, assuming there is a causal link, then the percentage of deaths per year due to coronary heart disease, stroke and cancer that could have been avoided by eating 800g fruit/veg a day was 9%, whereas for 500g fruit/veg a day it was 6% (in the UK). So if there is a direct causal link, the difference would be 3% of deaths, or 14,000 deaths prevented (total number of deaths from these causes was 315,000/year in the UK). The unknown factor is of course if the reduced risk is only because of the diet or if people with a 800g/day diet have lower risks due to other causes as well.&lt;/p&gt;
+
+&lt;h2 id=&quot;now-is-800gday-a-lot-or-not&quot;&gt;Now, is 800g/day a lot or not?&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes&quot;&gt;A typical Quick and Tasty meal&lt;/a&gt; contains about 200g vegetables per person, 400g if it includes potatoes. That means you get on average 300g vegetables from your main meal.&lt;/p&gt;
+
+&lt;p&gt;A piece of fruit (say an orange, apple or a banana) typically weighs 100-200g, so two pieces of fruit a day is on average 300g.&lt;/p&gt;
+
+&lt;p&gt;So eating 600g fruit and vegetables per day is actually very easy to achieve. If your other meals also contain some fruit or vegetables then even 800g/day is really not hard. So don’t be daunted by the “10-a-day’!&lt;/p&gt;
+
+
+        </content>
+    </entry>
     
     <entry>
         <title>Stir-fry of tofu, potatoes and carrots</title>
@@ -1640,78 +1684,6 @@ or at &lt;a href=&quot;http://www.justonecookbook.com/hijiki-salad/&quot;&gt;Jus
       &lt;li&gt;When the oil is hot, add the ginger, seeds and spices and fry over medium heat for a minute.&lt;/li&gt;
       &lt;li&gt;Add the potatoes and fry for a few minutes.&lt;/li&gt;
       &lt;li&gt;Add the cauliflower and stir-fry over high heat for a few minutes.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Murakami meal #3: Aubergine boats with soy beans and ginger served with red rice</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/aubergine-boats-soy-beans/"/>
-        <updated>2016-07-23T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/aubergine-boats-soy-beans</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/aubergine-boats-soy-beans_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is another &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/murakami-meals&quot;&gt;“Murakami meal”&lt;/a&gt;. I had aubergines and I decided to fill them with a mixture of soy beans, seaweed, &lt;em&gt;shiitake&lt;/em&gt; mushrooms and &lt;em&gt;miso&lt;/em&gt;,  and serve them with red rice cooked with &lt;em&gt;konbu&lt;/em&gt; seaweed. Although the ingredients are typically Japanese, filled aubergine is not a traditional Japanese recipe. But it’s delicious!&lt;/p&gt;
-
-&lt;p&gt;This reciped requires 30 minutes soaking time followed by 20 minutes cooking time.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Japanese-style&quot;&gt;&lt;em&gt;Japanese-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;550 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#400-600kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_2.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Main ingredients:
-    &lt;ul&gt;
-      &lt;li&gt;a cup of frozen soy beans&lt;/li&gt;
-      &lt;li&gt;2 medium aubergines&lt;/li&gt;
-      &lt;li&gt;1 cup of red rice (if you can’t find it, brown rice is also fine)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;For seasoning I used:
-    &lt;ul&gt;
-      &lt;li&gt;5 dried &lt;em&gt;shiitake&lt;/em&gt; mushrooms&lt;/li&gt;
-      &lt;li&gt;a 2 cm piece of ginger, thinly sliced&lt;/li&gt;
-      &lt;li&gt;1 piece of &lt;em&gt;konbu&lt;/em&gt; (about 5x10cm)&lt;/li&gt;
-      &lt;li&gt;1 tablespoon &lt;em&gt;miso&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;1 teaspoon dried &lt;em&gt;wakame&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;1 teaspoon &lt;em&gt;mirin&lt;/em&gt; (optional)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Soaking: 30 minutes
-    &lt;ul&gt;
-      &lt;li&gt;Boil a cup of water and soak the &lt;em&gt;shiitake&lt;/em&gt; for 30 minutes.&lt;/li&gt;
-      &lt;li&gt;Meanwhile,  put the rice and &lt;em&gt;konbu&lt;/em&gt; together in a pot with 2 cups of cold water and soak for 30 minutes.&lt;/li&gt;
-      &lt;li&gt;Meanwhile, soak the &lt;em&gt;wakame&lt;/em&gt; for 15 minutes in a pot of cold water.&lt;/li&gt;
-      &lt;li&gt;After soaking the &lt;em&gt;shiitake&lt;/em&gt;, slice them thinly.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Cooking: 20 minutes
-    &lt;ul&gt;
-      &lt;li&gt;Cook the rice with the &lt;em&gt;konbu&lt;/em&gt; for 6 minutes, either on the hob or in the microwave at full power (900W).&lt;/li&gt;
-      &lt;li&gt;Meanwhile, cook the beans for 3 minutes in the microwave at full power (900W).&lt;/li&gt;
-      &lt;li&gt;Scoop out the flesh from the aubergines and cook the shells for 5 minutes in the microwave at full power (900W). Chop the flesh coarsely.&lt;/li&gt;
-      &lt;li&gt;Remove the &lt;em&gt;konbu&lt;/em&gt; from the pot with rice and slice it into smaller strips. Return half of it to the pot and continue cooking for another 20 minutes or until all the water has been absorbed.&lt;/li&gt;
-      &lt;li&gt;Heat the oil and fry the ginger and the other half of the &lt;em&gt;konbu&lt;/em&gt;. Add the aubergine flesh and fry over medium heat until the aubergine has softened.&lt;/li&gt;
-      &lt;li&gt;Add the soy beans, &lt;em&gt;shiitake&lt;/em&gt; and &lt;em&gt;wakame&lt;/em&gt; and cook for a few minutes on low heat.&lt;/li&gt;
-      &lt;li&gt;Dissolve the &lt;em&gt;miso&lt;/em&gt; in a few tablespoons of soaking liquid from the &lt;em&gt;shiitake&lt;/em&gt;, and pour it over the aubergines.&lt;/li&gt;
-      &lt;li&gt;Let simmer for a few minutes over low heat.&lt;/li&gt;
-      &lt;li&gt;Stuff the aubergine shells with the mixture and microwave for 1 minute at full power (900W).&lt;/li&gt;
-      &lt;li&gt;Serve with the rice.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
