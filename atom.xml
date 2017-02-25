@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2017-02-25T14:27:58+00:00</updated>
+    <updated>2017-02-25T20:32:22+00:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -15,6 +15,93 @@
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
+    
+    <entry>
+        <title>Soy milk ramen</title>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/ramen/"/>
+        <updated>2017-02-25T00:00:00+00:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/recipes/ramen</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/ramen_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Ramen is a very popular dish in Japan, but it is usually not vegetarian. This is a delicious recipe for vegan soy milk &lt;em&gt;miso ramen&lt;/em&gt; (豆乳味噌ラーメン) very similiar to the recipe from &lt;a href=&quot;http://www.justonecookbook.com/vegetarian-ramen/&quot;&gt;JustOneCookbook&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are a few ingredients in this recipe that may be a bit harder to find, but it is really worth the effort! I bought these at a Chinese supermarket.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The first is essential, it is fermented broad bean paste (called &lt;em&gt;doubanjiang&lt;/em&gt; in Chinese). Make sure to check the ingredients as there are many types of chilli bean paste and a lot of them are not vegetarian. The Chinese characters are 豆瓣酱. If it says 辛豆瓣酱 then it will be very spicy. The brand I got is &lt;a href=&quot;https://shop.waiyeehong.com/food-ingredients/sauces-oils/other-sauces/chilli-bean-paste-toban-paste&quot;&gt;Pearl River Bridge Chilli Bean Paste&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The &lt;em&gt;kombu&lt;/em&gt; seaweed is also essential to make &lt;em&gt;dashi&lt;/em&gt;. I bought a Korean brand, &lt;a href=&quot;https://shop.waiyeehong.com/food-ingredients/dried-products/dried-beancurd-seaweed/dried-kelp&quot;&gt;A+ Hosan Dried Kelp&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;For the topping I used dried beancurd twists (called &lt;em&gt;yuba&lt;/em&gt; in Japanese, &lt;em&gt;bai ye jie&lt;/em&gt; in Chinese), you can of course use another topping. The brand I got is &lt;a href=&quot;https://shop.waiyeehong.com/food-ingredients/dried-products/dried-beancurd-seaweed/dried-beancurd-twists&quot;&gt;Yilin Dried Beancurd Twists &lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;For the topping I also used &lt;em&gt;ajitsuki nori&lt;/em&gt; (roasted flavoured &lt;em&gt;nori&lt;/em&gt; seaweed).   I bought a Korean brand, &lt;a href=&quot;https://shop.waiyeehong.com/food-ingredients/snacks-sweets/crisps-snacks-nuts/savoury-snacks/roasted-seasoned-sea-laver-low-salt&quot;&gt;A+ Hosan Roasted Seasoned Sea Laver&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All the other ingredients Japanese ingredients can be found in ordinary supermarkets.&lt;/p&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;For two people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;For the &lt;em&gt;dashi&lt;/em&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;250 ml water&lt;/li&gt;
+      &lt;li&gt;a piece of &lt;em&gt;kombu&lt;/em&gt; of about 2.5 cm x 10 cm&lt;/li&gt;
+      &lt;li&gt;2 dried &lt;em&gt;shiitake&lt;/em&gt; mushrooms&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For the soup&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;2 tablespoons sesame seeds, ground in a mortar (I used a golden/white mixture)&lt;/li&gt;
+      &lt;li&gt;2 cm ginger, cut finely&lt;/li&gt;
+      &lt;li&gt;1 teaspoon sesame oil, 1 teaspoon garlic oil, 2 teaspoons olive oil&lt;/li&gt;
+      &lt;li&gt;1-2 tablespoons chili bean paste (to taste – the paste is a bit spicy)&lt;/li&gt;
+      &lt;li&gt;2 tablespoons &lt;em&gt;miso&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;2 tablespoons &lt;em&gt;mirin&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;2 tablespoons soy sauce&lt;/li&gt;
+      &lt;li&gt;500 ml unsweetened soy milk (the one I use only contains water and soy beans)&lt;/li&gt;
+      &lt;li&gt;250 ml &lt;em&gt;dashi&lt;/em&gt; (250 ml)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ramen&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;180 g ramen noodles&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Toppings&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;mixed japanes mushrooms (200 g), I used oyster, &lt;em&gt;shiitake&lt;/em&gt;, &lt;em&gt;enoki&lt;/em&gt;, &lt;em&gt;buna-shimeji&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;8 dried tofu skin (&lt;em&gt;yuba&lt;/em&gt;) twists&lt;/li&gt;
+      &lt;li&gt;6 sheets of &lt;em&gt;ajitsuki nori&lt;/em&gt; (roasted flavoured &lt;em&gt;nori&lt;/em&gt; seaweed)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To make the &lt;em&gt;dashi&lt;/em&gt;, either soak the &lt;em&gt;kombu&lt;/em&gt; and dried &lt;em&gt;shiitake&lt;/em&gt; overnigth in cold water in the fridge or for an hour in hot water. Then heat it in the microwave for 4 minutes at full power (900W), it should not boil.&lt;/li&gt;
+  &lt;li&gt;Soak the &lt;em&gt;yuba&lt;/em&gt; knots in hot water until they are soft, then drain.&lt;/li&gt;
+  &lt;li&gt;Cut the mushrooms, wash them and microwave them for 2 minutes at full power (900W).&lt;/li&gt;
+  &lt;li&gt;Fry the ginger, then add the bean paste and &lt;em&gt;miso&lt;/em&gt; ans stir for a minute, then add the &lt;em&gt;mirin&lt;/em&gt; and stir until it’s smooth, then add the sesame seeds, then the soy sauce, then the soy milk, and finally the &lt;em&gt;dashi&lt;/em&gt;, stirring all the time.&lt;/li&gt;
+  &lt;li&gt;Boil the &lt;em&gt;ramen&lt;/em&gt; noodles for 4 minutes in plenty of water. Drain in a sieve, rinse briefly under cold water.&lt;/li&gt;
+  &lt;li&gt;Put the &lt;em&gt;ramen&lt;/em&gt; noodles in a bowl, add the soup and add the toppings.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+        </content>
+    </entry>
     
     <entry>
         <title>Should you eat 10-a-day, and how much is that anyway?</title>
@@ -38,13 +125,13 @@ saying that &lt;a href=&quot;www3.imperial.ac.uk/newsandeventspggrp/imperialcoll
 
 &lt;p&gt;I have read the paper and I think this is a reliable study with a sound methodology. The main uncertainty I think comes from the fact that in the individual studies (what they call “cohort studies”), the amounts of fruit and vegetables consumed are self-reported by the participants using food-frequency questionnaires. This &lt;a href=&quot;https://nutritionj.biomedcentral.com/articles/10.1186/1475-2891-7-18&quot;&gt;has been shown&lt;/a&gt; to lead to overestimating the consumption due to “social approval bias” (eating more fruit is good). It is not clear if the cohort studies corrected for this factor; in any case this would not change the observed trends.&lt;/p&gt;
 
-&lt;h2 id=&quot;how-risky-is-this&quot;&gt;How risky is this?&lt;/h2&gt;
+&lt;h2 id=&quot;what-about-the-health-benefits&quot;&gt;What about the health benefits?&lt;/h2&gt;
 
-&lt;p&gt;The paper shows that the relative risk of death from  coronary heart disease, stroke and cancer is lower for people who eat more fruit and vegetables. As you can see from the figure, eating 400g/day (“5-a-day”) already leads to a considerably lower risk.&lt;/p&gt;
+&lt;p&gt;The paper shows that the relative risk of death from  coronary heart disease, stroke and cancer is lower for people who eat more fruit and vegetables. As you can see from the figure below (&lt;a href=&quot;https://academic.oup.com/ije/article/doi/10.1093/ije/dyw319/3039477/Fruit-and-vegetable-intake-and-the-risk-of&quot;&gt;Fig. 6 in the paper&lt;/a&gt;), eating 400g/day (“5-a-day”) already leads to a significantly lower risk.&lt;/p&gt;
 
 &lt;p&gt;To put this into perspective, the relative risk of death from coronary heart disease for men of age 40-44 due to &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/books/NBK53012/&quot;&gt;smoking&lt;/a&gt; is &lt;em&gt;6.3&lt;/em&gt;. That means that smoking increases your risk by more than 6 times compared to not smoking. By comparison, eating 800g/day instead of 400g/day reduces your relative risk from 0.75 to 0.70 compared to eating no fruits or vegetables at all.&lt;/p&gt;
 
-&lt;p&gt;&lt;img title=&quot;Fruits, vegetables and all-cause mortality, dose response&quot; src=&quot;http://www.quickandtastycooking.org.uk/images/eat_more_fruit.png&quot; alt=&quot;Fruits, vegetables and all-cause mortality, dose response&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img title=&quot;Fruits, vegetables and all-cause mortality, non-linear dose response&quot; src=&quot;http://www.quickandtastycooking.org.uk/images/eat_more_fruit.png&quot; alt=&quot;Fruits, vegetables and all-cause mortality, non-linear dose response&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The key message of paper is that, assuming there is a causal link, then the percentage of deaths per year due to coronary heart disease, stroke and cancer that could have been avoided by eating 800g fruit/veg a day was 9%, whereas for 500g fruit/veg a day it was 6% (in the UK). So increasing intake from 500g/day to 800g/day would result in 3% fewer deaths, or 14,000 deaths prevented (total number of deaths from these causes was 315,000/year in the UK). The unknown factor is of course if the reduced risk is only because of the diet or if people who eat more fruit and vegetables have lower risks due to other causes as well.&lt;/p&gt;
 
@@ -1616,74 +1703,6 @@ or at &lt;a href=&quot;http://www.justonecookbook.com/hijiki-salad/&quot;&gt;Jus
     &lt;ul&gt;
       &lt;li&gt;Put the block of tofu on a plate and dice it carefully so it keeps its original shape. Cover it with another plate and put some weight on it (e.g. some more plates) to squeeze out the excess water.&lt;/li&gt;
       &lt;li&gt;Put the tofu pieces in a bowl with the tahini, miso and sugar and scramble with a fork or chops sticks until the mixture is smooth but still a little chunky.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Cauliflower, potatoes and lentils</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/cauliflower-potatoes-lentils/"/>
-        <updated>2016-07-31T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/cauliflower-potatoes-lentils</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/cauliflower-potatoes-lentils_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;Stir-frying the cauliflower and potatoes with seeds and spices gives a nice crunchy texture — make sure not to overcook the cauliflower. Puy lentils are a great companion for this but if you are really in a hurry, you can leave them out and add some goat cheese instead.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;700 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients and groceries
-    &lt;ul&gt;
-      &lt;li&gt;1 cauliflower&lt;/li&gt;
-      &lt;li&gt;about 400 g small potatoes&lt;/li&gt;
-      &lt;li&gt;1 cup puy lentils&lt;/li&gt;
-      &lt;li&gt;1 cm fresh ginger, chopped finely&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;2 dried tomatoes, roughly chopped&lt;/li&gt;
-      &lt;li&gt;1 teaspoon ground cumin&lt;/li&gt;
-      &lt;li&gt;1 teaspoon turmeric&lt;/li&gt;
-      &lt;li&gt;1 teaspoon ground coriander&lt;/li&gt;
-      &lt;li&gt;1 tablespoon sesame seeds&lt;/li&gt;
-      &lt;li&gt;1 tablespoon sunflower seeds&lt;/li&gt;
-      &lt;li&gt;2 tablespoon pumpkin seeds&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cook the lentils:
-    &lt;ul&gt;
-      &lt;li&gt;Put the lentils, dried tomatoes and cumin in a pot with 2 1/2 cups water (2 cups water for 1 cup lentils, another 1/2 cup for the dried tomatoes).&lt;/li&gt;
-      &lt;li&gt;Bring to a boil and let simmer for about 20-25 minutes, stir occasionally.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;While the lentils are cooking:
-    &lt;ul&gt;
-      &lt;li&gt;Wash the cauliflower and cut into florets.&lt;/li&gt;
-      &lt;li&gt;Wash but don’t peel the potatoes.&lt;/li&gt;
-      &lt;li&gt;Cook the cauliflower in the microwave for 4 minutes at full power (900W).&lt;/li&gt;
-      &lt;li&gt;Cook the potatoes in the microwave for 8 minutes at full power (900W).&lt;/li&gt;
-      &lt;li&gt;Heat the oil in a large deep pan. I recommend a non-stick pan with a lid.&lt;/li&gt;
-      &lt;li&gt;When the oil is hot, add the ginger, seeds and spices and fry over medium heat for a minute.&lt;/li&gt;
-      &lt;li&gt;Add the potatoes and fry for a few minutes.&lt;/li&gt;
-      &lt;li&gt;Add the cauliflower and stir-fry over high heat for a few minutes.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
