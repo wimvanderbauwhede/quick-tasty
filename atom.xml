@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2017-02-26T21:11:33+00:00</updated>
+    <updated>2017-03-04T14:03:59+00:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -15,6 +15,67 @@
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
+    
+    <entry>
+        <title>Parsnips, peppers and black beans with rice</title>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/parsnips-peppers-black-beans/"/>
+        <updated>2017-03-04T00:00:00+00:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/recipes/parsnips-peppers-black-beans</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/parsnips-peppers-black-beans_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;This is a simple, colourful and very tasty stir-fry of parsnips, baby bell peppers and black beans, served with rice. The “secret sauce” is almond flakes and tomato puree. In our local Chinese supermarket I found &lt;a href=&quot;https://www.orientalmart.co.uk/rice---grains/general/sawat-d-healthy-grain-trio-rice------------&quot;&gt;“Healthy Grain Trio Rice”&lt;/a&gt;, a mixture of brown, red cargo and black glutinous rice and a very nice combination.&lt;/p&gt;
+
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;625 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;For two people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fresh ingredients &amp;amp; groceries
+    &lt;ul&gt;
+      &lt;li&gt;a pack or tin of black beans&lt;/li&gt;
+      &lt;li&gt;500 g parsnips&lt;/li&gt;
+      &lt;li&gt;200 g sweet bell peppers&lt;/li&gt;
+      &lt;li&gt;1 cm ginger, finely chopped&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;From the store cupboard
+    &lt;ul&gt;
+      &lt;li&gt;small cup of whole-grain rice&lt;/li&gt;
+      &lt;li&gt;1 teaspoon coriander&lt;/li&gt;
+      &lt;li&gt;1 teaspoon turmeric&lt;/li&gt;
+      &lt;li&gt;1 tablespoon sunflower seeds&lt;/li&gt;
+      &lt;li&gt;1 tablespoon almond flakes&lt;/li&gt;
+      &lt;li&gt;1 tablespoon tomato puree&lt;/li&gt;
+      &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
+      &lt;li&gt;a drizzle of garlic oil&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cook the rice (see &lt;a href=&quot;http://www.quickandtastycooking.org.uk/basics&quot;&gt;basics&lt;/a&gt; for how to cook rice).&lt;/li&gt;
+  &lt;li&gt;While the rice is cooking:
+    &lt;ul&gt;
+      &lt;li&gt;Cook the parsnips and peppers in the microwave for twice 5 minutes at full power (900W)&lt;/li&gt;
+      &lt;li&gt;Heat the olive oil and when hot, stir-fry the ginger and seeds over medium heat for about a minute.&lt;/li&gt;
+      &lt;li&gt;Add the beans and fry over high heat for a minute.&lt;/li&gt;
+      &lt;li&gt;Then add the parsnips and peppers, fry over medium heat.&lt;/li&gt;
+      &lt;li&gt;Stir in the tomato puree and drizzle on the garlic oil.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Soy milk ramen</title>
@@ -41,7 +102,7 @@
 
 &lt;p&gt;All the other ingredients can be found in ordinary supermarkets.&lt;/p&gt;
 
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Japanese-style&quot;&gt;&lt;em&gt;Japanese-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;550 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_2.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Japanese-style&quot;&gt;&lt;em&gt;Japanese-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;700 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
 
@@ -1645,72 +1706,6 @@ or at &lt;a href=&quot;http://www.justonecookbook.com/hijiki-salad/&quot;&gt;Jus
       &lt;li&gt;You may have to add water a few more times, depending on how much you added at a time.&lt;/li&gt;
       &lt;li&gt;When the rice is getting quite creamy, add the peas.&lt;/li&gt;
       &lt;li&gt;Simmer for a few more minutes, then drizzle on some garlic oil and serve with pesto or cheese.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Stir-fried carrots with tofu-hummus and maftoul</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/carrots-shiraae-maftoul/"/>
-        <updated>2016-08-07T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/carrots-shiraae-maftoul</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/carrots-shiraae-maftoul_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;Carrots are great when stir fried with some seeds and spices. I cook them in the microwave for a short time so the frying is quicker, and I add apples as a sweetener. The tofu-hummus is very similar to the Japanese &lt;em&gt;shiraae&lt;/em&gt;, and very easy and quick to make. This goes really well with maftoul (giant couscous).&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;700 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients and groceries
-    &lt;ul&gt;
-      &lt;li&gt;400 g carrots&lt;/li&gt;
-      &lt;li&gt;a small apple&lt;/li&gt;
-      &lt;li&gt;1 teaspoon chopped ginger&lt;/li&gt;
-      &lt;li&gt;200 g silken tofu&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;2 tablespoons tahini&lt;/li&gt;
-      &lt;li&gt;2 teaspoons miso&lt;/li&gt;
-      &lt;li&gt;1 teaspoon sugar&lt;/li&gt;
-      &lt;li&gt;1 cup maftoul&lt;/li&gt;
-      &lt;li&gt;1 teaspoon ground coriander&lt;/li&gt;
-      &lt;li&gt;1 teaspoon ground cumin&lt;/li&gt;
-      &lt;li&gt;1 tablespoon sunflower seeds&lt;/li&gt;
-      &lt;li&gt;1 tablespoon sesame seeds&lt;/li&gt;
-      &lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Put the maftoul in a microwave pot with 1.5 cups of water and a teaspoon soy sauce and cook for 4 minutes at full power (900W).&lt;/li&gt;
-  &lt;li&gt;Peel the apple and slice quite thinly.&lt;/li&gt;
-  &lt;li&gt;Wash and dice the carrots. Cook them in the microwave, about 5 minutes on full power
-(900W).&lt;/li&gt;
-  &lt;li&gt;When the carrots are done, stir the maftoul, then cook it for 4 more minutes on full power (900W).&lt;/li&gt;
-  &lt;li&gt;Meanwhile, heat the olive oil and fry the ginger, spices and seeds for a few minutes on medium heat.&lt;/li&gt;
-  &lt;li&gt;Add the carrots and stir-fry on high heat for a few minutes.&lt;/li&gt;
-  &lt;li&gt;Add the apple slices and stir-fry on high heat for a few minutes.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, prepare the tofu-hummus:
-    &lt;ul&gt;
-      &lt;li&gt;Put the block of tofu on a plate and dice it carefully so it keeps its original shape. Cover it with another plate and put some weight on it (e.g. some more plates) to squeeze out the excess water.&lt;/li&gt;
-      &lt;li&gt;Put the tofu pieces in a bowl with the tahini, miso and sugar and scramble with a fork or chops sticks until the mixture is smooth but still a little chunky.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
