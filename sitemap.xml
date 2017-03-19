@@ -449,4 +449,11 @@
     <priority>1.0</priority>
   </url>
 
+  <url>
+    <loc>http://quickandtastycooking.org.uk/recipes/yubamaki-hijiki-nasu/</loc>
+    <lastmod>2016-03-19T14:42:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
 </urlset>
