@@ -233,7 +233,21 @@
   </url>
 
   <url>
+    <loc>http://quickandtastycooking.org.uk/recipes/fried-potatoes-carrots-soy-beans/</loc>
+    <lastmod>2016-04-02T14:42:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
     <loc>http://quickandtastycooking.org.uk/recipes/imam-bayildi-couscous-feta/</loc>
+    <lastmod>2016-04-02T14:42:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>http://quickandtastycooking.org.uk/recipes/iridofu-carrots-shiitake/</loc>
     <lastmod>2016-04-02T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
