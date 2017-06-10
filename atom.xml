@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2017-05-28T15:20:11+01:00</updated>
+    <updated>2017-06-10T13:47:24+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -15,6 +15,67 @@
 			<email>wimvanderbauwhede@yahoo.co.uk</email>
 		</author>
 
+    
+    <entry>
+        <title>Yakisoba with iridofu and carrots</title>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/yakisoba-iridofu-carrots/"/>
+        <updated>2017-06-10T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/recipes/yakisoba-iridofu-carrots</id>
+        <author>
+					<name>Wim Vanderbauwhede</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					<email>wimvanderbauwhede@yahoo.co.uk</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/yakisoba-iridofu-carrots_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;&lt;em&gt;Yakisoba&lt;/em&gt; (焼きそば) means “fried soba noodles”. It is basically scrambled tofu &lt;em&gt;iridoufu&lt;/em&gt; (炒り豆腐) with &lt;em&gt;soba&lt;/em&gt; noodles added to the pan. The chives are essential.”&lt;/p&gt;
+
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Japanese-style&quot;&gt;&lt;em&gt;Japanese-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#15-minutes&quot;&gt;&lt;em&gt;15-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;625 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;For two people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Main ingredients:
+    &lt;ul&gt;
+      &lt;li&gt;200 g soba noodles&lt;/li&gt;
+      &lt;li&gt;1 block of firm tofu 200-250 g&lt;/li&gt;
+      &lt;li&gt;300 g carrots&lt;/li&gt;
+      &lt;li&gt;1 medium courgette&lt;/li&gt;
+      &lt;li&gt;a bundle of chives&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Seasonings&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;1 tablespoon finely chopped fresh ginger&lt;/li&gt;
+      &lt;li&gt;2 tablespoons sesame seeds&lt;/li&gt;
+      &lt;li&gt;1 teaspoon &lt;em&gt;miso&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;
+      &lt;li&gt;1 teaspoon sesame oil&lt;/li&gt;
+      &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cook the soba noodles for 5 minutes in plenty of water. Wash carefully and drain.&lt;/li&gt;
+  &lt;li&gt;Meanwhile, cut the tofu into 1 cm slices and put it in the microwave for 3 minutes at full power (900W). When it has cooled, squeeze the moisture out of the pieces as much as possible.&lt;/li&gt;
+  &lt;li&gt;Meanwhile, cut the carrots and the courgette into &lt;em&gt;julienne&lt;/em&gt; strips and cook them in the microwave at full power (900W) for 2 to 3 minutes. Drain the cooking liquid into a small bowl.&lt;/li&gt;
+  &lt;li&gt;Meanwhile, heat the oil and fry the sesame seeds and ginger for a minute.&lt;/li&gt;
+  &lt;li&gt;Add the carrots, courgette and chives and fry over high heat for a minute or maybe two, depending on how fine you cut them.&lt;/li&gt;
+  &lt;li&gt;Add the tofu to the pan, crumble it with your hands or with a spatula.&lt;/li&gt;
+  &lt;li&gt;Fry for a few minutes over low heat, then lower the heat and let simmer.&lt;/li&gt;
+  &lt;li&gt;Meanwhile, mix the cooking liquid with the &lt;em&gt;miso&lt;/em&gt; and soy sauce.&lt;/li&gt;
+  &lt;li&gt;Add the mixture to the pan, add the cooked soba noodles and fry over medium heat until the liquid has completely gone.&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Linguine with cream, potatoes, asparagus and pesto</title>
@@ -1560,205 +1621,6 @@ Brown rice &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/courg
 &lt;/figure&gt;
 
 &lt;p&gt;For Japanese-style dishes you really need proper &lt;em&gt;Japonica&lt;/em&gt; rice: the rice grains cling together without being mushy &lt;a href=&quot;http://www.justhungry.com/japanese-basics-plain-rice-sushi-rice&quot;&gt;when cooked properly&lt;/a&gt;. It doesn’t necessarily have to come from Japan though. I use either Yumenishiki or Clearspring’s sushi rice, both are grown in Italy. Yumenishiki’s &lt;em&gt;koshihikari&lt;/em&gt; is an actual Japanese variety; the Clearspring rice is an Italian &lt;em&gt;Japonica&lt;/em&gt; variety, Selenio, which is very similar in taste and properties to Japanese rice. When I was in Japan I used &lt;em&gt;kinuhikari&lt;/em&gt;, a local variety from Kyoto. A nice Japanese-style recipe is &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/aubergines-sweet-potatoes-tofu/&quot;&gt;aubergines, sweet potatoes, tofu and wakame with rice&lt;/a&gt;.&lt;/p&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Scrambled tofu, hijiki, spinach and rice</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/iridoufu-hijiki-hourensou/"/>
-        <updated>2016-10-03T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/iridoufu-hijiki-hourensou</id>
-        <author>
-					<name>Wim Vanderbauwhede</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/iridoufu-hijiki-hourensou_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is a rather elaborate Japanese meal with three dishes and rice. Each of the dishes does not take long to prepare (15-20 minutes) but requires some soaking time. 
-Two of the dishes use &lt;em&gt;kombu dashi&lt;/em&gt;, this is very easy to make but requires some forward planning: put a piece of kombu of about 10 x 10 cm into about 500 ml water and put it in the fridge overnight.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Japanese-style&quot;&gt;&lt;em&gt;Japanese-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#45-minutes&quot;&gt;&lt;em&gt;45-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;825 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#800-1000kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_4.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I have written out the recipese for each dish separately, in the order in which I prepared them.&lt;/p&gt;
-
-&lt;p&gt;The &lt;em&gt;hijiki&lt;/em&gt; and &lt;em&gt;shiitake&lt;/em&gt; need to be soaked for one hour, and the rice needs an hour in total before cooking as well.&lt;/p&gt;
-
-&lt;p&gt;After this hour soaking time you can just prepare them in order, or if you want it to be a little bit quicker, you can start the rice and the &lt;em&gt;iridofu&lt;/em&gt; when you’ve set the &lt;em&gt;hijiki&lt;/em&gt; to simmer.&lt;/p&gt;
-
-&lt;!-- spinach-dashi-kaeshi --&gt;
-
-&lt;h3 id=&quot;spinach-marinated-in-seasoned-dashi&quot;&gt;Spinach marinated in seasoned &lt;em&gt;dashi&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;This is another very typical Japanese dish called &lt;em&gt;hourenso no ohitashi&lt;/em&gt; (ほうれん草のお浸し), you can find the original recipe at &lt;a href=&quot;http://www.justonecookbook.com/spinach-ohitashi-japanese-spinach-salad-with-bonito-flakes/&quot;&gt;Just One Cookbook&lt;/a&gt; and a very quick and easy variant at  &lt;a href=&quot;http://justbento.com/handbook/recipes-sides-and-fillers/blanched-spinach-soy-sauce-sesame-sauce&quot;&gt;Just Bento&lt;/a&gt;. It is and very easy to make if you have the &lt;em&gt;dashi&lt;/em&gt; ready. The preparation time is about 5 minutes but it has to marinate for at least 30 minutes after that so it is not actually quick.&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Main ingredients:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;1 pack of spinach (200 g)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Seasonings&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;half a cup cup &lt;em&gt;dashi&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;1 tablespoon &lt;em&gt;mirin&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Mix the &lt;em&gt;dashi&lt;/em&gt;, &lt;em&gt;mirin&lt;/em&gt; and soy sauce.&lt;/li&gt;
-  &lt;li&gt;Put the spinach in the microwave for 1 minute or at most 90 seconds, so that it is just fully wilted.&lt;/li&gt;
-  &lt;li&gt;Rinse under cold water to cool.&lt;/li&gt;
-  &lt;li&gt;Then squeeze the juice out of the spinach with your hands and create “logs” of about 10 cm long and 3-4 cm wide.&lt;/li&gt;
-  &lt;li&gt;Cut the “logs” into pieces of 2-3 cm and put them in a shallow bowl.&lt;/li&gt;
-  &lt;li&gt;Pour over the &lt;em&gt;dashi&lt;/em&gt; mixture and let marinate for at least half an hour.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;By the time the other dishes are prepared it will be ready to eat.&lt;/p&gt;
-
-&lt;!-- stewed-hijiki-carrots-tofu --&gt;
-
-&lt;h3 id=&quot;stewed-hijiki-with-carrots-and-tofu&quot;&gt;Stewed &lt;em&gt;hijiki&lt;/em&gt; with carrots and &lt;em&gt;tofu&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;This way to prepare &lt;em&gt;hijiki&lt;/em&gt; seaweed is a very common in Japan, and you can find the original recipe for example at
-&lt;a href=&quot;http://www.justbento.com/handbook/johbisai/stewed-hijiki-seaweed-carrots-and-fried+tofu&quot;&gt;Just Bento&lt;/a&gt;
-or at &lt;a href=&quot;http://www.justonecookbook.com/hijiki-salad/&quot;&gt;Just One Cookbook&lt;/a&gt;. My variation is to add some ginger and use vegan &lt;em&gt;kombudashi&lt;/em&gt; rather than the  &lt;em&gt;katsuodashi&lt;/em&gt; common in Japan.&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients-1&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Main ingredients:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;3-4 tablespoons &lt;em&gt;hijiki&lt;/em&gt; seaweed&lt;/li&gt;
-      &lt;li&gt;1 large carrot or 2 small ones&lt;/li&gt;
-      &lt;li&gt;2-3 thin slices from a block of hard tofu, about 50 g (more if you want it to be more filling)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Other ingredients:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;1 cm ginger, sliced thinly&lt;/li&gt;
-      &lt;li&gt;1 cup &lt;em&gt;kombudashi&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;enough kaeshi for 1 cup &lt;em&gt;dashi&lt;/em&gt;:
-        &lt;ul&gt;
-          &lt;li&gt;2 tablespoons &lt;em&gt;mirin&lt;/em&gt;&lt;/li&gt;
-          &lt;li&gt;1 tablespoon sugar&lt;/li&gt;
-          &lt;li&gt;2 tablespoons soy sauce&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;1 teaspoon sesame oil&lt;/li&gt;
-      &lt;li&gt;1 tablespoon olive oil (any other oil for frying is fine)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation-1&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Soak the &lt;em&gt;hijiki&lt;/em&gt; for at least an hour in cold water.&lt;/li&gt;
-  &lt;li&gt;While the &lt;em&gt;hijiki&lt;/em&gt; is soaking:
-    &lt;ul&gt;
-      &lt;li&gt;Cut the tofu into thin strips and put it in the microwave for 2 minutes at full power (900W).&lt;/li&gt;
-      &lt;li&gt;Cut the carrots in small strips.&lt;/li&gt;
-      &lt;li&gt;Heat the olive oil and sesame oil.&lt;/li&gt;
-      &lt;li&gt;Fry the tofu, carrots and ginger until the tofu just starts to brown.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Add the soaked &lt;em&gt;hijiki&lt;/em&gt; and fry some more.&lt;/li&gt;
-  &lt;li&gt;Add the &lt;em&gt;dashi&lt;/em&gt; and &lt;em&gt;kaeshi&lt;/em&gt; and simmer over low heat for 20-30 minutes until the carrots are tender.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;While it’s simmering, you cand start cooking the rice and the &lt;em&gt;iridofu&lt;/em&gt;.&lt;/p&gt;
-
-&lt;!-- iridofu --&gt;
-
-&lt;h3 id=&quot;scrambled-tofu-iridoufu&quot;&gt;Scrambled tofu (&lt;em&gt;iridoufu&lt;/em&gt;)&lt;/h3&gt;
-
-&lt;p&gt;The final and most substantial dish in this meal is &lt;em&gt;iridoufu&lt;/em&gt; (炒り豆腐), another very common dish. It is quite easy and quick to make, in about 15 minutes. The original recipe is from &lt;a href=&quot;http://justbento.com/handbook/recipe-collection-mains/vegan-iri-dofu-iri-doufu-garlic-chives&quot;&gt;Just Bento&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients-2&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Main ingredients:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;1 block of firm tofu 200-250 g&lt;/li&gt;
-      &lt;li&gt;a bunch of chives (abour half a cup chopped)&lt;/li&gt;
-      &lt;li&gt;4 dried &lt;em&gt;shiitake&lt;/em&gt; mushrooms, soaked in hot water for at least an hour. You will need 4 tablespoons of the soaking liquid as well.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Seasonings&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;1 tablespoon finely chopped fresh ginger&lt;/li&gt;
-      &lt;li&gt;1 tablespoon sesame seeds&lt;/li&gt;
-      &lt;li&gt;2 tablespoons &lt;em&gt;miso&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;1 tablespoon soy sauce (optional)&lt;/li&gt;
-      &lt;li&gt;1 tablespoon sesame oil&lt;/li&gt;
-      &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation-2&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cut the tofu into pieces and put it in the microwave for 3 minutes at full power (900W). When it has cooled, squeeze the moisture out of the pieces as much as possible.&lt;/li&gt;
-  &lt;li&gt;Cut the &lt;em&gt;shiitake&lt;/em&gt; mushrooms into small strips.&lt;/li&gt;
-  &lt;li&gt;Heat the oil and fry the ginger and the sesame seeds, then add the chives and mushrooms and fry over medium heat for 30 seconds.&lt;/li&gt;
-  &lt;li&gt;Add the tofu to the pan, crumble it with your hands or with a spatula.&lt;/li&gt;
-  &lt;li&gt;Fry for a few minutes over low heat, then lower the heat and let simmer.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, mix 4 tablespoons of the &lt;em&gt;shiitake&lt;/em&gt; soaking liquid with the &lt;em&gt;miso&lt;/em&gt; and the soy sauce (optional as it mainly makes the dish a bit more salty).&lt;/li&gt;
-  &lt;li&gt;Add the mixture to the pan and fry over medium heat until the liquid has completely gone.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;rice&quot;&gt;Rice&lt;/h3&gt;
-
-&lt;p&gt;The dishes are complemented with plain Japanese rice.&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients-3&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;1 cup of Japanese rice&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation-3&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Use 1.1 cup water for 1 cup rice. The cup I use is 200 ml.&lt;/li&gt;
-  &lt;li&gt;I wash the rice a few times to get rid of dust and also of the rice flour from polishing. For Japanese rice, you should not just rinse it but also actually “wash” the rice by gently rubbing the grains together between your fingers. A detailed explanation can be found at &lt;a href=&quot;http://justhungry.com/handbook/cooking-courses/japanese-cooking-101-lesson-2-great-japanese-rice&quot;&gt;Makiko Itoh’s site Just Hungry&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;To cook the 1 cup of rice in the microwave:
-    &lt;ul&gt;
-      &lt;li&gt;Put the rice with the water in a microwave-compatible pot with a lid&lt;/li&gt;
-      &lt;li&gt;Cook at full power (900W) for one and a half minutes&lt;/li&gt;
-      &lt;li&gt;Cook at reduced power (40%, 360W) for 15 minutes.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
 
         </content>
     </entry>
