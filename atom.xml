@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2017-06-10T13:47:24+01:00</updated>
+    <updated>2017-06-11T18:39:27+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim Vanderbauwhede</name>
@@ -167,36 +167,46 @@
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;Main ingredients&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;400 g carrots&lt;/li&gt;
-  &lt;li&gt;200 g udon noodles&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;10 dried tofu skin knots&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;400 g carrots&lt;/li&gt;
+      &lt;li&gt;200 g udon noodles&lt;/li&gt;
+      &lt;li&gt;10 dried tofu skin knots&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;For the sauce&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;6 dried tomatoes, finely chopped&lt;/li&gt;
+      &lt;li&gt;1 tablespoon tomato puree&lt;/li&gt;
+      &lt;li&gt;a handful of dried shiitake&lt;/li&gt;
+      &lt;li&gt;2 tablespoons pumpkin seeds, crushed in a mortar&lt;/li&gt;
+      &lt;li&gt;1 cm ginger, finely chopped&lt;/li&gt;
+      &lt;li&gt;1/2 teaspoon miso&lt;/li&gt;
+      &lt;li&gt;1/2 teaspoon black bean paste&lt;/li&gt;
+      &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
+      &lt;li&gt;1 teaspoon garlic oil&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;6 dried tomatoes, finely chopped&lt;/li&gt;
-  &lt;li&gt;1 tablespoon tomato puree&lt;/li&gt;
-  &lt;li&gt;a handful of dried shiitake&lt;/li&gt;
-  &lt;li&gt;2 tablespoons pumpkin seeds, crushed in a mortar&lt;/li&gt;
-  &lt;li&gt;1 cm ginger, finely chopped&lt;/li&gt;
-  &lt;li&gt;1/2 teaspoon miso&lt;/li&gt;
-  &lt;li&gt;1/2 teaspoon black bean paste&lt;/li&gt;
-  &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
-  &lt;li&gt;1 teaspoon garlic oil&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
 
-&lt;p&gt;Three of the ingredients need soaking: the dried tomatoes, &lt;em&gt;shiitake&lt;/em&gt; and the tofu knots (&lt;em&gt;yuba&lt;/em&gt;).
-- Soak each of these in a separate pot or bowl in freshly boiled water for at least 30 minutes.
-- After soaking:
-	- Squeeze the liquid out of the tomatoes. Keep the soaking liquid.
-	- Wash the &lt;em&gt;shiitake&lt;/em&gt;, then squeeze the liquid out of them and cut the in strips. Keep the soaking liquid.
-	- Drain the water from the tofu knots&lt;/p&gt;
+&lt;p&gt;Three of the ingredients need soaking: the dried tomatoes, &lt;em&gt;shiitake&lt;/em&gt; and the tofu knots (&lt;em&gt;yuba&lt;/em&gt;).&lt;/p&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;Soak each of these in a separate pot or bowl in freshly boiled water for at least 30 minutes.&lt;/li&gt;
+  &lt;li&gt;After soaking:
+    &lt;ul&gt;
+      &lt;li&gt;Squeeze the liquid out of the tomatoes. Keep the soaking liquid.
+        &lt;ul&gt;
+          &lt;li&gt;Wash the &lt;em&gt;shiitake&lt;/em&gt;, then squeeze the liquid out of them and cut the in strips. Keep the soaking liquid.&lt;/li&gt;
+          &lt;li&gt;Drain the water from the tofu knots&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;Bring water to the boil for the noodles and cook the noodles for 8 minutes.&lt;/li&gt;
   &lt;li&gt;Meanwhile, wash, peel and dice the carrots and cook the in the microwave for 4 minutes at full power (900W).&lt;/li&gt;
   &lt;li&gt;Meanwhile, heat the oil and fry the ginger for a minute or so.&lt;/li&gt;
