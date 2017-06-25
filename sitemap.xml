@@ -226,6 +226,13 @@
   </url>
 
   <url>
+    <loc>http://quickandtastycooking.org.uk/recipes/curry-potatoes-spinach-chickpeas/</loc>
+    <lastmod>2016-06-25T14:42:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
     <loc>http://quickandtastycooking.org.uk/recipes/festive-aubergines-mushrooms-bake/</loc>
     <lastmod>2016-06-25T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -374,6 +381,13 @@
 
   <url>
     <loc>http://quickandtastycooking.org.uk/recipes/potato-vegetable-bake/</loc>
+    <lastmod>2016-06-25T14:42:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>http://quickandtastycooking.org.uk/recipes/potatoes-beans-peas-courgette/</loc>
     <lastmod>2016-06-25T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
