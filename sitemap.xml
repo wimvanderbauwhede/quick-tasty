@@ -359,6 +359,13 @@
   </url>
 
   <url>
+    <loc>http://quickandtastycooking.org.uk/recipes/parsnips-bananas-adzuki-beans-rice/</loc>
+    <lastmod>2016-09-22T14:42:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
     <loc>http://quickandtastycooking.org.uk/recipes/parsnips-peppers-black-beans/</loc>
     <lastmod>2016-09-22T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -367,6 +374,13 @@
 
   <url>
     <loc>http://quickandtastycooking.org.uk/recipes/pasta-chickpeas-cucumber/</loc>
+    <lastmod>2016-09-22T14:42:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>http://quickandtastycooking.org.uk/recipes/peppers-tofu-black-rice/</loc>
     <lastmod>2016-09-22T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
