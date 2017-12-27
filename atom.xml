@@ -7,12 +7,12 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2017-12-27T14:43:27+00:00</updated>
+    <updated>2017-12-27T14:47:04+00:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
-			<name>Wim Vanderbauwhede</name>
+			<name>Wim</name>
 			<uri>http://www.quickandtastycooking.org.uk/</uri>
-			<email>wimvanderbauwhede@yahoo.co.uk</email>
+			
 		</author>
 
     
@@ -22,9 +22,9 @@
         <updated>2017-12-22T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/articles/more-on-learning-japanese</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/yu_1600x600.jpg&quot;&gt;&lt;br/&gt;
@@ -76,9 +76,9 @@
         <updated>2017-12-05T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/celeriac-mushrooms-lentils-rice</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/celeriac-mushrooms-lentils-rice_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -142,9 +142,9 @@
         <updated>2017-11-30T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/curry-potatoes-parsnips-chickpeas</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/curry-potatoes-parsnips-chickpeas_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -203,9 +203,9 @@
         <updated>2017-09-17T00:00:00+01:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/parsnips-bananas-adzuki-beans-rice</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/parsnips-bananas-adzuki-beans-rice_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -276,9 +276,9 @@
         <updated>2017-09-07T00:00:00+01:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/peppers-tofu-black-rice</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/peppers-tofu-black-rice_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -347,9 +347,9 @@
         <updated>2017-06-11T00:00:00+01:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/potatoes-beans-peas-courgette</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/potatoes-beans-peas-courgette_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -429,9 +429,9 @@
         <updated>2017-06-10T00:00:00+01:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/yakisoba-iridofu-carrots</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/yakisoba-iridofu-carrots_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -490,9 +490,9 @@
         <updated>2017-05-28T00:00:00+01:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/curry-potatoes-spinach-chickpeas</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/curry-potatoes-spinach-chickpeas_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -554,9 +554,9 @@
         <updated>2017-05-25T00:00:00+01:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/linguine-pesto-cream-asparagus-potatoes</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/linguine-pesto-cream-asparagus-potatoes_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -612,9 +612,9 @@
         <updated>2017-04-16T00:00:00+01:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/udon-carrots-yuba-knots</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/udon-carrots-yuba-knots_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -692,9 +692,9 @@
         <updated>2017-03-30T00:00:00+01:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/iridofu-carrots-shiitake</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/iridofu-carrots-shiitake_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -765,9 +765,9 @@
         <updated>2017-03-25T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/fried-potatoes-carrots-soy-beans</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/fried-potatoes-carrots-soy-beans_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -825,9 +825,9 @@
         <updated>2017-03-19T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/yubamaki-hijiki-nasu</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/yubamaki-hijiki-nasu_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -919,9 +919,9 @@
         <updated>2017-03-04T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/parsnips-peppers-black-beans</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/parsnips-peppers-black-beans_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -980,9 +980,9 @@
         <updated>2017-02-25T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/ramen</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/ramen_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -1072,9 +1072,9 @@
         <updated>2017-02-25T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/articles/how-much-is-10-a-day</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/how-much-is-10-a-day_1600x600.jpg&quot;&gt;&lt;br/&gt;
@@ -1116,9 +1116,9 @@ saying that &lt;a href=&quot;www3.imperial.ac.uk/newsandeventspggrp/imperialcoll
         <updated>2017-02-19T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/scrambled-tofu-potatoes-carrots</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/scrambled-tofu-potatoes-carrots_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -1183,9 +1183,9 @@ saying that &lt;a href=&quot;www3.imperial.ac.uk/newsandeventspggrp/imperialcoll
         <updated>2017-02-11T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/risotto-parsnips-oyster-mushrooms</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/risotto-parsnips-oyster-mushrooms_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -1248,9 +1248,9 @@ saying that &lt;a href=&quot;www3.imperial.ac.uk/newsandeventspggrp/imperialcoll
         <updated>2017-01-28T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/articles/one-year-of-quick-and-tasty</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/one-year-of-quick-and-tasty_1600x600.jpg&quot;&gt;&lt;br/&gt;
@@ -1276,9 +1276,9 @@ saying that &lt;a href=&quot;www3.imperial.ac.uk/newsandeventspggrp/imperialcoll
         <updated>2017-01-15T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/winter-hotpot-root-vegetables-adzuki-beans</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/winter-hotpot-root-vegetables-adzuki-beans_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -1330,9 +1330,9 @@ saying that &lt;a href=&quot;www3.imperial.ac.uk/newsandeventspggrp/imperialcoll
         <updated>2016-12-26T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/parsnip-celeriac-soybean-nabe</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/parsnip-celeriac-soybean-nabe_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -1408,9 +1408,9 @@ You need several typically Japanese ingredients for this but I bought everything
         <updated>2016-12-25T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/festive-aubergines-mushrooms-bake</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/festive-aubergines-mushrooms-bake_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -1479,9 +1479,9 @@ a some freshly ground pepper&lt;/li&gt;
         <updated>2016-12-18T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/butternut-squash-pear-blackeyed-beans</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/butternut-squash-pear-blackeyed-beans_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -1543,9 +1543,9 @@ a some freshly ground pepper&lt;/li&gt;
         <updated>2016-12-11T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/courgettes-feta-rice</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/courgettes-feta-rice_1600.jpg&quot;&gt;&lt;br/&gt;
@@ -1599,9 +1599,9 @@ a some freshly ground pepper&lt;/li&gt;
         <updated>2016-12-04T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/recipes/carrots-potatoes-chickpeas</id>
         <author>
-					<name>Wim Vanderbauwhede</name>
+					<name>Wim</name>
 					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					<email>wimvanderbauwhede@yahoo.co.uk</email>
+					
 				</author>
         <content type="html">
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/carrots-potatoes-chickpeas_1600.jpg&quot;&gt;&lt;br/&gt;
