@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2018-02-03T18:21:10+00:00</updated>
+    <updated>2018-02-04T20:20:29+00:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
@@ -15,6 +15,67 @@
 			
 		</author>
 
+    
+    <entry>
+        <title>Yakisoba with carrots and edamame</title>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/yakisoba-carrots-edamame/"/>
+        <updated>2018-02-04T00:00:00+00:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/recipes/yakisoba-carrots-edamame</id>
+        <author>
+					<name>Wim</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/yakisoba-carrots-edamame_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;&lt;em&gt;Yakisoba&lt;/em&gt; (焼きそば) means “fried soba noodles”. This is a stir fry of carrots and soy beams with soba noodles added to the pan.&lt;/p&gt;
+
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Japanese-style&quot;&gt;&lt;em&gt;Japanese-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;625 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;For two people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Main ingredients:
+    &lt;ul&gt;
+      &lt;li&gt;200 g soba noodles&lt;/li&gt;
+      &lt;li&gt;1 cup of frozen soy beans (&lt;em&gt;edamame&lt;/em&gt;)&lt;/li&gt;
+      &lt;li&gt;400 g carrots&lt;/li&gt;
+      &lt;li&gt;5 dried &lt;em&gt;shiitake&lt;/em&gt;  (soaked)&lt;/li&gt;
+      &lt;li&gt;some celery&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Seasonings&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;1 tablespoon finely chopped fresh ginger&lt;/li&gt;
+      &lt;li&gt;2 tablespoons sesame seeds&lt;/li&gt;
+      &lt;li&gt;1 teaspoon &lt;em&gt;miso&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;1 teaspoon sesame oil&lt;/li&gt;
+      &lt;li&gt;1 teaspoon garlic oil&lt;/li&gt;
+      &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cook the soba noodles for 5 minutes in plenty of water. Wash carefully and drain.&lt;/li&gt;
+  &lt;li&gt;Meanwhile, microwave the soy beans for 2 minutes at full power (900W).&lt;/li&gt;
+  &lt;li&gt;Meanwhile, cut the carrots and the celery into &lt;em&gt;julienne&lt;/em&gt; strips and cook them in the microwave at full power (900W) for 2 to 3 minutes. Drain the cooking liquid into a small bowl.&lt;/li&gt;
+  &lt;li&gt;Meanwhile, heat the oil and fry the sesame seeds and ginger for a minute.&lt;/li&gt;
+  &lt;li&gt;Add the carrots and celery and fry over high heat for a minute or maybe two, depending on how fine you cut them.&lt;/li&gt;
+  &lt;li&gt;Add the &lt;em&gt;shiitake&lt;/em&gt; and soy beans to the pan and fry for a few minutes over low heat.&lt;/li&gt;
+  &lt;li&gt;Lower the heat and let simmer.&lt;/li&gt;
+  &lt;li&gt;Meanwhile, mix the cooking liquid with the &lt;em&gt;miso&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Add the mixture to the pan, add the cooked soba noodles and fry over medium heat until the liquid has completely gone.&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Nabe of yellow peppers, celeriac, shiitake and tofu with rice</title>
@@ -567,67 +628,6 @@ You need several typically Japanese ingredients for this but I bought everything
   &lt;li&gt;Add the beans and peas.&lt;/li&gt;
   &lt;li&gt;Add the &lt;em&gt;miso&lt;/em&gt;, black bean paste and tomato puree and two tablespoons each of the soaking liquid of the tomatoes and &lt;em&gt;shiitake&lt;/em&gt;.&lt;/li&gt;
   &lt;li&gt;Cook further for a few minutes over low heat, stirring well.&lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Yakisoba with iridofu and carrots</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/yakisoba-iridofu-carrots/"/>
-        <updated>2017-06-10T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/yakisoba-iridofu-carrots</id>
-        <author>
-					<name>Wim</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/yakisoba-iridofu-carrots_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;&lt;em&gt;Yakisoba&lt;/em&gt; (焼きそば) means “fried soba noodles”. It is basically scrambled tofu &lt;em&gt;iridoufu&lt;/em&gt; (炒り豆腐) with &lt;em&gt;soba&lt;/em&gt; noodles added to the pan. The chives are essential.”&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Japanese-style&quot;&gt;&lt;em&gt;Japanese-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#15-minutes&quot;&gt;&lt;em&gt;15-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;625 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Main ingredients:
-    &lt;ul&gt;
-      &lt;li&gt;200 g soba noodles&lt;/li&gt;
-      &lt;li&gt;1 block of firm tofu 200-250 g&lt;/li&gt;
-      &lt;li&gt;300 g carrots&lt;/li&gt;
-      &lt;li&gt;1 medium courgette&lt;/li&gt;
-      &lt;li&gt;a bundle of chives&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Seasonings&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;1 tablespoon finely chopped fresh ginger&lt;/li&gt;
-      &lt;li&gt;2 tablespoons sesame seeds&lt;/li&gt;
-      &lt;li&gt;1 teaspoon &lt;em&gt;miso&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;
-      &lt;li&gt;1 teaspoon sesame oil&lt;/li&gt;
-      &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cook the soba noodles for 5 minutes in plenty of water. Wash carefully and drain.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, cut the tofu into 1 cm slices and put it in the microwave for 3 minutes at full power (900W). When it has cooled, squeeze the moisture out of the pieces as much as possible.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, cut the carrots and the courgette into &lt;em&gt;julienne&lt;/em&gt; strips and cook them in the microwave at full power (900W) for 2 to 3 minutes. Drain the cooking liquid into a small bowl.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, heat the oil and fry the sesame seeds and ginger for a minute.&lt;/li&gt;
-  &lt;li&gt;Add the carrots, courgette and chives and fry over high heat for a minute or maybe two, depending on how fine you cut them.&lt;/li&gt;
-  &lt;li&gt;Add the tofu to the pan, crumble it with your hands or with a spatula.&lt;/li&gt;
-  &lt;li&gt;Fry for a few minutes over low heat, then lower the heat and let simmer.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, mix the cooking liquid with the &lt;em&gt;miso&lt;/em&gt; and soy sauce.&lt;/li&gt;
-  &lt;li&gt;Add the mixture to the pan, add the cooked soba noodles and fry over medium heat until the liquid has completely gone.&lt;/li&gt;
 &lt;/ul&gt;
 
         </content>
