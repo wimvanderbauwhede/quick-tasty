@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2018-04-22T21:10:15+01:00</updated>
+    <updated>2018-05-13T11:31:56+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
@@ -15,6 +15,76 @@
 			
 		</author>
 
+    
+    <entry>
+        <title>Move over onion, here&#39;s ginger</title>
+        <link href="http://www.quickandtastycooking.org.uk/articles/ginger-vs-onion/"/>
+        <updated>2018-05-13T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/articles/ginger-vs-onion</id>
+        <author>
+					<name>Wim</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/ginger-vs-onion_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;If you’ve tried some &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/&quot;&gt;Quick and Tasty recipes&lt;/a&gt;, you will have noticed that they never contain onion. There is no special reason for this other than that I prefer ginger. So let’s make the case for ginger.&lt;/p&gt;
+
+&lt;p&gt;Many people don’t like onion, raw or cooked. Also peeling and chopping onion is not pleasant, and the smell of onion is hard to wash off your hands. And yet most recipes contain onion. By contrast, few recipes contain fresh ginger. I argue that you don’t need onion to make tasty meals, and that you should consider using fresh ginger instead, and I present the &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/&quot;&gt;Quick and Tasty recipes&lt;/a&gt; as evidence.&lt;/p&gt;
+
+&lt;p&gt;The main flavours cooked onion adds to a meal are sweetness and &lt;em&gt;umami&lt;/em&gt;. But onion is actually not a particularly good source of &lt;em&gt;umami&lt;/em&gt;. According to the web site of the &lt;a href=&quot;https://www.umamiinfo.com&quot;&gt;Umami Information Center&lt;/a&gt;, onion contains about 20-50 mg glutamate/100 g. Ginger contains about 20 mg as well. For reference, tomatoes — a great source of umami — contain almost 250 mg glutamate/100 g. There are &lt;a href=&quot;https://www.umamiinfo.com&quot;&gt;many other ingredients&lt;/a&gt; that provide umami.&lt;/p&gt;
+
+&lt;p&gt;Ginger has a unique fresh and very spicy taste, especially in raw form, but it does not burn the mouth like peppers. Raw ginger is great to spice up a salad. Frying reduces the spiciness and enhances the sweetness. The change in taste is the result of applying heat (&lt;a href=&quot;https://scienceandfooducla.wordpress.com/2014/09/30/ginger/&quot;&gt;which transforms &lt;em&gt;gingerol&lt;/em&gt; into &lt;em&gt;zingerone&lt;/em&gt;&lt;/a&gt;) so cooking in the microwave works fine as well, you don’t need to actually fry it.&lt;/p&gt;
+
+&lt;p&gt;Ginger has &lt;a href=&quot;https://www.healthline.com/nutrition/11-proven-benefits-of-ginger&quot;&gt;many proven health benefits&lt;/a&gt;, but the great taste is reason enough to start using it. Here are a few examples of Quick and Tasty recipes with ginger:&lt;/p&gt;
+
+&lt;!-- I find the taste of fried ginger much more interesting than that of fried onion.--&gt;
+
+&lt;p&gt;With raw ginger:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/asparagus-paneer-courgette-rocket-salad/&quot;&gt;Salad: Asparagus and paneer on a bed of rocket and courgettes
+&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/murakami-2/&quot;&gt;Soba noodles with  soy beans&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With cooked ginger:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/winter-hotpot-root-vegetables-adzuki-beans/&quot;&gt;Simple winter hotpot with root vegetables and adzuki beans&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/potato-vegetable-bake/&quot;&gt;Potato and vegetable bake with cream cheese&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With fried ginger:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/mild-root-vegetable-curry/&quot;&gt;Mild root vegetable curry with paneer and rice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/iridofu-carrots-shiitake/&quot;&gt;Iridofu with carrots and shiitake
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;appendix-ginger-carbon-footprint&quot;&gt;Appendix: Ginger carbon footprint&lt;/h3&gt;
+
+&lt;p&gt;Most fresh ginger in the UK is imported from China (somewhat surprising as India is the main producer), so you might be concerned about your ginger carbon footprint. I calculated that the contribution of the ginger to my carbon footprint is at most 0.01%.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The &lt;a href=&quot;http://www.worldshipping.org/industry-issues/environment/air-emissions/carbon-emissions&quot;&gt;CO2 footprint of shipping&lt;/a&gt; is 10 g per km per 1,000 kg of freight.&lt;/li&gt;
+  &lt;li&gt;The &lt;a href=&quot;https://sea-distances.org/&quot;&gt;distance from China&lt;/a&gt; is 19,000 km.&lt;/li&gt;
+  &lt;li&gt;My ginger consumption is about 100 g per 2 weeks (7-10 g per meal), so about 2.5 kg per year.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So we have&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;10*19,000*2.5/1,000 =19*25 = 475
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;or about half a kilogram CO2 per year.&lt;/p&gt;
+
+&lt;p&gt;Using the &lt;a href=&quot;http://footprint.wwf.org.uk/&quot;&gt;WWF carbon footprint calculator&lt;/a&gt;, I estimate my carbon footprint to be 7-12 tons of CO2 per year.
+This means that my ginger consumption accounts for no more than 0.5/7,000 or 0.0071% of my yearly carbon footprint.&lt;/p&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Japanese-style risotto of black rice, mixed mushrooms and aubergines</title>
@@ -1608,77 +1678,6 @@ You need several typically Japanese ingredients for this but I bought everything
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Serve with the rice and season to taste with &lt;em&gt;shichimi togarashi&lt;/em&gt; and golden sesame seeds.&lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Festive bake with aubergines, mushrooms and cream</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/festive-aubergines-mushrooms-bake/"/>
-        <updated>2016-12-25T00:00:00+00:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/festive-aubergines-mushrooms-bake</id>
-        <author>
-					<name>Wim</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/festive-aubergines-mushrooms-bake_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is a great festive meal, a rich bake of aubergines, mushrooms and potatoes with cream and cheese. It takes a bit longer, about 45 minutes, that’s why I only make it on special occasions.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#45-minutes&quot;&gt;&lt;em&gt;45-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;975 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#800-1000kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_4.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Main ingredients:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;400 g baking potatoes&lt;/li&gt;
-      &lt;li&gt;2 medium aubergines&lt;/li&gt;
-      &lt;li&gt;1 pack mushrooms (200 g)&lt;/li&gt;
-      &lt;li&gt;half a cup of dried porcini mushrooms or other dried mushrooms&lt;/li&gt;
-      &lt;li&gt;150 ml double cream&lt;/li&gt;
-      &lt;li&gt;75 g cream cheese&lt;/li&gt;
-      &lt;li&gt;one cup of grated Grana Padano or parmezan&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;For seasoning I used:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;a 1 cm piece of ginger, chopped finely&lt;/li&gt;
-      &lt;li&gt;1 tablespoon pine kernels&lt;/li&gt;
-      &lt;li&gt;1 teaspoon ground cumin&lt;/li&gt;
-      &lt;li&gt;1 teaspoon ground coriander&lt;/li&gt;
-      &lt;li&gt;2 teaspoons garlic oil
-a pinch of salt
-a some freshly ground pepper&lt;/li&gt;
-      &lt;li&gt;a tablespoon olive oil&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Soak the dried mushrooms in a large cup of boiling water for about 20 minutes.&lt;/li&gt;
-  &lt;li&gt;Wash the potatoes and cook them in the microwave for 5 minutes at full power (900W), shake or stir them, then cook for another 5 minutes.&lt;/li&gt;
-  &lt;li&gt;Wash the aubergines, slice them and cook them in the microwave for 7 minutes at full power (900W).&lt;/li&gt;
-  &lt;li&gt;Wash and slice the mushrooms.&lt;/li&gt;
-  &lt;li&gt;Heat the oil, fry the spices and ginger over medium heat for a few minutes and add the mushrooms.&lt;/li&gt;
-  &lt;li&gt;Fry for a few minutes over high heat, then add the pine kernels.&lt;/li&gt;
-  &lt;li&gt;When the mushrooms have released their liquid, drain it into a cup.&lt;/li&gt;
-  &lt;li&gt;Add the soaked dried mushrooms and fry for a few more minutes, then add the salt and the garlic oil and switch of the heat.&lt;/li&gt;
-  &lt;li&gt;Slice the cooked potatoes and let them cool for a while.&lt;/li&gt;
-  &lt;li&gt;Combine the cream cheese and cream and whisk with a fork until the mixture is smooth.&lt;/li&gt;
-  &lt;li&gt;In a heatproof glass dish with a cover, put a layer of potato slices, and pour over part of the mixture. Then add a layer of aubergines and cover with the fried mushrooms, and so on.&lt;/li&gt;
-  &lt;li&gt;Sprinkle the grated cheese on top and put covered in the microwave for 5 minutes at full power (900W).&lt;/li&gt;
-  &lt;li&gt;Uncover and grill for 3 minutes.&lt;/li&gt;
 &lt;/ul&gt;
 
         </content>
