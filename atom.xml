@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2018-05-13T11:31:56+01:00</updated>
+    <updated>2018-07-02T21:06:58+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
@@ -15,6 +15,72 @@
 			
 		</author>
 
+    
+    <entry>
+        <title>Cold pasta with raw carrots and mushrooms</title>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/pasta-raw-carrots-mushrooms/"/>
+        <updated>2018-07-02T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/recipes/pasta-raw-carrots-mushrooms</id>
+        <author>
+					<name>Wim</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/pasta-raw-carrots-mushrooms_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;As this is the hottest summer in 40 years, I wanted to make something refreshing. This is a cold pasta with raw carrots and raw chestnut mushrooms, with a vinaigrette style dressing but using lemon juice rather than vinegar.&lt;/p&gt;
+
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;800 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;For two people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fresh ingredients &amp;amp; groceries
+    &lt;ul&gt;
+      &lt;li&gt;300 g carrots&lt;/li&gt;
+      &lt;li&gt;1 pack (200 g) chestnut mushrooms&lt;/li&gt;
+      &lt;li&gt;50 g green olives&lt;/li&gt;
+      &lt;li&gt;1 cm ginger, chopped very fine&lt;/li&gt;
+      &lt;li&gt;juice of 1 lemon&lt;/li&gt;
+      &lt;li&gt;1 cup grated hard cheese (parmezan or grana padano)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;From the store cupboard
+    &lt;ul&gt;
+      &lt;li&gt;200 g pasta (linguine )&lt;/li&gt;
+      &lt;li&gt;3 dried tomatoes&lt;/li&gt;
+      &lt;li&gt;1 tablespoon tomato puree&lt;/li&gt;
+      &lt;li&gt;2 tablespoons olive oil&lt;/li&gt;
+      &lt;li&gt;2 tablespoons pumpkin seeds&lt;/li&gt;
+      &lt;li&gt;1/2 teaspoon &lt;em&gt;toubandjan&lt;/em&gt; (black bean paste)&lt;/li&gt;
+      &lt;li&gt;some pepper&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cook the pasta (see &lt;a href=&quot;http://www.quickandtastycooking.org.uk/basics/#toc2&quot;&gt;basics&lt;/a&gt; for how to cook pasta). Add the dried tomatoes to the water from the start.&lt;/li&gt;
+  &lt;li&gt;While the pasta is cooking:
+    &lt;ul&gt;
+      &lt;li&gt;Wash, scrape or peel the carrots and chop them finely.&lt;/li&gt;
+      &lt;li&gt;Wash the mushrooms and chop them in thin slices and add them to the carrots.&lt;/li&gt;
+      &lt;li&gt;Add the olives and the pumpkin seeds.&lt;/li&gt;
+      &lt;li&gt;Mix the lemon juice, 1 tablespoon olive oil, ginger, tomato puree and &lt;em&gt;toubandjan&lt;/em&gt; and some pepper.&lt;/li&gt;
+      &lt;li&gt;Pour this dressing over the vegetables and mix well.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Take the dried tomatoes out of the water, chop them and add to the vegetables.&lt;/li&gt;
+  &lt;li&gt;Toss the pasta in the remaining olive oil.&lt;/li&gt;
+  &lt;li&gt;Serve the pasta in a deep bowl with the mushrooms and carrots on top.&lt;/li&gt;
+  &lt;li&gt;Sprinkle on the grated cheese.&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Move over onion, here&#39;s ginger</title>
@@ -1601,84 +1667,6 @@ saying that &lt;a href=&quot;www3.imperial.ac.uk/newsandeventspggrp/imperialcoll
   &lt;li&gt;Cook at full power (900W) for another 5 minutes.&lt;/li&gt;
 &lt;/ul&gt;
 
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Nabe of parsnips, celeriac and soy beans with red rice</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/parsnip-celeriac-soybean-nabe/"/>
-        <updated>2016-12-26T00:00:00+00:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/parsnip-celeriac-soybean-nabe</id>
-        <author>
-					<name>Wim</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/parsnip-celeriac-soybean-nabe_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is a Japanese-style recipe for a &lt;em&gt;nabe&lt;/em&gt; or hotpot, but with parsnips (パースニップ) and celeriac (セレリアック), two root vegetables that are less common in Japan.
-You need several typically Japanese ingredients for this but I bought everything in the local supermarket except the &lt;em&gt;wakame&lt;/em&gt;, which I bought in a local Chinese supermarket.&lt;/p&gt;
-
-&lt;p&gt;This reciped requires 30 minutes soaking time followed by 20 minutes cooking time.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Japanese-style&quot;&gt;&lt;em&gt;Japanese-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#one-pot&quot;&gt;&lt;em&gt;one-pot&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;625 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Main ingredients:
-    &lt;ul&gt;
-      &lt;li&gt;about 200 g parsnips (1 large one)&lt;/li&gt;
-      &lt;li&gt;about 200 g celeriac (half a bulb)&lt;/li&gt;
-      &lt;li&gt;a cup of frozen soy beans&lt;/li&gt;
-      &lt;li&gt;1 cup of red rice (if you can’t find it, brown rice is also fine)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;For seasoning I used:
-    &lt;ul&gt;
-      &lt;li&gt;5 dried &lt;em&gt;shiitake&lt;/em&gt; mushrooms&lt;/li&gt;
-      &lt;li&gt;a 2 cm piece of ginger, thinly sliced&lt;/li&gt;
-      &lt;li&gt;1 piece of &lt;em&gt;konbu&lt;/em&gt; (about 5x10cm)&lt;/li&gt;
-      &lt;li&gt;1 tablespoon &lt;em&gt;miso&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;2 teaspoons dried &lt;em&gt;wakame&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;2 teaspoons &lt;em&gt;mirin&lt;/em&gt; (sweet rice wine, optional)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Soaking: 30 minutes
-    &lt;ul&gt;
-      &lt;li&gt;Boil a cup of water and soak the &lt;em&gt;shiitake&lt;/em&gt; for 30 minutes.&lt;/li&gt;
-      &lt;li&gt;Meanwhile,  put the rice and &lt;em&gt;konbu&lt;/em&gt; together in a pot with 2 cups of cold water and soak for 30 minutes.&lt;/li&gt;
-      &lt;li&gt;Meanwhile, soak the &lt;em&gt;wakame&lt;/em&gt; for 15 minutes in a pot of cold water.&lt;/li&gt;
-      &lt;li&gt;After soaking the &lt;em&gt;shiitake&lt;/em&gt;, slice them thinly.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Cooking: 20 minutes
-    &lt;ul&gt;
-      &lt;li&gt;Cook the rice with the &lt;em&gt;konbu&lt;/em&gt; for 6 minutes, either on the hob or in the microwave at full power (900W).&lt;/li&gt;
-      &lt;li&gt;Meanwhile, cook the beans for 3 minutes in the microwave at full power (900W).&lt;/li&gt;
-      &lt;li&gt;Soak the &lt;em&gt;wakame&lt;/em&gt; in about half a liter of water. It will increase in volume by up to 6 times.&lt;/li&gt;
-      &lt;li&gt;Wash and clean the parsnip and celeriac.&lt;/li&gt;
-      &lt;li&gt;Cut the vegetables in pieces of about 2 by 3 cm and about 3 mm thick.&lt;/li&gt;
-      &lt;li&gt;Slice the ginger as thin as you can.&lt;/li&gt;
-      &lt;li&gt;Put the vegetables and ginger in a microwave pot and add the &lt;em&gt;mirin&lt;/em&gt;. Cook for 6 minutes at full power (900 W).&lt;/li&gt;
-      &lt;li&gt;Take the pot out of the microwave and pour about 100 ml of the cooking liquid into a bowl. Add a few tablespoons of the soaking liquid of the &lt;em&gt;shiitake&lt;/em&gt;. Put the &lt;em&gt;miso&lt;/em&gt; into the bowl and mix until it is dissolved.&lt;/li&gt;
-      &lt;li&gt;Drain the &lt;em&gt;wakame&lt;/em&gt; and add it to microwave pot.&lt;/li&gt;
-      &lt;li&gt;Add the beans to the microwave pot.&lt;/li&gt;
-      &lt;li&gt;Drain the &lt;em&gt;shiitake&lt;/em&gt;, squeeze them gently to remove some of the liquid and slice them thinly. Add them to the microwave pot.&lt;/li&gt;
-      &lt;li&gt;Pour the &lt;em&gt;miso&lt;/em&gt; mixture over the other ingredients and mix.&lt;/li&gt;
-      &lt;li&gt;Cook for 2 minutes at full power (900 W).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Serve with the rice and season to taste with &lt;em&gt;shichimi togarashi&lt;/em&gt; and golden sesame seeds.&lt;/li&gt;
-&lt;/ul&gt;
 
         </content>
     </entry>
