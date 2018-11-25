@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2018-10-15T20:25:31+01:00</updated>
+    <updated>2018-11-25T13:35:34+00:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
@@ -15,6 +15,319 @@
 			
 		</author>
 
+    
+    <entry>
+        <title>Why does Japanese have kanji for very large numbers?</title>
+        <link href="http://www.quickandtastycooking.org.uk/articles/japanese-large-numbers/"/>
+        <updated>2018-11-24T00:00:00+00:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/articles/japanese-large-numbers</id>
+        <author>
+					<name>Wim</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/japanese-large-numbers_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;As a slow learner of Japanese, I often have to look up &lt;em&gt;kanji&lt;/em&gt; (Chinese characters) in my dictionary. I was intrigued to notice that for some kanji, one of their meanings is a &lt;em&gt;very&lt;/em&gt; large number:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Kanji&lt;/th&gt;
+      &lt;th&gt;Reading&lt;/th&gt;
+      &lt;th&gt;Number&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;万&lt;/td&gt;
+      &lt;td&gt;man&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;億&lt;/td&gt;
+      &lt;td&gt;oku&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;8&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;兆&lt;/td&gt;
+      &lt;td&gt;chō&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;12&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;京&lt;/td&gt;
+      &lt;td&gt;kei&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;16&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;垓&lt;/td&gt;
+      &lt;td&gt;gai&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;20&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;𥝱&lt;/td&gt;
+      &lt;td&gt;jo&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;24&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;穣&lt;/td&gt;
+      &lt;td&gt;jō&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;28&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;溝&lt;/td&gt;
+      &lt;td&gt;kō&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;32&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;澗&lt;/td&gt;
+      &lt;td&gt;kan&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;36&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;正&lt;/td&gt;
+      &lt;td&gt;sei&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;40&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;載&lt;/td&gt;
+      &lt;td&gt;sai&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;44&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;極&lt;/td&gt;
+      &lt;td&gt;goku&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;48&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Table 1. &lt;em&gt;Kanji for large numbers with readings and number values&lt;/em&gt;&lt;/p&gt;
+
+&lt;!-- K computer picture and anecdote --&gt;
+
+&lt;h2 id=&quot;kanji-and-the-supercomputer&quot;&gt;Kanji and the supercomputer&lt;/h2&gt;
+
+&lt;p&gt;For example, the character 京, which is the “kyō” in Kyoto (京都) means “metropolis”, but also 10&lt;sup&gt;16&lt;/sup&gt;. For that meaning it is pronounced “kei”, and this is the origin of the name of the famous Riken supercomputer in Kobe, the “K computer”: it is a computer capable of 10 petaflops, so 10&lt;sup&gt;16&lt;/sup&gt; or &lt;em&gt;kei&lt;/em&gt; flops. Incidentally, it is probably the only supercomputer that has its own railway station, 京コンピュータ前駅.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/k-computer-mae_1600.jpg&quot; alt=&quot;K Computer Mae Station&quot; /&gt;
+&lt;figcaption&gt;The 京コンピュータ前駅 (K Computer Mae Station) in Kobe.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;!-- I asked a Japanese friend and he told me that originally, these kanji simply indicated degrees of large, and then they got numerical values, and then the intervals were increased over time. --&gt;
+
+&lt;h2 id=&quot;counting-systems&quot;&gt;Counting systems&lt;/h2&gt;
+
+&lt;p&gt;The story of how these kanji came to represent such large numbers is quite interesting. It started with &lt;a href=&quot;http://www.sf.airnet.ne.jp/~ts/language/largenumber.html&quot;&gt;the emergence of a number of different counting systems&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Japan has adopted kanji from China – the word &lt;em&gt;kanji&lt;/em&gt; (漢字) means Chinese characters, the 漢 character meaning &lt;a href=&quot;https://en.wikipedia.org/wiki/Han_Chinese&quot;&gt;“Han”&lt;/a&gt;.  The traditional numeral systems of China, Korea, and Japan are all decimal-based but grouped into ten thousands, also known as myriads (&lt;em&gt;man&lt;/em&gt;, 万), rather than thousands. Very long ago, the characters beyond &lt;em&gt;man&lt;/em&gt; simply indicated degrees of large, so &lt;em&gt;oku&lt;/em&gt; (億) was larger than &lt;em&gt;man&lt;/em&gt; (万), &lt;em&gt;chō&lt;/em&gt; (兆) was larger than &lt;em&gt;oku&lt;/em&gt;, &lt;em&gt;kei&lt;/em&gt; (京) was larger than &lt;em&gt;chō&lt;/em&gt;, etc. Actual counting of numbers beyond one myriad was ten myriads, hundred myriads, thousand myriads.&lt;/p&gt;
+
+&lt;p&gt;Then over time the characters &lt;em&gt;oku&lt;/em&gt;, &lt;em&gt;chō&lt;/em&gt;, &lt;em&gt;kei&lt;/em&gt; etc. started to be used for this, in a counting system called &lt;em&gt;kasū&lt;/em&gt; (下数,かすう, “lower arithmetic”). So in this system, &lt;em&gt;oku&lt;/em&gt; was ten times &lt;em&gt;man&lt;/em&gt;, &lt;em&gt;chō&lt;/em&gt; was ten times &lt;em&gt;oku&lt;/em&gt;, etc. This was very long ago, more than two thousand years, and clearly it was not entirely satisfactory because already from the Han dynasty onwards (i.e. 200 BCE), a separate counting system called &lt;em&gt;jōsū&lt;/em&gt;（上数,じょうすう,”upper arithmetic”）also became used. In this system, the character after &lt;em&gt;man&lt;/em&gt; got the value of &lt;em&gt;man man&lt;/em&gt; (万万), so &lt;em&gt;oku&lt;/em&gt; = &lt;em&gt;man man&lt;/em&gt; = 10&lt;sup&gt;8&lt;/sup&gt;. The next value &lt;em&gt;chō&lt;/em&gt; became  &lt;em&gt;oku oku&lt;/em&gt; (億億) = 10&lt;sup&gt;16&lt;/sup&gt;, &lt;em&gt;kei&lt;/em&gt; = &lt;em&gt;chō chō&lt;/em&gt; (兆兆) =10&lt;sup&gt;32&lt;/sup&gt; and so on.
+Later, yet another system, called &lt;em&gt;chūsū&lt;/em&gt; (中数,ちゅうすう,”middle arithmetic”) came into use. In this system, the values for consecutive kanji where 10&lt;sup&gt;4&lt;/sup&gt; apart. To be precise, in China there were two variants of &lt;em&gt;chūsū&lt;/em&gt;, &lt;em&gt;manshin&lt;/em&gt; (万進) and (万万進) &lt;em&gt;manmanshin&lt;/em&gt;, the latter had intervals of 10&lt;sup&gt;8&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;The table below summarises the various systems:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Kanji&lt;/th&gt;
+      &lt;th&gt;Reading&lt;/th&gt;
+      &lt;th&gt; &lt;em&gt;kasū&lt;/em&gt;  (下数)&lt;/th&gt;
+      &lt;th&gt;&lt;em&gt;chūsū/manshin&lt;/em&gt;　(中数／万進)&lt;/th&gt;
+      &lt;th&gt;&lt;em&gt;chūsū/manmanshin&lt;/em&gt; (中数／万万進)&lt;/th&gt;
+      &lt;th&gt;&lt;em&gt;jōsū&lt;/em&gt;    (上数)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;万&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;man&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;億&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;oku&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;5&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×2&lt;/sup&gt;=10&lt;sup&gt;8&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;8×1&lt;/sup&gt;=10&lt;sup&gt;8&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×2&lt;/sup&gt;=10&lt;sup&gt;8&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;兆&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;chō&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;6&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×3&lt;/sup&gt;=10&lt;sup&gt;12&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;8×2&lt;/sup&gt;=10&lt;sup&gt;16&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×2&lt;sup&gt;2&lt;/sup&gt;&lt;/sup&gt;=10&lt;sup&gt;16&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;京&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;kei&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;7&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×4&lt;/sup&gt;=10&lt;sup&gt;16&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;8×3&lt;/sup&gt;=10&lt;sup&gt;24&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×2&lt;sup&gt;3&lt;/sup&gt;&lt;/sup&gt;=10&lt;sup&gt;32&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;垓&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;gai&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;8&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×5&lt;/sup&gt;=10&lt;sup&gt;20&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;8×4&lt;/sup&gt;=10&lt;sup&gt;32&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×2&lt;sup&gt;4&lt;/sup&gt;&lt;/sup&gt;=10&lt;sup&gt;64&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;秭&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;jo&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;9&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×6&lt;/sup&gt;=10&lt;sup&gt;24&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;8×5&lt;/sup&gt;=10&lt;sup&gt;40&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×2&lt;sup&gt;5&lt;/sup&gt;&lt;/sup&gt;=10&lt;sup&gt;128&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;穣&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;jō&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;10&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×7&lt;/sup&gt;=10&lt;sup&gt;28&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;8×6&lt;/sup&gt;=10&lt;sup&gt;48&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×2&lt;sup&gt;6&lt;/sup&gt;&lt;/sup&gt;=10&lt;sup&gt;256&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;溝&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;kō&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;11&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×8&lt;/sup&gt;=10&lt;sup&gt;32&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;8×7&lt;/sup&gt;=10&lt;sup&gt;56&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×2&lt;sup&gt;7&lt;/sup&gt;&lt;/sup&gt;=10&lt;sup&gt;512&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;澗&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;kan&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;12&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×9&lt;/sup&gt;=10&lt;sup&gt;36&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;8×8&lt;/sup&gt;=10&lt;sup&gt;64&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×2&lt;sup&gt;8&lt;/sup&gt;&lt;/sup&gt;=10&lt;sup&gt;1024&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;正&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;sei&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;13&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×10&lt;/sup&gt;=10&lt;sup&gt;40&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;8×9&lt;/sup&gt;=10&lt;sup&gt;72&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×2&lt;sup&gt;9&lt;/sup&gt;&lt;/sup&gt;=10&lt;sup&gt;2048&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;載&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;sai&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;14&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×11&lt;/sup&gt;=10&lt;sup&gt;44&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;8×10&lt;/sup&gt;=10&lt;sup&gt;80&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×2&lt;sup&gt;10&lt;/sup&gt;&lt;/sup&gt;=10&lt;sup&gt;4096&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;極&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;goku&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;15&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×12&lt;/sup&gt;= 10&lt;sup&gt;48&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;8×11&lt;/sup&gt;=10&lt;sup&gt;88&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;10&lt;sup&gt;4×2&lt;sup&gt;11&lt;/sup&gt;&lt;/sup&gt;=10&lt;sup&gt;8192&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Table 2. &lt;em&gt;Summary of the different counting systems used historically&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;an-edo-era-mathematics-book&quot;&gt;An Edo-era mathematics book&lt;/h2&gt;
+
+&lt;p&gt;In Edo-era Japan, the 1634 edition of an influential mathematics book, &lt;a href=&quot;http://www.ndl.go.jp/math/e/s2/1.html&quot;&gt;&lt;em&gt;jinkōki&lt;/em&gt;&lt;/a&gt; (&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%A1%B5%E5%8A%AB%E8%A8%98&quot;&gt;塵劫記&lt;/a&gt;), standardised on the &lt;em&gt;chūsū/manshin&lt;/em&gt; (中数/万進) system as shown in the table above. The work covers a wide variety of mathematical problems but its main purpose was to explain techniques for calculating using the &lt;em&gt;soroban&lt;/em&gt; (算盤), the Japanese abacus.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-daimyo-the-samurai-and-the-soroban&quot;&gt;The daimyo, the samurai and the soroban&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.maa.org/press/periodicals/convergence/elementary-soroban-arithmetic-techniques-in-edo-period-japan&quot;&gt;The oldest &lt;em&gt;soroban&lt;/em&gt; in existence&lt;/a&gt; is the &lt;em&gt;Shibei Shigekatsu hairyo soroban&lt;/em&gt;, from 1591. It was made from plum tree wood and silver and given to the samurai Shibei Shigekatsu by the famous daimyō &lt;a href=&quot;https://www.britannica.com/biography/Toyotomi-Hideyoshi&quot;&gt;Toyotomi Hideyoshi&lt;/a&gt; (The word &lt;em&gt;hairyo&lt;/em&gt; (拝領) means “receiving from a superior”). It shows that this kind of calculating device was highly valued. This soroban has 20 number rods, so it can represent any number up to 10&lt;sup&gt;20&lt;/sup&gt;-1. So in any case the introduction of the &lt;em&gt;soroban&lt;/em&gt; made it easier to conceive very large numbers.&lt;/p&gt;
+
+&lt;h2 id=&quot;buddhist-angels-and-mustard-seeds&quot;&gt;Buddhist angels and mustard seeds&lt;/h2&gt;
+
+&lt;p&gt;The story so far does not quite explain where those different systems came from or &lt;em&gt;why&lt;/em&gt; these choices were made, and indeed earlier editions of the &lt;em&gt;jinkōki&lt;/em&gt; used different combinations of &lt;em&gt;kasū&lt;/em&gt; and &lt;em&gt;chūsū&lt;/em&gt;. In any case, it turns out that the origin of these very large numbers lies in ancient Buddhist texts.&lt;/p&gt;
+
+&lt;p&gt;Buddhism has the notion of a &lt;a href=&quot;https://en.wikipedia.org/wiki/Kalpa_(aeon)&quot;&gt;&lt;em&gt;kalpa&lt;/em&gt; or aeon&lt;/a&gt;, a very long unit of time. There are in the old texts two definitions for a kalpa, provided by the Buddha by analogy. I found the following explanation on &lt;a href=&quot;http://gyafun.jp/ln/intro.html&quot;&gt;a Japanese web site for the book “巨大数入門” (“An introduction to very large numbers”)&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;『仏教では、とても長い時間を表すときに劫（こう）という時間の単位が使われます。「未来永劫」「億劫」「五劫のすり切れ」などの言葉は、ここから来ています。この「劫」には2通りの意味があり、1つ目は「磐石劫」で、四十里四方の大石を、いわゆる天人の羽衣で百年に一度払い、その大きな石が摩滅して無くなってもなお「一劫」の時間は終わらないと譬えています。 2つ目は「芥子劫」で、方四十里の城に小さな芥子粒を満たして百年に一度、一粒ずつ取り去り、その芥子がすべて無くなってもなお尽きないほどの長い時間が一劫であるとのことです。』&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Loosely translated, this means that there are two definitions for a kalpa:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Imagine a huge cube of rock of 40 &lt;em&gt;ri&lt;/em&gt; on the side. Every hundred years, an angel brushes the rock with its wings. A kalpa won’t have ended by the time it takes to entirely wear away the rock.&lt;/li&gt;
+  &lt;li&gt;Imagine a huge building of 40 &lt;em&gt;ri&lt;/em&gt; on the side. Every hundred years, a small mustard seed is put into it. The kalpa won’t have ended by the time the building is full.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To estimate how long a kalpa actually lasts, &lt;a href=&quot;http://gyafun.jp/ln/intro.html&quot;&gt;someone&lt;/a&gt; made the following assumptions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Suppose the angel’s wings remove one layer of atoms over an area of one square meter. Given that 1 &lt;em&gt;ri&lt;/em&gt; is 500 &lt;em&gt;m&lt;/em&gt; and the diameter of an atom is 0.2 &lt;em&gt;nm&lt;/em&gt;, it would take 4×10&lt;sup&gt;24&lt;/sup&gt; years to wear away the rock.&lt;/li&gt;
+  &lt;li&gt;For the second definition, assuming a mustard seed is 0.5 &lt;em&gt;mm&lt;/em&gt;, it would take  6.4×10&lt;sup&gt;24&lt;/sup&gt; years to fill the entire volume.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s rather striking that both estimates produce the same order of magnitude, 10&lt;sup&gt;24&lt;/sup&gt; years. For comparison, the estimated age of the universe is “only” 1.38×10&lt;sup&gt;10&lt;/sup&gt; years.&lt;/p&gt;
+
+&lt;h2 id=&quot;grains-of-sand-in-the-ganges&quot;&gt;Grains of sand in the Ganges&lt;/h2&gt;
+
+&lt;p&gt;Regardless, it means that Buddhist scholar monks had a need to express very large numbers. In fact, Buddhism has concepts such as &lt;a href=&quot;http://diamond-sutra.com/read-the-diamond-sutra-here/diamond-sutra-chapter-11/&quot;&gt;the number of grains of sand in the Ganges&lt;/a&gt; (&lt;em&gt;gōgasha&lt;/em&gt;,恒河沙), which are even larger than &lt;em&gt;goku&lt;/em&gt; (極, 10&lt;sup&gt;48&lt;/sup&gt;). The largest quantified term I could find in my dictionary is &lt;em&gt;muryōtaisū&lt;/em&gt; (無量大数,”immeasurably large number”),  with a value of 10&lt;sup&gt;68&lt;/sup&gt; using &lt;em&gt;chūsū&lt;/em&gt;, but often defined as 10&lt;sup&gt;88&lt;/sup&gt;, due to a &lt;a href=&quot;http://www.sf.airnet.ne.jp/~ts/language/largenumber.html&quot;&gt;variant system used for values above &lt;em&gt;goku&lt;/em&gt; used in the 1631 edition of the &lt;em&gt;jinkōki&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!--
+
+この時間がどの程度のものなのか「カガクのじかん」というサイト (http://d.hatena.ne.jp/inyoko/) では、次のように計算しています。 「磐石劫」では、「1里=500m」「原子=1辺0.2nmの立方体」「1回なでると、1平方メートルの範囲の原子が1層はがれる」という仮定の下、4𥝱、すなわち 4&amp;times;10&lt;sup&gt;24年という計算結果を出しました。
+
+2つ目の「芥子劫」については、「1里=500m」、「けし粒=1辺0.5mmの立方体」、という仮定の下、6𥝱4000垓、すなわち 6.4&amp;times;10&lt;sup&gt;24年という計算結果を出しました。磐石劫でも芥子劫でも同じ𥝱の単位になるのは面白いところです。
+
+----
+宇宙の年齢は138億年程度であるとされていますので、それと比べて100兆倍ほどの気の遠くなるほど長い時間です。
+
+----
+恒河沙という数と劫という時間の単位を組み合わせれば、恒河沙劫というとても長い時間が表現できますので、そういう表現があるか検索してみたところ、『首楞厳経』という経典に恒河沙劫という表現が出てきて、親鸞が『尊号真像銘文』で引用していることが分かりました。恒河沙劫は、10の46乗年、すなわち100載年のオーダーになります。
+
+
+
+
+
+
+
+載よりも上の単位である極から上は、元の朱世傑（しゅせいけつ、生没年不詳）による『算学啓蒙』(1299年)において登場しました。ここで極以外の単位はすべて仏教から取られたものです。恒河沙は「ガンジス川の砂」の意味で、それだけ大きな数ということです。 阿僧祇は「数えることができない」、 那由他は「極めて大きな数量」、 不可思議「思い測ったり言葉で言い表したりすることができない」 無量大数は、『算学啓蒙』では「無量数」として登場し、「量ることのできない数」ということです。
+
+この中で恒河沙以外は「数え切れないほどの大きな数」と理解すれば良いのですが、恒河沙については、ガンジス川の砂の数という具体的な数になっているので、どの程度の大きさなのか見積もってみます。 今は恒河沙と言えば日本では10の52乗という意味になり、中国でも下数、中数、上数によって数は変わります。仏教の中ではそういう数を意味するものではなく、ガンジス川の砂の数という意味ですから、今の日本で恒河沙を意味する10の52乗と比較することは無意味です。
+
+
+| Word | Reading | Number |
+| ---- | ---- | ---- |
+| 恒河沙 	| gōgasha 	| 10&lt;sup&gt;52,10&lt;sup&gt;56|
+| 阿僧祇 	| asōgi 	| 10&lt;sup&gt;56,10&lt;sup&gt;64|
+| 那由他, 那由多 	| nayuta 	| 10&lt;sup&gt;60,10&lt;sup&gt;72|
+| 不可思議 	| fukashigi 	| 10&lt;sup&gt;64,10&lt;sup&gt;80|
+| 無量大数 	| muryōtaisū 	| 10&lt;sup&gt;68,10&lt;sup&gt;88|
+
+--&gt;
+
+&lt;!--
+
+## References
+
+https://en.wikipedia.org/wiki/Japanese_numerals
+https://en.wikipedia.org/wiki/Kalpa_(aeon)
+https://en.wikipedia.org/wiki/Buddhist_cosmology
+
+https://ja.wikipedia.org/wiki/%E7%84%A1%E9%87%8F%E5%A4%A7%E6%95%B0
+http://gyafun.jp/ln/intro.html
+http://www.sf.airnet.ne.jp/~ts/language/largenumber.html
+http://www.sf.airnet.ne.jp/~ts/personal/indexj.html
+https://ja.wikipedia.org/wiki/%E5%91%BD%E6%95%B0%E6%B3%95
+
+--&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Drawing the dancer of Ranryōō</title>
@@ -1712,34 +2025,6 @@ saying that &lt;a href=&quot;www3.imperial.ac.uk/newsandeventspggrp/imperialcoll
   &lt;li&gt;When the rice is getting quite creamy, add the parsnips.&lt;/li&gt;
   &lt;li&gt;Simmer for a few more minutes, then drizzle on some garlic oil and serve with the cheese.&lt;/li&gt;
 &lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Celebrations! One year of Quick &amp; Tasty!</title>
-        <link href="http://www.quickandtastycooking.org.uk/articles/one-year-of-quick-and-tasty/"/>
-        <updated>2017-01-28T00:00:00+00:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/articles/one-year-of-quick-and-tasty</id>
-        <author>
-					<name>Wim</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/one-year-of-quick-and-tasty_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;A year ago we started &lt;a href=&quot;http://www.quickandtastycooking.org.uk&quot;&gt;Quick &amp;amp; Tasty Cooking&lt;/a&gt; to bring you tasty, healthy and above all quick recipes. It’s been a great year, here are a few highlights:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We posted &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes&quot;&gt;more than 40 original recipes&lt;/a&gt; in the past year, all of them vegetarian or vegan.&lt;/li&gt;
-  &lt;li&gt;Typically, the recipes take &lt;a href=&quot;http://www.quickandtastycooking.org.uk/times/#20-minutes&quot;&gt;20 minutes&lt;/a&gt; to prepare, and this is really from start to finish, including preparations like washing, peeling and chopping vegetables.&lt;/li&gt;
-  &lt;li&gt;All ingredients are commonly available in supermarkets.&lt;/li&gt;
-  &lt;li&gt;You don’t need any fancy kitchen gadges like a spiralizer or even food processor. However, there are &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/japanese-kitchen-tools/&quot;&gt;a few simple Japanese tools&lt;/a&gt; that I really like.&lt;/li&gt;
-  &lt;li&gt;Our &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/#quick&quot;&gt;unique battery icon&lt;/a&gt; shows the calories for each recipe at the glance.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Our current favourite is the &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/&quot;&gt;stir-fry of mixed mushrooms with black beans, celeriac and potatoes&lt;/a&gt;. What was yours? Please leave us a comment on &lt;a href=&quot;https://twitter.com/fuss_free_food&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.facebook.com/quickandtasyfood/&quot;&gt;Facebook&lt;/a&gt;!&lt;/p&gt;
-
 
         </content>
     </entry>
