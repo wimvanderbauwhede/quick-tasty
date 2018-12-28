@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2018-12-28T17:52:56+00:00</updated>
+    <updated>2018-12-28T17:53:49+00:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
@@ -15,6 +15,115 @@
 			
 		</author>
 
+    
+    <entry>
+        <title>Repetition in Murakami&#39;s 1Q84</title>
+        <link href="http://www.quickandtastycooking.org.uk/articles/repetition-in-1Q84/"/>
+        <updated>2018-12-28T00:00:00+00:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/articles/repetition-in-1Q84</id>
+        <author>
+					<name>Wim</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/repetition-in-1Q84_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;As mentioned in &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;previous posts&lt;/a&gt;, I have been reading Murakami’s 1Q84 in Japanese (very slowly). I read the English translation when it was first published but I had never looked up any reviews. The Japanese paperback comes in six volumes and after finishing the third volume&lt;sup&gt;*&lt;/sup&gt;, I decided to check some reviews, and I was somewhat surprised to find that most critics didn’t like the book very much.&lt;/p&gt;
+
+&lt;p&gt;One of the recurrent criticisms is that the characters repeat one another frequently. This is in particular the case for the conversations between Tengo and Fuka-eri.&lt;/p&gt;
+
+&lt;p&gt;Murakami mentions that Fuka-eri has dyslexia and based on her behaviour and speech it is likely that she also has autistic spectrum disorder (Murakami describes her speech as monotonous or flat, and she clearly prefers to use single words, although she can speak in full sentences; her facial expression is impossible to read; there are many more hints like this).&lt;/p&gt;
+
+&lt;p&gt;In Japanese, Murakami uses a specific writing style to express Fuka-eri’s way of speaking.
+Japanese has three sets of characters: &lt;em&gt;hiragana&lt;/em&gt; and &lt;em&gt;katakana&lt;/em&gt; which are phonetic alphabets, and Chinese characters (&lt;em&gt;kanji&lt;/em&gt;). In general, &lt;em&gt;kanji&lt;/em&gt; are used to indicate the meaning of words, &lt;em&gt;hiragana&lt;/em&gt; is used to express the grammar and &lt;em&gt;katakana&lt;/em&gt; is used for foreign words or as a kind of italics. Japanese has few distinct sounds, there are lots of homonyms, and the &lt;em&gt;kanji&lt;/em&gt; disambiguate the meanings for the homonyms.
+However, &lt;em&gt;katakana&lt;/em&gt; and &lt;em&gt;hiragana&lt;/em&gt; can be used to phonetically write &lt;em&gt;kanji&lt;/em&gt; but sentences without &lt;em&gt;kanji&lt;/em&gt; can be difficult to read, especially because no spaces are used between words. Murakami renders Fuka-eri’s speech using &lt;em&gt;hiragana&lt;/em&gt; and &lt;em&gt;katakana&lt;/em&gt; characters only, without &lt;em&gt;kanji&lt;/em&gt;. For example:&lt;/p&gt;
+
+&lt;p&gt;「セキブンのはなしはおもしろかった」&lt;br /&gt;
+「予備校の僕の講義のこと？」&lt;br /&gt;
+ふかえりは肯いた。&lt;br /&gt;
+「君は数学は好き？」&lt;br /&gt;
+ふかえりは短く首を振った。数学は好ではない。&lt;br /&gt;
+「でも積分の話は面白かったんだ？」と天語は尋ねた。&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the English translation by Jay Rubin, the exchange is:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;‘The calculus part was good.’&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;‘You mean in my lecture?’&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Fuka-eri nodded.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;‘Do you like math?’&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;She gave her head a quick shake. She did not like math.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;‘But the part about calculus was good? he asked.’&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Even though the translator has changed the wording slightly, the last sentence still mostly repeats the first.&lt;/p&gt;
+
+&lt;p&gt;When written in roman alphabet, the first and the last sentence of the Japanese dialogue are virtually identical:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;‘sekibun no hanashi wa omoshirokatta’&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;‘demo sekibun no hanashi wa omoshirokatta?’&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;However, although the pronunciation is word for word identical, the effect in the original Japanese text is different because the first sentence, said by Fuka-eri, is written only in &lt;em&gt;hiragana&lt;/em&gt; and &lt;em&gt;katakana&lt;/em&gt; characters only, while the last sentence, said by Tengo, uses &lt;em&gt;kanji&lt;/em&gt;. For example, while &lt;em&gt;sekibun&lt;/em&gt; has only one meaning, the &lt;em&gt;seki&lt;/em&gt; in &lt;em&gt;sekibun&lt;/em&gt; could mean amongst others “stone” or “seat” or “red”; &lt;em&gt;bun&lt;/em&gt; could mean amongst others　”minute”, “sentence” or “mosquito”. Without the &lt;em&gt;kanji&lt;/em&gt; it is harder for the reader, and requires more context, to work out the meaning.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, Japanese has the particular grammar feature of &lt;em&gt;particles&lt;/em&gt; (&lt;em&gt;joshi&lt;/em&gt;, 助詞). These are suffixes or short words that immediately follow a noun, verb, adjective, or sentence and can act as conjunctions, prepostions or modifiers. Some of these particles are attached at the very end of the sentence to add an emotion or tone, or convey that the sentence is a question. Fuka-eri never uses those sentence-ending particles, and in particular the question marking particle. As her speech is uninflected, and the word order in Japanese is the same for statements and questions, it is not always clear if she is asking a question or just stating something. For example:&lt;/p&gt;
+
+&lt;p&gt;「わたしをだきたくない」とふかえりは疑問符抜きで尋ねた。&lt;br /&gt;
+&lt;em&gt;‘watashi wo dakitakunai’ to fukaeri wa gimonfunuki de tazuneta.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Which Jay Rubin translates as:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;‘You don’t want to hold me,’ Fuka-eri asked without a question mark.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Because of the lack of question mark or particle, there is no way to know if this is a question or not.
+&lt;!-- Murakami has added the &#39;_Fuka-eri asked without a question mark_&#39;.--&gt;&lt;/p&gt;
+
+&lt;p&gt;A proper Japanese sentence would have been either「私を抱きたくないか」or 「私を抱きたくない？」and indeed, Tengo says:&lt;/p&gt;
+
+&lt;p&gt;「君を抱く？」&lt;br /&gt;
+&lt;em&gt;‘Hold you?’&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The lack of &lt;em&gt;kanji&lt;/em&gt; and particles means that Fuka-eri’s sentences in Japanese are often quite ambiguous. So when Tengo repeats Fuka-eri’s sentences, he’s making sure that he understands her correctly, but Murakami also uses this to clarify to the reader what she’s just said. For example,&lt;/p&gt;
+
+&lt;p&gt;「イヘンがあろうとしている」&lt;br /&gt;
+「イヘン」と天吾は言った。それが「異変」であると思い当たるまでに少し時間がかかった。&lt;br /&gt;
+&lt;em&gt;‘ihen ga arou toshite iru’&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;‘ihen’ to tengo wa itta. sore ga ‘ihen’ de aru to omoiataru made ni sukoshi jikan ga kakatta.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The meaning of “ihen” (イヘン) is not clear when written in &lt;em&gt;katakana&lt;/em&gt;. In fact, a possible meaning of the sentence could be &lt;em&gt;‘You’ll have a leather cord’&lt;/em&gt;.
+The Japanese sentence actually says that it takes a while for Tengo to realise that “ihen”,イヘン means ”something unusual”,異変. In the English translation, this becomes&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;‘That something extra ordinary is starting.’&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;It took Tengo a moment to realize this meant “extraordinary”.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Jay Rubin has left out the sentence &lt;em&gt;‘ihen’ to tengo wa itta&lt;/em&gt;. He could have translated it as &lt;em&gt;‘Extra ordinary’ said Tengo&lt;/em&gt;, but that would have made the exchange even more repetitive.&lt;/p&gt;
+
+&lt;p&gt;In the Japanese version of 1Q84, the exchanges with Fuka-eri are my favourite parts. Her sentences are very easy to read, except for the lack of kanji; then Tengo’s paraphrasing puts in the kanji as well. So as a learner I get both the reading and the meaning. Another example:&lt;/p&gt;
+
+&lt;p&gt;「わたしはここにのこっている」とふかえりは言った。&lt;br /&gt;
+「君はここに残っている」と天語は反復した。&lt;br /&gt;
+&lt;em&gt;‘watashi wa koko ni nokotte iru’ to fukaeri wa itta.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;‘kimi wa koko ni nokotte iru’ to tengo wa hanpuku shita.&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The translation says:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;‘I’ll stay here,’ Fuka-eri said.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;‘You’ll stay here,’ Tengo echoed her.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Again, this looks more repetitive than the original.&lt;/p&gt;
+
+&lt;p&gt;The English translation of the first two books is by Jay Rubin, who is very renowned for translating Murakami’s works, and I think his translation of 1Q84 is excellent. However, the repetition in the English translation is fundamentally different from the Japanese original because of the writing system. It is impossible to translate the effect of the difference between words writtin in &lt;em&gt;hiragana&lt;/em&gt;, &lt;em&gt;katakana&lt;/em&gt; and &lt;em&gt;kanji&lt;/em&gt; into a language with a single alphabet-based writing system like English.&lt;/p&gt;
+
+&lt;p&gt; &lt;br /&gt;
+ &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sup&gt;*&lt;/sup&gt;&lt;em&gt;After four years of reading.&lt;/em&gt;&lt;/p&gt;
+
+&lt;!--
+The other frequent repetitions are in the conversation between Aomame and the Leader, and to my mind this is the result of an intentional symmetry. 1Q84 is highly structured: the three books each span 3 months, the chapters alternate between Tengo and Aomame (and in the third book, Ushikawa). The connection between the main characters is also very symmetrical. The Leader is Fuka-eri&#39;s father[^1] and they are linked in a fundamental way through their connection with the Little People (she&#39;s the &quot;perceiver&quot;, he&#39;s the &quot;receiver&quot;). Aomame and Tengo are also linked in a very fundamental way, I would say they complement one another. The repetitions in the conversation between the Leader and Aomame therefore echo those between Tengo and Fuka-eri.
+
+[^1]: This would be obvious from the start to the Japanese readers: the Leader&#39;s name is Fukada, a common surname. For a pen name, Fuka[da] Eri[ko] is very transparent. The professor calls here Eri, which is a common abbreviation for Eriko, a common name for girls in the 80s.
+--&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Stollen</title>
@@ -389,115 +498,6 @@ You can find these ingredients in most Asian supermarkets. I also used &lt;a hre
   &lt;/li&gt;
   &lt;li&gt;Serve with the rice.&lt;/li&gt;
 &lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Repetition in Murakami&#39;s 1Q84</title>
-        <link href="http://www.quickandtastycooking.org.uk/articles/repetition-in-1Q84/"/>
-        <updated>2018-11-24T00:00:00+00:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/articles/repetition-in-1Q84</id>
-        <author>
-					<name>Wim</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/repetition-in-1Q84_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;As mentioned in &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;previous posts&lt;/a&gt;, I have been reading Murakami’s 1Q84 in Japanese (very slowly). I read the English translation when it was first published but I had never looked up any reviews. The Japanese paperback comes in six volumes and after finishing the third volume&lt;sup&gt;*&lt;/sup&gt;, I decided to check some reviews, and I was somewhat surprised to find that most critics didn’t like the book very much.&lt;/p&gt;
-
-&lt;p&gt;One of the recurrent criticisms is that the characters repeat one another frequently. This is in particular the case for the conversations between Tengo and Fuka-eri.&lt;/p&gt;
-
-&lt;p&gt;Murakami mentions that Fuka-eri has dyslexia and based on her behaviour and speech it is likely that she also has autistic spectrum disorder (Murakami describes her speech as monotonous or flat, and she clearly prefers to use single words, although she can speak in full sentences; her facial expression is impossible to read; there are many more hints like this).&lt;/p&gt;
-
-&lt;p&gt;In Japanese, Murakami uses a specific writing style to express Fuka-eri’s way of speaking.
-Japanese has three sets of characters: &lt;em&gt;hiragana&lt;/em&gt; and &lt;em&gt;katakana&lt;/em&gt; which are phonetic alphabets, and Chinese characters (&lt;em&gt;kanji&lt;/em&gt;). In general, &lt;em&gt;kanji&lt;/em&gt; are used to indicate the meaning of words, &lt;em&gt;hiragana&lt;/em&gt; is used to express the grammar and &lt;em&gt;katakana&lt;/em&gt; is used for foreign words or as a kind of italics. Japanese has few distinct sounds, there are lots of homonyms, and the &lt;em&gt;kanji&lt;/em&gt; disambiguate the meanings for the homonyms.
-However, &lt;em&gt;katakana&lt;/em&gt; and &lt;em&gt;hiragana&lt;/em&gt; can be used to phonetically write &lt;em&gt;kanji&lt;/em&gt; but sentences without &lt;em&gt;kanji&lt;/em&gt; can be difficult to read, especially because no spaces are used between words. Murakami renders Fuka-eri’s speech using &lt;em&gt;hiragana&lt;/em&gt; and &lt;em&gt;katakana&lt;/em&gt; characters only, without &lt;em&gt;kanji&lt;/em&gt;. For example:&lt;/p&gt;
-
-&lt;p&gt;「セキブンのはなしはおもしろかった」&lt;br /&gt;
-「予備校の僕の講義のこと？」&lt;br /&gt;
-ふかえりは肯いた。&lt;br /&gt;
-「君は数学は好き？」&lt;br /&gt;
-ふかえりは短く首を振った。数学は好ではない。&lt;br /&gt;
-「でも積分の話は面白かったんだ？」と天語は尋ねた。&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;In the English translation by Jay Rubin, the exchange is:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;‘The calculus part was good.’&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;‘You mean in my lecture?’&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Fuka-eri nodded.&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;‘Do you like math?’&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;She gave her head a quick shake. She did not like math.&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;‘But the part about calculus was good? he asked.’&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Even though the translator has changed the wording slightly, the last sentence still mostly repeats the first.&lt;/p&gt;
-
-&lt;p&gt;When written in roman alphabet, the first and the last sentence of the Japanese dialogue are virtually identical:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;‘sekibun no hanashi wa omoshirokatta’&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;‘demo sekibun no hanashi wa omoshirokatta?’&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;However, although the pronunciation is word for word identical, the effect in the original Japanese text is different because the first sentence, said by Fuka-eri, is written only in &lt;em&gt;hiragana&lt;/em&gt; and &lt;em&gt;katakana&lt;/em&gt; characters only, while the last sentence, said by Tengo, uses &lt;em&gt;kanji&lt;/em&gt;. For example, while &lt;em&gt;sekibun&lt;/em&gt; has only one meaning, the &lt;em&gt;seki&lt;/em&gt; in &lt;em&gt;sekibun&lt;/em&gt; could mean amongst others “stone” or “seat” or “red”; &lt;em&gt;bun&lt;/em&gt; could mean amongst others　”minute”, “sentence” or “mosquito”. Without the &lt;em&gt;kanji&lt;/em&gt; it is harder for the reader, and requires more context, to work out the meaning.&lt;/p&gt;
-
-&lt;p&gt;Furthermore, Japanese has the particular grammar feature of &lt;em&gt;particles&lt;/em&gt; (&lt;em&gt;joshi&lt;/em&gt;, 助詞). These are suffixes or short words that immediately follow a noun, verb, adjective, or sentence and can act as conjunctions, prepostions or modifiers. Some of these particles are attached at the very end of the sentence to add an emotion or tone, or convey that the sentence is a question. Fuka-eri never uses those sentence-ending particles, and in particular the question marking particle. As her speech is uninflected, and the word order in Japanese is the same for statements and questions, it is not always clear if she is asking a question or just stating something. For example:&lt;/p&gt;
-
-&lt;p&gt;「わたしをだきたくない」とふかえりは疑問符抜きで尋ねた。&lt;br /&gt;
-&lt;em&gt;‘watashi wo dakitakunai’ to fukaeri wa gimonfunuki de tazuneta.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Which Jay Rubin translates as:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;‘You don’t want to hold me,’ Fuka-eri asked without a question mark.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Because of the lack of question mark or particle, there is no way to know if this is a question or not.
-&lt;!-- Murakami has added the &#39;_Fuka-eri asked without a question mark_&#39;.--&gt;&lt;/p&gt;
-
-&lt;p&gt;A proper Japanese sentence would have been either「私を抱きたくないか」or 「私を抱きたくない？」and indeed, Tengo says:&lt;/p&gt;
-
-&lt;p&gt;「君を抱く？」&lt;br /&gt;
-&lt;em&gt;‘Hold you?’&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The lack of &lt;em&gt;kanji&lt;/em&gt; and particles means that Fuka-eri’s sentences in Japanese are often quite ambiguous. So when Tengo repeats Fuka-eri’s sentences, he’s making sure that he understands her correctly, but Murakami also uses this to clarify to the reader what she’s just said. For example,&lt;/p&gt;
-
-&lt;p&gt;「イヘンがあろうとしている」&lt;br /&gt;
-「イヘン」と天吾は言った。それが「異変」であると思い当たるまでに少し時間がかかった。&lt;br /&gt;
-&lt;em&gt;‘ihen ga arou toshite iru’&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;‘ihen’ to tengo wa itta. sore ga ‘ihen’ de aru to omoiataru made ni sukoshi jikan ga kakatta.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The meaning of “ihen” (イヘン) is not clear when written in &lt;em&gt;katakana&lt;/em&gt;. In fact, a possible meaning of the sentence could be &lt;em&gt;‘You’ll have a leather cord’&lt;/em&gt;.
-The Japanese sentence actually says that it takes a while for Tengo to realise that “ihen”,イヘン means ”something unusual”,異変. In the English translation, this becomes&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;‘That something extra ordinary is starting.’&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;It took Tengo a moment to realize this meant “extraordinary”.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Jay Rubin has left out the sentence &lt;em&gt;‘ihen’ to tengo wa itta&lt;/em&gt;. He could have translated it as &lt;em&gt;‘Extra ordinary’ said Tengo&lt;/em&gt;, but that would have made the exchange even more repetitive.&lt;/p&gt;
-
-&lt;p&gt;In the Japanese version of 1Q84, the exchanges with Fuka-eri are my favourite parts. Her sentences are very easy to read, except for the lack of kanji; then Tengo’s paraphrasing puts in the kanji as well. So as a learner I get both the reading and the meaning. Another example:&lt;/p&gt;
-
-&lt;p&gt;「わたしはここにのこっている」とふかえりは言った。&lt;br /&gt;
-「君はここに残っている」と天語は反復した。&lt;br /&gt;
-&lt;em&gt;‘watashi wa koko ni nokotte iru’ to fukaeri wa itta.&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;‘kimi wa koko ni nokotte iru’ to tengo wa hanpuku shita.&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The translation says:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;‘I’ll stay here,’ Fuka-eri said.&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;‘You’ll stay here,’ Tengo echoed her.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Again, this looks more repetitive than the original.&lt;/p&gt;
-
-&lt;p&gt;The English translation of the first two books is by Jay Rubin, who is very renowned for translating Murakami’s works, and I think his translation of 1Q84 is excellent. However, the repetition in the English translation is fundamentally different from the Japanese original because of the writing system. It is impossible to translate the effect of the difference between words writtin in &lt;em&gt;hiragana&lt;/em&gt;, &lt;em&gt;katakana&lt;/em&gt; and &lt;em&gt;kanji&lt;/em&gt; into a language with a single alphabet-based writing system like English.&lt;/p&gt;
-
-&lt;p&gt; &lt;br /&gt;
- &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;sup&gt;*&lt;/sup&gt;&lt;em&gt;After four years of reading.&lt;/em&gt;&lt;/p&gt;
-
-&lt;!--
-The other frequent repetitions are in the conversation between Aomame and the Leader, and to my mind this is the result of an intentional symmetry. 1Q84 is highly structured: the three books each span 3 months, the chapters alternate between Tengo and Aomame (and in the third book, Ushikawa). The connection between the main characters is also very symmetrical. The Leader is Fuka-eri&#39;s father[^1] and they are linked in a fundamental way through their connection with the Little People (she&#39;s the &quot;perceiver&quot;, he&#39;s the &quot;receiver&quot;). Aomame and Tengo are also linked in a very fundamental way, I would say they complement one another. The repetitions in the conversation between the Leader and Aomame therefore echo those between Tengo and Fuka-eri.
-
-[^1]: This would be obvious from the start to the Japanese readers: the Leader&#39;s name is Fukada, a common surname. For a pen name, Fuka[da] Eri[ko] is very transparent. The professor calls here Eri, which is a common abbreviation for Eriko, a common name for girls in the 80s.
---&gt;
 
         </content>
     </entry>
