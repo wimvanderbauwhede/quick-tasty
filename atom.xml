@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-    <title>Quick & Tasty - Get Cooking!</title>
+    <title>Quick and Tasty - Get Cooking!</title>
     <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.1.6</generator>
 		<icon>http://www.quickandtastycooking.org.uk/apple-touch-icon-precomposed.png</icon>
     <subtitle>Quick and Tasty</subtitle>
