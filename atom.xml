@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-    <title>Quick and Tasty - Get Cooking!</title>
+    <title>Quick &amp; Tasty - Get Cooking!</title>
     <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.1.6</generator>
 		<icon>http://www.quickandtastycooking.org.uk/apple-touch-icon-precomposed.png</icon>
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2019-03-31T19:33:23+01:00</updated>
+    <updated>2019-03-31T19:42:27+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
@@ -231,8 +231,8 @@ There is a recurrent pattern where one of them, in translation called the “kee
 
 &lt;p&gt;&lt;span class=&quot;footnotes&quot;&gt;
  &lt;br /&gt;
-&lt;sup&gt;*&lt;/sup&gt; In Japan, traditionally a month is split in three ten-day periods called &lt;em&gt;jun&lt;/em&gt;(旬).&lt;br /&gt;
-&lt;sup&gt;**&lt;/sup&gt; Murakami calls them リトル・ピープル (RITORU PIIPURU) which is &lt;em&gt;katakana&lt;/em&gt; rendition of the English “Little People”. The little girl thinks of them as &lt;em&gt;kobito&lt;/em&gt; (小人) which also means “little people”. 
+&lt;sup&gt;*&lt;/sup&gt; In Japan, traditionally a month is split in three ten-day periods called &lt;em&gt;jun&lt;/em&gt;(旬).&lt;br /&gt;
+&lt;sup&gt;**&lt;/sup&gt; Murakami calls them リトル・ピープル (RITORU PIIPURU) which is &lt;em&gt;katakana&lt;/em&gt; rendition of the English “Little People”. The little girl thinks of them as &lt;em&gt;kobito&lt;/em&gt; (小人) which also means “little people”. 
 &lt;/span&gt;
 &lt;!--  – shimedaiko (締め太鼓),  otsuzumi (大鼓) and kotsuzumi (小鼓) –-&gt;
 &lt;!--
