@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-    <title>Quick &amp; Tasty - Get Cooking!</title>
+    <title>Quick &amp; Tasty</title>
     <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.1.6</generator>
 		<icon>http://www.quickandtastycooking.org.uk/apple-touch-icon-precomposed.png</icon>
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2019-04-01T11:42:26+01:00</updated>
+    <updated>2019-05-26T13:15:02+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
@@ -15,6 +15,55 @@
 			
 		</author>
 
+    
+    <entry>
+        <title>Reading Murakami in Japanese</title>
+        <link href="http://www.quickandtastycooking.org.uk/articles/reading-murakami/"/>
+        <updated>2019-05-25T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/articles/reading-murakami</id>
+        <author>
+					<name>Wim</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/reading-murakami_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;As mentioned in &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;previous posts&lt;/a&gt;, I started reading Murakami’s 1Q84 in Japanese in October 2014, after I had been learning Japanese for about three years. The paperback (&lt;em&gt;bunko&lt;/em&gt;, 文庫) edition consists of 6 volumes, two volumes for each of the three Books that make up 1Q84. Each volume is about 400 pages. In July 2016 I finished the first volume. It is now May 2019 and I have finally finished the four volumes comprising Books 1 and 2.&lt;/p&gt;
+
+&lt;p&gt;At first, my reading speed was very slow, about half an hour per page, because I constantly had to look up kanji and grammar constructs. In the last three years, my reading speed has fortunately improved quite a bit: it takes me now five minutes to read a page in Japanese. However, to read the equivalent English translation takes only one minute, so I still have some way to go.&lt;/p&gt;
+
+&lt;p&gt;As my reading improved, I started to use different ways of reading. 
+&lt;!--
+I am taking a break from 1Q84 and instead I started reading &quot;Lizard&quot; (Japanese title _tokage_ とかげ), a collection of short stories by Banana Yoshimoto, my other favourite Japanese author. It&#39;s very interesting to read a different author because it shows that what I have learned by reading Murakami is mainly how to read Murakami. It is taking me quite a while to get used to Banana Yoshimoto&#39;s use of style, vocabulary and grammar. 
+--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;reading-aloud&quot;&gt;Reading aloud&lt;/h2&gt;
+
+&lt;p&gt;In Japanese, “reading aloud” is called &lt;em&gt;rōdoku&lt;/em&gt; (ろうどく, 朗読), a word I quite like because &lt;em&gt;rō&lt;/em&gt; means “melodious, clear, bright, serene, cheerful”.&lt;/p&gt;
+
+&lt;p&gt;Maybe somewhat surprisingly, it turns out that &lt;a href=&quot;https://qz.com/quartzy/1118580/the-beginning-of-silent-reading-was-also-the-beginning-of-an-interior-life/&quot;&gt;silent reading is a relatively young development&lt;/a&gt;: before the 17th century, reading essentially meant reading aloud.&lt;/p&gt;
+
+&lt;p&gt;I find reading aloud very useful because it helps me to understand the flow of the sentence and I also find it easier to understand the meaning. There are many other benefits to reading aloud, as explained in &lt;a href=&quot;https://www.voices.com/blog/7_ways_reading_aloud_improves_your_life/&quot;&gt;this article on Voices.com&lt;/a&gt;.
+ A small disadvantage is that I can get stuck on any kanji for which I don’t know the pronunciation – I find it hard to continue without looking it up right away in my dictionary. Still, I like to read aloud also because I simply like the sound of Japanese.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading-without-vocalising&quot;&gt;Reading without vocalising&lt;/h2&gt;
+
+&lt;p&gt;When reading Japanese silently (&lt;em&gt;mokudoku&lt;/em&gt; もくどく, 黙読), I usually &lt;a href=&quot;https://en.wikipedia.org/wiki/Subvocalization&quot;&gt;subvocalise&lt;/a&gt;, i.e. I hear the text in my head. However, I found that &lt;em&gt;not&lt;/em&gt; doing this has some interesting advantages. I am of course not the first one to make this observation, see e.g. &lt;a href=&quot;http://www.theindependentbd.com/magazine/details/8098/Significance-of-Silent-Reading&quot;&gt;Significance of Silent Reading&lt;/a&gt;, but these are my observations for the particular case of reading Japanese as a non-native. 
+For one, I don’t get stuck on unknown kanji readings, so my flow is not broken so easily. Also, it means that I go straight from word shapes to meanings. For example, I do not need to know that 菜食主義者 is pronounced &lt;em&gt;saishokushugisha&lt;/em&gt; (さいしょくしゅぎしゃ) to know that it means “vegetarian” (菜 &lt;em&gt;sai&lt;/em&gt; is vegetable, 食 &lt;em&gt;shoku&lt;/em&gt; is to eat, 主義 &lt;em&gt;shugi&lt;/em&gt; is doctrine and 者 &lt;em&gt;sha&lt;/em&gt; is person). Even for new words it is often possible to tell the meaning from the kanji – one of the advantages of a writing system based on logograms. 
+When not vocalising, it is not necessary to read every individual character. In Japanese the grammar is usually conveyed using groups of hiragana characters and I find that just geting the overall shape is enough to see if a sequence of characters is a negation, or a polite suffix etc. And finally it allows me to &lt;a href=&quot;https://www.irisreading.com/speed-reading-tips-5-ways-to-minimize-subvocalization/&quot;&gt;speed-read&lt;/a&gt;: I can simply scan the text for kanji that indicate the “interesting” parts. And I can now add speed reading to my vocabulary as well: &lt;em&gt;sokudoku&lt;/em&gt; (そくどく, 速読).&lt;/p&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
+
+&lt;p&gt;Here are some articles for your perusal (&lt;em&gt;jukudoku&lt;/em&gt;, じゅくどく, 熟読).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;An interesting Japanese article on silent reading and reading aloud: &lt;a href=&quot;https://www.office-srr.com/column/silent-reading-vs-reading-aloud/&quot;&gt;黙読と朗読・音読の違い&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;About reading, but otherwise unrelated: &lt;a href=&quot;https://www.japantimes.co.jp/life/2018/02/19/language/reading-roman-alphabet-japanese-isnt-easy-abc/&quot;&gt;Reading the Roman alphabet in Japanese isn’t as easy as ABC&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;A chapter from the book “A History of Reading” by Alberto Mangue, &lt;a href=&quot;https://web.stanford.edu/class/history34q/readings/Manguel/Silent_Readers.html&quot;&gt;The Silent Readers&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Orzo with celeriac, mixed mushrooms and tofu sticks</title>
@@ -1979,70 +2028,6 @@ You need several typically Japanese ingredients for this but I bought everything
   &lt;li&gt;Add the &lt;em&gt;miso&lt;/em&gt;, black bean paste and tomato puree and two tablespoons each of the soaking liquid of the tomatoes and &lt;em&gt;shiitake&lt;/em&gt;.&lt;/li&gt;
   &lt;li&gt;Cook further for a few minutes over low heat, stirring well.&lt;/li&gt;
 &lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Curry of potatoes, spinach and chickpeas</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/curry-potatoes-spinach-chickpeas/"/>
-        <updated>2017-05-28T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/curry-potatoes-spinach-chickpeas</id>
-        <author>
-					<name>Wim</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/curry-potatoes-spinach-chickpeas_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This very tasty recipe takes about 30 minutes to prepare, it’s a mild potato curry with spinach and chickpeas with a base of spices and seeds.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#curry&quot;&gt;&lt;em&gt;curry&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;500 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#400-600kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_2.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients:
-    &lt;ul&gt;
-      &lt;li&gt;about 400 g small potatoes&lt;/li&gt;
-      &lt;li&gt;2 large tomatoes (about 200 g)&lt;/li&gt;
-      &lt;li&gt;about 200 g spinach&lt;/li&gt;
-      &lt;li&gt;1 tin of chickpeas&lt;/li&gt;
-      &lt;li&gt;1 cm fresh ginger, finely chopped&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;spices: turmeric, coriander seeds, cumin seeds, cardamom pods, cayenne pepper to taste (I use about a teaspoon of each of the spices and just a pinch of the cayenne pepper)&lt;/li&gt;
-      &lt;li&gt;1 tablespoon sesame seeds&lt;/li&gt;
-      &lt;li&gt;1 tablespoon sunflower seeds&lt;/li&gt;
-      &lt;li&gt;1 tablespoon pumpkin seeds&lt;/li&gt;
-      &lt;li&gt;1 tablespoon of soy sauce&lt;/li&gt;
-      &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
-      &lt;li&gt;1 teaspoon garlic oil&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Wash the potatoes and cut them in two. Cook them in the microwave for 5 minutes at full power (900 W), stir, cook for another 5 minutes.&lt;/li&gt;
-  &lt;li&gt;Slice the tomatoes as fine as you can.&lt;/li&gt;
-  &lt;li&gt;If you’re using whole seeds like I do, grind the coriander seeds, cumin seeds and cardamom pods.&lt;/li&gt;
-  &lt;li&gt;Heat the oil in a large deep pan. I recommend a non-stick pan with a lid.&lt;/li&gt;
-  &lt;li&gt;When the oil is hot, add the ginger, seeds and spices and fry over medium heat for a few minutes.&lt;/li&gt;
-  &lt;li&gt;Add the chickpeas and stir-fry for a few minutes more over high heat.&lt;/li&gt;
-  &lt;li&gt;Clear some space in the middle of the pan and put in the soy sauce. Stir vigorously.&lt;/li&gt;
-  &lt;li&gt;Add the tomatoes and stir well. Lower the heat and leave to simmer for a few minutes until the tomatoes have softened.&lt;/li&gt;
-  &lt;li&gt;Cook the spinach in the microwave at full power (900W) for 1 minute.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, add the potatoes to the pan, stir until the potatoes are no longer looking white.&lt;/li&gt;
-  &lt;li&gt;Cut up the spinach. Add the spinach to the pan, stir and let simmer for a few more minutes.&lt;/li&gt;
-  &lt;li&gt;Add garlic oil to taste.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This is really a complete one-pan meal but sometimes I serve it with rice too.&lt;/p&gt;
 
         </content>
     </entry>
