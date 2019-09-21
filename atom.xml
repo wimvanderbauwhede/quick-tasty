@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2019-05-26T13:15:02+01:00</updated>
+    <updated>2019-09-21T11:38:05+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
@@ -15,6 +15,265 @@
 			
 		</author>
 
+    
+    <entry>
+        <title>A shop, the planets and the days of the week</title>
+        <link href="http://www.quickandtastycooking.org.uk/articles/suikin-planets-weekdays/"/>
+        <updated>2019-09-08T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/articles/suikin-planets-weekdays</id>
+        <author>
+					<name>Wim</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/suikin-planets-weekdays_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;In Tokyo there is &lt;a href=&quot;http://www.hpfrance.com/Shop/Brand/suikin.html&quot;&gt;a shop called &lt;em&gt;Sui Kin Chi Ka Moku Do Ten Mei Kai&lt;/em&gt;&lt;/a&gt;, written 水金地火木土天冥海. At first glance this seems a very long, hard to pronounce and difficult to remember name, so why name a shop like that?&lt;/p&gt;
+
+&lt;h2 id=&quot;the-names-of-the-planets-in-the-solar-system&quot;&gt;The names of the planets in the solar system&lt;/h2&gt;
+
+&lt;p&gt;The explanation is that the name refers to a mnemonic for the planets in the solar system: each &lt;em&gt;kanji&lt;/em&gt; in the name of the shop is the first kanji of the name of a planet, starting from the one closest to the sun. So most Japanese people will recognise and remember the name. And because in Japanese everything gets abbreviated if at all possible, in practice everyone calls the shop “Suikin”.&lt;/p&gt;
+
+&lt;p&gt;One oddity about the name is that most people will in school have learned the sequence &lt;em&gt;Sui Kin Chi Ka Moku Do Ten Kai Mei&lt;/em&gt; ( 水金地火木土天海冥), so the last two names are swapped. This is because when the shop was founded (in 1984), Pluto (冥王星, &lt;em&gt;meiōsei&lt;/em&gt;) was closer to the earth than Neptune (海王星, &lt;em&gt;kaiōsei&lt;/em&gt;), but because of Pluto’s strongly elliptical orbit, this is only the case for two periods of about 20 years in the total of 248 year it takes to complete one orbit around the Sun. The last time this happened was between 1979 and 1999, and it won’t happen again until 2227.&lt;/p&gt;
+
+&lt;p&gt;What puzzled me is the connection between the order of the planets and the order of the days of the week in Japanese. The names of the planets are:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;English name&lt;/th&gt;
+      &lt;th&gt;Japanese name&lt;/th&gt;
+      &lt;th&gt;Reading&lt;/th&gt;
+      &lt;th&gt;Meaning&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mercurius&lt;/td&gt;
+      &lt;td&gt;水星&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;suisei&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Water Star&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Venus&lt;/td&gt;
+      &lt;td&gt;金星&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;kinsei&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Metal Star&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;(Earth&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;地球&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;chikyuu&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;Terrestrial Globe)&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mars&lt;/td&gt;
+      &lt;td&gt;火星&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;kasei&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Fire star&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jupiter&lt;/td&gt;
+      &lt;td&gt;木星&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;mokusei&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Wood star&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Saturn&lt;/td&gt;
+      &lt;td&gt;土星&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;dosei&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Earth star&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Uranus&lt;/td&gt;
+      &lt;td&gt;天王星&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;ten-ōsei&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;King of Heaven’s Star&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Neptune&lt;/td&gt;
+      &lt;td&gt;海王星&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;kai-ōsei&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;King of the Sea’s Star&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pluto&lt;/td&gt;
+      &lt;td&gt;冥王星&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;mei-ōsei&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;King of the Dark’s Star&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Table 1. Names of the planets in English and Japanese&lt;/p&gt;
+
+&lt;p&gt;The suffix &lt;em&gt;-sei&lt;/em&gt; (星) actually means “star”. The names of the last three planets are Japanese descriptions of the roles of the gods Uranus, Neptune and Pluto. The other five planets are named after the &lt;a href=&quot;https://en.wikipedia.org/wiki/Five_elements_(China)&quot;&gt;Five Elements (五大, &lt;em&gt;godai&lt;/em&gt;)&lt;/a&gt; used in Chinese philosophy: water (水), metal (金), fire (火), wood (木), and earth in the sense of soil (土).&lt;/p&gt;
+
+&lt;p&gt;The days of the week are listed in Table 2. The suffix &lt;em&gt;-yōbi&lt;/em&gt; (曜日) means “weekday”. I’ve added the names used in the Roman calendar for comparison.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Day&lt;/th&gt;
+      &lt;th&gt;Japanese&lt;/th&gt;
+      &lt;th&gt;Reading&lt;/th&gt;
+      &lt;th&gt;Roman name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sunday&lt;/td&gt;
+      &lt;td&gt;日曜日&lt;/td&gt;
+      &lt;td&gt;nichiyōbi&lt;/td&gt;
+      &lt;td&gt;Sun-day&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Monday&lt;/td&gt;
+      &lt;td&gt;月曜日&lt;/td&gt;
+      &lt;td&gt;getsuyōbi&lt;/td&gt;
+      &lt;td&gt;Moon-day&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tuesday&lt;/td&gt;
+      &lt;td&gt;火曜日&lt;/td&gt;
+      &lt;td&gt;kayōbi&lt;/td&gt;
+      &lt;td&gt;Mars-day&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wednesday&lt;/td&gt;
+      &lt;td&gt;水曜日&lt;/td&gt;
+      &lt;td&gt;suiyōbi&lt;/td&gt;
+      &lt;td&gt;Mercury-day&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Thursday&lt;/td&gt;
+      &lt;td&gt;木曜日&lt;/td&gt;
+      &lt;td&gt;mokuyōbi&lt;/td&gt;
+      &lt;td&gt;Jupiter-day&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Friday&lt;/td&gt;
+      &lt;td&gt;金曜日&lt;/td&gt;
+      &lt;td&gt;kinyōbi&lt;/td&gt;
+      &lt;td&gt;Venus-day&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Saturday&lt;/td&gt;
+      &lt;td&gt;土曜日&lt;/td&gt;
+      &lt;td&gt;doyōbi&lt;/td&gt;
+      &lt;td&gt;Saturn-day&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Table 2. Names of the days of the week in English and Japanese and their Roman name&lt;/p&gt;
+
+&lt;h2 id=&quot;the-order-of-the-days-of-the-week&quot;&gt;The order of the days of the week&lt;/h2&gt;
+
+&lt;p&gt;What I found intriguing is that the days of the week occur in the same order in our calendar and in the Japanese calendar. My first assumption was that the Japanese simply borrowed the Western convention after contact with the West, which would have been in the 16th century at the earliest, but it turns out that this is not the case: the adoption of a 7-day week and the naming of the weekdays was introduced in China in the 4th century (from either  ancient Mesopotamia or Egypt, and likely via Greece) and from there in Japan in the 9th century. I found the answer on the website of the &lt;a href=&quot;http://www.sendai-astro.jp/observation/blog/2016/01/qa025.html&quot;&gt;Sendai Astronomical Observatory (&lt;em&gt;Sendaishi Tenmondai&lt;/em&gt;, 仙台市天文台)&lt;/a&gt;. What follows is a rewording of that explanation.&lt;/p&gt;
+
+&lt;p&gt;In ancient times, people read the time and season from the stars in the night sky. They discovered that five of these “stars” were moving in a strange way, overtaking each other and sometimes appearing to move backwards. They called these &lt;em&gt;wakusei&lt;/em&gt; (惑星), literally “perplexing stars”. These are the five planets Mercury, Venus, Mars, Jupiter and Saturn that can be seen with the naked eye.&lt;/p&gt;
+
+&lt;p&gt;The ancients thought that planets, the sun and the moon were turning around the earth. As a result of their observations they thought the moon was closest to the earth followed by Mercury, Venus, the Sun, Mars, Jupiter, and Saturn:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;月&lt;/td&gt;
+      &lt;td&gt;水&lt;/td&gt;
+      &lt;td&gt;金&lt;/td&gt;
+      &lt;td&gt;日&lt;/td&gt;
+      &lt;td&gt;火&lt;/td&gt;
+      &lt;td&gt;木&lt;/td&gt;
+      &lt;td&gt;土&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Moon&lt;/td&gt;
+      &lt;td&gt;Mercury&lt;/td&gt;
+      &lt;td&gt;Venus&lt;/td&gt;
+      &lt;td&gt;Sun&lt;/td&gt;
+      &lt;td&gt;Mars&lt;/td&gt;
+      &lt;td&gt;Jupiter&lt;/td&gt;
+      &lt;td&gt;Saturn&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Furthermore, the belief was that the sun, the moon, and the five planets were “star gods”  (星の神, &lt;em&gt;hoshi no kami&lt;/em&gt;) who dominated time and space. And the astronomers observed the moon cycle of 28 days, which was split into four 7-day units, with one day dedicated to each star god. This was the basis for the notion of the ​”week”. The division of the day into 24 hours had already evolved based on the concept of the &lt;a href=&quot;https://www.japantimes.co.jp/community/2011/10/22/our-lives/telling-time-with-animals/&quot;&gt;twelve constellations of the zodiac&lt;/a&gt;. Each hour was believed to be controlled by a specific star god, and each day was believed to be dominated by the specific star god controlling the first hour of that day. And the order in which the star gods were assigned to the hours and days was based on the order in which the “stars” were observed.&lt;/p&gt;
+
+&lt;p&gt;If we start on the first hour of the first day with Saturn, the planet furthest away from the earth, this is Saturn’s day (土曜日). Each hour we move to the next closer planet in the geocentric model: Jupiter, Mars, the Sun,Venus, Mercury and the Moon, and we repeat this process, so after the Moon we start again with Saturn. Doing so, after 24 hours, we arrive at the Sun (日曜日), and 24 hours after that, the Moon (月曜日), then Mars (火曜日), Mercury (水曜日), Jupiter (木曜日), Venus (金曜日),   and after one week, this pattern repeats itself and we’re back at Saturn:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Hour in the day&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Day&lt;/th&gt;
+      &lt;th&gt;１　２　３　４　５　６　７　８　９　…　２４&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Saturn’s day&lt;/td&gt;
+      &lt;td&gt;土　木　火　日　金　水　月　土　木　…　火&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sun’s day&lt;/td&gt;
+      &lt;td&gt;日　金　水　月　土　木　火　日　金　…　水&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Moon’s day&lt;/td&gt;
+      &lt;td&gt;月　土　木　火　日　金　水　月　土　…　木&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mars’ day&lt;/td&gt;
+      &lt;td&gt;火　日　金　水　月　土　木　火　日　…　金&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mercury’s day&lt;/td&gt;
+      &lt;td&gt;水　月　土　木　火　日　金　水　月　…　土&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jupiter’s day&lt;/td&gt;
+      &lt;td&gt;木　火　日　金　水　月　土　木　火　…　日&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Venus’ day&lt;/td&gt;
+      &lt;td&gt;金　水　月　土　木　火　日　金　水　…　月&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Saturn’s day&lt;/td&gt;
+      &lt;td&gt;土　木　火　日　金　水　月　土　木　…　火&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;This is how the ancient astronomers in Mesopotamia or Egypt related the days of the week to the planets, and from there it was adopted in ancient Greece and Rome but also in ancient China and Japan. To my mind it’s really quite amazing to learn that the order of the days of the week relates in this way to the ordering of the “stars” in the geocentric model.&lt;/p&gt;
+
+&lt;h2 id=&quot;bonus-track&quot;&gt;Bonus track&lt;/h2&gt;
+
+&lt;p&gt;Here is a small &lt;a href=&quot;https://www.haskell.org/&quot;&gt;Haskell&lt;/a&gt; program that creates the week day sequences from the sequence of the “star gods”:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  starGodSequence = reverse [&quot;月&quot;,&quot;水&quot;,&quot;金&quot;,&quot;日&quot;,&quot;火&quot;,&quot;木&quot;,&quot;土&quot;]
+  starGodsAllHours = concat ( repeat starGodSequence )
+  starGodsDaysFrom s = (head s):starGodsDaysFrom (drop 24 s)
+  weekDays = take 7 ( starGodsDaysFrom starGodsAllHours )
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The program performs the operations explained above: it takes the list of “star gods” in geocentric order and &lt;code&gt;reverse&lt;/code&gt;s them so that “土” (Saturn) is first, this is &lt;code&gt;starGodSequence&lt;/code&gt;. It then &lt;code&gt;repeat&lt;/code&gt;s this list forever (in Haskell you can do this). The &lt;code&gt;concat&lt;/code&gt; flattens this list of lists into a single list, &lt;code&gt;starGodsAllHours&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The function &lt;code&gt;starGodsDaysFrom&lt;/code&gt; is recursive, what it does is take the first element in a list, then drops 24 elements (including this first one), and repeats the process, again potentially forever. We apply this function to &lt;code&gt;starGodsAllHours&lt;/code&gt;. This produces a new list which repeats the days of the week forever.&lt;/p&gt;
+
+&lt;p&gt;Finally, to get the seven days of the week, we &lt;code&gt;take&lt;/code&gt; the first seven elements of that new list.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+The banner photo shows the moon-viewing room  (&lt;em&gt;shōgetsurō&lt;/em&gt;, 嘯月楼) of the Shisen-dō (詩仙堂) temple in Kyoto.&lt;/p&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Reading Murakami in Japanese</title>
@@ -1945,88 +2204,6 @@ You need several typically Japanese ingredients for this but I bought everything
   &lt;li&gt;Remove the &lt;em&gt;kombu&lt;/em&gt; from the pot with rice, slice it into smaller strips and return it to the pot. Continue cooking for another 15 minutes or until all the water has been absorbed.&lt;/li&gt;
   &lt;li&gt;Add 4 tablespoons of the &lt;em&gt;shiitake&lt;/em&gt; soaking liquid to the cooking liquid of the vegetables and dissolve the &lt;em&gt;miso&lt;/em&gt; in it.
   _ Pour the mixture in the pan and stir over medium heat until the liquid has been absorbed.&lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Fried potatoes with soy beans, peas and courgette in a mildly spicy sauce</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/potatoes-beans-peas-courgette/"/>
-        <updated>2017-06-11T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/potatoes-beans-peas-courgette</id>
-        <author>
-					<name>Wim</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/potatoes-beans-peas-courgette_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;In this recipe I combined &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/udon-carrots-yuba-knots/&quot;&gt;my &lt;em&gt;umami&lt;/em&gt; sauce&lt;/a&gt; with potatoes, soy beans, peas and courgettes.&lt;/p&gt;
-
-&lt;p&gt;There is one ingredient in this recipe that may be a bit harder to find, but it is really worth the effort! I bought these at a Chinese supermarket.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fermented broad bean paste (called &lt;em&gt;doubanjiang&lt;/em&gt; in Chinese) is essential. Make sure to check the ingredients as there are many types of chilli bean paste and a lot of them are not vegetarian. The Chinese characters are 豆瓣酱. If it says 辛豆瓣酱 then it will be very spicy. The brand I got is &lt;a href=&quot;https://shop.waiyeehong.com/food-ingredients/sauces-oils/other-sauces/chilli-bean-paste-toban-paste&quot;&gt;Pearl River Bridge Chilli Bean Paste&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All the other ingredients can be found in ordinary supermarkets.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;550 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#400-600kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_2.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Main ingredients&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;400 g potatoes&lt;/li&gt;
-      &lt;li&gt;300 g courgettes&lt;/li&gt;
-      &lt;li&gt;1 cup of frozen peas and soy beans (combined)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;For the sauce&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;6 dried tomatoes, finely chopped&lt;/li&gt;
-      &lt;li&gt;1 tablespoon tomato puree&lt;/li&gt;
-      &lt;li&gt;a handful of dried shiitake&lt;/li&gt;
-      &lt;li&gt;2 tablespoons pumpkin seeds, crushed in a mortar&lt;/li&gt;
-      &lt;li&gt;1 cm ginger, finely chopped&lt;/li&gt;
-      &lt;li&gt;1/2 teaspoon miso&lt;/li&gt;
-      &lt;li&gt;1/2 teaspoon black bean paste&lt;/li&gt;
-      &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
-      &lt;li&gt;1 teaspoon garlic oil&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;p&gt;Two of the ingredients need soaking: the dried tomatoes and &lt;em&gt;shiitake&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Soak each of these in a separate pot or bowl in freshly boiled water for at least 30 minutes.&lt;/li&gt;
-  &lt;li&gt;After soaking:
-    &lt;ul&gt;
-      &lt;li&gt;Squeeze the liquid out of the tomatoes. Keep the soaking liquid.&lt;/li&gt;
-      &lt;li&gt;Wash the &lt;em&gt;shiitake&lt;/em&gt;, then squeeze the liquid out of them and cut the in strips. Keep the soaking liquid.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Cook the frozen beans and peas for 2 minutes in the microwave at full power (900 W).&lt;/li&gt;
-  &lt;li&gt;Wash the potatoes and dice them.&lt;/li&gt;
-  &lt;li&gt;Cook the potatoes in the microwave for 10 minutes at full power (900 W), stirring halfway through.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, wash the courgettes and slice them thinly. You can cook them in the microwave for a few minutes at full power (900W) to speed up the frying.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, heat the oil and fry the ginger for a minute or so.&lt;/li&gt;
-  &lt;li&gt;Add the pumpkin seeds, the tomatoes and &lt;em&gt;shiitake&lt;/em&gt; and fry over low heat for a few minutes.&lt;/li&gt;
-  &lt;li&gt;Add the potatoes and courgettes and fry over high heat for a few minutes, until the courgettes are soft and the potatoes have browned.&lt;/li&gt;
-  &lt;li&gt;Add the beans and peas.&lt;/li&gt;
-  &lt;li&gt;Add the &lt;em&gt;miso&lt;/em&gt;, black bean paste and tomato puree and two tablespoons each of the soaking liquid of the tomatoes and &lt;em&gt;shiitake&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Cook further for a few minutes over low heat, stirring well.&lt;/li&gt;
 &lt;/ul&gt;
 
         </content>
