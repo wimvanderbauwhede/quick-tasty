@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2019-09-21T11:38:05+01:00</updated>
+    <updated>2019-10-27T21:40:52+00:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
@@ -15,6 +15,205 @@
 			
 		</author>
 
+    
+    <entry>
+        <title>Ghost in the Shell and the Manyoshi</title>
+        <link href="http://www.quickandtastycooking.org.uk/articles/ghost-in-the-shell-manyoshi/"/>
+        <updated>2019-10-26T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/articles/ghost-in-the-shell-manyoshi</id>
+        <author>
+					<name>Wim</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/ghost-in-the-shell-manyoshi_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;The first “Ghost in the Shell” anime has &lt;a href=&quot;https://www.youtube.com/watch?v=ebkGo-nUPhk&quot;&gt;a very striking opening theme&lt;/a&gt;. It was expanded for the second movie, “Innocence”. I was in particular intrigued by &lt;a href=&quot;https://www.youtube.com/watch?v=WOEEfPpSAZ8&quot;&gt;the “Puppet Song”&lt;/a&gt; in Innocence, and tried to unwrap the many layers behind it.&lt;/p&gt;
+
+&lt;h2 id=&quot;ghost-in-the-shell&quot;&gt;Ghost in the Shell&lt;/h2&gt;
+
+&lt;p&gt;In 1995, the first “Ghost in the Shell” anime was released, based on the 1991 manga &lt;em&gt;koukaku kidoutai&lt;/em&gt; (攻殻機動隊, “mobile armoured riot police”) by Shirō Masamune. It’s a cyberpunk, near-future science fiction anime about cyborgs and to my mind it deals with the question of what makes a human human. It is one of my favourite anime, and one of the reasons for this is the score by Kenji Kawai. In particular, the film has a very striking opening theme sung by a choir, “謡I - Making of Cyborg”. The character 謡 (&lt;em&gt;uta&lt;/em&gt;) indicates that the song is a traditional folk ballad or chant, otherwise the more common character for “song”  歌 (also &lt;em&gt;uta&lt;/em&gt;) would be used. There are three of these chants in the movie, but I want to focus on the first one.&lt;/p&gt;
+
+&lt;h2 id=&quot;making-of-cyborg&quot;&gt;Making of Cyborg&lt;/h2&gt;
+
+&lt;p&gt;When &lt;a href=&quot;https://www.youtube.com/watch?v=z64HCi2rQkE&quot;&gt;listening to this song&lt;/a&gt;, what struck me is that it sounds similar to the choral songs of &lt;a href=&quot;https://www.youtube.com/watch?v=AFgzzWT3zX4&quot;&gt;“Le Mystère des Voix Bulgares”&lt;/a&gt;, which was the name of a 1975 recording of Bulgarian folk songs performed by the Bulgarian State Radio &amp;amp; Television Female Vocal Choir. It only became widely known after being re-released by the British independent record label 4AD in 1986.&lt;/p&gt;
+
+&lt;p&gt;As it turns out, this is not a coincidence: &lt;a href=&quot;http://www.gamesetwatch.com/2010/02/sound_current_kenji_kawai_the.php&quot;&gt;in an interview&lt;/a&gt;, the composer explained he had wanted a chorus in Bulgarian style but using Japanese folk singers. According to &lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8E%E3%82%BB%E3%83%B3%E3%82%B9&quot;&gt;the Japanese Wiki&lt;/a&gt;, he used only three singers for the recording. The result is a very interesting combination of a traditional Bulgarian mode with Japanese lyrics and singing style.&lt;/p&gt;
+
+&lt;p&gt;What is also very interesting is the nature of the song: it is intended to be similar to a traditional Japanese wedding song, but as far as I could gather the composer wrote the lyrics. He used a very archaic style, dating back to the Heian period (794 to 1185, when Kyoto became the capital) or even the earlier Nara period (710 to 794, when Nara was the capital).&lt;/p&gt;
+
+&lt;p&gt;The original lyrics are:&lt;/p&gt;
+
+&lt;p&gt;吾が舞へば&lt;br /&gt;
+麗し女　酔ひにけり&lt;/p&gt;
+
+&lt;p&gt;吾が舞へば　&lt;br /&gt;
+照る月　響むなり&lt;/p&gt;
+
+&lt;p&gt;結婚に　神降りて&lt;br /&gt;
+夜は明け　鵺鳥　鳴く&lt;/p&gt;
+
+&lt;p&gt;In &lt;em&gt;hiragana&lt;/em&gt; this reads:&lt;/p&gt;
+
+&lt;p&gt;あがまへば&lt;br /&gt;
+くわしめ　よひにけり&lt;/p&gt;
+
+&lt;p&gt;あがまへば&lt;br /&gt;
+てるつき　とよむなり&lt;/p&gt;
+
+&lt;p&gt;よばいに　かみあまくだりて&lt;br /&gt;
+よはあけ　ぬえとりなく&lt;/p&gt;
+
+&lt;p&gt;And in &lt;em&gt;romaji&lt;/em&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;agamaeba&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;kuwashime yoinikeri&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;agamaeba&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;terutsuki toyomunari&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;yobai ni amakudarite&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;yo wa ake nuetori naku&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I based my translation on &lt;a href=&quot;https://ameblo.jp/mazdafamilia2010/entry-11170063067.html&quot;&gt;a modern Japanese version&lt;/a&gt; of the archaic Japanese:&lt;/p&gt;
+
+&lt;p&gt;私が舞うと　
+美しい女が酔った&lt;/p&gt;
+
+&lt;p&gt;私が舞うと　
+照る月が　鳴り響く&lt;/p&gt;
+
+&lt;p&gt;結婚するために　神が天から　降りてきて
+夜が明けて　鵺鳥が　鳴く&lt;/p&gt;
+
+&lt;p&gt;My translation is:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;As I dance, the beautiful woman is enchanted&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;As I dance, the shining moon reverberates&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;The god descends from heaven to get married&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;The night turns into day and the thrush cries&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The last words in the song quite dramatically change the atmosphere because of the negative connotations of the cry of the &lt;em&gt;nue&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;A few notes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“to get married”: the word used in the song is &lt;em&gt;yobai ni&lt;/em&gt;, where &lt;em&gt;yo&lt;/em&gt; (夜) means “night” and &lt;em&gt;bai&lt;/em&gt; (這い) “to crawl”. In the Heian era, a nobleman sneaking into a lady’s bedroom at night constituted a marriage proposal. There are many examples in the famous novel &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Tale_of_Genji&quot;&gt;The Tale of Genji&lt;/a&gt;. The lyrics in kanji above have “結婚に” (&lt;em&gt;kekkon ni&lt;/em&gt;)  which means to get married.&lt;/li&gt;
+  &lt;li&gt;“The thrush cries”: the specific bird is &lt;a href=&quot;https://en.wikipedia.org/wiki/White&#39;s_thrush&quot;&gt;White’s Thrush&lt;/a&gt;. Nowadays, 鵺 &lt;em&gt;nue&lt;/em&gt; also refers to a mythological creature, a Japanese version of the chimaera, but that was not the case in the Heian era. Nevertheless, the cry of this bird is an ill omen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;innocence&quot;&gt;Innocence&lt;/h2&gt;
+
+&lt;p&gt;In 2004, the second Ghost in the Shell anime, “Innocence”, was released, with the same director (Mamoru Oshii) and continuing the themes from the first movie but with a much more explicit exploration of the philosophical themes through quotes and imagery. Also there are more pronounced archaic elements, for example sometimes the characters use archaic Japanese, and of course there is &lt;a href=&quot;https://www.youtube.com/watch?v=HtxRCwZH-OA&quot;&gt;the famous parade scene&lt;/a&gt;. I think this anime is a masterpiece. But my focus is again only on the opening theme song, the Puppet Song.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-puppet-song-i&quot;&gt;The Puppet Song (I)&lt;/h2&gt;
+
+&lt;p&gt;The full title of the song is &lt;em&gt;kugutsu-uta: uramite chiru&lt;/em&gt; (傀儡謡「怨恨みて 散る」, くぐつうた「うらみてちる」) which means “Puppet song: The flowers resentfully fall” (the word “flowers” is not present in the title but implicit from the lyrics). A translation I found in many places is “The flowers grieve and fall” but 怨恨 is not grief but resentment, even hate.&lt;/p&gt;
+
+&lt;p&gt;The song is in the same choral mode as “Making of Cyborg”. The harmony and delivery are also quite similar but the melody is distinctly different. Musically, another notable difference is that the composer expanded the choir from three singers to 75. The &lt;a href=&quot;https://www.youtube.com/watch?v=LqGq2QgDQR8&quot;&gt;live performance of this song with the full choir&lt;/a&gt; is very impressive.&lt;/p&gt;
+
+&lt;p&gt;The lyrics are written in a similar archaic style, but they are longer and a lot less straightforward.&lt;/p&gt;
+
+&lt;p&gt;The original lyrics are:&lt;/p&gt;
+
+&lt;p&gt;一日一夜に　&lt;a href=&quot;http://www.asahi-net.or.jp/~sg2h-ymst/yamatouta/sennin/kawati_t.html&quot;&gt;月は照らずとも&lt;/a&gt;&lt;br /&gt;
+悲傷しみに　鵺鳥　鳴く&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://manapedia.jp/text/1659&quot;&gt;吾がかへり 見すれど&lt;/a&gt;　&lt;a href=&quot;https://art-tags.net/manyo/five/m0798.html&quot;&gt;花は散りぬべし&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://manyou.plabot.michikusa.jp/manyousyu5_898.html&quot;&gt;慰むる　心は&lt;/a&gt;　&lt;a href=&quot;https://art-tags.net/manyo/twelve/m3039.html&quot;&gt;消ぬるがごとく&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;新世に　神集いて&lt;br /&gt;
+&lt;a href=&quot;https://art-tags.net/manyo/fifteen/m3598.html&quot;&gt;夜は明け&lt;/a&gt;　鵺鳥　鳴く&lt;/p&gt;
+
+&lt;p&gt;咲く花は　&lt;a href=&quot;http://k-amc.kokugakuin.ac.jp/DM/detail.do?class_name=col_dsg&amp;amp;data_id=68283&quot;&gt;神に祈ひ祷む&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://manyou.plabot.michikusa.jp/manyousyu4_746.html&quot;&gt;生ける世に&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://manapedia.jp/text/2077&quot;&gt;吾が身悲しも&lt;/a&gt;&lt;br /&gt;
+夢は 消ぬ&lt;br /&gt;
+怨恨みて&lt;br /&gt;
+散る&lt;/p&gt;
+
+&lt;p&gt;In &lt;em&gt;hiragana&lt;/em&gt; this reads:&lt;/p&gt;
+
+&lt;p&gt;ひとひひとよに　つきはてらずとも&lt;br /&gt;
+かなしみに　ぬえとり　なく&lt;/p&gt;
+
+&lt;p&gt;あがかへり　みすれど　はなはちりぬべし&lt;/p&gt;
+
+&lt;p&gt;なぐさむる　こころは　けぬるがごとく&lt;/p&gt;
+
+&lt;p&gt;あらたよに　かむつどいて&lt;br /&gt;
+よはあけ　ぬえとりなく&lt;/p&gt;
+
+&lt;p&gt;さくはなは　かみにこひのむ&lt;br /&gt;
+いけるよに&lt;br /&gt;
+わがみかなしも　&lt;br /&gt;
+いめは　けぬ&lt;br /&gt;
+うらみて&lt;br /&gt;
+ちる&lt;/p&gt;
+
+&lt;p&gt;And in &lt;em&gt;romaji&lt;/em&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;hitohi hitoyo ni tsuki wa terazu to mo&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;kanashimi ni nuetori naku&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;agakaeri misuredo hana wa chirinubeshi&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;nagusamuru kokoro wa kenuru ga godoku&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;arata yo ni kamu tsudoite&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;yo wa ake nuetori naku&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;sakuhana wa kami ni kohinomu&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;ikeru yo ni&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;wa ga mi kanashi mo&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;ime wa kenu&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;uramite&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;chiru&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When I tried to read and understand this text, I got stuck on almost every single line. I was quite surprised to find that almost all the parts that I did not understand occur in the Manyōshū.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-manysh&quot;&gt;The Manyōshū&lt;/h2&gt;
+
+&lt;p&gt;The &lt;em&gt;Manyōshū&lt;/em&gt; (万葉集), literally “Collection of Myriad Leaves”, is the oldest existing collection of poetry in classical Japanese, compiled during the Nara period. It is extremely highly regarded, for example the name of the current era, 令和 (&lt;em&gt;reiwa&lt;/em&gt;) &lt;a href=&quot;https://japan-forward.com/manyoshu-know-the-poetry-collection-where-japans-new-era-name-comes-from/&quot;&gt;was inspired by one of its poems&lt;/a&gt;. It has been studied by scholars for a very long time, and therefore it is possible to find explanations and translations of the poems.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-puppet-song-ii&quot;&gt;The Puppet Song (II)&lt;/h2&gt;
+
+&lt;p&gt;In the original lyrics of the Puppet Song above, each linked phrase occurs in a poem from the &lt;em&gt;Manyōshū&lt;/em&gt; collection.&lt;/p&gt;
+
+&lt;p&gt;It’s quite remarkable that the lyrics of the theme song of a cyberpunk science fiction anime are so strongly inspired by 7th-century classical Japanese poetry. I am also intrigued how the composer could write in such an archaic style, which I assume only very few people master today. And of course this explains why I did not understand so many of the lines.&lt;/p&gt;
+
+&lt;p&gt;However, thanks to the Manyōshū scholars and a number of existing translations, it was possible for me to put together a translation of the song that I’m happy with, although whether it is correct or not is certainly debatable.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Every day, every night,&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;even if the moon does not shine,&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;the thrush cries in sadness&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I turned and looked back,&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;but the flowers had already scattered;&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;all consolation disappeared from my heart&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The gods leave to gather in the new world&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;As night turns into day, the thrush cries&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Although in this living world&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;we ourselves become sad,&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;at least may our dreams never vanish!”&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;the blossoms beseech the gods, as they resentfully fall&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;A few notes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“even if the moon does not shine”: this is my interpretation of とも.&lt;/li&gt;
+  &lt;li&gt;“As night turns into day, the thrush cries”: this is a literal quote from the Wedding Song from Ghost in the Shell.&lt;/li&gt;
+  &lt;li&gt;“all consolation disappeared from my heart”: this is a bit free, more literally would be “my comforted heart vanishes irrevocably”&lt;/li&gt;
+  &lt;li&gt;“does not shine” and “never vanish”: 照らず and 消ぬ are &lt;a href=&quot;https://www.kokugobunpou.com/%E5%8A%A9%E5%8B%95%E8%A9%9E/%E3%81%AA%E3%81%84-%E3%81%AC-%E3%82%93/&quot;&gt;archaic grammar constructions still in current use (&lt;em&gt;-zu&lt;/em&gt; and &lt;em&gt;-nu&lt;/em&gt; endings)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;“the blossoms beseech the gods”: the verb used is &lt;em&gt;kohinomu&lt;/em&gt; (to pray), and  &lt;a href=&quot;http://k-amc.kokugakuin.ac.jp/DM/detail.do?class_name=col_dsg&amp;amp;data_id=68283&quot;&gt;as this scholar explains &lt;/a&gt;, it means “to earnestly pray to the gods (for happiness)”. So “beseech” seems more apt than just “pray”.&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>A shop, the planets and the days of the week</title>
@@ -2133,77 +2332,6 @@ You need several typically Japanese ingredients for this but I bought everything
   &lt;li&gt;Add the soy sauce and stir-fry briefly over high heat until it is evaporated.&lt;/li&gt;
   &lt;li&gt;Add the fruit juice and stir-fry briefly over high heat, then reduce the heat and stir-fry for a few minutes more.&lt;/li&gt;
   &lt;li&gt;Add the shichimi togarashi or cayenne pepper, stir and let simmer for about five minutes.&lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Peppers, tofu, potatoes and black rice</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/peppers-tofu-black-rice/"/>
-        <updated>2017-09-07T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/peppers-tofu-black-rice</id>
-        <author>
-					<name>Wim</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/peppers-tofu-black-rice_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is a simple, colourful and very tasty stir-fry of baby bell peppers, potatoes and tofu. In our local supermarket I found &lt;a href=&quot;https://www.sainsburys.co.uk/shop/gb/groceries/sainsburys-thai-black-rice-500g&quot;&gt;“Thai black rice”&lt;/a&gt;,  a delicious rice that makes for a very nice colour combination.  I cook this with &lt;em&gt;kombu&lt;/em&gt; seaweed according to a recipe from the &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/zen-cooking/&quot;&gt;Zen temple cookbook&lt;/a&gt; I bought in Japan.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;475 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#400-600kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_2.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients &amp;amp; groceries
-    &lt;ul&gt;
-      &lt;li&gt;300 g small sweet bell peppers&lt;/li&gt;
-      &lt;li&gt;200 g firm tofu&lt;/li&gt;
-      &lt;li&gt;200 g small potatoes&lt;/li&gt;
-      &lt;li&gt;1 cm ginger, finely chopped&lt;/li&gt;
-      &lt;li&gt;a handful fresh chives, roughly chopped&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;half a cup of black rice&lt;/li&gt;
-      &lt;li&gt;1 sheet of &lt;em&gt;kombu&lt;/em&gt; seaweed (about 5 cm x 10 cm)&lt;/li&gt;
-      &lt;li&gt;5 dried &lt;em&gt;shiitake&lt;/em&gt; mushrooms, soaked in hot water for at least half an hour.&lt;/li&gt;
-      &lt;li&gt;1 tablespoon pumpkin seeds&lt;/li&gt;
-      &lt;li&gt;1 tablespoon miso&lt;/li&gt;
-      &lt;li&gt;1 tablespoon mirin&lt;/li&gt;
-      &lt;li&gt;1 teaspoon sesame oil&lt;/li&gt;
-      &lt;li&gt;1 garlic sesame oil&lt;/li&gt;
-      &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Put 1 cup of rice and a 5x10cm piece of &lt;em&gt;kombu&lt;/em&gt; together in a pot with 2 cups of cold water and cook for 10 minutes, either on the hob or in the microwave at reduced power (400W).&lt;/li&gt;
-  &lt;li&gt;While the rice is cooking:
-    &lt;ul&gt;
-      &lt;li&gt;Slice the peppers and potatoes into bit-sized chunks and cook them in the microwave with a tablespoon of &lt;em&gt;mirin&lt;/em&gt; for twice 5 minutes at full power (900W). Strain the cooking liquid into a bowl.&lt;/li&gt;
-      &lt;li&gt;While the vegetables are cooking:
-        &lt;ul&gt;
-          &lt;li&gt;Cut the tofu into large slices and put it in the microwave for 3 minutes at full power (900W). Squeeze the moisture out of the slices as much as possible. Cut the slices into chunks.&lt;/li&gt;
-          &lt;li&gt;Heat the olive oil and when hot, stir-fry the ginger and pumpkin seeds over medium heat for about a minute.&lt;/li&gt;
-          &lt;li&gt;Cut the &lt;em&gt;shiitake&lt;/em&gt; mushrooms into strips and add them to the pan.&lt;/li&gt;
-          &lt;li&gt;Add the chives and tofu and fry over high heat for a minute.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Then add the peppers and potatoes, fry over medium heat.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Remove the &lt;em&gt;kombu&lt;/em&gt; from the pot with rice, slice it into smaller strips and return it to the pot. Continue cooking for another 15 minutes or until all the water has been absorbed.&lt;/li&gt;
-  &lt;li&gt;Add 4 tablespoons of the &lt;em&gt;shiitake&lt;/em&gt; soaking liquid to the cooking liquid of the vegetables and dissolve the &lt;em&gt;miso&lt;/em&gt; in it.
-  _ Pour the mixture in the pan and stir over medium heat until the liquid has been absorbed.&lt;/li&gt;
 &lt;/ul&gt;
 
         </content>
