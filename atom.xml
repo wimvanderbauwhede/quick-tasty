@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
     <title>Quick &amp; Tasty</title>
-    <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.1.6</generator>
+    <generator uri="https://github.com/jekyll/jekyll">Jekyll v4.0.0</generator>
 		<icon>http://www.quickandtastycooking.org.uk/apple-touch-icon-precomposed.png</icon>
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2019-12-15T12:53:28+00:00</updated>
+    <updated>2020-02-22T21:01:25+00:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
@@ -15,6 +15,392 @@
 			
 		</author>
 
+    
+    <entry>
+        <title>On puppets and being human</title>
+        <link href="http://www.quickandtastycooking.org.uk/articles/ghost-in-the-shell-puppets/"/>
+        <updated>2020-02-21T00:00:00+00:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/articles/ghost-in-the-shell-puppets</id>
+        <author>
+					<name>Wim</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/ghost-in-the-shell-puppets_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Ghost in the Shell is a series of Japanese animated movies (&lt;em&gt;anime&lt;/em&gt;,アニメ) featuring cyborgs (“cybernetic organism”, in this case a  human with both organic and robotic body parts). I was struck by the frequent references to puppets in several of the movies, and I want to explore the symbolism behind this.
+I will look in particular at the movies “Ghost in the Shell”, “Innocence” and “Solid State Society”, because in these movies the references are most clear. Familiarity with the movies is not required.&lt;/p&gt;
+
+&lt;h2 id=&quot;puppets-dolls-marionettes-mannequins&quot;&gt;Puppets, dolls, marionettes, mannequins&lt;/h2&gt;
+
+&lt;p&gt;I use the word puppet as the most general word. A doll to my mind is a puppet used as a child’s toy. A marionette is a puppet with strings to manipulate it. And a mannequin is a puppet in the sense that it is a representation of a human. I would say that the crucial property is that a puppet is somewhat articulated or can be made to move.&lt;/p&gt;
+
+&lt;p&gt;In Japanese there are also several words for puppets and dolls.
+The most common word is &lt;em&gt;ningyō&lt;/em&gt;, 人形 , “doll, puppet”. The word &lt;em&gt;nin&lt;/em&gt; means person and &lt;em&gt;gyō&lt;/em&gt; means form, shape.
+Specifically, &lt;em&gt;ayatsuriningyō&lt;/em&gt;, 操り人形, sometimes shortened to just &lt;em&gt;ayatsuri&lt;/em&gt;, 操り, means a puppet controlled by an operator, e.g. a marionette. The word &lt;em&gt;ayatsuri&lt;/em&gt; means “manipulation”. The other word that is used in Ghost in the Shell is &lt;em&gt;kairai&lt;/em&gt; or &lt;em&gt;kugutsu&lt;/em&gt;, 傀儡, this is an older word and not so common (neither of the kanji is in common use). It is an interesting word because both its characters mean “puppet”. The first, 傀, is composed of “person” and “ghost”; the second is likely simply a variant, and &lt;a href=&quot;https://en.wiktionary.org/wiki/%E5%82%80%E5%84%A1#Japanese&quot;&gt;is only used in this word&lt;/a&gt;. The reading &lt;em&gt;kugutsu&lt;/em&gt; &lt;a href=&quot;https://kotobank.jp/word/%E5%82%80%E5%84%A1%E5%AD%90-55054&quot;&gt;apparently&lt;/a&gt; derives from &lt;em&gt;kugu&lt;/em&gt;, 久具, a plant from which the baskets were woven that were used to transport the puppets by itinerant puppet players.&lt;/p&gt;
+
+&lt;h2 id=&quot;cyberbrains-and-ghosts&quot;&gt;Cyberbrains and ghosts&lt;/h2&gt;
+
+&lt;p&gt;In the Ghost in the Shell series, one of the main themes that is being explored is what defines a human. A cyborg is a human with all or parts of its body replaced by artificial components. In the Ghost in the Shell universe, even the brain can be treated this way, being augmented by a cyberbrain (&lt;em&gt;dennō&lt;/em&gt;,電脳), essentially an electronic system with a similar functionality, but connected to the net).
+In the most extreme case, the entire human brain is replaced by a cyberbrain which contains the content of the original human brain.
+By contrast, robots do not start out human. The difference between a robot and a full-cyborg human is only the origin of the data in the brain.
+In Ghost in the Shell, the word ghost is colloquial slang for an individual’s consciousness or soul, which is what sets it apart from a robot.&lt;/p&gt;
+
+&lt;p&gt;Part of the plot of the second movie, “Innocence”, is that robots get a ghost through a process called “ghost dubbing”, i.e. copying the ghost from a human and putting it into the robot cyberbrain. This idea returns in the recent “Arise” series.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-brief-note-on-the-characters&quot;&gt;A brief note on the characters&lt;/h2&gt;
+
+&lt;p&gt;In this article I will mention a few characters from the series who belong to a kind of special state intelligence unit called “Public Security Section 9” (公安９課):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“The Major”, Motoko Kusanagi, a female cyborg, the main character in the series.&lt;/li&gt;
+  &lt;li&gt;Batō, a male cyborg, the protagonist in “Innocence”.&lt;/li&gt;
+  &lt;li&gt;Togusa, a human with a cyberbrain, the companion of Batō in “Innocence”.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Furthermore, I mention a character from “The Individual Eleven” series, Hideo Kuze, a male cyborg, a very charismatic revolutionary.&lt;/p&gt;
+
+&lt;h2 id=&quot;ghost-in-the-shell-1995&quot;&gt;Ghost in the Shell (1995)&lt;/h2&gt;
+
+&lt;p&gt;In the first Ghost in the Shell movie, there is no strong symbolism of puppets, but there are several references.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Project 2501&lt;/em&gt; is a program that can stealthily manipulate politics and intelligence, altering databases and the memories in people’s cyberbrains. While traversing the net as it performed its tasks, Project 2501 acquired and processed so much information that it eventually achieved self-awareness. Its creators regarded this as a bug in the program. When Project 2501 realised that its programmers would try to kill it when they discovered it had become sentient, it devised a plan to ensure its own safety.&lt;/p&gt;
+
+&lt;p&gt;When the manipulations of Project 2501 are discovered, they are initially assumed to be the work of an extremely skilled hacker, nicknamed the Puppet Master (人形使い,&lt;em&gt;ningyoutsukai&lt;/em&gt;), presumably because it is a master manipulator and the people whose cyberbrains are hacked become effectively sock puppets.&lt;/p&gt;
+
+&lt;p&gt;It is worth nothing that at the end of the movie, Project 2501 is assimilated into the cyberbrain of Motoko Kusanagi. So from a certain angle Kusanagi becomes the Puppet Master.&lt;/p&gt;
+
+&lt;p&gt;A more oblique but to my mind more important puppet reference is the scene where Motoko Kusanagi rides on a passenger boat on the canals of Hong Kong. This is a long montage without dialogue. Kusanagi sees someone very much like herself at a table in a restaurant. Is it a human or a cyborg? She also looks at some mannequins in a shop window, and the scene ends with an empty shop with undressed, partially disassembled mannequins. You can’t help but think about how she must see a parallel between herself and these puppets.&lt;/p&gt;
+
+&lt;h2 id=&quot;innocence-2004&quot;&gt;Innocence (2004)&lt;/h2&gt;
+
+&lt;p&gt;The second Ghost in the Shell movie, “Innocence”, is where the puppet symbolism is present most strongly.&lt;/p&gt;
+
+&lt;p&gt;The main reference to puppets in Ghost in the Shell “Innocence” is an implicit one: the title song is called the Puppet Song, of which I wrote in &lt;a href=&quot;http://quickandtastycooking.org.uk/articles/ghost-in-the-shell-manyoshi/&quot;&gt;an earlier article&lt;/a&gt;. The full title of the song is &lt;em&gt;kugutsu-uta: uramite chiru&lt;/em&gt; (傀儡謡「怨恨みて 散る」, くぐつうた「うらみてちる」) which means “Puppet song: The flowers resentfully fall”. The theme of the song is mortality. It is used a few times in the movie, but most prominently in the opening scene, which shows the creation of a humanoid robot, and in the parade scene, which is based on a Taiwanese Buddhist temple procession and involves giant puppet-like figures.&lt;/p&gt;
+
+&lt;p&gt;There is another reference, one that I found particularly interesting. After the parade scene, Togusa sees the following poem written on a wall:&lt;/p&gt;
+
+&lt;p&gt;落一棚生&lt;br /&gt;
+落線頭死&lt;br /&gt;
+磊断傀去&lt;br /&gt;
+磊時儡来&lt;/p&gt;
+
+&lt;p&gt;The writing order is top to bottom, right to left, and it is an archaic and poetic form of Japanese without hiragana. Togusa reads it in full as:&lt;/p&gt;
+
+&lt;p&gt;生死の去来するは、&lt;br /&gt;
+棚頭の傀儡たり。&lt;br /&gt;
+一線断ゆる時、&lt;br /&gt;
+落落磊磊。&lt;/p&gt;
+
+&lt;p&gt;せいしのきょらいするは、&lt;br /&gt;
+ほうとうのかいらいたり、&amp;lt;b
+いっせんたゆるとき、&lt;br /&gt;
+らくらくらいらい&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;seishi no kyorai suru wa,&lt;br /&gt;
+hōtō no kairai tari,&lt;br /&gt;
+issen tayuru toki,&lt;br /&gt;
+rakuraku rairai.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In the dubbed version, this is translated as:&lt;/p&gt;
+
+&lt;p&gt;“Life and death come and go&lt;br /&gt;
+like marionettes dancing on a table.&lt;br /&gt;
+Once their strings are cut,&lt;br /&gt;
+they easily crumble.”&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;rakuraku rairai&lt;/em&gt; is particularly poetic. &lt;em&gt;raku&lt;/em&gt; means&lt;/p&gt;
+
+&lt;p&gt;to fall down; &lt;em&gt;rai&lt;/em&gt; means a heap of stones, the kanj&amp;lt;i 磊 is stone 石 repeated three times. Hence the overall meaning of crumble. Curiously, the word 磊磊落落 (&lt;em&gt;rairairakuraku&lt;/em&gt;) also exists; it means “openhearted; unaffected; free and easy”.&lt;/p&gt;
+
+&lt;p&gt;The original author of this poem is a Buddhist monk called Getsuan Soukou (月庵宗光), who lived 1326－1389, during the The Nanboku-chō period (南北朝時代). He used it in one of his sermons.
+The poem got included in a famous treatise on Noh theatre, “A Mirror of the Flower” (Kakyō, 花鏡) by Zeami Motokiyo (世阿弥 元清) (1363–1443), who was the son of Kan’ami Kiyotsugu. Together they are considered the founders of Noh.&lt;/p&gt;
+
+&lt;p&gt;Noh theatre is a form of classical Japanese theatre with music, poetry and dance. It is still regularly performed today, and has a similar status to opera in Western society. In Ghost in the Shell there are occasional references to Noh, in particular in “The Individual Eleven” where Hideo Kuze has a lengthy monologue about the origins of Noh and how it was cherished by the samurai class.&lt;/p&gt;
+
+&lt;p&gt;Zeami’s work “A Mirror of the Flower” deals amongst other topics with the link between marionettes and Noh theatre actors. The work &lt;a href=&quot;https://www.jstor.org/stable/2384167&quot;&gt;has been translated into English (and you can read it for free)&lt;/a&gt; and I found in it a closer (and perhaps better) translation of the poem:&lt;/p&gt;
+
+&lt;p&gt;“Birth and death, goings and comings:&lt;br /&gt;
+A marionette in play.&lt;br /&gt;
+When one string snaps,&lt;br /&gt;
+It falls and collapses.”&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The comment by Zeami is quite interesting:&lt;/p&gt;
+
+&lt;p&gt;“This [poem] exemplifies the condition of humans who act out the cycle of birth-and-death. Although the manipulation of an artificial figure upon the boards [of a puppet stage] may [make it] appear as all sorts of things, it is not really an object that moves [of its own will]. It is [the result of] the play of manipulated strings. Cut these strings and it collapses – such is the spirit [of this poem].”&lt;/p&gt;
+
+&lt;p&gt;There is also an interesting footnote:&lt;/p&gt;
+
+&lt;p&gt;“This poem appears in Gettan Osho Hogo (月庵和尚法語,’[Rinzai Zen] Priest Gettan’s Talks on Buddhist Principles’), a late 14th-century text. Zeami’s subsequent interpretation of the poem as descriptive of the relation between the actor’s mind and the ‘illusion’ of character that it creates differs from the Zen intent of
+the poem, which admonishes the reader to break free from the trap of the illusory world of ‘birth-and-death’.”&lt;/p&gt;
+
+&lt;p&gt;But considering the argument presented before the poem, what Zeami means is that as soon as the actor loses this ultimate state of awareness, the acting will collapse.
+Zeami argues that when the actor achieves the ultimate state of awareness, he realizes how his mind can be used to create the illusion of reality that he presents to his audience with a detachment and skill associated with a master puppeteer. In other words, the actor on the stage is the puppet manipulated by the actor’s mind.&lt;/p&gt;
+
+&lt;p&gt;This is a very powerful concept, and closely related to the type of Buddhist meditation that focuses on existing in the moment. It is likely also why Noh appealed to the samurai. Within the context of Ghost in the Shell, this concept gets an extended meaning, not restricted to the mind and body of a human. Any self-aware entity controlling a humanoid form can be considered in this way.&lt;/p&gt;
+
+&lt;p&gt;The question is why this poem figures so prominently in the movie, but specifically in the scenes to do with the place where the robots are created (Etorofu, one of the Kuril Islands). The two main characters, Batō and Togusa, go there to interview a powerful hacker, Kim, who is obsessed with dolls and clockwork and who has transfered his own ghost into a puppet-like robot. Clearly, Kim is the one fascinated by this poem, as every appearance of it is connected to him.&lt;/p&gt;
+
+&lt;p&gt;Generalizing Zeami’s view of the poem, I am inclined to interpret the strings in the poem as the connection between the robots and the mind that controls them. In a key scene, the protagonist Batō enters the factory ship where the robots are made. He is attacked by an army of robots programmed remotely to fight him.
+Motoko Kusanagi hacks one of them and downloads her ghost into it, and fights on his side. She then gains control of the ship’s central computer, at which point all the robots except the one she controls collapse: their threads have been cut. This is a recurrent theme in Ghost in the Shell, for example in “Solid State Society” something very similar happens.&lt;/p&gt;
+
+&lt;p&gt;But perhaps more significant is the fact that to Batō, who clearly has missed the Major deeply since she disappeared at the end of the first movie, three years ago, immediately identifies the robot with her. As the robots on the ship are not dressed, he puts his jacket on her. And this despite the fact that the robot has no facial expression and looks identical to the others. When the Major disconnects from the robot, it also collapses. But Batō now knows that the ghost of the Major is always around.&lt;/p&gt;
+
+&lt;p&gt;And as if not to leave any doubt about the importance of the puppets in the movie, the final scene ends with a close-up of a doll held by Togusa’s daughter.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/doll.png&quot; alt=&quot;Close-up of a child's doll with blond hair, blue eyes and a red hat&quot; title=&quot;Close-up of a child's doll with blond hair, blue eyes and a red hat&quot; /&gt;
+&lt;figcaption&gt;Final shot of &quot;Innionce&quot;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;ghost-in-the-shell-stand-alone-complex--solid-state-society-2006&quot;&gt;Ghost in the Shell: Stand Alone Complex – Solid State Society (2006)&lt;/h2&gt;
+
+&lt;p&gt;Right at the start of this third movie, there is a reference to “the Puppet Master”. The Major listens in to a conversation where the nickname is used, and comments “The Puppet Master? Not a bad name!”. Note that in Japanese the word is different from in the first movie: instead of &lt;em&gt;ningyōtsukai&lt;/em&gt; 人形遣い it is &lt;em&gt;kugutsumawashi&lt;/em&gt; 傀儡廻; &lt;em&gt;kugutsu&lt;/em&gt; is a different reading for &lt;em&gt;kairai&lt;/em&gt;, 傀儡, the word for puppet used in the poem in Innocence. The word &lt;em&gt;mawashi&lt;/em&gt;, 廻, means “to go around”, and &lt;em&gt;kugutsumawashi&lt;/em&gt; refers to wandering puppet players who went from village to village. Because of the different word choice, it is in the original Japanese version less obvious that there could be a link with the Puppet Master in the first movie.There is a however a clear link with the second movie because of the word &lt;em&gt;kugutsu&lt;/em&gt;, which is lost in the English version.&lt;/p&gt;
+
+&lt;p&gt;As in the first movie, the initial assumption is that this Puppet Master must be some top-wizard-level hacker (超ウィザード級ハッカー); then the suspicion grows that it might be some distributed program which might have achieved some degree of self-awareness. But considering the first movie, it should come as no surprise that there is a connection with the Major.&lt;/p&gt;
+
+&lt;p&gt;Early on we see the Major operating many different cyber bodies remotely, even several at once. At one point, she tries to control one too many and one of them collapses, and she remarks:&lt;/p&gt;
+
+&lt;p&gt;同時に義体を操るのは、2体迄が限界ね&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;tōji ni gitai wo ayatsuru no wa, nitai made ga genkai ne&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The English subtitles say “Controlling two prosthetic bodies at the same time is apparently my limit”. The word &lt;em&gt;gitai&lt;/em&gt;,義体, is closer translated as cyber body; the word used for controlling is &lt;em&gt;ayatsuru&lt;/em&gt;,操る, exactly the word for manipulating a puppet. And there is a scene where one of the Major’s remote cyber bodies deactivates during a conversation, leading the person talking to it to comment, “Huh, that’s a puppet as well?”.&lt;/p&gt;
+
+&lt;h2 id=&quot;bonus-stills-of-the-puppet-poem-in-innocence&quot;&gt;Bonus: stills of the puppet poem in “Innocence”&lt;/h2&gt;
+
+&lt;p&gt;The first occurrence of the poem is after the parade scene:&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/first-occurrence.png&quot; alt=&quot;A brick wall in tints of grey. On it, or maybe in front of it, a large stone frame with a stylised decoration, a kind of frieze reminiscent of ironmongery. This surrounds an area of about 1m x 1m on which is displayed a grid of 4x4 handwritten Chinese characters, in black ink or paint.&quot; title=&quot;A brick wall in tints of grey. On it, or maybe in front of it, a large stone frame with a stylised decoration, a kind of frieze reminiscent of ironmongery. This surrounds an area of about 1m x 1m on which is displayed a grid of 4x4 handwritten Chinese characters, in black ink or paint.&quot; /&gt;
+&lt;figcaption&gt;First occurrence of the puppet poem, on a wall in the city.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It also appears on the wall of Kim’s study:&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/study-1.png&quot; alt=&quot;A study, executed mostly in dark purple tones. On the right a bookshelf; on the far wall a large 4x4 grid of Chinese characters written in an ancient mode. To the right at the back of the room, a person in a suit is bending over to receive a cup of tea from a small, doll-like figure in a kimono.&quot; title=&quot;A study, executed mostly in dark purple tones. On the right a bookshelf; on the far wall a large 4x4 grid of Chinese characters written in an ancient mode. To the right at the back of the room, a person in a suit is bending over to receive a cup of tea from a small, doll-like figure in a kimono.&quot; /&gt;
+
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/study-2.png&quot; alt=&quot;The same space, a similar angle. The person in the suit is now closer, centre-screen, carrying a white china tea cup.&quot; title=&quot;The same space, a similar angle. The person in the suit is now closer, centre-screen, carrying a white china tea cup.&quot; /&gt;
+&lt;figcaption&gt;Togusa in Kim's study, poem behind him&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;After Togusa narrowly escapes an attack on his cyberbrain :&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/attack-1.png&quot; alt=&quot;A person seated in an office chair, seen from the back, with some kind of VR headset on. In front of him an explosion, he is being thrown back by the force.&quot; title=&quot;A person seated in an office chair, seen from the back, with some kind of VR headset on. In front of him an explosion, he is being thrown back by the force.&quot; /&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/attack-2.png&quot; alt=&quot;A person in a suit, with a kind of VR headset on his forehead so you can see his face. He is sitting on the floor, and in the air in front of him columns of Chinese characters appear.&quot; title=&quot;A person in a suit, with a kind of VR headset on his forehead so you can see his face. He is sitting on the floor, and in the air in front of him columns of Chinese characters appear.&quot; /&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/attack-3.png&quot; alt=&quot;Chinese characters in a 4x4 grid, seemingly written in pure light hanging in the air. The grid is repeated 6 times in different sized and at different angles.&quot; title=&quot;Chinese characters in a 4x4 grid, seemingly written in pure light hanging in the air. The grid is repeated 6 times in different sized and at different angles.&quot; /&gt;
+&lt;figcaption&gt;Poem appearing when an attack fries Kim's cyberbrain&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;When Batō and the Major manage to take control of the factory ship:&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/factory-ship.png&quot; title=&quot;A grid of 4x4 Chinese characters in blood red paint, probably about 1m x 1m.  They appear on a heavy door, about 2m high and 3m wide, which seems to have been originally painted with diagonal yellow and black warning stripes, then overpainted with a grey rectangle on which are on the left the faded letters R11 and on the right a black square with a white border and some smaller white squares and rectangles inside it. There is also what looks like a kind of pasted notice, pale orange paper with black Chinese characters, about 30cm wide and 60cm high. The red Chinese characters are painted by hand on top of all that. The right side of the scene is illuminated, the left side is in shadows.&quot; alt=&quot;A grid of 4x4 Chinese characters in blood red paint, probably about 1m x 1m.  They appear on a heavy door, about 2m high and 3m wide, which seems to have been originally painted with diagonal yellow and black warning stripes, then overpainted with a grey rectangle on which are on the left the faded letters R11 and on the right a black square with a white border and some smaller white squares and rectangles inside it. There is also what looks like a kind of pasted notice, pale orange paper with black Chinese characters, about 30cm wide and 60cm high. The red Chinese characters are painted by hand on top of all that. The right side of the scene is illuminated, the left side is in shadows.&quot; /&gt;
+&lt;figcaption&gt;Final appearance of the poem, in the factory ship&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;further-reading&quot;&gt;Further reading&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ekphrasisjournal.ro/index.php?p=artc&amp;amp;id=861&quot;&gt;Free: Filimon, Luiza Maria. “Dolls, Offsprings, and Automata. Analyzing the Posthuman Experience in &lt;em&gt;Ghost in the Shell 2: Innocence&lt;/em&gt;.” Ekphrasis. Images, Cinema, Theory, Media 17.1 (2017): 45-66.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://link.springer.com/book/10.1057/9780230110069&quot;&gt;Not free: Brown, Steven T. “Tokyo cyberpunk: Posthumanism in Japanese visual culture.”, Springer, 2016.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Drawing the Naginata Hoko</title>
+        <link href="http://www.quickandtastycooking.org.uk/articles/naginata-hoko-kitsune/"/>
+        <updated>2020-02-15T00:00:00+00:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/articles/naginata-hoko-kitsune</id>
+        <author>
+					<name>Wim</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/naginata-hoko-kitsune_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;I have &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/ran-ryou-ou/&quot;&gt;written earlier&lt;/a&gt; about a drawing I made of a dancer at the Gion Matsuri in Kyoto. I made another drawing, this time based on a pictures I took of musicians on a festival float. I’d like to share the background to and the making of the drawing.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-gion-matsuri&quot;&gt;The Gion Matsuri&lt;/h2&gt;
+
+&lt;p&gt;The Gion Matsuri (祇園祭) is Kyoto’s most famous festival, held at the start of summer.  The festival itself can be dated back all the way to the Heian era, around 870.  It originated as a ritual for purification and pacification of evil spirits causing summer diseases and was at first connected with the Shintō deity of the Gion Shrine (Yasaka Shrine).
+The festival has been held annually since 970. As early as the late 10th century two types of floats were paraded through the streets accompanied by musicians, dancers, and actors.&lt;/p&gt;
+
+&lt;p&gt;During the Edo period (1600 to 1868) the matsuri became a way in which merchants could show off their wealth as well as their international outlook. In that period, the decoration of the floats became more detailed and luxurious and many started incorporating foreign artwork. In particular cotton merchants were among the parishioners of the Gion Shrine, so that textiles have always formed an important part of the festival decoration. The floats currently used in the parade mostly date from the end of the Edo era.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-yamaboko-float-parade&quot;&gt;The Yamaboko float parade&lt;/h2&gt;
+
+&lt;p&gt;On the morning of 17 July there is a parade (&lt;em&gt;junkō&lt;/em&gt;, 巡行) of festival floats through the streets of the city. There are two float types, &lt;em&gt;yama&lt;/em&gt; (山, meaning “mountain” but also “festival float”) and &lt;em&gt;hoko&lt;/em&gt; (鉾, meaning both “festival float” and “halberd”), hence the name &lt;em&gt;yamaboko junkō&lt;/em&gt; (山鉾巡行).&lt;/p&gt;
+
+&lt;h2 id=&quot;the-koi-yama&quot;&gt;The Koi Yama&lt;/h2&gt;
+
+&lt;p&gt;The &lt;em&gt;yama&lt;/em&gt; is a rectangular box containing an artificial mountain crowned by a tree, usually a pine. Textiles decorate the four sides. This type of float is carried through the streets on the shoulders of young men.&lt;/p&gt;
+
+&lt;p&gt;I want to mention one of these &lt;em&gt;yama&lt;/em&gt; in particular, although it has nothing to do with my drawing. The &lt;em&gt;koi yama&lt;/em&gt; (鯉山, “carp float”) features a huge carp swimming upstream towards the sky. This refers to the Chinese legend about a carp who desired to become a dragon and had to go through many trials to reach the Dragon Gate Waterfall.&lt;/p&gt;
+
+&lt;p&gt;What is particularly interesting about the Koi Yama float are the decorations: they consist of parts of an authentic 16th-century Flemish tapestry depicting scenes of the Trojan War.&lt;/p&gt;
+
+&lt;p&gt;It was quite a surprise to me to find a Flemish tapestry decorating a festival float in Kyoto. So I wanted to find out more, and this is the story:&lt;/p&gt;
+
+&lt;p&gt;In the 16th century, Flemish tapestries were luxury items coveted throughout Europe, and common as diplomatic gifts. The Japanese nobles were particularly interested in images of warriors [&lt;a href=&quot;https://www.jstor.org/stable/3050146&quot;&gt;3&lt;/a&gt;].&lt;/p&gt;
+
+&lt;p&gt;The Koi Yama tapestry was part of a set of six created by the atelier of the Flemish weaver Nicaise Aerts in Brussels in the 1590s, probably based on cartoons by the famous Michel Coxie. There are different theories of how they came to Japan.
+The could have been brought to Japan by the Portuguese on request of the Jesuits around 1605 [&lt;a href=&quot;https://www.jstor.org/stable/3050146&quot;&gt;3&lt;/a&gt;] as a gift to the first Tokugawa shōgun Ieyasu, or by the Netherlands East India Company (Vereenigde Oostindische Compagnie; VOC) in 1633 [&lt;a href=&quot;http://www.iassrt.org/detail/symposium/154.html&quot;&gt;1&lt;/a&gt;], as a diplomatic gift to the third Tokugawa shōgun Iemitsu. Or maybe they could have been gifts from Pope Paolo V to daimyō Date Masamune’s diplomatic/trade mission to Europe, and entered Japan as contraband just as the Tokugawa shōgun closed Japan to limit foreign influence (in 1633) [&lt;a href=&quot;https://www.gionfestival.org/koi-yama/&quot;&gt;4&lt;/a&gt;].&lt;/p&gt;
+
+&lt;p&gt;Later, when the power moved from the shōguns to the merchant classes, the tapestries were sold on. One was lost early on and one during a fire in 1909, but the other four, though mostly cut up, still survive. Around 1800,  one of them was acquired to serve as decoration for the Koi Yama, and cut into nine pieces using “a carpenter’s chisel” (&lt;em&gt;daiku no nomi&lt;/em&gt;, 大工のノミ) [&lt;a href=&quot;http://www.koiyama.com/index2.html&quot;&gt;2&lt;/a&gt;].&lt;/p&gt;
+
+&lt;p&gt;There is some dispute as to the scenes depicted on the Koi Yama tapestries, as indeed on the other tapestries in the set: some scholars say they are from the Illiad, and show King Priam and Queen Hecuba [&lt;a href=&quot;http://www.koiyama.com/index2.html&quot;&gt;2&lt;/a&gt;]; others say the set is based on the Aeneid and that the Koi Yama tapestry shows the Roman emperor Augustus, the descendant of Aeneas [&lt;a href=&quot;https://www.jstor.org/stable/3050146&quot;&gt;3&lt;/a&gt;].&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.iassrt.org/detail/symposium/154.html&quot;&gt;[1] &lt;em&gt;Tapestries Brought to Japan through the Maritime Silk Road and Their Influence&lt;/em&gt;, Masako Yoshida, Professor, Kyoto City University of Arts, 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.koiyama.com/index2.html&quot;&gt;[2] (Koi Yama official web site) 鯉山町衆, 公益財団法人鯉山保存会, 2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jstor.org/stable/3050146&quot;&gt;[3] &lt;em&gt;Sixteenth-Century European Tapestries in Tokugawa Japan&lt;/em&gt;, Grace A. H. Vlam, The Art Bulletin Vol. 63, No. 3 (Sep., 1981), pp. 476-495&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gionfestival.org/koi-yama/&quot;&gt;[4] &lt;em&gt;Koi Yama 鯉山 The Carp That Became A Dragon&lt;/em&gt;, C. Pawasarat, 2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-naginata-hoko&quot;&gt;The Naginata Hoko&lt;/h2&gt;
+
+&lt;p&gt;The &lt;em&gt;hoko&lt;/em&gt; is a tall, rectangular tower with a steepled roof, placed on huge wooden wheels. Underneath the roof there is room for musicians and actors, or dolls representing heroes and heroines from the legendary or historical past. All four sides of the tower are hung with textiles. This type of float is pulled through the streets by teams of thirty to forty men.&lt;/p&gt;
+
+&lt;p&gt;There are 32 floats in the Yamaboko Junko, and each year their order is decided by lots drawn officially by the Mayor of Kyoto, except for one: the Naginata Hoko (長刀鉾) always leads the procession. The name comes from the &lt;em&gt;naginata&lt;/em&gt;, a long sword or halberd, that decorates its central pole.&lt;/p&gt;
+
+&lt;p&gt;Legendary Heian swordsmith &lt;a href=&quot;https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9D%A1%E5%AE%97%E8%BF%91&quot;&gt;Sanjō Munechika (Sanjō no Kokaji)&lt;/a&gt; crafted the original halberd sword in the 10th century. The halberd is said to have the power to exorcise the evil spirits which cause epidemics.&lt;/p&gt;
+
+&lt;p&gt;When I was at the &lt;em&gt;yoiyama&lt;/em&gt; (宵山, the day before the parade) in 2012 I took a few pictures of musicians in a &lt;em&gt;hoko&lt;/em&gt;, and it was only when I decided to make a drawing based on it that I realised this is not just a float, but the famous Naginata Hoko. There is a lot more to be said about this particular float, I have provided some links below.&lt;/p&gt;
+
+&lt;h2 id=&quot;kitsune-masks-and-yukata&quot;&gt;Kitsune masks and yukata&lt;/h2&gt;
+
+&lt;p&gt;I decided to give the characters in the drawing fox masks to make the scene more distinct.&lt;/p&gt;
+
+&lt;p&gt;Fox masks (&lt;em&gt;kitsune men&lt;/em&gt;, 狐面) have a long tradition in Japan. In Shinto, the fox is a messenger of the god (&lt;em&gt;kami&lt;/em&gt;, 神) Inari, who is the protector of rice, agriculture, and fertility. The gods themselves can take on fox shapes. The mask are use in Noh, Shinto music and dance (&lt;em&gt;kagura&lt;/em&gt;, 神楽) and &lt;em&gt;kabuki&lt;/em&gt; performances and worn at many festivals – and of course &lt;a href=&quot;https://hooktube.com/watch?v=cK3NMZAUKGw&quot;&gt;by Babymetal’s Kami band&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was particularly inspired by the mask worn by the character Gin in the wonderful anime &lt;a href=&quot;https://www.hotarubi.info/gallery/tr05.html&quot;&gt;&lt;em&gt;Hotarubi no Mori e&lt;/em&gt;&lt;/a&gt; (蛍火の杜へ, “To the Forest of the Light of the Fireflies”), but I researched other mask variants as well, in particular because the musicians have to wear half-masks.&lt;/p&gt;
+
+&lt;p&gt;The musicians in my drawing wear the same summer kimonos (&lt;em&gt;yukata&lt;/em&gt;) as in the picture, save a few minor details, but for the other characters I used different patterns based on other pictures I took.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-drawing&quot;&gt;The drawing&lt;/h2&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-fin-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
+&lt;!-- add a caption --&gt;
+&lt;figcaption&gt;The finished drawing&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Just like the &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/ran-ryou-ou/&quot;&gt;Ranryōō dancer drawing&lt;/a&gt;, I wanted a drawing with bright colours and a lot of detail, and the float has really abundant detail and colour. It is quite amazing how every part of the surface has some detailed decoration. I think I now appreciate the float a lot more because to draw it I had to study every little detail in the picture. I also like to have human figures in my drawings. I think the fox masks make the scene more interesting than the original picture.&lt;/p&gt;
+
+&lt;p&gt;The paper for this drawing is Fabriano Artistico 56cm x 76cm 300g/m2 “rough” watercolour paper. It’s a really nice paper with a very pronounced grain. As usual I did not tape it on a board but it only buckled a little.&lt;/p&gt;
+
+&lt;p&gt;I used mainly Derwent Inktense, which do give quite deep colours, but also Conté Aquarelle and Faber-Castell Graphite Aquarelle pencils.&lt;/p&gt;
+
+&lt;p&gt;As usual I started the drawing with a ghost drawing in pencil. Because of the size of the drawing, I used a grid to make sure the figure was positioned correctly. The focus of detail is on the characters and in particular the masks, the further away from these the more sketchy and impressionistic I treated the drawing.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-pencil-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
+&lt;figcaption&gt;Pencil ghost drawing&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-pencil-detail-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
+&lt;figcaption&gt;Pencil ghost drawing detail, start of colouring&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Then I added detail and colour with the watercolour pencils. The float has a lot of gold and silver on the hangings, and these are very difficult to render in colour pencil. The level of details is such that to really reproduce it would require very smooth paper and very fine brushes. I picked the coarse paper on purpose and the pencils are not particularly sharp. This forces me to abstract a lot of the detail.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-colour-pencil-detail-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
+&lt;figcaption&gt;First layer of detail and colour&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Next I did some separate sketches for the non-musician characters, because they are to my mind very important in this drawing.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-sep-detail-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
+&lt;figcaption&gt;Separate drawing of non-musician characters&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I left the characters until the end and washed the watercolours starting from the bottom.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-almost-finished-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
+&lt;figcaption&gt;Partially washed drawing&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Finally I did the characters. The eyes on the masks are the only places where I used a very fine brush, because a tiny change in the shape can make a big change in expression. Then I did another pass of the entire drawing. I darkened the background behind the characters and the ceiling to have more contrast.&lt;/p&gt;
+
+&lt;p&gt;To finish the drawing I added a description in Japanese:&lt;/p&gt;
+
+&lt;p&gt;狐 長 祇&lt;br /&gt;
+  の 刀 園&lt;br /&gt;
+  面 鉾 祭&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;which reads &lt;em&gt;Gion matsuri naginata hoko kitsune no men&lt;/em&gt; and means “Gion festival / Halberd float / Fox masks”. The “の” is not really required but I wanted the characters to form a 3x3 grid.&lt;/p&gt;
+
+&lt;h3 id=&quot;further-reading&quot;&gt;Further reading&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.discoverkyoto.com/event-calendar/july/gion-festival-yasaka-shrine-downtown/&quot;&gt;Discover Kyoto page on the Gion festival&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gionfestival.org/yamaboko-floats/saki-matsuri/naginata-boko/&quot;&gt;Offical Gion festival page on the naginata hoko&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.gionmatsuri.or.jp/yamahoko/naginatahoko.html&quot;&gt;Offical Gion matsuri page on the naginata hoko (Japanese and English)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://eng.trip.kyoto.jp/spot/db/nikenchaya-nakamurarou/&quot;&gt;A page on the role of a chigo ritual&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.city.kyoto.lg.jp/shimogyo/page/0000011341.html&quot;&gt;Offical Kyoto City page on the yamaboko (in Japanese)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.city.kyoto.lg.jp/shimogyo/page/0000011773.html&quot;&gt;Offical Kyoto City page on the naginata hoko (in Japanese)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--
+_nomi_, written in the text in katakana, has the wonderfully complex _kanji_ 鑿
+--&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Kale Potatoes Tofu Skins</title>
+        <link href="http://www.quickandtastycooking.org.uk/kale-potatoes-tofu-skins/"/>
+        <updated>2020-01-25T00:00:00+00:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/kale-potatoes-tofu-skins</id>
+        <author>
+					<name>Wim</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	
+        	200 g kale
+400 g potatoes
+60 g dried tofu skins
+1 tablespoon sunflower seeds
+2 tablespoons sesame seeds
+2 dried tomatoes
+1 tablespoons tomato puree
+1/2 teaspoon tobanjan
+1 teaspoon ground cumin
+1 clove garlic
+1 cm ginger
+sesame seed oil, rapeseed oil
+1 tablespoon soy sauce
+
+wash the kale and squeeze forcefully, repeat a few times
+soak the dried tofu skins in boiling hot water for at least 20 mins
+soak the dried tomatoes  in boiling hot water for at least 20 mins
+
+Drain the tofu skins and cut into strips
+Cut the potatoes in quite small chunks and cook them in the microwave for 10 minutes at 900W
+Drain the cooking liquid into a small bowl
+
+
+Fry the garlic, ginger, cumin and seeds for a few minutes over medium heat. 
+Add the kale and fry over high heat until it just starts to wilt
+Add the cut tofu skins to the pan and fry for a few minutes more.
+Add the potatoes to the pan and fry for a few minutes more until the start to brown. 
+Turn down the heat.
+
+Add the tomato puree, tobanjan and soy sauce to the cooking liquid of the potatoes. Stir until it's smooth, then add to the pan and stir in.
+        </content>
+    </entry>
     
     <entry>
         <title>Okra with tomatoes and tofu sticks</title>
@@ -238,7 +624,7 @@ I added &lt;a href=&quot;https://shop.waiyeehong.com/food-ingredients/dried-prod
 
 &lt;ul&gt;
   &lt;li&gt;“to get married”: the word used in the song is &lt;em&gt;yobai ni&lt;/em&gt;, where &lt;em&gt;yo&lt;/em&gt; (夜) means “night” and &lt;em&gt;bai&lt;/em&gt; (這い) “to crawl”. In the Heian era, a nobleman sneaking into a lady’s bedroom at night constituted a marriage proposal. There are many examples in the famous novel &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Tale_of_Genji&quot;&gt;The Tale of Genji&lt;/a&gt;. The lyrics in kanji above have “結婚に” (&lt;em&gt;kekkon ni&lt;/em&gt;)  which means to get married.&lt;/li&gt;
-  &lt;li&gt;“The thrush cries”: the specific bird is &lt;a href=&quot;https://en.wikipedia.org/wiki/White&#39;s_thrush&quot;&gt;White’s Thrush&lt;/a&gt;. Nowadays, 鵺 &lt;em&gt;nue&lt;/em&gt; also refers to a mythological creature, a Japanese version of the chimaera, but that was not the case in the Heian era. Nevertheless, the cry of this bird is an ill omen.&lt;/li&gt;
+  &lt;li&gt;“The thrush cries”: the specific bird is &lt;a href=&quot;https://en.wikipedia.org/wiki/White's_thrush&quot;&gt;White’s Thrush&lt;/a&gt;. Nowadays, 鵺 &lt;em&gt;nue&lt;/em&gt; also refers to a mythological creature, a Japanese version of the chimaera, but that was not the case in the Heian era. Nevertheless, the cry of this bird is an ill omen.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;innocence&quot;&gt;Innocence&lt;/h2&gt;
@@ -312,7 +698,7 @@ I added &lt;a href=&quot;https://shop.waiyeehong.com/food-ingredients/dried-prod
 
 &lt;p&gt;When I tried to read and understand this text, I got stuck on almost every single line. I was quite surprised to find that almost all the parts that I did not understand occur in the Manyōshū.&lt;/p&gt;
 
-&lt;h2 id=&quot;the-manysh&quot;&gt;The Manyōshū&lt;/h2&gt;
+&lt;h2 id=&quot;the-manyōshū&quot;&gt;The Manyōshū&lt;/h2&gt;
 
 &lt;p&gt;The &lt;em&gt;Manyōshū&lt;/em&gt; (万葉集), literally “Collection of Myriad Leaves”, is the oldest existing collection of poetry in classical Japanese, compiled during the Nara period. It is extremely highly regarded, for example the name of the current era, 令和 (&lt;em&gt;reiwa&lt;/em&gt;) &lt;a href=&quot;https://japan-forward.com/manyoshu-know-the-poetry-collection-where-japans-new-era-name-comes-from/&quot;&gt;was inspired by one of its poems&lt;/a&gt;. It has been studied by scholars for a very long time, and therefore it is possible to find explanations and translations of the poems.&lt;/p&gt;
 
@@ -594,17 +980,17 @@ I added &lt;a href=&quot;https://shop.waiyeehong.com/food-ingredients/dried-prod
 
 &lt;p&gt;Here is a small &lt;a href=&quot;https://www.haskell.org/&quot;&gt;Haskell&lt;/a&gt; program that creates the week day sequences from the sequence of the “star gods”:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;  starGodSequence = reverse [&quot;月&quot;,&quot;水&quot;,&quot;金&quot;,&quot;日&quot;,&quot;火&quot;,&quot;木&quot;,&quot;土&quot;]
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  starGodSequence = reverse [&quot;月&quot;,&quot;水&quot;,&quot;金&quot;,&quot;日&quot;,&quot;火&quot;,&quot;木&quot;,&quot;土&quot;]
   starGodsAllHours = concat ( repeat starGodSequence )
   starGodsDaysFrom s = (head s):starGodsDaysFrom (drop 24 s)
   weekDays = take 7 ( starGodsDaysFrom starGodsAllHours )
-&lt;/code&gt;&lt;/pre&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;The program performs the operations explained above: it takes the list of “star gods” in geocentric order and &lt;code&gt;reverse&lt;/code&gt;s them so that “土” (Saturn) is first, this is &lt;code&gt;starGodSequence&lt;/code&gt;. It then &lt;code&gt;repeat&lt;/code&gt;s this list forever (in Haskell you can do this). The &lt;code&gt;concat&lt;/code&gt; flattens this list of lists into a single list, &lt;code&gt;starGodsAllHours&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The program performs the operations explained above: it takes the list of “star gods” in geocentric order and &lt;code class=&quot;highlighter-rouge&quot;&gt;reverse&lt;/code&gt;s them so that “土” (Saturn) is first, this is &lt;code class=&quot;highlighter-rouge&quot;&gt;starGodSequence&lt;/code&gt;. It then &lt;code class=&quot;highlighter-rouge&quot;&gt;repeat&lt;/code&gt;s this list forever (in Haskell you can do this). The &lt;code class=&quot;highlighter-rouge&quot;&gt;concat&lt;/code&gt; flattens this list of lists into a single list, &lt;code class=&quot;highlighter-rouge&quot;&gt;starGodsAllHours&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;The function &lt;code&gt;starGodsDaysFrom&lt;/code&gt; is recursive, what it does is take the first element in a list, then drops 24 elements (including this first one), and repeats the process, again potentially forever. We apply this function to &lt;code&gt;starGodsAllHours&lt;/code&gt;. This produces a new list which repeats the days of the week forever.&lt;/p&gt;
+&lt;p&gt;The function &lt;code class=&quot;highlighter-rouge&quot;&gt;starGodsDaysFrom&lt;/code&gt; is recursive, what it does is take the first element in a list, then drops 24 elements (including this first one), and repeats the process, again potentially forever. We apply this function to &lt;code class=&quot;highlighter-rouge&quot;&gt;starGodsAllHours&lt;/code&gt;. This produces a new list which repeats the days of the week forever.&lt;/p&gt;
 
-&lt;p&gt;Finally, to get the seven days of the week, we &lt;code&gt;take&lt;/code&gt; the first seven elements of that new list.
+&lt;p&gt;Finally, to get the seven days of the week, we &lt;code class=&quot;highlighter-rouge&quot;&gt;take&lt;/code&gt; the first seven elements of that new list.
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -631,7 +1017,7 @@ The banner photo shows the moon-viewing room  (&lt;em&gt;shōgetsurō&lt;/em&gt;
 
 &lt;p&gt;As my reading improved, I started to use different ways of reading. 
 &lt;!--
-I am taking a break from 1Q84 and instead I started reading &quot;Lizard&quot; (Japanese title _tokage_ とかげ), a collection of short stories by Banana Yoshimoto, my other favourite Japanese author. It&#39;s very interesting to read a different author because it shows that what I have learned by reading Murakami is mainly how to read Murakami. It is taking me quite a while to get used to Banana Yoshimoto&#39;s use of style, vocabulary and grammar. 
+I am taking a break from 1Q84 and instead I started reading &quot;Lizard&quot; (Japanese title _tokage_ とかげ), a collection of short stories by Banana Yoshimoto, my other favourite Japanese author. It's very interesting to read a different author because it shows that what I have learned by reading Murakami is mainly how to read Murakami. It is taking me quite a while to get used to Banana Yoshimoto's use of style, vocabulary and grammar. 
 --&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;reading-aloud&quot;&gt;Reading aloud&lt;/h2&gt;
@@ -810,7 +1196,7 @@ When not vocalising, it is not necessary to read every individual character. In 
     </entry>
     
     <entry>
-        <title>Why the &#39;Little People&#39; say &#39;Ho ho&#39;</title>
+        <title>Why the 'Little People' say 'Ho ho'</title>
         <link href="http://www.quickandtastycooking.org.uk/articles/1Q84-kuukisanagi/"/>
         <updated>2019-03-16T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/articles/1Q84-kuukisanagi</id>
@@ -889,7 +1275,7 @@ It is often said that Murakami avoids references to traditional Japanese culture
     </entry>
     
     <entry>
-        <title>Repetition in Murakami&#39;s 1Q84</title>
+        <title>Repetition in Murakami's 1Q84</title>
         <link href="http://www.quickandtastycooking.org.uk/articles/repetition-in-1Q84/"/>
         <updated>2018-12-28T00:00:00+00:00</updated>
         <id>http://www.quickandtastycooking.org.uk/articles/repetition-in-1Q84</id>
@@ -945,7 +1331,7 @@ However, &lt;em&gt;katakana&lt;/em&gt; and &lt;em&gt;hiragana&lt;/em&gt; can be 
 &lt;p&gt;&lt;em&gt;‘You don’t want to hold me,’ Fuka-eri asked without a question mark.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Because of the lack of question mark or particle, there is no way to know if this is a question or not.
-&lt;!-- Murakami has added the &#39;_Fuka-eri asked without a question mark_&#39;.--&gt;&lt;/p&gt;
+&lt;!-- Murakami has added the '_Fuka-eri asked without a question mark_'.--&gt;&lt;/p&gt;
 
 &lt;p&gt;A proper Japanese sentence would have been either「私を抱きたくないか」or 「私を抱きたくない？」and indeed, Tengo says:&lt;/p&gt;
 
@@ -989,9 +1375,9 @@ The Japanese sentence actually says that it takes a while for Tengo to realise t
 &lt;p&gt;&lt;sup&gt;*&lt;/sup&gt;&lt;em&gt;After four years of reading.&lt;/em&gt;&lt;/p&gt;
 
 &lt;!--
-The other frequent repetitions are in the conversation between Aomame and the Leader, and to my mind this is the result of an intentional symmetry. 1Q84 is highly structured: the three books each span 3 months, the chapters alternate between Tengo and Aomame (and in the third book, Ushikawa). The connection between the main characters is also very symmetrical. The Leader is Fuka-eri&#39;s father[^1] and they are linked in a fundamental way through their connection with the Little People (she&#39;s the &quot;perceiver&quot;, he&#39;s the &quot;receiver&quot;). Aomame and Tengo are also linked in a very fundamental way, I would say they complement one another. The repetitions in the conversation between the Leader and Aomame therefore echo those between Tengo and Fuka-eri.
+The other frequent repetitions are in the conversation between Aomame and the Leader, and to my mind this is the result of an intentional symmetry. 1Q84 is highly structured: the three books each span 3 months, the chapters alternate between Tengo and Aomame (and in the third book, Ushikawa). The connection between the main characters is also very symmetrical. The Leader is Fuka-eri's father[^1] and they are linked in a fundamental way through their connection with the Little People (she's the &quot;perceiver&quot;, he's the &quot;receiver&quot;). Aomame and Tengo are also linked in a very fundamental way, I would say they complement one another. The repetitions in the conversation between the Leader and Aomame therefore echo those between Tengo and Fuka-eri.
 
-[^1]: This would be obvious from the start to the Japanese readers: the Leader&#39;s name is Fukada, a common surname. For a pen name, Fuka[da] Eri[ko] is very transparent. The professor calls here Eri, which is a common abbreviation for Eriko, a common name for girls in the 80s.
+[^1]: This would be obvious from the start to the Japanese readers: the Leader's name is Fukada, a common surname. For a pen name, Fuka[da] Eri[ko] is very transparent. The professor calls here Eri, which is a common abbreviation for Eriko, a common name for girls in the 80s.
 --&gt;
 
         </content>
@@ -1048,7 +1434,7 @@ The other frequent repetitions are in the conversation between Aomame and the Le
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;A Dutch translation of a German cookbook, now long out of print: “De heerlijkste gerechten” by Annette Wolter, &lt;em&gt;Culinaire boekerij&lt;/em&gt;, 1988. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;A Dutch translation of a German cookbook, now long out of print: “De heerlijkste gerechten” by Annette Wolter, &lt;em&gt;Culinaire boekerij&lt;/em&gt;, 1988. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -1223,7 +1609,7 @@ Stollen
 - Flatten the dough, shape the marzipan into a roll and fold the dough over it.
 - Leave to rise for another 30 mins.
 - Preheat the oven on 200 C; bake for 15 mins, then 1 h for 180 C.
-- While it&#39;s still hot, smear with butter and sprinkle on icing sugar
+- While it's still hot, smear with butter and sprinkle on icing sugar
 
 
 
@@ -1881,7 +2267,7 @@ At the time I thought, because of the colour of the costume, that the dance had 
     </entry>
     
     <entry>
-        <title>Move over onion, here&#39;s ginger</title>
+        <title>Move over onion, here's ginger</title>
         <link href="http://www.quickandtastycooking.org.uk/articles/ginger-vs-onion/"/>
         <updated>2018-05-13T00:00:00+01:00</updated>
         <id>http://www.quickandtastycooking.org.uk/articles/ginger-vs-onion</id>
@@ -1939,8 +2325,8 @@ At the time I thought, because of the colour of the costume, that the dance had 
 
 &lt;p&gt;So we have&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;10*19,000*2.5/1,000 =19*25 = 475
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;10*19,000*2.5/1,000 =19*25 = 475
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;or about half a kilogram CO2 per year.&lt;/p&gt;
 
@@ -2137,206 +2523,6 @@ You need several typically Japanese ingredients for this but I bought everything
   &lt;li&gt;Pour the &lt;em&gt;miso&lt;/em&gt; mixture over the other ingredients and mix.&lt;/li&gt;
   &lt;li&gt;Cook for 3 minutes at full power (900 W).&lt;/li&gt;
   &lt;li&gt;Serve with the rice and season to taste with &lt;em&gt;shichimi togarashi&lt;/em&gt; and golden sesame seeds.&lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Aubergines stuffed with stir-fried cauliflower and potato gratin</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/stuffed-aubergines-cauliflower-gratin/"/>
-        <updated>2017-12-24T00:00:00+00:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/stuffed-aubergines-cauliflower-gratin</id>
-        <author>
-					<name>Wim</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/stuffed-aubergines-cauliflower-gratin_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is my second festive recipe for Quick and Tasty: aubergines stuffed with stir-fried cauliflower, served with potato gratin.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#60-minutes&quot;&gt;&lt;em&gt;60-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;675 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients:
-    &lt;ul&gt;
-      &lt;li&gt;1 aubergine (about 200 g)&lt;/li&gt;
-      &lt;li&gt;half a cauliflower (about 200 g)&lt;/li&gt;
-      &lt;li&gt;1 tomato (about 100 g)&lt;/li&gt;
-      &lt;li&gt;400 g potatoes&lt;/li&gt;
-      &lt;li&gt;1 cm ginger, finely chopped&lt;/li&gt;
-      &lt;li&gt;juice of half a lemon&lt;/li&gt;
-      &lt;li&gt;100 g Philadelphia cheese&lt;/li&gt;
-      &lt;li&gt;4 tablespoons double cream&lt;/li&gt;
-      &lt;li&gt;half a cup of grated hard cheese (I used a mix of half Grana Padano and half Jarlsberg)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;a handful of porcini mushrooms, soaked in hot water for 30 minutes (keep the soaking liquid)&lt;/li&gt;
-      &lt;li&gt;1 teaspoon coriander seeds&lt;/li&gt;
-      &lt;li&gt;1 teaspoon cumin&lt;/li&gt;
-      &lt;li&gt;1 teaspoon allspice&lt;/li&gt;
-      &lt;li&gt;2 tablespoons pumpkin seeds, ground&lt;/li&gt;
-      &lt;li&gt;1 tablespoon pine kernels&lt;/li&gt;
-      &lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;
-      &lt;li&gt;1 teaspoon sugar&lt;/li&gt;
-      &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
-      &lt;li&gt;1 teaspoon garlic oil&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Stuffed aubergines
-    &lt;ul&gt;
-      &lt;li&gt;Cut the cauliflower into small florets and cook for 4 minutes in the microwave at full power  (900 W).&lt;/li&gt;
-      &lt;li&gt;Cut the aubergine lengthwise into two and scoop out the flesh and set aside. Cook the shells for 4 minutes in the microwave at full power  (900 W).&lt;/li&gt;
-      &lt;li&gt;If you want to save time, start cooking the potatoes for the gratin now.&lt;/li&gt;
-      &lt;li&gt;Chop the aubergine flesh.&lt;/li&gt;
-      &lt;li&gt;Chop the tomato into very small pieces.&lt;/li&gt;
-      &lt;li&gt;Heat the oil and fry the ginger, spices and ground pumpkin seeds for a few minutes. Add the pine kernels and cauliflower and stir-fry over high heat until the cauliflower starts to brown.&lt;/li&gt;
-      &lt;li&gt;Add the soy sauce, tomato, aubergine flesh, sugar and lemon juice and stir-fry over medium heat until the tomato becomes soft and the aubergine flesh is done. Let it simmer for a few minutes more on low heat.&lt;/li&gt;
-      &lt;li&gt;Stuff the aubergine shells with the mixture and cook for 2 minutes in the microwave at full power  (900 W).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Potato gratin
-    &lt;ul&gt;
-      &lt;li&gt;Cook the potatoes for 10 minutes in the microwave at full power (900 W).&lt;/li&gt;
-      &lt;li&gt;Cut the potatoes into thin slices and arrange them in an oven tray.&lt;/li&gt;
-      &lt;li&gt;Mix the cream with the Philadelphia cheese and two tablespoons of the porcini mushroom soaking liquid and heat in the microwave for a minute at full power (900 W). Stir and check if it is liquid enough to pour, otherwise heat a bit longer. Add a teaspoon of garlic oil and the porcini mushrooms and pour the mixture over the potatoes.&lt;/li&gt;
-      &lt;li&gt;Bake the pototoes for 2 minutes in the microwave at full power (900 W).&lt;/li&gt;
-      &lt;li&gt;Add the grated cheese on top and grill for 4 minutes.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Some observations from a slow learner of Japanese</title>
-        <link href="http://www.quickandtastycooking.org.uk/articles/more-on-learning-japanese/"/>
-        <updated>2017-12-22T00:00:00+00:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/articles/more-on-learning-japanese</id>
-        <author>
-					<name>Wim</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/yu_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;I’ve already written on &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/learning-japanese&quot;&gt;why and how I started to learn Japanese&lt;/a&gt;, and explained &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/reading-japanese&quot;&gt;how I look up kanji when reading Japanese&lt;/a&gt;. The focus of this post is on how I’m learning and what tools I’ve been using.&lt;/p&gt;
-
-&lt;p&gt;I think that the most important factor in learning Japanese is &lt;em&gt;not to give up, to keep working at it steadily, even if it’s only a few minutes every day&lt;/em&gt;. This is probably true for learning any language, but I think more so for Japanese because of the need to learn kanji.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/manpukuji_lanterns.jpg&quot; alt=&quot;Lanterns in the Manpukuji, a Zen temple in Obaku near Kyoto&quot; /&gt;
-&lt;figcaption&gt;Lanterns in the Manpukuji, a Zen temple in Obaku near Kyoto. Each lantern bears the name of another temple in Kyoto.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;When I started (in 2011), I used &lt;a href=&quot;https://www.japanesepod101.com/&quot;&gt;JapanesePod101&lt;/a&gt;, and I really think that for absolute beginners it is a very good way to start. I listened to the podcasts on my way to work and found that quite effective. The audio lessons also come with written material covering vocabulary and grammar and the JapanesePod101 YouTube channel has a very large collection of videos. Apart from that I also used &lt;a href=&quot;http://www.guidetojapanese.org/learn/&quot;&gt;Tae Kim’s Guide to Learning Japanese&lt;/a&gt;, especially  the grammar guide.&lt;/p&gt;
-
-&lt;p&gt;I learned this way for about a year, but then I decided I wanted to focus more on reading and less on listening, so I started learning kanji. (To practise conversation I get a two-hour lesson with a Japanese teacher every two weeks.)&lt;/p&gt;
-
-&lt;p&gt;I try to do at least 5 minutes of kanji practice per day. That really isn’t much, and yet it was sufficient to learn the 2,000 common use (Jouyou,常用) kanji in about four years. As I wrote in my earlier post, by summer 2012 I only knew about 100 kanji, and I finished the Jouyou series before the start of last summer. I still do my daily kanji practice because unless I revise I easily forget them.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Kanji#Kanji_education&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/817px-3002_Kanji.png&quot; alt=&quot;3002 kanji&quot; /&gt;&lt;/a&gt;
-&lt;!-- add a caption --&gt;
-&lt;figcaption&gt;A list of 3002 kanji in common use in Japan. The ones in colour constitute 95% of all kanji in newspapers.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;I have an Android phone, and initially I used &lt;a href=&quot;https://apps.ankiweb.net/&quot;&gt;Anki&lt;/a&gt;, then &lt;a href=&quot;https://play.google.com/store/apps/details?id=hu.danieleff.kanji_quiz&amp;amp;hl=en_GB&quot;&gt;Simple Kanji Quiz&lt;/a&gt;, but I felt that I made most progress when I started using &lt;a href=&quot;https://www.memrise.com/&quot;&gt;Memrise&lt;/a&gt;. I still use Simple Kanji Quiz because it is very configurable but what I like about Memrise is its goalsetting. It’s quite rewarding to reach your daily goal after five minutes!&lt;/p&gt;
-
-&lt;p&gt;I looked at &lt;a href=&quot;https://www.wanikani.com/&quot;&gt;WaniKani&lt;/a&gt; as well because I love &lt;a href=&quot;https://www.tofugu.com/&quot;&gt;Tofugu&lt;/a&gt;, but WaniKani only works if you start from scratch so by the time it came out I had already learned most of the basic kanji.&lt;/p&gt;
-
-&lt;p&gt;I have thought quite a lot about the best ways to learn but in the end I’ve decided not to be very systematic. For example, my Memrise deck only tests if I know the meaning of a kanji, not its &lt;em&gt;on&lt;/em&gt; and &lt;em&gt;kun&lt;/em&gt; readings. I have set up my Simple Kanji Quiz to practise readings both ways. So for a given kanji I’m either practising meaning or reading but not both at the same time. My only  kanji handwriting practice is looking up kanji on my phone (I use &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.leafdigital.kanji.android&amp;amp;hl=en&quot;&gt;Kanji Draw&lt;/a&gt; but the &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.renzo.japanese&amp;amp;hl=en&quot;&gt;Japanese&lt;/a&gt; app is also very good). Handwriting kanji on paper takes a lot of time, and unless you live in Japan I don’t think it is an essential skill.&lt;/p&gt;
-
-&lt;!-- some pic here to illustrate vocabulary --&gt;
-&lt;figure&gt;
-&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/genji_uji.jpg&quot; alt=&quot;Sign with Japanese text&quot; /&gt;
-&lt;figcaption&gt;A summary of Chapter 48 of &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Tale_of_Genji&quot;&gt;&quot;The Tale of Genji&quot;&lt;/a&gt;, the world&#39;s oldest novel, on a sign in Uji, near Kyoto, where this chapter takes place.&lt;br /&gt;The chapter&#39;s title「早蕨」means &quot;Bracken shoots&quot;.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;To expand my vocabulary my main approach is &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/reading-japanese&quot;&gt;reading&lt;/a&gt;. I also sometimes listen to podcasts or &lt;a href=&quot;https://hooktube.com/watch?v=K-nytjFRTMw&quot;&gt;Japanese music&lt;/a&gt;, or watch &lt;a href=&quot;https://hooktube.com/watch?v=9rGJENEDep4&quot;&gt;anime&lt;/a&gt; or &lt;a href=&quot;https://hooktube.com/watch?v=_LB1mT_u3Uo&quot;&gt;Japanese movies&lt;/a&gt;, and of course I should learn new words while talking to my teacher. But I don’t really spend time in memorising new words, I just let it happen. I found that encountering words in different contexts is a great way to learn. For example, a few days ago I read the word でかい (huge) in a blog post, and then I heard it used in the anime &lt;em&gt;Spirited Away&lt;/em&gt;. Now I’m pretty sure I will remember this word.　&lt;/p&gt;
-
-&lt;p&gt;But what really works best for me to build vocabulary is to go to Japan, so of course I would strongly recommend that. The constant immersion works wonders. Many words I remember because I see in my mind the situation where I first encountered them.　&lt;/p&gt;
-
-&lt;p&gt;&lt;img width=&quot;70%&quot; src=&quot;http://www.quickandtastycooking.org.uk/images/railway_crossing.jpg&quot; alt=&quot;Railway crossing near Kyoto&quot; /&gt;&lt;/p&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Celeriac and mushrooms with lentils and rice</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/celeriac-mushrooms-lentils-rice/"/>
-        <updated>2017-12-05T00:00:00+00:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/celeriac-mushrooms-lentils-rice</id>
-        <author>
-					<name>Wim</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/celeriac-mushrooms-lentils-rice_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is another wintery recipe, a stir-fry of celeriac and mushrooms, with lentils and rice cooked together in one pot. It takes about 30 minutes to prepare. I used dried tomatoes, porcini mushrooms, tomato puree, black bean paste and garlic oil for the &lt;em&gt;umami&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;600 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#400-600kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_2.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients:
-    &lt;ul&gt;
-      &lt;li&gt;half a celeriac (300 g)&lt;/li&gt;
-      &lt;li&gt;1 pack chestnut mushrooms (200 g)&lt;/li&gt;
-      &lt;li&gt;1 cm fresh ginger, finely chopped&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;1 cup green lentils&lt;/li&gt;
-      &lt;li&gt;1 cup brown rice&lt;/li&gt;
-      &lt;li&gt;5 dried tomatoes&lt;/li&gt;
-      &lt;li&gt;2 tablespoons dried porcini mushrooms&lt;/li&gt;
-      &lt;li&gt;1 teaspoon ground cumin&lt;/li&gt;
-      &lt;li&gt;1 teaspoon ground coriander&lt;/li&gt;
-      &lt;li&gt;1/2 teaspoon black bean paste&lt;/li&gt;
-      &lt;li&gt;1 tablespoon sunflower seeds&lt;/li&gt;
-      &lt;li&gt;1 tablespoon pumpkin seeds&lt;/li&gt;
-      &lt;li&gt;1 teaspoon tomato puree&lt;/li&gt;
-      &lt;li&gt;1 teaspoon soy sauce&lt;/li&gt;
-      &lt;li&gt;1 teaspoon garlic oil&lt;/li&gt;
-      &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Wash the rice and the lentils&lt;/li&gt;
-  &lt;li&gt;Soak the 4 tomatoes &amp;amp; 1 1/2 porcini in hot water&lt;/li&gt;
-  &lt;li&gt;Put the lentils and rice in a pot with 4 cups of water. Add the cumin, one finely-cut dried tomato and half a tablespoon of porcini mushrooms in small pieces. Cook on the hob or in the microwave.&lt;/li&gt;
-  &lt;li&gt;Peel and dice the celeriac and cook in the microwave for 4 minutes at full power (900 W).&lt;/li&gt;
-  &lt;li&gt;Heat the oil in the frying pan.&lt;/li&gt;
-  &lt;li&gt;When the oil is hot, fry ginger, seeds and spices for a few minutes.&lt;/li&gt;
-  &lt;li&gt;Slice the mushrooms very fine and fry them for a few minutes over high heat.&lt;/li&gt;
-  &lt;li&gt;Add the soaked tomatoes and porcini, finely cut, and fry  for a few more minutes.&lt;/li&gt;
-  &lt;li&gt;Add the celeriac, fry some more over medium heat&lt;/li&gt;
-  &lt;li&gt;Add the soy sauce, fry some more.&lt;/li&gt;
-  &lt;li&gt;Add the bean paste and tomato puree, fry a little bit more, add a tablespoon of soaking liquid and serve.&lt;/li&gt;
 &lt;/ul&gt;
 
         </content>

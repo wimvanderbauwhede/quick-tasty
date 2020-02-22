@@ -9,8 +9,8 @@
     	<!-- Twitter Cards -->
 	<meta name="twitter:title" content="A shop, the planets and the days of the week">
 	<meta name="twitter:description" content="A tale of a shop with a strange name, the planets, and the days of the week.">
-	<meta name="twitter:site" content="@fuss_free_food">
-	<meta name="twitter:creator" content="@fuss_free_food">
+	
+	
 	
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:image" content="http://www.quickandtastycooking.org.uk/images/suikin-planets-weekdays_1600x600.jpg">
@@ -420,17 +420,17 @@
 
 <p>Here is a small <a href="https://www.haskell.org/">Haskell</a> program that creates the week day sequences from the sequence of the “star gods”:</p>
 
-<pre><code>  starGodSequence = reverse ["月","水","金","日","火","木","土"]
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  starGodSequence = reverse ["月","水","金","日","火","木","土"]
   starGodsAllHours = concat ( repeat starGodSequence )
   starGodsDaysFrom s = (head s):starGodsDaysFrom (drop 24 s)
   weekDays = take 7 ( starGodsDaysFrom starGodsAllHours )
-</code></pre>
+</code></pre></div></div>
 
-<p>The program performs the operations explained above: it takes the list of “star gods” in geocentric order and <code>reverse</code>s them so that “土” (Saturn) is first, this is <code>starGodSequence</code>. It then <code>repeat</code>s this list forever (in Haskell you can do this). The <code>concat</code> flattens this list of lists into a single list, <code>starGodsAllHours</code>.</p>
+<p>The program performs the operations explained above: it takes the list of “star gods” in geocentric order and <code class="highlighter-rouge">reverse</code>s them so that “土” (Saturn) is first, this is <code class="highlighter-rouge">starGodSequence</code>. It then <code class="highlighter-rouge">repeat</code>s this list forever (in Haskell you can do this). The <code class="highlighter-rouge">concat</code> flattens this list of lists into a single list, <code class="highlighter-rouge">starGodsAllHours</code>.</p>
 
-<p>The function <code>starGodsDaysFrom</code> is recursive, what it does is take the first element in a list, then drops 24 elements (including this first one), and repeats the process, again potentially forever. We apply this function to <code>starGodsAllHours</code>. This produces a new list which repeats the days of the week forever.</p>
+<p>The function <code class="highlighter-rouge">starGodsDaysFrom</code> is recursive, what it does is take the first element in a list, then drops 24 elements (including this first one), and repeats the process, again potentially forever. We apply this function to <code class="highlighter-rouge">starGodsAllHours</code>. This produces a new list which repeats the days of the week forever.</p>
 
-<p>Finally, to get the seven days of the week, we <code>take</code> the first seven elements of that new list.
+<p>Finally, to get the seven days of the week, we <code class="highlighter-rouge">take</code> the first seven elements of that new list.
 <br />
 <br />
 <br />
@@ -492,7 +492,7 @@ The banner photo shows the moon-viewing room  (<em>shōgetsurō</em>, 嘯月楼)
 		
 		</ul>
 	</nav><!-- /.bottom-menu -->
-	<p class="copyright">&#169; 2019 <a href="http://www.quickandtastycooking.org.uk">Quick &amp; Tasty</a> <br> <a href="http://jekyllrb.com">Jekyll</a> theme <a href="http://mmistakes.github.io/skinny-bones-jekyll/">Skinny Bones</a></p>
+	<p class="copyright">&#169; 2020 <a href="http://www.quickandtastycooking.org.uk">Quick &amp; Tasty</a> <br> <a href="http://jekyllrb.com">Jekyll</a> theme <a href="http://mmistakes.github.io/skinny-bones-jekyll/">Skinny Bones</a></p>
 
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
