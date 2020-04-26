@@ -590,6 +590,20 @@
   </url>
 
   <url>
+    <loc>http://quickandtastycooking.org.uk/recipes/sourdough-bread/</loc>
+    <lastmod>2016-04-26T14:42:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>http://quickandtastycooking.org.uk/recipes/sourdough-starter/</loc>
+    <lastmod>2016-04-26T14:42:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
     <loc>http://quickandtastycooking.org.uk/recipes/stir-fry-carrots-courgettes-bean-curd-sticks/</loc>
     <lastmod>2016-04-26T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -661,6 +675,13 @@
 
   <url>
     <loc>http://quickandtastycooking.org.uk/recipes/veggie-binagoonang-talong/</loc>
+    <lastmod>2016-04-26T14:42:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>http://quickandtastycooking.org.uk/recipes/white-bread/</loc>
     <lastmod>2016-04-26T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
