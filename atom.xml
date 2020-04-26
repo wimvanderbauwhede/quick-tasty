@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2020-03-29T18:43:08+01:00</updated>
+    <updated>2020-04-26T21:28:57+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
@@ -15,6 +15,179 @@
 			
 		</author>
 
+    
+    <entry>
+        <title>White bread with raisins and walnuts</title>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/white-bread/"/>
+        <updated>2020-04-26T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/recipes/white-bread</id>
+        <author>
+					<name>Wim</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/white-bread_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Making bread is very easy if you take some care. You only need yeast, flour, water and salt. The whole process takes about four hours, but the total amount of active work is only half an hour.&lt;/p&gt;
+
+&lt;p&gt;Apart from an oven, you will need the following items:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A container of about 500 ml for water.&lt;/li&gt;
+  &lt;li&gt;A spoon or fork for mixing.&lt;/li&gt;
+  &lt;li&gt;A recipient to mix your dough. It should hold least 2 or 3 l, for example a plastic pot or stainless steel cooking pot. I can strongly recommend the &lt;a href=&quot;https://www.lekue.com/eu/cookware/bread-maker-lekue.html&quot;&gt;Lekue Bread Maker&lt;/a&gt;, a silicone bread mould that can go straight into the oven.&lt;/li&gt;
+  &lt;li&gt;Optional: a baking tin to shape your loaf. I use the Lekue for this.&lt;/li&gt;
+  &lt;li&gt;Optional: kitchen scales. Mine is a very plain model from Salter.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;For this loaf I only use four ingredients:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3.5 g dried yeast (half a sachet)&lt;/li&gt;
+  &lt;li&gt;280 g water.&lt;/li&gt;
+  &lt;li&gt;400 g wholemeal wheat flo- 4 g salt&lt;/li&gt;
+  &lt;li&gt;4 g salt&lt;/li&gt;
+  &lt;li&gt;25 g raisins or sultanas (optional)&lt;/li&gt;
+  &lt;li&gt;25 g chopped walnuts (optional)&lt;/li&gt;
+  &lt;li&gt;a handful of sunflower seeds (optional)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;p&gt;The main difference between this recipe and the more common ones is the amount of water, which is considerably higher (most recipes say 200 ml for 400 g).  As a result, the dough is not as easy to knead and much more sticky.
+This is why we use the “folding” technique as explained in the videos from &lt;a href=&quot;https://www.bakewithjack.co.uk/videos/2019/6/6/bread-tip-101-beginners-sourdough-loaf-start-to-finish&quot;&gt;Bake with Jack&lt;/a&gt;. Another great tip from that video is to sprinkle your hands with water instead of flour to stop the dough from sticking to them.
+With the extra water the dough rises a lot better, so the result is a more open texture.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A all ingredients to your mixing container&lt;/li&gt;
+  &lt;li&gt;Mix thoroughly&lt;/li&gt;
+  &lt;li&gt;Knead for about ten to fifteen minutes&lt;/li&gt;
+  &lt;li&gt;Leave to rise for 30 minutes. I put a tray with hot water in my oven and let the dough rise there, so it keeps warm and wet.&lt;/li&gt;
+  &lt;li&gt;Fold the dough 12 times. “Folding” means that you pull on the dough, which is very elastic, and fold the pulled flap over the main ball of dough. The  &lt;a href=&quot;https://www.bakewithjack.co.uk/videos/2019/6/6/bread-tip-101-beginners-sourdough-loaf-start-to-finish&quot;&gt;Bake with Jack&lt;/a&gt;  video shows very clearly how to do this.&lt;/li&gt;
+  &lt;li&gt;Leave for half an hour&lt;/li&gt;
+  &lt;li&gt;Fold 6 times; leave for half an hour&lt;/li&gt;
+  &lt;li&gt;Fold 6 times; leave for another half an hour&lt;/li&gt;
+  &lt;li&gt;Preheat the oven on 230 °C&lt;/li&gt;
+  &lt;li&gt;Fold another 6 times&lt;/li&gt;
+  &lt;li&gt;As you can see from the picure, I sprinkled some sunflower seeds on top.&lt;/li&gt;
+  &lt;li&gt;Bake for 15 minutes at 230 °C. I put a small container with very hot water on the baking tray to get some steam.&lt;/li&gt;
+  &lt;li&gt;Bake for another 25 minutes at 200 °C.&lt;/li&gt;
+  &lt;li&gt;Leave to cool on a rack.&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Sourdough starter</title>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/sourdough-starter/"/>
+        <updated>2020-04-26T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/recipes/sourdough-starter</id>
+        <author>
+					<name>Wim</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/sourdough-starter_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Making &lt;a href=&quot;https://en.wikipedia.org/wiki/Sourdough&quot;&gt;sourdough&lt;/a&gt; bread is very easy if you take some care. The videos and blog from &lt;a href=&quot;https://www.bakewithjack.co.uk/videos/2019/6/6/bread-tip-101-beginners-sourdough-loaf-start-to-finish&quot;&gt;Bake with Jack&lt;/a&gt; helped me a lot.  In particular, I use his method for making the &lt;em&gt;sourdough starter&lt;/em&gt;, with only a minor tweak.&lt;/p&gt;
+
+&lt;h4 id=&quot;making-the-starter&quot;&gt;Making the starter&lt;/h4&gt;
+
+&lt;p&gt;Making a sourdough starter is very easy. Most recipes use wholemeal rye flour but I use wholemeal wheat flour which is a little less sour. This recipe is for 150 g sourdough starter, which is the amount I use for a single loaf.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Take a container of about 500 ml. I use a plastic mug with a lid, it does not have to close tightly.&lt;/li&gt;
+  &lt;li&gt;Add 25 g flour and 25 g water at 35 °C, mix (I use the handle of spoon), leave for 24 hours at room temperature (20-25 °C; the warmer, the quicker).&lt;/li&gt;
+  &lt;li&gt;Repeat for three consecutive days. It should roughly double in volume. If so, it’s ready to use; if not, leave it for another day.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;feeding-the-starter&quot;&gt;Feeding the starter&lt;/h4&gt;
+
+&lt;p&gt;Once you have made this starter, keeping it going it is very simple.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When you make your first loaf with a fresh starter, leave about 20 g starter in the container to make your next batch. I just keep this in the fridge.&lt;/li&gt;
+  &lt;li&gt;Then, the day before I bake the next loaf, in the morning, add 75 g water  at 35 °C and 75 g flour to the container, stir well, and leave it at room temperature for a day. Put it in the fridge before you go to bed.&lt;/li&gt;
+  &lt;li&gt;The next day, take the started out of the fridge 3-4 hours before you start to bake.&lt;/li&gt;
+  &lt;li&gt;Because you have now 170 g starter in the container, you can use 150 g for the loaf and then feed the starter again, for as long as you like.&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Sourdough bread</title>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/sourdough-bread/"/>
+        <updated>2020-04-26T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/recipes/sourdough-bread</id>
+        <author>
+					<name>Wim</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/sourdough-bread_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Making &lt;a href=&quot;https://en.wikipedia.org/wiki/Sourdough&quot;&gt;sourdough&lt;/a&gt; bread is very easy if you take some care.  You only need flour, water and salt. The whole process takes about five hours, but the total amount of active work is only half an hour. The videos and blog from &lt;a href=&quot;https://www.bakewithjack.co.uk/videos/2019/6/6/bread-tip-101-beginners-sourdough-loaf-start-to-finish&quot;&gt;Bake with Jack&lt;/a&gt; helped me a lot.&lt;/p&gt;
+
+&lt;p&gt;Apart from an oven, you will need the following items:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A container of about 500 ml for the sourdough starter. I use a plastic mug with a lid, it does not have to close tightly. A glass jar is fine too.&lt;/li&gt;
+  &lt;li&gt;A container of about 500 ml for water.&lt;/li&gt;
+  &lt;li&gt;A spoon or fork for mixing.&lt;/li&gt;
+  &lt;li&gt;A recipient to mix your dough. It should hold least 2 or 3 l, for example a plastic pot or stainless steel cooking pot. I can strongly recommend the &lt;a href=&quot;https://www.lekue.com/eu/cookware/bread-maker-lekue.html&quot;&gt;Lekue Bread Maker&lt;/a&gt;, a silicone bread mould that can go straight into the oven.&lt;/li&gt;
+  &lt;li&gt;Optional: a baking tin to shape your loaf.  With my recipe, the dough is quite wet so it does not keep its shape well. I use the Lekue for this.&lt;/li&gt;
+  &lt;li&gt;Optional: kitchen scales. Mine is a very plain model from Salter.&lt;/li&gt;
+  &lt;li&gt;Optional: a thermometer to make sure your water is at the right temperature. Not essential, but handy.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The difference between sourdough bread and ordinary bread is that you use a &lt;em&gt;sourdough starter&lt;/em&gt; instead of baking yeast. The great thing about a sourdough starter is that you can very easily make it yourself, from just flour and water. Have a look at  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/sourdough-starter/&quot;&gt;my recipe&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;For this loaf I only use four ingredients:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;150 g sourdough starter&lt;/li&gt;
+  &lt;li&gt;450 g water&lt;/li&gt;
+  &lt;li&gt;675 g wholemeal wheat flour&lt;/li&gt;
+  &lt;li&gt;8 g salt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;First add 150 g starter to your mixing container.&lt;/li&gt;
+  &lt;li&gt;Then add 450 g water&lt;/li&gt;
+  &lt;li&gt;Then add 675 g flour&lt;/li&gt;
+  &lt;li&gt;Then add 8 g salt&lt;/li&gt;
+  &lt;li&gt;Mix thoroughly&lt;/li&gt;
+  &lt;li&gt;Knead for about ten minutes&lt;/li&gt;
+  &lt;li&gt;Leave to rise for 30 minutes. I put a tray with hot water in my oven and let the dough rise there, so it keeps warm and wet.&lt;/li&gt;
+  &lt;li&gt;Fold the dough 12 times. “Folding” means that you pull on the dough, which is very elastic, and fold the pulled flap over the main ball of dough. The  &lt;a href=&quot;https://www.bakewithjack.co.uk/videos/2019/6/6/bread-tip-101-beginners-sourdough-loaf-start-to-finish&quot;&gt;Bake with Jack&lt;/a&gt;  video shows very clearly how to do this.&lt;/li&gt;
+  &lt;li&gt;Leave for an hour&lt;/li&gt;
+  &lt;li&gt;Fold 6 times; leave for an hour&lt;/li&gt;
+  &lt;li&gt;Fold 6 times; leave for another hour&lt;/li&gt;
+  &lt;li&gt;Preheat the oven on 230 °C&lt;/li&gt;
+  &lt;li&gt;Fold another 6 times&lt;/li&gt;
+  &lt;li&gt;As you can see from the picure, I sprinkled some pumpkin seeds on top.&lt;/li&gt;
+  &lt;li&gt;Bake for 20 minutes at 230 °C. I put a small container with very hot water on the baking tray to get some steam.&lt;/li&gt;
+  &lt;li&gt;Bake for another 40 minutes at 200 °C.&lt;/li&gt;
+  &lt;li&gt;Leave to cool on a rack.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I usually bake in the evening, and wrap the loaf in a towel overnight to keep the crust from drying out too much.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/sourdough-bread-slices.jpg&quot; alt=&quot;A few slices of sourdough bread&quot; title=&quot;A few slices of sourdough bread&quot; /&gt;
+&lt;figcaption&gt;Doesn't it look delicious?&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>The Winds of Kyoto</title>
@@ -2302,199 +2475,6 @@ At the time I thought, because of the colour of the costume, that the dance had 
   &lt;li&gt;Toss the pasta in the remaining olive oil.&lt;/li&gt;
   &lt;li&gt;Serve the pasta in a deep bowl with the mushrooms and carrots on top.&lt;/li&gt;
   &lt;li&gt;Sprinkle on the grated cheese.&lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Move over onion, here's ginger</title>
-        <link href="http://www.quickandtastycooking.org.uk/articles/ginger-vs-onion/"/>
-        <updated>2018-05-13T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/articles/ginger-vs-onion</id>
-        <author>
-					<name>Wim</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/ginger-vs-onion_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;If you’ve tried some &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/&quot;&gt;Quick and Tasty recipes&lt;/a&gt;, you will have noticed that they never contain onion. There is no special reason for this other than that I prefer ginger. So let’s make the case for ginger.&lt;/p&gt;
-
-&lt;p&gt;Many people don’t like onion, raw or cooked. Also peeling and chopping onion is not pleasant, and the smell of onion is hard to wash off your hands. And yet most recipes contain onion. By contrast, few recipes contain fresh ginger. I argue that you don’t need onion to make tasty meals, and that you should consider using fresh ginger instead, and I present the &lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/&quot;&gt;Quick and Tasty recipes&lt;/a&gt; as evidence.&lt;/p&gt;
-
-&lt;p&gt;The main flavours cooked onion adds to a meal are sweetness and &lt;em&gt;umami&lt;/em&gt;. But onion is actually not a particularly good source of &lt;em&gt;umami&lt;/em&gt;. According to the web site of the &lt;a href=&quot;https://www.umamiinfo.com&quot;&gt;Umami Information Center&lt;/a&gt;, onion contains about 20-50 mg glutamate/100 g. Ginger contains about 20 mg as well. For reference, tomatoes — a great source of umami — contain almost 250 mg glutamate/100 g. There are &lt;a href=&quot;https://www.umamiinfo.com&quot;&gt;many other ingredients&lt;/a&gt; that provide umami.&lt;/p&gt;
-
-&lt;p&gt;Ginger has a unique fresh and very spicy taste, especially in raw form, but it does not burn the mouth like peppers. Raw ginger is great to spice up a salad. Frying reduces the spiciness and enhances the sweetness. The change in taste is the result of applying heat (&lt;a href=&quot;https://scienceandfooducla.wordpress.com/2014/09/30/ginger/&quot;&gt;which transforms &lt;em&gt;gingerol&lt;/em&gt; into &lt;em&gt;zingerone&lt;/em&gt;&lt;/a&gt;) so cooking in the microwave works fine as well, you don’t need to actually fry it.&lt;/p&gt;
-
-&lt;p&gt;Ginger has &lt;a href=&quot;https://www.healthline.com/nutrition/11-proven-benefits-of-ginger&quot;&gt;many proven health benefits&lt;/a&gt;, but the great taste is reason enough to start using it. Here are a few examples of Quick and Tasty recipes with ginger:&lt;/p&gt;
-
-&lt;!-- I find the taste of fried ginger much more interesting than that of fried onion.--&gt;
-
-&lt;p&gt;With raw ginger:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/asparagus-paneer-courgette-rocket-salad/&quot;&gt;Salad: Asparagus and paneer on a bed of rocket and courgettes
-&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/murakami-2/&quot;&gt;Soba noodles with  soy beans&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;With cooked ginger:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/winter-hotpot-root-vegetables-adzuki-beans/&quot;&gt;Simple winter hotpot with root vegetables and adzuki beans&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/potato-vegetable-bake/&quot;&gt;Potato and vegetable bake with cream cheese&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;With fried ginger:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/mild-root-vegetable-curry/&quot;&gt;Mild root vegetable curry with paneer and rice&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.quickandtastycooking.org.uk/recipes/iridofu-carrots-shiitake/&quot;&gt;Iridofu with carrots and shiitake
-&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;appendix-ginger-carbon-footprint&quot;&gt;Appendix: Ginger carbon footprint&lt;/h3&gt;
-
-&lt;p&gt;Most fresh ginger in the UK is imported from China (somewhat surprising as India is the main producer), so you might be concerned about your ginger carbon footprint. I calculated that the contribution of the ginger to my carbon footprint is at most 0.01%.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The &lt;a href=&quot;http://www.worldshipping.org/industry-issues/environment/air-emissions/carbon-emissions&quot;&gt;CO2 footprint of shipping&lt;/a&gt; is 10 g per km per 1,000 kg of freight.&lt;/li&gt;
-  &lt;li&gt;The &lt;a href=&quot;https://sea-distances.org/&quot;&gt;distance from China&lt;/a&gt; is 19,000 km.&lt;/li&gt;
-  &lt;li&gt;My ginger consumption is about 100 g per 2 weeks (7-10 g per meal), so about 2.5 kg per year.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;So we have&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;10*19,000*2.5/1,000 =19*25 = 475
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;or about half a kilogram CO2 per year.&lt;/p&gt;
-
-&lt;p&gt;Using the &lt;a href=&quot;http://footprint.wwf.org.uk/&quot;&gt;WWF carbon footprint calculator&lt;/a&gt;, I estimate my carbon footprint to be 7-12 tons of CO2 per year.
-This means that my ginger consumption accounts for no more than 0.5/7,000 or 0.0071% of my yearly carbon footprint.&lt;/p&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Japanese-style risotto of black rice, mixed mushrooms and aubergines</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/japanese-risotto-black-rice/"/>
-        <updated>2018-04-22T00:00:00+01:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/japanese-risotto-black-rice</id>
-        <author>
-					<name>Wim</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/japanese-risotto-black-rice_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is a risotto but made from &lt;a href=&quot;https://www.sainsburys.co.uk/shop/gb/groceries/sainsburys-thai-black-rice-500g&quot;&gt;Thai black rice&lt;/a&gt;, cooked with &lt;em&gt;kombu&lt;/em&gt; seaweed according to a recipe from the &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/zen-cooking/&quot;&gt;Zen temple cookbook&lt;/a&gt; I bought in Japan.
-I added mixed mushrooms and aubergines and serve it topped with &lt;em&gt;edamame&lt;/em&gt; soy beans.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Japanese-style&quot;&gt;&lt;em&gt;Japanese-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#45-minutes&quot;&gt;&lt;em&gt;45-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;825 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#800-1000kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_4.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Main ingredients:
-    &lt;ul&gt;
-      &lt;li&gt;1 pack (200 g) mixed mushrooms (I used oyster mushrooms, &lt;em&gt;shiitake&lt;/em&gt; and &lt;em&gt;eryngii&lt;/em&gt;)&lt;/li&gt;
-      &lt;li&gt;2 small aubergines&lt;/li&gt;
-      &lt;li&gt;1 cup of frozen soy beans (&lt;em&gt;edamame&lt;/em&gt;)&lt;/li&gt;
-      &lt;li&gt;1 cup black rice&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Seasonings
-    &lt;ul&gt;
-      &lt;li&gt;a piece of about 5x10 cm &lt;em&gt;kombu&lt;/em&gt; seaweed&lt;/li&gt;
-      &lt;li&gt;2 tablespoons finely chopped fresh ginger&lt;/li&gt;
-      &lt;li&gt;2 tablespoons sesame seeds&lt;/li&gt;
-      &lt;li&gt;1 teaspoon &lt;em&gt;miso&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;1 tablespoon &lt;em&gt;mirin&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;1 teaspoon sesame oil&lt;/li&gt;
-      &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
-      &lt;li&gt;for serving: &lt;em&gt;shichimi tougarashi&lt;/em&gt;, golden sesame seeds (optional)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;It is best (but not absolutely necessary) to soak the rice with the piece of &lt;em&gt;kombu&lt;/em&gt; for an hour in 2 cups of cold water. Otherwise, soak for 5 minutes at least in very hot water. Then take out the &lt;em&gt;kombu&lt;/em&gt; and cut it into small strips.&lt;/li&gt;
-  &lt;li&gt;Wash the aubergines and cut into chunks.&lt;/li&gt;
-  &lt;li&gt;Cut the mushrooms in strips.&lt;/li&gt;
-  &lt;li&gt;In a deep pan with a lid,  heat the olive oil and sesame oil and fry the ginger, mushrooms and sesame seeds until the mushrooms start to brown.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, cook the aubergines in the microwave for 8 minutes at full power (900W).&lt;/li&gt;
-  &lt;li&gt;Add the aubergines, &lt;em&gt;kombu&lt;/em&gt; and the rice to the pan with the soaking liquid of the rice.&lt;/li&gt;
-  &lt;li&gt;Add the &lt;em&gt;mirin&lt;/em&gt; and &lt;em&gt;miso&lt;/em&gt;, stir well to dissolve the &lt;em&gt;miso&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Cook, covered, until the liquid has almost been absorbed, so it’s &lt;em&gt;all’onda&lt;/em&gt; like a proper risotto.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, cook the soy beans in the microwave for 3 minutes at full power (900W).&lt;/li&gt;
-  &lt;li&gt;Serve with the soy beans as topping.&lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Yakisoba with carrots and edamame</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/yakisoba-carrots-edamame/"/>
-        <updated>2018-02-04T00:00:00+00:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/yakisoba-carrots-edamame</id>
-        <author>
-					<name>Wim</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/yakisoba-carrots-edamame_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;&lt;em&gt;Yakisoba&lt;/em&gt; (焼きそば) means “fried soba noodles”. This is a stir fry of carrots and soy beams with soba noodles added to the pan.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#Japanese-style&quot;&gt;&lt;em&gt;Japanese-style&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;625 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Main ingredients:
-    &lt;ul&gt;
-      &lt;li&gt;200 g soba noodles&lt;/li&gt;
-      &lt;li&gt;1 cup of frozen soy beans (&lt;em&gt;edamame&lt;/em&gt;)&lt;/li&gt;
-      &lt;li&gt;400 g carrots&lt;/li&gt;
-      &lt;li&gt;5 dried &lt;em&gt;shiitake&lt;/em&gt;  (soaked)&lt;/li&gt;
-      &lt;li&gt;some celery&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Seasonings&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;1 tablespoon finely chopped fresh ginger&lt;/li&gt;
-      &lt;li&gt;2 tablespoons sesame seeds&lt;/li&gt;
-      &lt;li&gt;1 teaspoon &lt;em&gt;miso&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;1 teaspoon sesame oil&lt;/li&gt;
-      &lt;li&gt;1 teaspoon garlic oil&lt;/li&gt;
-      &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cook the soba noodles for 5 minutes in plenty of water. Wash carefully and drain.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, microwave the soy beans for 2 minutes at full power (900W).&lt;/li&gt;
-  &lt;li&gt;Meanwhile, cut the carrots and the celery into &lt;em&gt;julienne&lt;/em&gt; strips and cook them in the microwave at full power (900W) for 2 to 3 minutes. Drain the cooking liquid into a small bowl.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, heat the oil and fry the sesame seeds and ginger for a minute.&lt;/li&gt;
-  &lt;li&gt;Add the carrots and celery and fry over high heat for a minute or maybe two, depending on how fine you cut them.&lt;/li&gt;
-  &lt;li&gt;Add the &lt;em&gt;shiitake&lt;/em&gt; and soy beans to the pan and fry for a few minutes over low heat.&lt;/li&gt;
-  &lt;li&gt;Lower the heat and let simmer.&lt;/li&gt;
-  &lt;li&gt;Meanwhile, mix the cooking liquid with the &lt;em&gt;miso&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Add the mixture to the pan, add the cooked soba noodles and fry over medium heat until the liquid has completely gone.&lt;/li&gt;
 &lt;/ul&gt;
 
         </content>
