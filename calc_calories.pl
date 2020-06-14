@@ -16,6 +16,7 @@ if ($recipe_shortname=~/\// or $recipe_shortname=~/\.md$/) {
 say "recipe short name: $recipe_shortname";
 
 }
+
 use Data::Dumper;
 open my $CALS, '<', 'calories.txt';
 
@@ -53,6 +54,7 @@ for my $recipe_file (@recipe_files) {
         }
     }
     close $IN;
+
     $recipes{$recipe_file}{'Ingredients'}=[@ingr_lines];
     $recipes{$recipe_file}{'Calories'}=0;    
     say "\nRECIPE: $recipe_file";
@@ -68,6 +70,9 @@ for my $recipe_file (@recipe_files) {
                 } 
                 elsif ($line=~/([1-6])/) {
                     my $count=$1;
+                    if ($line=~/1\/2/) {
+                        $count=0.5;
+                    }
                     if ($line=~/egg/) {
                         $amount=$count*50;
                     }
@@ -80,17 +85,18 @@ for my $recipe_file (@recipe_files) {
                     elsif ($line=~/dried\s+tomato/) {
                         $amount*=$count;
                     }
-                    elsif ($line=~/banana|carrot|tomato|courgette/) {
+                    elsif ($line=~/banana|carrot|tomato|courgette/ && $line!~/tomato\s+puree/) {
                         $amount=$count*100; # 100 g per carrot
                     }
-                    elsif ($line=~/tablespoon.+(tahini|seed|nut|mirin|shoyu|mayonnaise|olive\ oil|double\ cream)/) {
+                    elsif ($line=~/tablespoon.+(tahini|seed|nut|mirin|shoyu|mayonnaise|olive\ oil|double\ cream|tobanjan|miso|tomato\s+puree)/) {
+                        #say "$count tablespoon $1";
                         $amount=$count*15;
                     } 
-                    elsif ($line=~/teaspoon.+(seed|nut|mirin|shoyu)/) {
+                    elsif ($line=~/teaspoon.+(seed|nut|mirin|shoyu|tobanjan|miso|tomato\s+puree)/) {
                         $amount=$count*5;
                     } 
                     else {
-#                    say "COUNTED $line";
+                        #                    say "COUNTED $line";
                     }
                 }
                 elsif ($line=~/(one|two|three|four)/) {
@@ -104,16 +110,16 @@ for my $recipe_file (@recipe_files) {
                     elsif ($line=~/dried\s+tomato/) {
                         $amount*=$count;
                     }
-                    elsif ($line=~/banana|carrot|tomato|courgette/) {
+                    elsif ($line=~/banana|carrot|tomato|courgette/  && $line!~/tomato\s+puree/) {
                         $amount=$count*100; # 100 g per carrot
                     }
                     elsif ($line=~/slice.+bread/) {
                         $amount=$count*20;
                     }
-                    elsif ($line=~/tablespoon.+(tahini|seed|nut|mirin|shoyu|mayonnaise|olive\ oil)/) {
+                    elsif ($line=~/tablespoon.+(tahini|seed|nut|mirin|shoyu|mayonnaise|olive\ oil|tobanjan|miso|tomato\s+puree)/) {
                         $amount=$count*15;
                     }
-                    elsif ($line=~/teaspoon.+(seed|nut|mirin|shoyu)/) {
+                    elsif ($line=~/teaspoon.+(seed|nut|mirin|shoyu|tobanjan|miso|tomato\s+puree)/) {
                         $amount=$count*5;
                     } else {
 #                    say "COUNTED $line";

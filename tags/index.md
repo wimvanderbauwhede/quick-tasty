@@ -14,7 +14,7 @@ layout: default
 <!-- <ul> -->
 {% for post in site.tags[tag] %}
 <!--<li>-->
-<a href="{{ site.url }}/{{ post.url }}"><img src="{{ site.url }}/images/{{ post.image.thumb }}" width="10%"></a>&nbsp;&nbsp;<a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a>
+<a href="{{ site.url }}{{ post.url }}"><img src="{{ site.url }}/images/{{ post.image.thumb }}" width="10%"></a>&nbsp;&nbsp;<a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
 <!--</li>-->
 {% endfor %}
 <!-- </ul> -->

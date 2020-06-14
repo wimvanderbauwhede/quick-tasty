@@ -73,8 +73,8 @@ With this interpretation, Murakami allocates to his seven Little People the role
 
 <span class="footnotes">
 &nbsp;<br>
-<sup>*</sup> In Japan, traditionally a month is split in three ten-day periods called _jun_(旬).<br>
-<sup>**</sup> Murakami calls them リトル・ピープル (RITORU PIIPURU) which is _katakana_ rendition of the English "Little People". The little girl thinks of them as _kobito_ (小人) which also means "little people". 
+<sup>*</sup> In Japan, traditionally a month is split in three ten-day periods called _jun_(旬).<br>
+<sup>**</sup> Murakami calls them リトル・ピープル (RITORU PIIPURU) which is _katakana_ rendition of the English "Little People". The little girl thinks of them as _kobito_ (小人) which also means "little people". 
 </span>
 <!--  – shimedaiko (締め太鼓),  otsuzumi (大鼓) and kotsuzumi (小鼓) –->
 <!--

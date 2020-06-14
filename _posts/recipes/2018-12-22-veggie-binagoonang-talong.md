@@ -3,7 +3,7 @@ layout: article
 title: "Aubergines and tofu sticks in Filipino-style creamy sauce"
 date: 2018-12-22
 modified: 2018-12-22
-tags: [ vegan, 30-minutes  ,"800-1000kcals" ]
+tags: [ vegan, gluten-free, 30-minutes  ,"800-1000kcals" ]
 excerpt: "This is a veggie version of a Filipino recipe, Binagoongan Talong sa Gata."
 calorielevel: "4"
 calorierange: "800-1000kcals"
@@ -23,7 +23,7 @@ image:
 
 This is a veggie version of a Filipino recipe, [Binagoongan Baboy sa Gata](https://www.kawalingpinoy.com/binagoongan-baboy-sa-gata/). I added the aubergines to the pan as in [this Binagoongan Talong](https://www.kawalingpinoy.com/binagoongan-talong/) recipe. The less common ingredient in my recipe is [dried tofu (bean curd) sticks](https://shop.waiyeehong.com/food-ingredients/dried-products/dried-beancurd-seaweed/dried-beancurd-sticks-tofu-bamboo-2?language=tw).
 
-{% for tag in page.tags %}{% if tag != "800-1000kcals" %}&nbsp;<a class="post-tag" href="{{ site.url}}/tags/#{{ tag }}">_{{ tag }}_</a>&nbsp;{% endif %}{% endfor %} &bull;&nbsp;<em>925&nbsp;kcal&nbsp;per&nbsp;person</em>&nbsp;&nbsp;<a href="{{ site.url}}/tags/#800-1000kcals"><img src="{{ site.url }}/images/battery_lvl_4.png" style="height:1.0em;"></a>
+{% for tag in page.tags %}{% if tag != "800-1000kcals" %}&nbsp;<a class="post-tag" href="{{ site.url}}/tags/#{{ tag }}">_{{ tag }}_</a>&nbsp;{% endif %}{% endfor %} &bull;&nbsp;<em>900&nbsp;kcal&nbsp;per&nbsp;person</em>&nbsp;&nbsp;<a href="{{ site.url}}/tags/#800-1000kcals"><img src="{{ site.url }}/images/battery_lvl_4.png" style="height:1.0em;"></a>
 
 #### Ingredients
 

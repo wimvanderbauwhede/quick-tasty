@@ -18,9 +18,14 @@ All my recipes are for _full meals_ for two people. All recipes are my own creat
 <p  style="margin:0px;" class="quick-access">Browse recipes:</p>
 <ul class="quick-access">
 <li>By category:&nbsp;
+<a href="{{site.url}}/tags/#vegan">Vegan</a>&nbsp;&bull;
+<a href="{{site.url}}/tags/#gluten-free">Gluten-free</a>&nbsp;&bull;
+<!--
 <a href="{{site.url}}/recipes/#quick">Quick</a>&nbsp;&bull;
+-->
 <a href="{{site.url}}/recipes/#Japanese">Japanese</a>&nbsp;&bull;
-<a href="{{site.url}}/recipes/#special">Festive special</a>
+<a href="{{site.url}}/recipes/#baking">Baking</a>&nbsp;&bull;
+<a href="{{site.url}}/recipes/#special">Festive specials</a>
 </li>
 <li>By preparation time:&nbsp;
 <!--<a href="{{site.url}}/times/#10-minutes">10 minutes</a>-->
@@ -59,7 +64,19 @@ All my recipes are for _full meals_ for two people. All recipes are my own creat
 </div><!-- /.tiles -->
 
 <div class="spacer"  style="float:left;width:100%;">
-<h3 id="special">Festive special</h3>
+<h3 id="baking">Baking</h3>
+</div>
+
+<div class="tiles">
+{% for post in site.categories.recipes %}
+{% if post.subset == "baking" %}
+  {% include post-grid-recipes.html %}
+{% endif %}
+{% endfor %}
+</div><!-- /.tiles -->
+
+<div class="spacer"  style="float:left;width:100%;">
+<h3 id="special">Festive specials</h3>
 </div>
 
 <div class="tiles">
