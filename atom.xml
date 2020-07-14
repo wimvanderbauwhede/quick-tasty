@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="http://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="http://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2020-07-10T16:59:23+01:00</updated>
+    <updated>2020-07-14T20:43:03+01:00</updated>
     <id>http://www.quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
@@ -15,6 +15,42 @@
 			
 		</author>
 
+    
+    <entry>
+        <title>Frozen yoghurt with dates</title>
+        <link href="http://www.quickandtastycooking.org.uk/recipes/frozen-yoghurt/"/>
+        <updated>2020-07-14T00:00:00+01:00</updated>
+        <id>http://www.quickandtastycooking.org.uk/recipes/frozen-yoghurt</id>
+        <author>
+					<name>Wim</name>
+					<uri>http://www.quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/frozen-yoghurt_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;This is a simple and quick recipe for frozen yoghurt with just two ingredients.&lt;/p&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;250 g Greek style yoghurt&lt;/li&gt;
+  &lt;li&gt;50 g Medjool dates, pitted and chopped&lt;/li&gt;
+  &lt;li&gt;1 teaspoon candied orange peel (optional)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Put the yoghurt, dates and orange peel in a freezer-safe container and stir.&lt;/li&gt;
+  &lt;li&gt;For the lazy way, place the mixture in the fridge for a few hours or overnight (so the dates will dissolve) and stir; for the quick way, blend the mixture.&lt;/li&gt;
+  &lt;li&gt;Put the container in the freezer for 20 minutes.&lt;/li&gt;
+  &lt;li&gt;Stir the mixture well. Make sure to loosen ice forming on the walls of the container and to mix it in.&lt;/li&gt;
+  &lt;li&gt;Repeat the freezing and stirring until you get the desired consistency. For soft ice texture this will take about four more cycles, for a more solid texture about seven.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+        </content>
+    </entry>
     
     <entry>
         <title>About reading Murakami as a way to learn Japanese</title>
@@ -30,14 +66,14 @@
         	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/learning-japanese-reading-murakami_1600x600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;As mentioned in my previous posts (&lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/reading-murakami/&quot;&gt;Reading Murakami in Japanese&lt;/a&gt;,
    &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/more-on-learning-japanese/&quot;&gt;Some tips for reading Japanese as a learner&lt;/a&gt;,
-   &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;My journey of learning Japanese&lt;/a&gt;), I started reading Haruki Murakami’s “1Q84” in Japanese in October 2014. The paperback version consists of 6 volumes (2 for each Book), 2057 pages in total. And at the end of June 2020, I finally finished it.&lt;/p&gt;
+   &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;My journey of learning Japanese&lt;/a&gt;), I started reading Murakami Haruki’s “1Q84” in Japanese in October 2014. The paperback version consists of 6 volumes (2 for each Book), 2057 pages in total. And at the end of June 2020, I finally finished it.&lt;/p&gt;
 
 &lt;p&gt;I had started learning Japanese in early 2011 in preparation for a research trip, which then didn’t happen because of the tsunami and nuclear disaster. But I went to Japan for two months in the summer of 2012 and again in the summer of 2014, so I had been learning for about four years and had 4 months of a more immersive experience.&lt;/p&gt;
 
-&lt;p&gt;However, I had been learning Japanese  in a rather haphazard, not very systematic way, on purpose because I felt it was more fun. Nevertheless, I had put in a considerable amount of time and effort.
+&lt;p&gt;However, I had been learning Japanese  in a rather haphazard, not very systematic way, because I felt it was more fun. Nevertheless, I had put in a considerable amount of time and effort.
 I took some group lessons but the quickly became to easy. Then I took one-to-one lessons with a Japanese teacher, which was a much better way to learn, but she did not teach me kanji. I learned kanji using several apps. The one I’ve used most consistently is Memrise, to study the Jouyou kanji, meanings only. I have aesthetic objections to the Heisig method, and I’ve paid the price for that, because apparently with that method you can learn readings and meanings for all 2136 Jouyou kanji in a few months. Whereas all these years later, I still practice every day.&lt;/p&gt;
 
-&lt;p&gt;So, what did I learn through reading Murakami? Despite &lt;a href=&quot;http://selftaughtjapanese.com/2016/07/08/what-its-like-reading-haruki-murakami-novels-in-their-original-japanese/&quot;&gt;what others may say&lt;/a&gt;, I learned that reading Murakami is hard. Initially, a page took me more than half an hour. Now, after six years, it takes me about five minutes, but that is still much lower than my English reading speed. Arguably Murakami’s prose is comparatively easy, and personally I had (even) more difficulty reading Banana Yoshimoto’s “Tokage” than 1Q84, but that doesn’t mean Murakami is easy, at least not for me.&lt;/p&gt;
+&lt;p&gt;So, what did I learn through reading Murakami? Despite &lt;a href=&quot;http://selftaughtjapanese.com/2016/07/08/what-its-like-reading-haruki-murakami-novels-in-their-original-japanese/&quot;&gt;what others may say&lt;/a&gt;, I learned that reading Murakami is hard. Initially, a page took me more than half an hour. Now, after six years, it takes me about five minutes, but that is still much lower than my English reading speed: reading the same passage in English only takes a minute. Arguably Murakami’s prose is comparatively easy, and personally I had (even) more difficulty reading Banana Yoshimoto’s “Tokage” than 1Q84, but that doesn’t mean Murakami is easy, at least not for me.&lt;/p&gt;
 
 &lt;p&gt;But I also learned, despite that or because of it, not to give up. Keep going, a few pages at a time. Eventually you’ll get there.
 And I learned that this type of reading, with a dictionary and looking up any both readings and meanings of any character or word I don’t know, is not only wonderfully engaging but also really works as a way to learn Japanese. My reading skills have improved dramatically, and so have my vocabulary and my grasp of grammar. As a result, my writing skills also have improved. Indirectly, this has also improved my listing and speaking skills. So on the whole, I would recommend reading a Japanese novel as a way of learning, if you are not in a hurry.&lt;/p&gt;
@@ -54,11 +90,19 @@ And I learned that this type of reading, with a dictionary and looking up any bo
 
 &lt;p&gt;which literally translates as “to jump off the platform of the Kiyomizu-dera temple”, but means “to make a leap into the dark”. (The platform of the beautiful and ancient Kiyomizu-dera temple in Kyoto offers great views but is also 12 m high, so jumping off it may not be a good idea.)&lt;/p&gt;
 
-&lt;p&gt;Anyway, it’s about daring rather than about having trouble with recall: rather than going for conscious recall, trust your unconscious mind to pick the right reading.&lt;/p&gt;
+&lt;p&gt;What I learned is that recall is sometimes more about daring rather than about remembering: rather than going for conscious recall, trust your unconscious mind to pick the right reading. You actually remember more than you think you remember.&lt;/p&gt;
 
-&lt;p&gt;So, do I think it is a good book? Yes. It was certainly for the most part entertaining and interesting. I have written three posts about various points in the book (&lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/repetition-in-1Q84/&quot;&gt;On repetition&lt;/a&gt;, &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/1Q84-kuukisanagi/&quot;&gt;Why the Little People say Ho ho&lt;/a&gt;, and &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/cold-or-not/&quot;&gt;Cold or not&lt;/a&gt;), so there are definitely some very interesting aspects to it.&lt;/p&gt;
+&lt;h3 id=&quot;coda-the-novel-itself&quot;&gt;Coda: the novel itself&lt;/h3&gt;
 
-&lt;p&gt;Are there aspects I don’t like? Yes. The ending leaves us wanting to know what happened to the other characters. Also, there is a bit too much repetition, which I think is a consequence of the book being published in three parts, and in every part Murakami has felt it necessary to provide sufficient background on what happened before so that each part can be read on its own. There are some parts that I found a bit slow because I was impatient to get back to the plot, but usually even these parts were quite interesting.&lt;/p&gt;
+&lt;p&gt;You may wonder: having spent nearly six years reading it, do I think it is a good book? And indeed I do. It was certainly for the most part entertaining and interesting. I have written three posts about various points in the book (&lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/repetition-in-1Q84/&quot;&gt;On repetition&lt;/a&gt;, &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/1Q84-kuukisanagi/&quot;&gt;Why the Little People say Ho ho&lt;/a&gt;, and &lt;a href=&quot;http://www.quickandtastycooking.org.uk/articles/cold-or-not/&quot;&gt;Cold or not&lt;/a&gt;), so there are definitely some very interesting aspects to it.&lt;/p&gt;
+
+&lt;p&gt;Are there aspects I don’t like? Yes. The ending leaves us wanting to know what happened to the other characters. Also, there is a bit too much repetition, which I think is a consequence of the book being published in three parts, and in every part Murakami (or his publisher) has felt it necessary to provide sufficient background on what happened before so that each part can be read on its own. There are some parts that I found a bit slow, because I was impatient to get back to the plot, but usually even these parts were actually quite interesting.&lt;/p&gt;
+
+&lt;p&gt;And finally, will I ever re-read it? Maybe, if my Japanese reading speed ever gets close to my English one.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;The banner picture is the dragon-shaped spout of the water basin at the entrance of the Kiyomizu-dera temple in Kyoto&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 
         </content>
@@ -2058,82 +2102,6 @@ Stollen
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Season with salt and pepper to taste. Serve with rice&lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Stir fry of carrots, courgettes and tofu sticks</title>
-        <link href="http://www.quickandtastycooking.org.uk/recipes/stir-fry-carrots-courgettes-bean-curd-sticks/"/>
-        <updated>2018-12-08T00:00:00+00:00</updated>
-        <id>http://www.quickandtastycooking.org.uk/recipes/stir-fry-carrots-courgettes-bean-curd-sticks</id>
-        <author>
-					<name>Wim</name>
-					<uri>http://www.quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/stir-fry-carrots-courgettes-bean-curd-sticks_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;This is a very simple stir fry, quick and easy to make. The less common ingredients in this recipe are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://shop.waiyeehong.com/food-ingredients/dried-products/dried-beancurd-seaweed/dried-beancurd-sticks-tofu-bamboo-2?language=tw&quot;&gt;dried bean curd sticks&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.japancentre.com/en/products/2872-wel-pac-dried-hijiki-seaweed&quot;&gt;&lt;em&gt;hijiki&lt;/em&gt; seaweed&lt;/a&gt;.
-You can find these ingredients in most Asian supermarkets. I also used &lt;a href=&quot;https://www.japancentre.com/en/products/2051-clearspring-organic-brown-rice-miso&quot;&gt;&lt;em&gt;miso&lt;/em&gt; paste&lt;/a&gt;. You can find it in most supermarkets.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;http://www.quickandtastycooking.org.uk/tags/#20-minutes&quot;&gt;&lt;em&gt;20-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;650 kcal per person&lt;/em&gt;  &lt;a href=&quot;http://www.quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;http://www.quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients &amp;amp; groceries
-    &lt;ul&gt;
-      &lt;li&gt;300 g carrots&lt;/li&gt;
-      &lt;li&gt;a medium courgette (about 200 g)&lt;/li&gt;
-      &lt;li&gt;1 cm ginger, chopped very fine&lt;/li&gt;
-      &lt;li&gt;50 g dried bean curd sticks&lt;/li&gt;
-      &lt;li&gt;1 tablespoon &lt;em&gt;hijiki&lt;/em&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;1 teaspoon &lt;em&gt;miso&lt;/em&gt; paste&lt;/li&gt;
-      &lt;li&gt;1 tablespoons olive oil&lt;/li&gt;
-      &lt;li&gt;1 teaspoon sesame oil&lt;/li&gt;
-      &lt;li&gt;2 tablespoons pumpkin seeds&lt;/li&gt;
-      &lt;li&gt;1 tablespoon sesame seeds&lt;/li&gt;
-      &lt;li&gt;1 cup of rice (I used basmati)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Soak the bean curd sticks in boiling hot water for about half an hour.&lt;/li&gt;
-  &lt;li&gt;Soak the &lt;em&gt;hijiki&lt;/em&gt; in hot water for about half an hour.&lt;/li&gt;
-  &lt;li&gt;Prepare the rice (see &lt;a href=&quot;http://www.quickandtastycooking.org.uk/basics/#toc0&quot;&gt;The Basics&lt;/a&gt; for instructions to cook rice).&lt;/li&gt;
-  &lt;li&gt;Meanwhile:
-    &lt;ul&gt;
-      &lt;li&gt;Wash, scrape or peel the carrots and chop them (rather coarsely).&lt;/li&gt;
-      &lt;li&gt;Microwave for 3 minutes at full power (900W) (if you like, add a splash of &lt;em&gt;mirin&lt;/em&gt;).&lt;/li&gt;
-      &lt;li&gt;Wash and chop the courgettes.&lt;/li&gt;
-      &lt;li&gt;Add the courgettes to the carrots and microwave for another 3 minutes at full power (900W).&lt;/li&gt;
-      &lt;li&gt;Pour the cooking liquid into a bowl.&lt;/li&gt;
-      &lt;li&gt;Heat the oil in a deep pan and fry the ginger and seeds for a few minutes.&lt;/li&gt;
-      &lt;li&gt;Drain the bean curd and chop into sections of 2-3 cm long.&lt;/li&gt;
-      &lt;li&gt;Fry the bean curd on medium to high heat for a few minutes.&lt;/li&gt;
-      &lt;li&gt;Add the vegetables and fry on medium to high heat for a few more minutes.&lt;/li&gt;
-      &lt;li&gt;Drain the &lt;em&gt;hijiki&lt;/em&gt; and add to the pan; fry for a few more minutes on low heat.&lt;/li&gt;
-      &lt;li&gt;Dissolve the &lt;em&gt;miso&lt;/em&gt; in the cooking liquid of the vegetables and add it to the pan.&lt;/li&gt;
-      &lt;li&gt;Turn off the heat and stir well until the liquid is absorbed.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Serve with the rice.&lt;/li&gt;
 &lt;/ul&gt;
 
         </content>
