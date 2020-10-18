@@ -1,5 +1,1 @@
-[Web](http://www.quickandtastycooking.org.uk/)
-
-[Facebook](https://www.facebook.com/quickandtasyfood/)
-
-[Twitter](https://twitter.com/fuss_free_food)
+A blog about cooking veggie food and learning Japanese
