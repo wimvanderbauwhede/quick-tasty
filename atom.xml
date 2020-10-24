@@ -3,31 +3,31 @@
 
     <title>Quick &amp; Tasty</title>
     <generator uri="https://github.com/jekyll/jekyll">Jekyll v4.0.0</generator>
-		<icon>https://www.quickandtastycooking.org.uk/apple-touch-icon-precomposed.png</icon>
+		<icon>https://quickandtastycooking.org.uk/apple-touch-icon-precomposed.png</icon>
     <subtitle>Quick and Tasty</subtitle>
-    <link href="https://www.quickandtastycooking.org.uk/atom.xml" rel="self"/>
-    <link href="https://www.quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2020-10-24T15:22:48+01:00</updated>
-    <id>https://www.quickandtastycooking.org.uk/</id>
+    <link href="https://quickandtastycooking.org.uk/atom.xml" rel="self"/>
+    <link href="https://quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
+    <updated>2020-10-24T15:52:25+01:00</updated>
+    <id>https://quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
-			<uri>https://www.quickandtastycooking.org.uk/</uri>
+			<uri>https://quickandtastycooking.org.uk/</uri>
 			
 		</author>
 
     
     <entry>
         <title>The four wisdoms</title>
-        <link href="https://www.quickandtastycooking.org.uk/articles/four-wisdoms/"/>
+        <link href="https://quickandtastycooking.org.uk/articles/four-wisdoms/"/>
         <updated>2020-10-22T00:00:00+01:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/articles/four-wisdoms</id>
+        <id>https://quickandtastycooking.org.uk/articles/four-wisdoms</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/four-wisdoms_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/four-wisdoms_1600x600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;A friend asked me about if I knew a Japanese Buddhist prayer suitable for a funeral. I knew that at funerals and memorial services, the monks chant Buddhist text in &lt;em&gt;bongo&lt;/em&gt; (梵語), a Japanese transliteration of Sanskrit. The practice is known as &lt;em&gt;shōmyō&lt;/em&gt; (声明) and a text that is often chanted is called &lt;em&gt;shichi&lt;/em&gt; (四智), “the Four Wisdoms”, or &lt;em&gt;shichibongo&lt;/em&gt; (四智梵語) in full.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-four-wisdoms-text-in-japanese&quot;&gt;The Four Wisdoms text in Japanese&lt;/h2&gt;
@@ -35,7 +35,7 @@
 &lt;p&gt;Traditionally, &lt;em&gt;shōmyō&lt;/em&gt; texts are written using specific and quite unusual Chinese characters, but they are used purely for their phonetic value, not for their meaning. Here is the text in full, from the site of the &lt;a href=&quot;http://www.buzan.or.jp/index-1-1.html&quot;&gt;Buzan sect&lt;/a&gt; of &lt;a href=&quot;http://www.philtar.ac.uk/encyclopedia/easia/shingon.html&quot;&gt;Shingon Buddhism&lt;/a&gt;. It also has a recording of the chanting.&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/shingon_kongoukai.png&quot; alt=&quot;Chinese characters written left-to-right, top-to-bottom, columns of irregular length&quot; title=&quot;Chinese characters written left-to-right, top-to-bottom, columns of irregular length&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/shingon_kongoukai.png&quot; alt=&quot;Chinese characters written left-to-right, top-to-bottom, columns of irregular length&quot; title=&quot;Chinese characters written left-to-right, top-to-bottom, columns of irregular length&quot; /&gt;
 &lt;figcaption&gt;The Four Wisdoms in kanji and hiragana, from the site of the Buzan sect&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -107,7 +107,7 @@
 &lt;p&gt;In Shingon Buddhism, there is a group of deities, known as the Vajra Bodhisattva. The “Four Wisdoms” refers to the four Vajra Bodhisattva that surround &lt;a href=&quot;http://www.shingon.org/teachings/ShingonMikkyo/Dainichi.html&quot;&gt;Dainichi Nyorai&lt;/a&gt; in the &lt;a href=&quot;https://www.onmarkproductions.com/html/mandala-guidebook.html&quot;&gt;Shiin-e (四印会) section&lt;/a&gt; of the Kongōkai Mandala.&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/Kongokai-shiin-e.jpg&quot; alt=&quot;Detail of the Kongōkai Mandala showing five seated Buddha-like figures arranges in a cross, within a circle&quot; title=&quot;Detail of the Kongōkai Mandala showing five seated Buddha-like figures arranges in a cross, within a circle&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/Kongokai-shiin-e.jpg&quot; alt=&quot;Detail of the Kongōkai Mandala showing five seated Buddha-like figures arranges in a cross, within a circle&quot; title=&quot;Detail of the Kongōkai Mandala showing five seated Buddha-like figures arranges in a cross, within a circle&quot; /&gt;
 &lt;figcaption&gt;Shiin-e (四印会) and ichiin-e (一印会) sections of the Kongōkai Mandala, Heian period, 9th century (Tōji Temple, Kyōto, National Treasure) (https://commons.wikimedia.org/wiki/File:Kongokai.jpg)&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -129,7 +129,7 @@
 &lt;p&gt;“The Four Wisdoms represents the wisdom of the four Wisdom Buddhas, and by making offerings to each other, the Four Wisdoms represent the entire mandala of Vajrayana, with Dainichi Nyorai in the center.”&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/902px-Kongokai.jpg&quot; alt=&quot;The Kongōkai Mandala, consisting of nine panels, three by three. Eight of them are  showing five seated Buddha-like figures arranges in a cross, within a circle. The middle panel in the top row shows a single larger seated Buddha-like figure.&quot; title=&quot;The Kongōkai Mandala, consisting of nine panels, three by three. Eight of them are  showing five seated Buddha-like figures arranges in a cross, within a circle. The middle panel in the top row shows a single larger seated Buddha-like figure.&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/902px-Kongokai.jpg&quot; alt=&quot;The Kongōkai Mandala, consisting of nine panels, three by three. Eight of them are  showing five seated Buddha-like figures arranges in a cross, within a circle. The middle panel in the top row shows a single larger seated Buddha-like figure.&quot; title=&quot;The Kongōkai Mandala, consisting of nine panels, three by three. Eight of them are  showing five seated Buddha-like figures arranges in a cross, within a circle. The middle panel in the top row shows a single larger seated Buddha-like figure.&quot; /&gt;
 &lt;figcaption&gt;Kongōkai Mandala, Heian period, 9th century (Tōji Temple, Kyōto, National Treasure) (https://commons.wikimedia.org/wiki/File:Kongokai.jpg)&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -139,16 +139,16 @@
     
     <entry>
         <title>Frozen yoghurt with dates</title>
-        <link href="https://www.quickandtastycooking.org.uk/recipes/frozen-yoghurt/"/>
+        <link href="https://quickandtastycooking.org.uk/recipes/frozen-yoghurt/"/>
         <updated>2020-07-14T00:00:00+01:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/recipes/frozen-yoghurt</id>
+        <id>https://quickandtastycooking.org.uk/recipes/frozen-yoghurt</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/frozen-yoghurt_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/frozen-yoghurt_1600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;This is a simple and low-tech recipe for frozen yoghurt with just two ingredients. It uses dates as a natural source of sugar. The amounts are for two portions.&lt;/p&gt;
 
 &lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
@@ -175,19 +175,19 @@
     
     <entry>
         <title>About reading Murakami as a way to learn Japanese</title>
-        <link href="https://www.quickandtastycooking.org.uk/articles/learning-japanese-reading-murakami/"/>
+        <link href="https://quickandtastycooking.org.uk/articles/learning-japanese-reading-murakami/"/>
         <updated>2020-07-07T00:00:00+01:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/articles/learning-japanese-reading-murakami</id>
+        <id>https://quickandtastycooking.org.uk/articles/learning-japanese-reading-murakami</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/learning-japanese-reading-murakami_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;As mentioned in my previous posts (&lt;a href=&quot;https://www.quickandtastycooking.org.uk/articles/reading-murakami/&quot;&gt;Reading Murakami in Japanese&lt;/a&gt;,
-   &lt;a href=&quot;https://www.quickandtastycooking.org.uk/articles/more-on-learning-japanese/&quot;&gt;Some tips for reading Japanese as a learner&lt;/a&gt;,
-   &lt;a href=&quot;https://www.quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;My journey of learning Japanese&lt;/a&gt;), I started reading Murakami Haruki’s “1Q84” in Japanese in October 2014. The paperback version consists of 6 volumes (2 for each Book), 2,057 pages in total. At the end of June 2020, I finally finished the book.&lt;/p&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/learning-japanese-reading-murakami_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;As mentioned in my previous posts (&lt;a href=&quot;https://quickandtastycooking.org.uk/articles/reading-murakami/&quot;&gt;Reading Murakami in Japanese&lt;/a&gt;,
+   &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/more-on-learning-japanese/&quot;&gt;Some tips for reading Japanese as a learner&lt;/a&gt;,
+   &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;My journey of learning Japanese&lt;/a&gt;), I started reading Murakami Haruki’s “1Q84” in Japanese in October 2014. The paperback version consists of 6 volumes (2 for each Book), 2,057 pages in total. At the end of June 2020, I finally finished the book.&lt;/p&gt;
 
 &lt;p&gt;I had started learning Japanese in early 2011 in preparation for a research trip. Unfortunately because of the tsunami and the nuclear disaster the trip didn’t go ahead. But I did go to Japan for two months in the summer of 2012 and again in the summer of 2014. So I had been learning Japanese for about four years and had four months of a more or less immersive experience before I started on the book.&lt;/p&gt;
 
@@ -201,7 +201,7 @@ I found that reading with a dictionary and looking up the readings and meanings 
 
 &lt;p&gt;On the other hand, I also learned I still have so much to learn. I still don’t know all readings for the Jouyou kanji, and keep forgetting the meanings. I still struggle with conversation (although that may partly be as a result of my tendency of overcomplicating things and wanting to be too precise) and with handwriting. I started handwriting practice in 2018. It requires a better understanding of the structure of the kanji, but it is fun and my recall is improving. I still have a long way to go before I’ll be able to write all Jouyou kanji.&lt;/p&gt;
 
-&lt;p&gt;I have written down some of my observations before: &lt;a href=&quot;https://www.quickandtastycooking.org.uk/articles/reading-murakami/&quot;&gt;Reading Murakami in Japanese&lt;/a&gt;, &lt;a href=&quot;https://www.quickandtastycooking.org.uk/articles/more-on-learning-japanese/&quot;&gt;Some tips for reading Japanese as a learner&lt;/a&gt;, &lt;a href=&quot;https://www.quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;My journey of learning Japanese&lt;/a&gt;. One specific thing I started noticing only when reading the last two volumes of 1Q84 is that, when I see a word and I think I can’t pronounce it, often it turns out I can after all, if I just make a little more effort, a kind of mental jump into the unknown. There is a wonderful Japanese expression for this:&lt;/p&gt;
+&lt;p&gt;I have written down some of my observations before: &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/reading-murakami/&quot;&gt;Reading Murakami in Japanese&lt;/a&gt;, &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/more-on-learning-japanese/&quot;&gt;Some tips for reading Japanese as a learner&lt;/a&gt;, &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;My journey of learning Japanese&lt;/a&gt;. One specific thing I started noticing only when reading the last two volumes of 1Q84 is that, when I see a word and I think I can’t pronounce it, often it turns out I can after all, if I just make a little more effort, a kind of mental jump into the unknown. There is a wonderful Japanese expression for this:&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Kiyomizu no butai kara tobioriru&lt;/em&gt;&lt;/p&gt;
 
@@ -215,7 +215,7 @@ I found that reading with a dictionary and looking up the readings and meanings 
 
 &lt;h3 id=&quot;coda-the-novel-itself&quot;&gt;Coda: the novel itself&lt;/h3&gt;
 
-&lt;p&gt;You may wonder: having spent nearly six years reading it, do I think it is a good book? I do. It was certainly for the most part entertaining and interesting. I have written three posts about various remarkable points in the book (&lt;a href=&quot;https://www.quickandtastycooking.org.uk/articles/repetition-in-1Q84/&quot;&gt;Repetition in Murakami’s 1Q84&lt;/a&gt;, &lt;a href=&quot;https://www.quickandtastycooking.org.uk/articles/1Q84-kuukisanagi/&quot;&gt;Why the ‘Little People’ say ‘Ho ho’&lt;/a&gt;, and &lt;a href=&quot;https://www.quickandtastycooking.org.uk/articles/cold-or-not/&quot;&gt;Cold or not: a riddle in Murakami’s 1Q84&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;You may wonder: having spent nearly six years reading it, do I think it is a good book? I do. It was certainly for the most part entertaining and interesting. I have written three posts about various remarkable points in the book (&lt;a href=&quot;https://quickandtastycooking.org.uk/articles/repetition-in-1Q84/&quot;&gt;Repetition in Murakami’s 1Q84&lt;/a&gt;, &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/1Q84-kuukisanagi/&quot;&gt;Why the ‘Little People’ say ‘Ho ho’&lt;/a&gt;, and &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/cold-or-not/&quot;&gt;Cold or not: a riddle in Murakami’s 1Q84&lt;/a&gt;).&lt;/p&gt;
 
 &lt;p&gt;Are there aspects I don’t like? Yes. The ending leaves me wanting to know what happened to the other characters. Also, there is a bit too much repetition, which I think is a consequence of the book being published in three parts, and in every part Murakami (or his publisher) has felt it necessary to provide sufficient background on what happened before so that each part can be read on its own. There are some parts that I found a bit slow, because I was impatient to get back to the plot, but usually even these parts were actually quite interesting.&lt;/p&gt;
 
@@ -231,16 +231,16 @@ I found that reading with a dictionary and looking up the readings and meanings 
     
     <entry>
         <title>Brownies with dates and walnuts</title>
-        <link href="https://www.quickandtastycooking.org.uk/recipes/brownies/"/>
+        <link href="https://quickandtastycooking.org.uk/recipes/brownies/"/>
         <updated>2020-06-14T00:00:00+01:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/recipes/brownies</id>
+        <id>https://quickandtastycooking.org.uk/recipes/brownies</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/brownies_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/brownies_1600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;This is a simple and quick recipe for delicious brownies with very few ingredients. It uses dates as a natural source of sugar. The rich high-cocoa content chocolate makes butter unnecessary so they happen to be vegan. The amounts are for two brownies.&lt;/p&gt;
 
 &lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
@@ -273,17 +273,17 @@ I found that reading with a dictionary and looking up the readings and meanings 
     
     <entry>
         <title>Cold or not: a riddle in Murakami's 1Q84</title>
-        <link href="https://www.quickandtastycooking.org.uk/articles/cold-or-not/"/>
+        <link href="https://quickandtastycooking.org.uk/articles/cold-or-not/"/>
         <updated>2020-06-05T00:00:00+01:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/articles/cold-or-not</id>
+        <id>https://quickandtastycooking.org.uk/articles/cold-or-not</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/cold-or-not_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;As &lt;a href=&quot;https://www.quickandtastycooking.org.uk/articles/reading-murakami&quot;&gt;mentioned before&lt;/a&gt;, I have been slowly reading Haruki Murakami’s novel 1Q84 in Japanese. Like &lt;a href=&quot;https://www.nytimes.com/2011/10/23/magazine/the-fierce-imagination-of-haruki-murakami.html&quot;&gt;all his novels&lt;/a&gt;, this novel is many things. For this article I want to view it as a reflection on morality. Almost all of the characters have to make complex moral choices based on incomplete or incorrect information. One such character is Tamaru, a bodyguard and security expert in the service of a rich old widow who has embarked on a personal crusade against domestic violence. He is at the same time a very cultured person and a consummate professional.&lt;/p&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/cold-or-not_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;As &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/reading-murakami&quot;&gt;mentioned before&lt;/a&gt;, I have been slowly reading Haruki Murakami’s novel 1Q84 in Japanese. Like &lt;a href=&quot;https://www.nytimes.com/2011/10/23/magazine/the-fierce-imagination-of-haruki-murakami.html&quot;&gt;all his novels&lt;/a&gt;, this novel is many things. For this article I want to view it as a reflection on morality. Almost all of the characters have to make complex moral choices based on incomplete or incorrect information. One such character is Tamaru, a bodyguard and security expert in the service of a rich old widow who has embarked on a personal crusade against domestic violence. He is at the same time a very cultured person and a consummate professional.&lt;/p&gt;
 
 &lt;p&gt;But this article is really about a something that puzzled me.&lt;/p&gt;
 
@@ -344,16 +344,16 @@ At first sight, the cold/called theory may seem to be corroborated because Tamar
     
     <entry>
         <title>White bread with raisins and walnuts</title>
-        <link href="https://www.quickandtastycooking.org.uk/recipes/white-bread/"/>
+        <link href="https://quickandtastycooking.org.uk/recipes/white-bread/"/>
         <updated>2020-04-26T00:00:00+01:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/recipes/white-bread</id>
+        <id>https://quickandtastycooking.org.uk/recipes/white-bread</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/white-bread_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/white-bread_1600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;Making bread is very easy if you take some care. You only need yeast, flour, water and salt. The whole process takes about four hours, but the total amount of active work is only half an hour.&lt;/p&gt;
 
 &lt;p&gt;Apart from an oven, you will need the following items:&lt;/p&gt;
@@ -412,16 +412,16 @@ With the extra water the dough rises a lot better, so the result is a more open 
     
     <entry>
         <title>Sourdough starter</title>
-        <link href="https://www.quickandtastycooking.org.uk/recipes/sourdough-starter/"/>
+        <link href="https://quickandtastycooking.org.uk/recipes/sourdough-starter/"/>
         <updated>2020-04-26T00:00:00+01:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/recipes/sourdough-starter</id>
+        <id>https://quickandtastycooking.org.uk/recipes/sourdough-starter</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/sourdough-starter_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/sourdough-starter_1600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;Making &lt;a href=&quot;https://en.wikipedia.org/wiki/Sourdough&quot;&gt;sourdough&lt;/a&gt; bread is very easy if you take some care. The videos and blog from &lt;a href=&quot;https://www.bakewithjack.co.uk/videos/2019/6/6/bread-tip-101-beginners-sourdough-loaf-start-to-finish&quot;&gt;Bake with Jack&lt;/a&gt; helped me a lot.  In particular, I use his method for making the &lt;em&gt;sourdough starter&lt;/em&gt;, with only a minor tweak.&lt;/p&gt;
 
 &lt;h4 id=&quot;making-the-starter&quot;&gt;Making the starter&lt;/h4&gt;
@@ -450,16 +450,16 @@ With the extra water the dough rises a lot better, so the result is a more open 
     
     <entry>
         <title>Sourdough bread</title>
-        <link href="https://www.quickandtastycooking.org.uk/recipes/sourdough-bread/"/>
+        <link href="https://quickandtastycooking.org.uk/recipes/sourdough-bread/"/>
         <updated>2020-04-26T00:00:00+01:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/recipes/sourdough-bread</id>
+        <id>https://quickandtastycooking.org.uk/recipes/sourdough-bread</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/sourdough-bread_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/sourdough-bread_1600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;Making &lt;a href=&quot;https://en.wikipedia.org/wiki/Sourdough&quot;&gt;sourdough&lt;/a&gt; bread is very easy if you take some care.  You only need flour, water and salt. The whole process takes about five hours, but the total amount of active work is only half an hour. The videos and blog from &lt;a href=&quot;https://www.bakewithjack.co.uk/videos/2019/6/6/bread-tip-101-beginners-sourdough-loaf-start-to-finish&quot;&gt;Bake with Jack&lt;/a&gt; helped me a lot.&lt;/p&gt;
 
 &lt;p&gt;Apart from an oven, you will need the following items:&lt;/p&gt;
@@ -474,7 +474,7 @@ With the extra water the dough rises a lot better, so the result is a more open 
   &lt;li&gt;Optional: a thermometer to make sure your water is at the right temperature. Not essential, but handy.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The difference between sourdough bread and ordinary bread is that you use a &lt;em&gt;sourdough starter&lt;/em&gt; instead of baking yeast. The great thing about a sourdough starter is that you can very easily make it yourself, from just flour and water. Have a look at  &lt;a href=&quot;https://www.quickandtastycooking.org.uk/recipes/sourdough-starter/&quot;&gt;my recipe&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The difference between sourdough bread and ordinary bread is that you use a &lt;em&gt;sourdough starter&lt;/em&gt; instead of baking yeast. The great thing about a sourdough starter is that you can very easily make it yourself, from just flour and water. Have a look at  &lt;a href=&quot;https://quickandtastycooking.org.uk/recipes/sourdough-starter/&quot;&gt;my recipe&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
 
@@ -512,7 +512,7 @@ With the extra water the dough rises a lot better, so the result is a more open 
 &lt;p&gt;I usually bake in the evening, and wrap the loaf in a towel overnight to keep the crust from drying out too much.&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/sourdough-bread-slices.jpg&quot; alt=&quot;A few slices of sourdough bread&quot; title=&quot;A few slices of sourdough bread&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/sourdough-bread-slices.jpg&quot; alt=&quot;A few slices of sourdough bread&quot; title=&quot;A few slices of sourdough bread&quot; /&gt;
 &lt;figcaption&gt;Doesn't it look delicious?&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -521,20 +521,20 @@ With the extra water the dough rises a lot better, so the result is a more open 
     
     <entry>
         <title>The Winds of Kyoto</title>
-        <link href="https://www.quickandtastycooking.org.uk/articles/the-winds-of-kyoto/"/>
+        <link href="https://quickandtastycooking.org.uk/articles/the-winds-of-kyoto/"/>
         <updated>2020-03-28T00:00:00+00:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/articles/the-winds-of-kyoto</id>
+        <id>https://quickandtastycooking.org.uk/articles/the-winds-of-kyoto</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/the-winds-of-kyoto_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/the-winds-of-kyoto_1600x600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;I wrote a very short story for the &lt;a href=&quot;https://www.writersinkyoto.com/2019/12/writers-in-kyoto-present-the-fifth-annual-kyoto-writing-competition/&quot;&gt;Fifth Annual Kyoto Writing Competition&lt;/a&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/kyoto-gis.jpg&quot; alt=&quot;Kyoto building heights heat map&quot; title=&quot;Kyoto building heights heat map&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/kyoto-gis.jpg&quot; alt=&quot;Kyoto building heights heat map&quot; title=&quot;Kyoto building heights heat map&quot; /&gt;
 &lt;figcaption&gt;Height of buildings in Kyoto,  from a paper [1] by  DPRI researchers&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -551,7 +551,7 @@ With the extra water the dough rises a lot better, so the result is a more open 
 &lt;p&gt;When the storm has passed, the sky is a transparent clear and blue. The wind of Kyoto is once again cool and mild, blowing gently over the city.&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/les-reynolds-stress.png&quot; alt=&quot;Reynolds stress of wind flow over Kyoto, at 4 different heights&quot; title=&quot;Reynolds stress of wind flow over Kyoto, at 4 different heights&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/les-reynolds-stress.png&quot; alt=&quot;Reynolds stress of wind flow over Kyoto, at 4 different heights&quot; title=&quot;Reynolds stress of wind flow over Kyoto, at 4 different heights&quot; /&gt;
 &lt;figcaption&gt;Result of wind flow simulation over Kyoto,  from a paper [1] by  DPRI researchers&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -562,16 +562,16 @@ With the extra water the dough rises a lot better, so the result is a more open 
     
     <entry>
         <title>On puppets and being human</title>
-        <link href="https://www.quickandtastycooking.org.uk/articles/ghost-in-the-shell-puppets/"/>
+        <link href="https://quickandtastycooking.org.uk/articles/ghost-in-the-shell-puppets/"/>
         <updated>2020-02-21T00:00:00+00:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/articles/ghost-in-the-shell-puppets</id>
+        <id>https://quickandtastycooking.org.uk/articles/ghost-in-the-shell-puppets</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/ghost-in-the-shell-puppets_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/ghost-in-the-shell-puppets_1600x600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;Ghost in the Shell is a series of Japanese animated movies (&lt;em&gt;anime&lt;/em&gt;,アニメ) featuring cyborgs (“cybernetic organism”, in this case a  human with both organic and robotic body parts). I was struck by the frequent references to puppets in several of the movies, and I want to explore the symbolism behind this.
 I will look in particular at the movies “Ghost in the Shell”, “Innocence” and “Solid State Society”, because in these movies the references are most clear. Familiarity with the movies is not required.&lt;/p&gt;
 
@@ -693,7 +693,7 @@ Motoko Kusanagi hacks one of them and downloads her ghost into it, and fights on
 &lt;p&gt;And as if not to leave any doubt about the importance of the puppets in the movie, the final scene ends with a close-up of a doll held by Togusa’s daughter.&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/doll.png&quot; alt=&quot;Close-up of a child's doll with blond hair, blue eyes and a red hat&quot; title=&quot;Close-up of a child's doll with blond hair, blue eyes and a red hat&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/doll.png&quot; alt=&quot;Close-up of a child's doll with blond hair, blue eyes and a red hat&quot; title=&quot;Close-up of a child's doll with blond hair, blue eyes and a red hat&quot; /&gt;
 &lt;figcaption&gt;Final shot of &quot;Innionce&quot;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -716,32 +716,32 @@ Motoko Kusanagi hacks one of them and downloads her ghost into it, and fights on
 &lt;p&gt;The first occurrence of the poem is after the parade scene:&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/first-occurrence.png&quot; alt=&quot;A brick wall in tints of grey. On it, or maybe in front of it, a large stone frame with a stylised decoration, a kind of frieze reminiscent of ironmongery. This surrounds an area of about 1m x 1m on which is displayed a grid of 4x4 handwritten Chinese characters, in black ink or paint.&quot; title=&quot;A brick wall in tints of grey. On it, or maybe in front of it, a large stone frame with a stylised decoration, a kind of frieze reminiscent of ironmongery. This surrounds an area of about 1m x 1m on which is displayed a grid of 4x4 handwritten Chinese characters, in black ink or paint.&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/first-occurrence.png&quot; alt=&quot;A brick wall in tints of grey. On it, or maybe in front of it, a large stone frame with a stylised decoration, a kind of frieze reminiscent of ironmongery. This surrounds an area of about 1m x 1m on which is displayed a grid of 4x4 handwritten Chinese characters, in black ink or paint.&quot; title=&quot;A brick wall in tints of grey. On it, or maybe in front of it, a large stone frame with a stylised decoration, a kind of frieze reminiscent of ironmongery. This surrounds an area of about 1m x 1m on which is displayed a grid of 4x4 handwritten Chinese characters, in black ink or paint.&quot; /&gt;
 &lt;figcaption&gt;First occurrence of the puppet poem, on a wall in the city.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;It also appears on the wall of Kim’s study:&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/study-1.png&quot; alt=&quot;A study, executed mostly in dark purple tones. On the right a bookshelf; on the far wall a large 4x4 grid of Chinese characters written in an ancient mode. To the right at the back of the room, a person in a suit is bending over to receive a cup of tea from a small, doll-like figure in a kimono.&quot; title=&quot;A study, executed mostly in dark purple tones. On the right a bookshelf; on the far wall a large 4x4 grid of Chinese characters written in an ancient mode. To the right at the back of the room, a person in a suit is bending over to receive a cup of tea from a small, doll-like figure in a kimono.&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/study-1.png&quot; alt=&quot;A study, executed mostly in dark purple tones. On the right a bookshelf; on the far wall a large 4x4 grid of Chinese characters written in an ancient mode. To the right at the back of the room, a person in a suit is bending over to receive a cup of tea from a small, doll-like figure in a kimono.&quot; title=&quot;A study, executed mostly in dark purple tones. On the right a bookshelf; on the far wall a large 4x4 grid of Chinese characters written in an ancient mode. To the right at the back of the room, a person in a suit is bending over to receive a cup of tea from a small, doll-like figure in a kimono.&quot; /&gt;
 
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/study-2.png&quot; alt=&quot;The same space, a similar angle. The person in the suit is now closer, centre-screen, carrying a white china tea cup.&quot; title=&quot;The same space, a similar angle. The person in the suit is now closer, centre-screen, carrying a white china tea cup.&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/study-2.png&quot; alt=&quot;The same space, a similar angle. The person in the suit is now closer, centre-screen, carrying a white china tea cup.&quot; title=&quot;The same space, a similar angle. The person in the suit is now closer, centre-screen, carrying a white china tea cup.&quot; /&gt;
 &lt;figcaption&gt;Togusa in Kim's study, poem behind him&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;After Togusa narrowly escapes an attack on his cyberbrain :&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/attack-1.png&quot; alt=&quot;A person seated in an office chair, seen from the back, with some kind of VR headset on. In front of him an explosion, he is being thrown back by the force.&quot; title=&quot;A person seated in an office chair, seen from the back, with some kind of VR headset on. In front of him an explosion, he is being thrown back by the force.&quot; /&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/attack-2.png&quot; alt=&quot;A person in a suit, with a kind of VR headset on his forehead so you can see his face. He is sitting on the floor, and in the air in front of him columns of Chinese characters appear.&quot; title=&quot;A person in a suit, with a kind of VR headset on his forehead so you can see his face. He is sitting on the floor, and in the air in front of him columns of Chinese characters appear.&quot; /&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/attack-3.png&quot; alt=&quot;Chinese characters in a 4x4 grid, seemingly written in pure light hanging in the air. The grid is repeated 6 times in different sized and at different angles.&quot; title=&quot;Chinese characters in a 4x4 grid, seemingly written in pure light hanging in the air. The grid is repeated 6 times in different sized and at different angles.&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/attack-1.png&quot; alt=&quot;A person seated in an office chair, seen from the back, with some kind of VR headset on. In front of him an explosion, he is being thrown back by the force.&quot; title=&quot;A person seated in an office chair, seen from the back, with some kind of VR headset on. In front of him an explosion, he is being thrown back by the force.&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/attack-2.png&quot; alt=&quot;A person in a suit, with a kind of VR headset on his forehead so you can see his face. He is sitting on the floor, and in the air in front of him columns of Chinese characters appear.&quot; title=&quot;A person in a suit, with a kind of VR headset on his forehead so you can see his face. He is sitting on the floor, and in the air in front of him columns of Chinese characters appear.&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/attack-3.png&quot; alt=&quot;Chinese characters in a 4x4 grid, seemingly written in pure light hanging in the air. The grid is repeated 6 times in different sized and at different angles.&quot; title=&quot;Chinese characters in a 4x4 grid, seemingly written in pure light hanging in the air. The grid is repeated 6 times in different sized and at different angles.&quot; /&gt;
 &lt;figcaption&gt;Poem appearing when an attack fries Kim's cyberbrain&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;When Batō and the Major manage to take control of the factory ship:&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/factory-ship.png&quot; title=&quot;A grid of 4x4 Chinese characters in blood red paint, probably about 1m x 1m.  They appear on a heavy door, about 2m high and 3m wide, which seems to have been originally painted with diagonal yellow and black warning stripes, then overpainted with a grey rectangle on which are on the left the faded letters R11 and on the right a black square with a white border and some smaller white squares and rectangles inside it. There is also what looks like a kind of pasted notice, pale orange paper with black Chinese characters, about 30cm wide and 60cm high. The red Chinese characters are painted by hand on top of all that. The right side of the scene is illuminated, the left side is in shadows.&quot; alt=&quot;A grid of 4x4 Chinese characters in blood red paint, probably about 1m x 1m.  They appear on a heavy door, about 2m high and 3m wide, which seems to have been originally painted with diagonal yellow and black warning stripes, then overpainted with a grey rectangle on which are on the left the faded letters R11 and on the right a black square with a white border and some smaller white squares and rectangles inside it. There is also what looks like a kind of pasted notice, pale orange paper with black Chinese characters, about 30cm wide and 60cm high. The red Chinese characters are painted by hand on top of all that. The right side of the scene is illuminated, the left side is in shadows.&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/factory-ship.png&quot; title=&quot;A grid of 4x4 Chinese characters in blood red paint, probably about 1m x 1m.  They appear on a heavy door, about 2m high and 3m wide, which seems to have been originally painted with diagonal yellow and black warning stripes, then overpainted with a grey rectangle on which are on the left the faded letters R11 and on the right a black square with a white border and some smaller white squares and rectangles inside it. There is also what looks like a kind of pasted notice, pale orange paper with black Chinese characters, about 30cm wide and 60cm high. The red Chinese characters are painted by hand on top of all that. The right side of the scene is illuminated, the left side is in shadows.&quot; alt=&quot;A grid of 4x4 Chinese characters in blood red paint, probably about 1m x 1m.  They appear on a heavy door, about 2m high and 3m wide, which seems to have been originally painted with diagonal yellow and black warning stripes, then overpainted with a grey rectangle on which are on the left the faded letters R11 and on the right a black square with a white border and some smaller white squares and rectangles inside it. There is also what looks like a kind of pasted notice, pale orange paper with black Chinese characters, about 30cm wide and 60cm high. The red Chinese characters are painted by hand on top of all that. The right side of the scene is illuminated, the left side is in shadows.&quot; /&gt;
 &lt;figcaption&gt;Final appearance of the poem, in the factory ship&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -757,17 +757,17 @@ Motoko Kusanagi hacks one of them and downloads her ghost into it, and fights on
     
     <entry>
         <title>Drawing the Naginata Hoko</title>
-        <link href="https://www.quickandtastycooking.org.uk/articles/naginata-hoko-kitsune/"/>
+        <link href="https://quickandtastycooking.org.uk/articles/naginata-hoko-kitsune/"/>
         <updated>2020-02-15T00:00:00+00:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/articles/naginata-hoko-kitsune</id>
+        <id>https://quickandtastycooking.org.uk/articles/naginata-hoko-kitsune</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/naginata-hoko-kitsune_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;I have &lt;a href=&quot;https://www.quickandtastycooking.org.uk/articles/ran-ryou-ou/&quot;&gt;written earlier&lt;/a&gt; about a drawing I made of a dancer at the Gion Matsuri in Kyoto. I made another drawing, this time based on a pictures I took of musicians on a festival float. I’d like to share the background to and the making of the drawing.&lt;/p&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/naginata-hoko-kitsune_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;I have &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/ran-ryou-ou/&quot;&gt;written earlier&lt;/a&gt; about a drawing I made of a dancer at the Gion Matsuri in Kyoto. I made another drawing, this time based on a pictures I took of musicians on a festival float. I’d like to share the background to and the making of the drawing.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-gion-matsuri&quot;&gt;The Gion Matsuri&lt;/h2&gt;
 
@@ -829,12 +829,12 @@ The could have been brought to Japan by the Portuguese on request of the Jesuits
 &lt;h2 id=&quot;the-drawing&quot;&gt;The drawing&lt;/h2&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-fin-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-fin-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
 &lt;!-- add a caption --&gt;
 &lt;figcaption&gt;The finished drawing&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Just like the &lt;a href=&quot;https://www.quickandtastycooking.org.uk/articles/ran-ryou-ou/&quot;&gt;Ranryōō dancer drawing&lt;/a&gt;, I wanted a drawing with bright colours and a lot of detail, and the float has really abundant detail and colour. It is quite amazing how every part of the surface has some detailed decoration. I think I now appreciate the float a lot more because to draw it I had to study every little detail in the picture. I also like to have human figures in my drawings. I think the fox masks make the scene more interesting than the original picture.&lt;/p&gt;
+&lt;p&gt;Just like the &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/ran-ryou-ou/&quot;&gt;Ranryōō dancer drawing&lt;/a&gt;, I wanted a drawing with bright colours and a lot of detail, and the float has really abundant detail and colour. It is quite amazing how every part of the surface has some detailed decoration. I think I now appreciate the float a lot more because to draw it I had to study every little detail in the picture. I also like to have human figures in my drawings. I think the fox masks make the scene more interesting than the original picture.&lt;/p&gt;
 
 &lt;p&gt;The paper for this drawing is Fabriano Artistico 56cm x 76cm 300g/m2 “rough” watercolour paper. It’s a really nice paper with a very pronounced grain. As usual I did not tape it on a board but it only buckled a little.&lt;/p&gt;
 
@@ -843,33 +843,33 @@ The could have been brought to Japan by the Portuguese on request of the Jesuits
 &lt;p&gt;As usual I started the drawing with a ghost drawing in pencil. Because of the size of the drawing, I used a grid to make sure the figure was positioned correctly. The focus of detail is on the characters and in particular the masks, the further away from these the more sketchy and impressionistic I treated the drawing.&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-pencil-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-pencil-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
 &lt;figcaption&gt;Pencil ghost drawing&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-pencil-detail-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-pencil-detail-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
 &lt;figcaption&gt;Pencil ghost drawing detail, start of colouring&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Then I added detail and colour with the watercolour pencils. The float has a lot of gold and silver on the hangings, and these are very difficult to render in colour pencil. The level of details is such that to really reproduce it would require very smooth paper and very fine brushes. I picked the coarse paper on purpose and the pencils are not particularly sharp. This forces me to abstract a lot of the detail.&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-colour-pencil-detail-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-colour-pencil-detail-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
 &lt;figcaption&gt;First layer of detail and colour&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Next I did some separate sketches for the non-musician characters, because they are to my mind very important in this drawing.&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-sep-detail-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-sep-detail-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
 &lt;figcaption&gt;Separate drawing of non-musician characters&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;I left the characters until the end and washed the watercolours starting from the bottom.&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-almost-finished-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/gion-matsuri-float-musicians-almost-finished-1280px.jpg&quot; alt=&quot;the drawing&quot; /&gt;
 &lt;figcaption&gt;Partially washed drawing&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -903,12 +903,12 @@ _nomi_, written in the text in katakana, has the wonderfully complex _kanji_ 鑿
     
     <entry>
         <title>Kale Potatoes Tofu Skins</title>
-        <link href="https://www.quickandtastycooking.org.uk/kale-potatoes-tofu-skins/"/>
+        <link href="https://quickandtastycooking.org.uk/kale-potatoes-tofu-skins/"/>
         <updated>2020-01-25T00:00:00+00:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/kale-potatoes-tofu-skins</id>
+        <id>https://quickandtastycooking.org.uk/kale-potatoes-tofu-skins</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
@@ -948,22 +948,22 @@ Add the tomato puree, tobanjan and soy sauce to the cooking liquid of the potato
     
     <entry>
         <title>Okra with tomatoes and tofu sticks</title>
-        <link href="https://www.quickandtastycooking.org.uk/recipes/okra-tomatoes-tofu-sticks/"/>
+        <link href="https://quickandtastycooking.org.uk/recipes/okra-tomatoes-tofu-sticks/"/>
         <updated>2019-12-14T00:00:00+00:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/recipes/okra-tomatoes-tofu-sticks</id>
+        <id>https://quickandtastycooking.org.uk/recipes/okra-tomatoes-tofu-sticks</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/okra-tomatoes-tofu-sticks_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/okra-tomatoes-tofu-sticks_1600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;This recipe is inspired by &lt;a href=&quot;https://www.kawalingpinoy.com/curried-okra-with-tomatoes/&quot;&gt;Curried okra with tomatoes&lt;/a&gt; from the &lt;a href=&quot;https://www.kawalingpinoy.com&quot;&gt;Kawaling Pinoy&lt;/a&gt; Filipino recipe site.
 I added &lt;a href=&quot;https://shop.waiyeehong.com/food-ingredients/dried-products/dried-beancurd-seaweed/dried-beancurd-sticks-tofu-bamboo-2?language=tw&quot;&gt;tofu (bean curd) sticks&lt;/a&gt; and used more tomatoes; also the spices are a bit different.&lt;/p&gt;
 
 &lt;p&gt;It takes a bit longer because I used Japanese short-grained brown rice (&lt;a href=&quot;https://www.japancentre.com/en/products/3274-yumenishiki-brown-rice&quot;&gt;Yumenishiki Brown Rice&lt;/a&gt;, grown in Italy) and that takes longer to cook than white rice. The actual preparation time is about 20 minutes.&lt;/p&gt;
 
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;https://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;https://www.quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;https://www.quickandtastycooking.org.uk/tags/#45-minutes&quot;&gt;&lt;em&gt;45-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;575 kcal per person&lt;/em&gt;  &lt;a href=&quot;https://www.quickandtastycooking.org.uk/tags/#400-600kcals&quot;&gt;&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/battery_lvl_2.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;https://quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;https://quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;https://quickandtastycooking.org.uk/tags/#45-minutes&quot;&gt;&lt;em&gt;45-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;575 kcal per person&lt;/em&gt;  &lt;a href=&quot;https://quickandtastycooking.org.uk/tags/#400-600kcals&quot;&gt;&lt;img src=&quot;https://quickandtastycooking.org.uk/images/battery_lvl_2.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
 
@@ -1018,19 +1018,19 @@ I added &lt;a href=&quot;https://shop.waiyeehong.com/food-ingredients/dried-prod
     
     <entry>
         <title>Greek-style green beans in tomato sauce with feta and rice</title>
-        <link href="https://www.quickandtastycooking.org.uk/recipes/fasolakia-ladera/"/>
+        <link href="https://quickandtastycooking.org.uk/recipes/fasolakia-ladera/"/>
         <updated>2019-11-02T00:00:00+00:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/recipes/fasolakia-ladera</id>
+        <id>https://quickandtastycooking.org.uk/recipes/fasolakia-ladera</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/fasolakia-ladera_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/fasolakia-ladera_1600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;In October I went on a research retreat in Greece. The food was delicious. Celeste from Artisa, who runs the retreat, is an excellent cook and by popular demand she &lt;a href=&quot;https://artisagreece.org/artisa-food-cookbook-with-delicious-vegetarian-meals/&quot;&gt;published a cookbook&lt;/a&gt;. This recipe is my adaptation of Celeste’s recipe for “Fasolakia ladera” (Φασολάκια λαδερά), green beans in tomato sauce.&lt;/p&gt;
 
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;https://www.quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;https://www.quickandtastycooking.org.uk/tags/#45-minutes&quot;&gt;&lt;em&gt;45-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;750 kcal per person&lt;/em&gt;  &lt;a href=&quot;https://www.quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;https://quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;https://quickandtastycooking.org.uk/tags/#45-minutes&quot;&gt;&lt;em&gt;45-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;750 kcal per person&lt;/em&gt;  &lt;a href=&quot;https://quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;https://quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
 
@@ -1087,16 +1087,16 @@ I added &lt;a href=&quot;https://shop.waiyeehong.com/food-ingredients/dried-prod
     
     <entry>
         <title>Ghost in the Shell and the Manyoshi</title>
-        <link href="https://www.quickandtastycooking.org.uk/articles/ghost-in-the-shell-manyoshi/"/>
+        <link href="https://quickandtastycooking.org.uk/articles/ghost-in-the-shell-manyoshi/"/>
         <updated>2019-10-26T00:00:00+01:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/articles/ghost-in-the-shell-manyoshi</id>
+        <id>https://quickandtastycooking.org.uk/articles/ghost-in-the-shell-manyoshi</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/ghost-in-the-shell-manyoshi_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/ghost-in-the-shell-manyoshi_1600x600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;The first “Ghost in the Shell” anime has &lt;a href=&quot;https://www.youtube.com/watch?v=ebkGo-nUPhk&quot;&gt;a very striking opening theme&lt;/a&gt;. It was expanded for the second movie, “Innocence”. I was in particular intrigued by &lt;a href=&quot;https://www.youtube.com/watch?v=WOEEfPpSAZ8&quot;&gt;the “Puppet Song”&lt;/a&gt; in Innocence, and tried to unwrap the many layers behind it.&lt;/p&gt;
 
 &lt;h2 id=&quot;ghost-in-the-shell&quot;&gt;Ghost in the Shell&lt;/h2&gt;
@@ -1286,16 +1286,16 @@ I added &lt;a href=&quot;https://shop.waiyeehong.com/food-ingredients/dried-prod
     
     <entry>
         <title>A shop, the planets and the days of the week</title>
-        <link href="https://www.quickandtastycooking.org.uk/articles/suikin-planets-weekdays/"/>
+        <link href="https://quickandtastycooking.org.uk/articles/suikin-planets-weekdays/"/>
         <updated>2019-09-08T00:00:00+01:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/articles/suikin-planets-weekdays</id>
+        <id>https://quickandtastycooking.org.uk/articles/suikin-planets-weekdays</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/suikin-planets-weekdays_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/suikin-planets-weekdays_1600x600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;In Tokyo there is &lt;a href=&quot;http://www.hpfrance.com/Shop/Brand/suikin.html&quot;&gt;a shop called &lt;em&gt;Sui Kin Chi Ka Moku Do Ten Mei Kai&lt;/em&gt;&lt;/a&gt;, written 水金地火木土天冥海. At first glance this seems a very long, hard to pronounce and difficult to remember name, so why name a shop like that?&lt;/p&gt;
 
 &lt;h2 id=&quot;the-names-of-the-planets-in-the-solar-system&quot;&gt;The names of the planets in the solar system&lt;/h2&gt;
@@ -1545,17 +1545,17 @@ The banner photo shows the moon-viewing room  (&lt;em&gt;shōgetsurō&lt;/em&gt;
     
     <entry>
         <title>Reading Murakami in Japanese</title>
-        <link href="https://www.quickandtastycooking.org.uk/articles/reading-murakami/"/>
+        <link href="https://quickandtastycooking.org.uk/articles/reading-murakami/"/>
         <updated>2019-05-25T00:00:00+01:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/articles/reading-murakami</id>
+        <id>https://quickandtastycooking.org.uk/articles/reading-murakami</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/reading-murakami_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;As mentioned in &lt;a href=&quot;https://www.quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;previous posts&lt;/a&gt;, I started reading Murakami’s 1Q84 in Japanese in October 2014, after I had been learning Japanese for about three years. The paperback (&lt;em&gt;bunko&lt;/em&gt;, 文庫) edition consists of 6 volumes, two volumes for each of the three Books that make up 1Q84. Each volume is about 400 pages. In July 2016 I finished the first volume. It is now May 2019 and I have finally finished the four volumes comprising Books 1 and 2.&lt;/p&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/reading-murakami_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;As mentioned in &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;previous posts&lt;/a&gt;, I started reading Murakami’s 1Q84 in Japanese in October 2014, after I had been learning Japanese for about three years. The paperback (&lt;em&gt;bunko&lt;/em&gt;, 文庫) edition consists of 6 volumes, two volumes for each of the three Books that make up 1Q84. Each volume is about 400 pages. In July 2016 I finished the first volume. It is now May 2019 and I have finally finished the four volumes comprising Books 1 and 2.&lt;/p&gt;
 
 &lt;p&gt;At first, my reading speed was very slow, about half an hour per page, because I constantly had to look up kanji and grammar constructs. In the last three years, my reading speed has fortunately improved quite a bit: it takes me now five minutes to read a page in Japanese. However, to read the equivalent English translation takes only one minute, so I still have some way to go.&lt;/p&gt;
 
@@ -1594,19 +1594,19 @@ When not vocalising, it is not necessary to read every individual character. In 
     
     <entry>
         <title>Orzo with celeriac, mixed mushrooms and tofu sticks</title>
-        <link href="https://www.quickandtastycooking.org.uk/recipes/orzo-celeriac-mushrooms-tofu-sticks/"/>
+        <link href="https://quickandtastycooking.org.uk/recipes/orzo-celeriac-mushrooms-tofu-sticks/"/>
         <updated>2019-03-31T00:00:00+00:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/recipes/orzo-celeriac-mushrooms-tofu-sticks</id>
+        <id>https://quickandtastycooking.org.uk/recipes/orzo-celeriac-mushrooms-tofu-sticks</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/orzo-celeriac-mushrooms-tofu-sticks_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;Orzo is durum wheat pasta shaped like grains of barley (called &lt;em&gt;orzo&lt;/em&gt; in Italian). In this recipe it is combined with celeriac and mixed mushrooms (oyster, shiitake, eryngii). The less common ingredient is &lt;a href=&quot;https://shop.waiyeehong.com/food-ingredients/dried-products/dried-beancurd-seaweed/dried-beancurd-sticks-tofu-bamboo-2?language=tw&quot;&gt;dried tofu (bean curd) sticks&lt;/a&gt;. For the seasoning I also used &lt;em&gt;miso&lt;/em&gt; and &lt;a href=&quot;https://www.quickandtastycooking.org.uk/recipes/nabe-yellow-peppers-celeriac-shiitake-tofu/index.html&quot;&gt;fermented broad bean paste (tobanjan)&lt;/a&gt;.&lt;/p&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/orzo-celeriac-mushrooms-tofu-sticks_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Orzo is durum wheat pasta shaped like grains of barley (called &lt;em&gt;orzo&lt;/em&gt; in Italian). In this recipe it is combined with celeriac and mixed mushrooms (oyster, shiitake, eryngii). The less common ingredient is &lt;a href=&quot;https://shop.waiyeehong.com/food-ingredients/dried-products/dried-beancurd-seaweed/dried-beancurd-sticks-tofu-bamboo-2?language=tw&quot;&gt;dried tofu (bean curd) sticks&lt;/a&gt;. For the seasoning I also used &lt;em&gt;miso&lt;/em&gt; and &lt;a href=&quot;https://quickandtastycooking.org.uk/recipes/nabe-yellow-peppers-celeriac-shiitake-tofu/index.html&quot;&gt;fermented broad bean paste (tobanjan)&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;https://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;https://www.quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;725 kcal per person&lt;/em&gt;  &lt;a href=&quot;https://www.quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;https://quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;https://quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;725 kcal per person&lt;/em&gt;  &lt;a href=&quot;https://quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;https://quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
 
@@ -1670,21 +1670,21 @@ When not vocalising, it is not necessary to read every individual character. In 
     
     <entry>
         <title>Getting started with vegan cooking</title>
-        <link href="https://www.quickandtastycooking.org.uk/articles/balanced-vegan-meals/"/>
+        <link href="https://quickandtastycooking.org.uk/articles/balanced-vegan-meals/"/>
         <updated>2019-03-30T00:00:00+00:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/articles/balanced-vegan-meals</id>
+        <id>https://quickandtastycooking.org.uk/articles/balanced-vegan-meals</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/balanced-vegan-meals_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/balanced-vegan-meals_1600x600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;h2 id=&quot;going-vegan&quot;&gt;Going vegan&lt;/h2&gt;
 
 &lt;p&gt;If you have recently decided or are considering to become vegan, it’s important to get off to a good start. Going vegan is great but there are some common pitfals if you come from a omnivorous diet. Just cutting out all non-plant-based food might leave you feeling dissatisfied, and craving some of your old food. If your vegan meals are not nutritiously balanced, this will also affect your health. Both are common reasons why people give up on a vegan diet.&lt;/p&gt;
 
-&lt;p&gt;The good news is that making balanced and tasty vegan meals is quite easy. You could of course just make &lt;a href=&quot;https://www.quickandtastycooking.org.uk/tags/#vegan&quot;&gt;one of my recipes&lt;/a&gt;, but if you want to make your own, here are a few simple guidelines, &lt;a href=&quot;#resources&quot;&gt;supported by expert nutritional advice&lt;/a&gt;. But let’s first have a look at the fundamentals of a healthy diet.&lt;/p&gt;
+&lt;p&gt;The good news is that making balanced and tasty vegan meals is quite easy. You could of course just make &lt;a href=&quot;https://quickandtastycooking.org.uk/tags/#vegan&quot;&gt;one of my recipes&lt;/a&gt;, but if you want to make your own, here are a few simple guidelines, &lt;a href=&quot;#resources&quot;&gt;supported by expert nutritional advice&lt;/a&gt;. But let’s first have a look at the fundamentals of a healthy diet.&lt;/p&gt;
 
 &lt;h2 id=&quot;fundamentals-of-a-healthy-diet&quot;&gt;Fundamentals of a healthy diet&lt;/h2&gt;
 
@@ -1720,12 +1720,12 @@ When not vocalising, it is not necessary to read every individual character. In 
 
 &lt;p&gt;With these guidelines, you can be confident your vegan meals are balanced.&lt;/p&gt;
 
-&lt;p&gt;All &lt;a href=&quot;https://www.quickandtastycooking.org.uk/recipes&quot;&gt;Quick &amp;amp; Tasty recipes&lt;/a&gt; follow this pattern. Why not get started with some of my favourites:&lt;/p&gt;
+&lt;p&gt;All &lt;a href=&quot;https://quickandtastycooking.org.uk/recipes&quot;&gt;Quick &amp;amp; Tasty recipes&lt;/a&gt; follow this pattern. Why not get started with some of my favourites:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Very quick and easy to make: &lt;a href=&quot;https://www.quickandtastycooking.org.uk/recipes/murakami-2/&quot;&gt;&lt;em&gt;soba&lt;/em&gt; noodles with &lt;em&gt;edamame&lt;/em&gt; soy beans.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Very simple: &lt;a href=&quot;https://www.quickandtastycooking.org.uk/recipes/carrots-potatoes-chickpeas/&quot;&gt;a stir-fry  of carrots, potatoes and chickpeas.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;A bit more special: &lt;a href=&quot;https://www.quickandtastycooking.org.uk/recipes/butternut-squash-pear-blackeyed-beans/&quot;&gt;a stir-fry of butternut squash, pear and black-eyed beans with brown rice.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Very quick and easy to make: &lt;a href=&quot;https://quickandtastycooking.org.uk/recipes/murakami-2/&quot;&gt;&lt;em&gt;soba&lt;/em&gt; noodles with &lt;em&gt;edamame&lt;/em&gt; soy beans.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Very simple: &lt;a href=&quot;https://quickandtastycooking.org.uk/recipes/carrots-potatoes-chickpeas/&quot;&gt;a stir-fry  of carrots, potatoes and chickpeas.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A bit more special: &lt;a href=&quot;https://quickandtastycooking.org.uk/recipes/butternut-squash-pear-blackeyed-beans/&quot;&gt;a stir-fry of butternut squash, pear and black-eyed beans with brown rice.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
@@ -1741,17 +1741,17 @@ When not vocalising, it is not necessary to read every individual character. In 
     
     <entry>
         <title>Why the 'Little People' say 'Ho ho'</title>
-        <link href="https://www.quickandtastycooking.org.uk/articles/1Q84-kuukisanagi/"/>
+        <link href="https://quickandtastycooking.org.uk/articles/1Q84-kuukisanagi/"/>
         <updated>2019-03-16T00:00:00+00:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/articles/1Q84-kuukisanagi</id>
+        <id>https://quickandtastycooking.org.uk/articles/1Q84-kuukisanagi</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/1Q84-kuukisanagi_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;As mentioned in &lt;a href=&quot;https://www.quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;previous posts&lt;/a&gt;, I have been reading Haruki Murakami’s 1Q84 in Japanese (very slowly). After reading some reviews I wrote &lt;a href=&quot;https://www.quickandtastycooking.org.uk/articles/repetition-in-1Q84&quot;&gt;a blog post&lt;/a&gt; on why some of the characters frequently repeat one another, something critics didn’t like. Another thing several critics didn’t like is the Little People saying “Ho ho”.&lt;/p&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/1Q84-kuukisanagi_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;As mentioned in &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;previous posts&lt;/a&gt;, I have been reading Haruki Murakami’s 1Q84 in Japanese (very slowly). After reading some reviews I wrote &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/repetition-in-1Q84&quot;&gt;a blog post&lt;/a&gt; on why some of the characters frequently repeat one another, something critics didn’t like. Another thing several critics didn’t like is the Little People saying “Ho ho”.&lt;/p&gt;
 
 &lt;p&gt;So let’s have a look at this “Ho ho”. But first, in case you didn’t read the book, a quick setting of the scene may help.&lt;/p&gt;
 
@@ -1820,17 +1820,17 @@ It is often said that Murakami avoids references to traditional Japanese culture
     
     <entry>
         <title>Repetition in Murakami's 1Q84</title>
-        <link href="https://www.quickandtastycooking.org.uk/articles/repetition-in-1Q84/"/>
+        <link href="https://quickandtastycooking.org.uk/articles/repetition-in-1Q84/"/>
         <updated>2018-12-28T00:00:00+00:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/articles/repetition-in-1Q84</id>
+        <id>https://quickandtastycooking.org.uk/articles/repetition-in-1Q84</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/repetition-in-1Q84_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;As mentioned in &lt;a href=&quot;https://www.quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;previous posts&lt;/a&gt;, I have been reading Murakami’s 1Q84 in Japanese (very slowly). I read the English translation when it was first published but I had never looked up any reviews. The Japanese paperback comes in six volumes and after finishing the third volume&lt;sup&gt;*&lt;/sup&gt;, I decided to check some reviews, and I was somewhat surprised to find that most critics didn’t like the book very much.&lt;/p&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/repetition-in-1Q84_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;As mentioned in &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;previous posts&lt;/a&gt;, I have been reading Murakami’s 1Q84 in Japanese (very slowly). I read the English translation when it was first published but I had never looked up any reviews. The Japanese paperback comes in six volumes and after finishing the third volume&lt;sup&gt;*&lt;/sup&gt;, I decided to check some reviews, and I was somewhat surprised to find that most critics didn’t like the book very much.&lt;/p&gt;
 
 &lt;p&gt;One of the recurrent criticisms is that the characters repeat one another frequently. This is in particular the case for the conversations between Tengo and Fuka-eri.&lt;/p&gt;
 
@@ -1929,16 +1929,16 @@ The other frequent repetitions are in the conversation between Aomame and the Le
     
     <entry>
         <title>Stollen</title>
-        <link href="https://www.quickandtastycooking.org.uk/recipes/stollen/"/>
+        <link href="https://quickandtastycooking.org.uk/recipes/stollen/"/>
         <updated>2018-12-26T00:00:00+00:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/recipes/stollen</id>
+        <id>https://quickandtastycooking.org.uk/recipes/stollen</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
-        	&lt;img src=&quot;https://www.quickandtastycooking.org.uk/images/stollen_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/stollen_1600.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;A &lt;em&gt;stollen&lt;/em&gt; is a rich fruit loaf, typical for the festive season. This recipe is based on a Dresdner Christmas stollen recipe from an old cookbook&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. I reduced the amounts of butter, raisins and candied peel by half compared to the original.&lt;/p&gt;
 
 &lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
@@ -1988,12 +1988,12 @@ The other frequent repetitions are in the conversation between Aomame and the Le
     
     <entry>
         <title>Veggie Binagoonang</title>
-        <link href="https://www.quickandtastycooking.org.uk/veggie-binagoonang/"/>
+        <link href="https://quickandtastycooking.org.uk/veggie-binagoonang/"/>
         <updated>2018-12-23T00:00:00+00:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/veggie-binagoonang</id>
+        <id>https://quickandtastycooking.org.uk/veggie-binagoonang</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
@@ -2049,12 +2049,12 @@ Add vinegar and allow to a boil, uncovered and without stirring, for about 3 to 
     
     <entry>
         <title>Veggie Binagoonang Talong</title>
-        <link href="https://www.quickandtastycooking.org.uk/veggie-binagoonang-talong/"/>
+        <link href="https://quickandtastycooking.org.uk/veggie-binagoonang-talong/"/>
         <updated>2018-12-23T00:00:00+00:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/veggie-binagoonang-talong</id>
+        <id>https://quickandtastycooking.org.uk/veggie-binagoonang-talong</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
@@ -2096,12 +2096,12 @@ Season with salt and pepper to taste. Serve with rice
     
     <entry>
         <title>Stollen</title>
-        <link href="https://www.quickandtastycooking.org.uk/stollen/"/>
+        <link href="https://quickandtastycooking.org.uk/stollen/"/>
         <updated>2018-12-23T00:00:00+00:00</updated>
-        <id>https://www.quickandtastycooking.org.uk/stollen</id>
+        <id>https://quickandtastycooking.org.uk/stollen</id>
         <author>
 					<name>Wim</name>
-					<uri>https://www.quickandtastycooking.org.uk/</uri>
+					<uri>https://quickandtastycooking.org.uk/</uri>
 					
 				</author>
         <content type="html">
