@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="https://quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="https://quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2020-11-08T12:29:35+00:00</updated>
+    <updated>2020-11-08T12:56:12+00:00</updated>
     <id>https://quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
@@ -28,9 +28,15 @@
 				</author>
         <content type="html">
         	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/daffodils_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;A whimsical fedi music collaboration between Eidon and Wim.&lt;/p&gt;
+        	&lt;p&gt;A whimsical fedi music collaboration between Eidon and Wim. This is a twin post, the other version is &lt;a href=&quot;https://noblogo.org/eidon/daffodils&quot;&gt;on Eidon’s blog&lt;/a&gt;.&lt;/p&gt;
 
-&lt;!-- This is a twin post, the other version is [on Eidon's blog](https://noblogo.org/eidon/daffodils). --&gt;
+&lt;p&gt;Here is the finished track. We hope you like it!&lt;/p&gt;
+&lt;p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+  &lt;source src=&quot;https://quickandtastycooking.org.uk/audio/Daffodils-integration-retimed.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+Your browser does not support the audio element.
+&lt;/audio&gt; 
+&lt;/p&gt;
 
 &lt;h2 id=&quot;eidon-says&quot;&gt;Eidon says:&lt;/h2&gt;
 
@@ -134,15 +140,11 @@ wrote this great track “Daffodils” as he explained above, and he sent me a d
 greater bias than the authors’ opinion, maybe, though we are quite pleased with the results. Music and verse dance together, and hearts with pleasure fill. Therefore, it is likely that this first move into musical/poetical co-creation shall be followed by new experiments soon!
 “&lt;/p&gt;
 
-&lt;h2 id=&quot;daffodils&quot;&gt;“Daffodils”&lt;/h2&gt;
+&lt;!-- ## &quot;Daffodils&quot; --&gt;
 
-&lt;p&gt;And here is the finished track. We hope you like it too!&lt;/p&gt;
-&lt;p&gt;
-&lt;audio controls=&quot;&quot;&gt;
-  &lt;source src=&quot;https://quickandtastycooking.org.uk/audio/Daffodils-integration-retimed.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-Your browser does not support the audio element.
-&lt;/audio&gt; 
-&lt;/p&gt;
+&lt;p&gt;The track is available on &lt;a href=&quot;https://open.tube/videos/watch/e26710c0-8813-4691-b4e6-ef0e36e49848&quot;&gt;OpenTube&lt;/a&gt;:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; src=&quot;https://open.tube/videos/embed/e26710c0-8813-4691-b4e6-ef0e36e49848&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
         </content>
     </entry>
