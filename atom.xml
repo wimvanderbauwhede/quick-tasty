@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="https://quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="https://quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2020-11-01T15:07:54+00:00</updated>
+    <updated>2020-11-08T12:29:35+00:00</updated>
     <id>https://quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
@@ -15,6 +15,137 @@
 			
 		</author>
 
+    
+    <entry>
+        <title>Daffodils</title>
+        <link href="https://quickandtastycooking.org.uk/articles/daffodils/"/>
+        <updated>2020-11-03T00:00:00+00:00</updated>
+        <id>https://quickandtastycooking.org.uk/articles/daffodils</id>
+        <author>
+					<name>Wim</name>
+					<uri>https://quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/daffodils_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;A whimsical fedi music collaboration between Eidon and Wim.&lt;/p&gt;
+
+&lt;!-- This is a twin post, the other version is [on Eidon's blog](https://noblogo.org/eidon/daffodils). --&gt;
+
+&lt;h2 id=&quot;eidon-says&quot;&gt;Eidon says:&lt;/h2&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size: 200%&quot;&gt;“It &lt;/span&gt;
+all started from the title, really. “Daffodils”. Nice word, which reminds of many things – an Arcadia of beautiful flowers and their scent, or Wordsworth’s famous poem, for instance. Among the many spurious thoughts that such a word could evoke, there was one that triggered the resolve to create a piece of music from it: the presence of letters that can be interpreted as note names, together with others that can not. Of the many possible mappings, this one was chosen:&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/Theme.png&quot; alt=&quot;A piece of musical score showing the theme of Daffodils.&quot; title=&quot;A piece of musical score showing the theme of Daffodils.&quot; /&gt;
+&lt;figcaption&gt;The theme of &quot;Daddodils&quot;: ‘D’, ‘A’, ‘F’, ‘F’, rest, ‘D’, rest, rest, (rest)&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;where ‘real’ notes where used when a music counterpart existed, and `imaginary’ (inaudible) notes otherwise. The singular form led to 8 quavers and an easy 4/4 metre. The result was found sufficiently interesting and worth pursuing, and a composition was started from there. Three voices, initially appointed two two electric guitars and electric bass, with the theme exposed and repeated by the first guitar, soon joined by the cortege of its companions, all moving in an ostinato slow-pace.&lt;/p&gt;
+
+&lt;p&gt;In retrospective, it is possible that, from the very beginning, it all was leading to Wordsworth’s poem – the choice of the tempo, for instance. Whatever the actual case, at some point it became clear that the connection with “I Wandered Lonely As A Cloud” had to be made explicit. At first we thought to only sing the poem’s final verses; and then Wim had the great idea to recite the whole poem.&lt;/p&gt;
+
+&lt;p&gt;The track was created with &lt;a href=&quot;http://tuxguitar.com.ar/&quot;&gt;TuxGuitar&lt;/a&gt;, a nice tabulature editor whose notes input interfaces include guitar fretboards. So yes all the instruments you can hear in Daffodils have been composed… on guitar ^_^. Some of the sounds were produced via the Timbres Of Heaven soundfont, while for others we used MuseScore, after importing MIDI files exported from TuxGuitar.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/Tux.png&quot; alt=&quot;TuxGuitar UI.&quot; title=&quot;The TuxGuitar UI.&quot; /&gt;
+&lt;figcaption&gt;The TuxGuitar UI&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://musescore.org/&quot;&gt;MuseScore&lt;/a&gt; is much more powerful than TuxGuitar. It allows to orchestrate voices from multiple soundfonts at the same time, for instance, and to export the voices as separate audio files. Once the voices have been chosen and isolated, we used Audacity to orchestrate them together. The original TuxGuitar voices were then mixed with MuseScore voices from the Sonatina Symphonic Orchestra,  and the Nice Keys Suite soundfonts, plus that of a Steinway piano.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.audacityteam.org/&quot;&gt;Audacity&lt;/a&gt; is perhaps not the best tool one could use, though it has certain valuable features. One such feature is so-called Envelope Tool: with it, it is possible to finely control the volume of each voice.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/Audax.png&quot; alt=&quot;Audacity UI for the Envelope Tool.&quot; title=&quot;Audacity UI for the Envelope Tool.&quot; /&gt;
+&lt;figcaption&gt;Each voice is wrapped in a “control envelope”, which changes the volume of the track proportionally to the ‘height’ of the envelope.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This allows fade-ins and fade-outs, and thus can simulate the entrance and exit of instruments. This has been used extensively in Daffodils!
+“&lt;/p&gt;
+
+&lt;h2 id=&quot;wim-says&quot;&gt;Wim says:&lt;/h2&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size: 200%&quot;&gt;“Eidon &lt;/span&gt;
+wrote this great track “Daffodils” as he explained above, and he sent me a draft and asked if I could recite the verses from &lt;a href=&quot;https://www.poetryfoundation.org/poems/45521/i-wandered-lonely-as-a-cloud&quot;&gt;Wordsworth’s poem&lt;/a&gt;. I don’t know what he thought my voice would contribute to the work, maybe he wanted a Flemish-Scottish accent?&lt;/p&gt;
+
+&lt;p&gt;Eidon had in mind that I would recite the final two verses only:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;And then my heart with pleasure fills,&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;And dances with the daffodils.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;But I misunderstood him, and I recited the entire poem. That turned out to be serendipitous, as we are both happy with the final result. But I’m running ahead of myself.&lt;/p&gt;
+
+&lt;p&gt;I used my laptop’s built-in mic as that is all I have. The audio quality is acceptable but far from great, so from the start I had this idea that I wanted to apply some distorting effects to the voice. I thought it might work well with the track which is quite modern and rather different from what a more conventional composer might associate with the image of daffodils.&lt;/p&gt;
+
+&lt;p&gt;I’d never done this before, so it was an interesting experiment. I used &lt;a href=&quot;https://www.audacityteam.org/&quot;&gt;Audacity&lt;/a&gt; for the recording and for all processing.&lt;/p&gt;
+
+&lt;p&gt;I recorded the audio in two takes, and combined the best parts. There is nothing to say about the recording: I just read the poem out loud, at a pace that seemed natural to me.&lt;/p&gt;
+
+&lt;p&gt;First I improved the audio quality. I knew from past experience that a good way to do it is to apply the following effects:
+• Noise Reduction with default settings
+• Equalisation (Graphic EQ) with the “Bass Boost” preset
+• &lt;a href=&quot;https://manual.audacityteam.org/man/compressor.html&quot;&gt;Compressor&lt;/a&gt; with default settings
+• &lt;a href=&quot;https://manual.audacityteam.org/man/reverb.html&quot;&gt;Reverb&lt;/a&gt; with the “Vocal I” preset&lt;/p&gt;
+
+&lt;p&gt;I then also doubled the voice, with a very slight shift between the tracks, so there is no perceptible echo but the sounds is a little bit fuller.&lt;/p&gt;
+
+&lt;p&gt;Initially I had wanted to use only the vocoder. But Audacity’s &lt;a href=&quot;https://manual.audacityteam.org/man/vocoder.html&quot;&gt;Vocoder effect&lt;/a&gt; is not quite what I had in mind.&lt;/p&gt;
+
+&lt;p&gt;The default setting for the Vocoder results in a rather tame distortion. My settings are&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Distance: 50.0
+    Output choice: Both channels
+    Number of vocoder bands: 60
+    Amplitude of original audio (percent): 100.0
+    Amplitude of white noise (percent): 0.0
+    Amplitude of Radar Needles (percent): 50.0
+    Frequency of Radar Needles (Hz): 80.0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The result is a bit like speaking through a tube, with added radar needles, a series of short pulses which give a robotic effect.&lt;/p&gt;
+
+&lt;p&gt;I found that the &lt;a href=&quot;https://manual.audacityteam.org/man/phaser.html&quot;&gt;Phaser&lt;/a&gt; could introduce some interesting distortions. Again, the default effect is quite tame. I used the following setting, on a separate copy of the voice track:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Stages: 20
+    Dry/Wet: 180
+    LFO Frequency (Hz): 0.6
+    LFO Start Phase (deg.): 50.0
+    Depth: 120
+    Feedback (%): 75
+    Output gain (dB): -3.0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The result is a space-like oscillator sound overlaying the speech.&lt;/p&gt;
+
+&lt;p&gt;I was still not happy with the result so I added another copy of the voice track Reverb using the “Church Hall” preset, which gives a huge echoing sound.&lt;/p&gt;
+
+&lt;p&gt;I combined these three tracks with the original one, taking care that I did not entirely drown out the recitation.&lt;/p&gt;
+
+&lt;p&gt;I then combined this track with Eidon’s music. I tweaked the pauses between the verses to match the music and tweaked the volume of the voice here and there.&lt;/p&gt;
+
+&lt;p&gt;The final verses are repeated three times, because somehow I thought that fit with the music.
+“&lt;/p&gt;
+
+&lt;h2 id=&quot;eidon-says-1&quot;&gt;Eidon says:&lt;/h2&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size: 200%&quot;&gt;“No &lt;/span&gt;
+greater bias than the authors’ opinion, maybe, though we are quite pleased with the results. Music and verse dance together, and hearts with pleasure fill. Therefore, it is likely that this first move into musical/poetical co-creation shall be followed by new experiments soon!
+“&lt;/p&gt;
+
+&lt;h2 id=&quot;daffodils&quot;&gt;“Daffodils”&lt;/h2&gt;
+
+&lt;p&gt;And here is the finished track. We hope you like it too!&lt;/p&gt;
+&lt;p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+  &lt;source src=&quot;https://quickandtastycooking.org.uk/audio/Daffodils-integration-retimed.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+Your browser does not support the audio element.
+&lt;/audio&gt; 
+&lt;/p&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>The True Pure Land</title>
@@ -2148,53 +2279,6 @@ Add vinegar and allow to a boil, uncovered and without stirring, for about 3 to 
 
 &lt;p&gt;Lower heat, cover, and simmer until liquid is reduced. Add eggplant and continue to cook until liquid is reduced.  Season with salt and pepper to taste.&lt;/p&gt;
 
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Veggie Binagoonang Talong</title>
-        <link href="https://quickandtastycooking.org.uk/veggie-binagoonang-talong/"/>
-        <updated>2018-12-23T00:00:00+00:00</updated>
-        <id>https://quickandtastycooking.org.uk/veggie-binagoonang-talong</id>
-        <author>
-					<name>Wim</name>
-					<uri>https://quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	
-        	Binagoongan Talong sa Gata
- 
-https://www.kawalingpinoy.com/binagoongan-talong/
-
-Ingredients
-
-- 2 tablespoons olive oil
-- 2 medium aubergines, cut into cubes
-- 2 cm ginger, finely chopped
-- 1 stick celery, finely chopped
-- 1 teaspoon garlic oil or 2 cloves garlic
-- tofu sticks for 2 people
-- 1 large tomato, chopped
-- 1 tablespoon miso
-- 1 tablespoon vinegar
-- 0.2l coconut milk
-- 1/4 cup water
-- 1/2 teaspoon sugar
-- 2 mild chili peppers, stemmed and minced
-
-
-Instructions
-
-- Soak the tofu sticks in very hot water for 30 minutes, drain and chop.
-- Cook the aubergines 7 minutes in the microwave at full power (900W).
-- Cook tomato 2 minutes in the microwave at full power (900W).
-- Heat the oil in a deep pan. When the oil is hot, add ginger, celery and garlic and fry fir a few minutes over medium heat. Add tofu sticks and cook until lightly browned.
-- Add _miso_, tomatoes and vinegar and cook, stirring occasionally, for a few minutes.
-- Add coconut milk, water, sugar and chili peppers and simmer for a few minutes over lower heat.
-- Add the aubergines and continue to cook until liquid is reduced.  
-
-Season with salt and pepper to taste. Serve with rice 
         </content>
     </entry>
     
