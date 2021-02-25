@@ -17,7 +17,7 @@ image:
   thumb: 1Q84-kuukisanagi_400x150.jpg
 ---
 
-As mentioned in [previous posts]({{site.url}}/articles/learning-japanese/), I have been reading Haruki Murakami's 1Q84 in Japanese (very slowly). After reading some reviews I wrote [a blog post]({{site.url}}/articles/repetition-in-1Q84) on why some of the characters frequently repeat one another, something critics didn't like. Another thing several critics din't like is the Little People saying "Ho ho". 
+As mentioned in [previous posts]({{site.url}}/articles/learning-japanese/), I have been reading Haruki Murakami's 1Q84 in Japanese (very slowly). After reading some reviews I wrote [a blog post]({{site.url}}/articles/repetition-in-1Q84) on why some of the characters frequently repeat one another, something critics didn't like. Another thing several critics didn't like is the Little People saying "Ho ho". 
 
 So let's have a look at this "Ho ho". But first, in case you didn't read the book, a quick setting of the scene may help. 
 

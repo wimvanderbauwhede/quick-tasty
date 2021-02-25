@@ -5,7 +5,7 @@ use v5.16;
 use Cwd;
 my $wd=cwd();
 
-my $url = 'http://quickandtastycooking.org.uk/';
+my $url = 'https://quickandtastycooking.org.uk/';
 my @ds= localtime;
 my $m=$ds[4]+1;
 if ($m<10) {$m='0'.$m}

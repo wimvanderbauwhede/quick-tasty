@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "About"
-date: 2020-06-14
+date: 2021-02-16
 tags: [vegetarian, cooking, food]
 excerpt: "Hi, I'm Wim and I have been cooking for 25 years. I focus on tasty, healthy meals that are simple and easy to make in a short time."
 comments: false

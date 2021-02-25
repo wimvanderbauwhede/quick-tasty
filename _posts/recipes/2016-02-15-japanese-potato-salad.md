@@ -23,7 +23,7 @@ image:
 
 
 
-Although potato salad may not sound very Japanese (maybe a bit more when you call it ポテトサラダ, "_potetosarada_"), it has long been very popular in Japan. There are some original Japanese recipes at [Just Hungry](http://justhungry.com/2006/05/japanese_potato.html) and [Just One Cookbook](http://www.justonecookbook.com/japanese-potato-salad/). My version is a little bit different: I prefer the potatoes unpeeled, I add some ginger and I use courgette instead of cucumber because I find that British cucumbers are too different from Japanese _kyuuri_. I serve this potato salad sometimes with rice, or with a side salad as in the picture.
+Although potato salad may not sound very Japanese (maybe a bit more when you call it ポテトサラダ, "_potetosarada_"), it has long been very popular in Japan. There are some original Japanese recipes at [Just Hungry](http://justhungry.com/2006/05/japanese_potato.html) and [Just One Cookbook](http://www.justonecookbook.com/japanese-potato-salad/). My version is a little bit different: I prefer the potatoes unpeeled, I add some ginger and I use courgette instead of cucumber because I find that British cucumbers are too different from Japanese _kyuuri_. Although I have left the egg in the recipe as optional, I don't put eggs in it. I serve this potato salad sometimes with _edamame_, or with a side salad as in the picture.
 
 
 
@@ -38,7 +38,7 @@ For two people:
   - 1 medium carrot
   - half a courgette
   - 1 cm ginger
-  - 1 egg (2 if you want more protein)
+  - 1 egg (optional)
   - 3 tablespoons mayonnaise, preferably Japanese (I use Kewpie) or homemade
 
 - From the store cupboard  
@@ -47,7 +47,7 @@ For two people:
 #### Preparation
 
   - Wash but don't peel the potatoes; wash the carrot and scrape or peel.
-  - Boil the egg(s) until hard-boiled (10 minutes).
+  - Boil the egg until hard-boiled (10 minutes).
   - At the same time, cook the potatoes in the microwave for 5 minutes at full power (900W).
   - Add the carrot to the pot, cook in the microwave for another 5 minutes at full power (900W).
   - In the meantime, slice the courgette and the ginger very thinly.

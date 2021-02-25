@@ -5,7 +5,8 @@ description: "Quick and Tasty"
 teaser: lino.jpg
 locale: en_GB
 #url: http://www.quickandtastycooking.org.uk
-url: http://127.0.0.1/~wim/quickandtasty
+#url: http://127.0.0.1/~wim/quickandtasty
+url: http://hackbox.local/~wim/quickandtasty
 
 
 # Jekyll configuration

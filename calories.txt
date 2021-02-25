@@ -13,6 +13,7 @@
 #half a packet
 
 greek yoghurt: 129; 150;
+greek style yoghurt: 129; 150;
 soy milk: 38; 500; 2 cups
 coconut milk: 230; 200;
 

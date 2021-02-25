@@ -25,6 +25,7 @@ All my recipes are for _full meals_ for two people. All recipes are my own creat
 -->
 <a href="{{site.url}}/recipes/#Japanese">Japanese</a>&nbsp;&bull;
 <a href="{{site.url}}/recipes/#baking">Baking</a>&nbsp;&bull;
+<a href="{{site.url}}/recipes/#treats">Treats</a>&nbsp;&bull;
 <a href="{{site.url}}/recipes/#special">Festive specials</a>
 </li>
 <li>By preparation time:&nbsp;
@@ -74,6 +75,20 @@ All my recipes are for _full meals_ for two people. All recipes are my own creat
 {% endif %}
 {% endfor %}
 </div><!-- /.tiles -->
+
+
+<div class="spacer"  style="float:left;width:100%;">
+<h3 id="treats">Treats</h3>
+</div>
+
+<div class="tiles">
+{% for post in site.categories.recipes %}
+{% if post.subset == "treats" %}
+  {% include post-grid-recipes.html %}
+{% endif %}
+{% endfor %}
+</div><!-- /.tiles -->
+
 
 <div class="spacer"  style="float:left;width:100%;">
 <h3 id="special">Festive specials</h3>
