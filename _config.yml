@@ -4,7 +4,10 @@ title: Quick &amp; Tasty
 description: "Quick and Tasty"
 teaser: lino.jpg
 locale: en_GB
-url: https://quickandtastycooking.org.uk
+#url: http://www.quickandtastycooking.org.uk
+#url: http://127.0.0.1/~wim/quickandtasty
+url: http://WorkBookPro.local/~wim/quickandtasty
+
 
 # Jekyll configuration
 # For plugins
@@ -27,8 +30,9 @@ plugins:
 # Site owner
 owner:
   name: Wim 
-  web: https://www.quickandtastycooking.org.uk
+  web: http://www.quickandtastycooking.org.uk
   bio: "Fuss-free food"
+  avatar: W_160px.jpg # 160x160 px image for author byline
 
 #include:
 #  - .htaccess

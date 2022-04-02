@@ -2,9 +2,14 @@ perl set_mod_date.pl
 perl create_index.pl
 perl generate_sitemap.pl > sitemap.xml
 cp _config.yml.publish _config.yml
-bundle exec jekyll build -d ~/GitHub/QuickAndTastyWebsite/quick-tasty/
-cd  ~/GitHub/QuickAndTastyWebsite/quick-tasty/
+bundle exec jekyll build -d ~/Git/quick-tasty-prepub/
+cd  ~/Git/quick-tasty/
+cp ../quick-tasty-prepub/recipes/${1}/index.html recipes/${1}/index.html
+cp ../quick-tasty-prepub/images/${1}_*.jpg images/
 git add recipes/${1}/index.html
 git add images/${1}_1600.jpg
-git commit -a -m "$1"
+git add images/${1}_400.jpg
+git commit recipes/${1}/index.html -m "$1"
+git commit images/${1}_1600.jpg -m "$1"
+git commit images/${1}_400.jpg -m "$1"
 git push origin gh-pages

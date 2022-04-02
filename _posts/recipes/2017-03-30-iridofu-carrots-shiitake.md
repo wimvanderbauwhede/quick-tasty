@@ -47,7 +47,7 @@ For two people:
     - 1 teaspoon _miso_
     - 1 tablespoon soy sauce
     - 1 teaspoon sesame oil
-    - 1 garlic sesame oil
+    - 1 teaspoon garlic oil
     - 1 tablespoon olive oil
 
 #### Preparation

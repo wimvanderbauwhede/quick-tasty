@@ -233,6 +233,7 @@ for my $recipe_file (@recipe_files) {
     open my $IN, '<', $recipe_file;
     my $recipe_file_w_cal_info = '../../recipes_w_cal_info/'.$recipe_file;
     open my $OUT, '>', $recipe_file_w_cal_info;
+    my $seen_endfor=0;
     while (my $line=<$IN>) {
         $line=~/tags:/ && do {
             if ($line!~/kcals/) {
@@ -248,7 +249,11 @@ for my $recipe_file (@recipe_files) {
             say $OUT 'calorierange: "'.$range.'"';
         };
         $line=~/endfor/ && do {
-            $line='{% for tag in page.tags %}{% if tag != "'.$range.'" %}&nbsp;<a class="post-tag" href="{{ site.url}}/tags/#{{ tag }}">_{{ tag }}_</a>&nbsp;{% endif %}{% endfor %} &bull;&nbsp;<em>'.$cals.'&nbsp;kcal&nbsp;per&nbsp;person</em>&nbsp;&nbsp;<a href="{{ site.url}}/tags/#'.$range.'"><img src="{{ site.url }}/images/battery_lvl_'.$cat.'.png" style="height:1.0em;"></a>'."\n";;
+            $line='{% for tag in page.tags %}{% if tag != "'.$range.'" %}&nbsp;<a class="post-tag" href="{{ site.url}}/tags/#{{ tag }}">_{{ tag }}_</a>&nbsp;{% endif %}{% endfor %} &bull;&nbsp;<em>'.$cals.'&nbsp;kcal&nbsp;per&nbsp;person</em>&nbsp;&nbsp;<a href="{{ site.url}}/tags/#'.$range.'"><img src="{{ site.url }}/images/battery_lvl_'.$cat.'.png" style="height:1.0em;"></a>'."\n";
+            $seen_endfor=1;
+        };
+        $line=~/\#\#\#\#\ Ingredients/ && ($seen_endfor==0) && do {
+            $line='{% for tag in page.tags %}{% if tag != "'.$range.'" %}&nbsp;<a class="post-tag" href="{{ site.url}}/tags/#{{ tag }}">_{{ tag }}_</a>&nbsp;{% endif %}{% endfor %} &bull;&nbsp;<em>'.$cals.'&nbsp;kcal&nbsp;per&nbsp;person</em>&nbsp;&nbsp;<a href="{{ site.url}}/tags/#'.$range.'"><img src="{{ site.url }}/images/battery_lvl_'.$cat.'.png" style="height:1.0em;"></a>'."\n\n".$line;
         };
         print $OUT $line;
     }

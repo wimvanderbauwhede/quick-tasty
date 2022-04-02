@@ -57,6 +57,9 @@ dried tofu sticks: 77; 50;
 dried bean curd: 77; 50; 
 tofu: 64; 175; pack is 350, so about 175/2, say 100
 
+flour: 364; 100;
+bread: 256; 150; (we eat about 150 g per meal, a slice is about 20g)
+
 # Pasta and Noodles
 ramen: 348; 180;
 udon: 355; 200;
@@ -71,7 +74,6 @@ sweet potato: 86; 200;
 
 egg: 155; 50; (1 egg ~ 50g)
 
-bread: 256; 150; (we eat about 150 g per meal, a slice is about 20g)
 chocolate: 568;15; (we eat about 15 g per meal = 90 cal)
 dates: 295;50;
 flour: 361;50
