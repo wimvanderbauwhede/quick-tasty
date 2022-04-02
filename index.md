@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Quick & Tasty"
-date: 2021-02-16
+date: 2021-12-31
 tags: [recipes,quick, tasty, healthy,food,cooking, vegetarian,vegan]
 excerpt: "Quick & Tasty: Fuss-free food for one or two"
 comments: false
