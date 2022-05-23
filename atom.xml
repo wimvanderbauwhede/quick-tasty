@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
     <title>Quick &amp; Tasty</title>
-    <generator uri="https://github.com/jekyll/jekyll">Jekyll v4.2.1</generator>
+    <generator uri="https://github.com/jekyll/jekyll">Jekyll v4.0.0</generator>
 		<icon>https://quickandtastycooking.org.uk/apple-touch-icon-precomposed.png</icon>
     <subtitle>Quick and Tasty</subtitle>
     <link href="https://quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="https://quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2021-12-30T21:51:22+00:00</updated>
+    <updated>2022-05-23T16:06:20+01:00</updated>
     <id>https://quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
@@ -15,6 +15,372 @@
 			
 		</author>
 
+    
+    <entry>
+        <title>Quiet crystallisation</title>
+        <link href="https://quickandtastycooking.org.uk/articles/memory-police/"/>
+        <updated>2022-05-19T00:00:00+01:00</updated>
+        <id>https://quickandtastycooking.org.uk/articles/memory-police</id>
+        <author>
+					<name>Wim</name>
+					<uri>https://quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/memory-police_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;“The Memory Police” (&lt;em&gt;hisoyaka na kesshō&lt;/em&gt;, 密やかな結晶) is a novel from 1994 by Yoko Ogawa, one of Japan’s most renowned writers.&lt;/p&gt;
+
+&lt;p&gt;It’s set on an island but the community there is otherwise quite similar to mainland Japan. Things disappear from the community’s life, and people forget about them. They don’t simply disappear. For example, when the “perfume” disappears , people pour out their perfume bottles in the river. Then they forget that perfume ever existed. And when “birds” disappear, people set free their caged birds, and totally forget all about birds.&lt;/p&gt;
+
+&lt;p&gt;The book centres on three characters: the narrator (&lt;em&gt;watashi&lt;/em&gt; わたし, “I”), the old man (&lt;em&gt;ojii-san&lt;/em&gt; おじいさん, &lt;em&gt;jii&lt;/em&gt; is old man and &lt;em&gt;o&lt;/em&gt; and &lt;em&gt;san&lt;/em&gt; are honorifics) and the narrator’s editor, “R” (&lt;em&gt;R-shi&lt;/em&gt;, &lt;em&gt;shi&lt;/em&gt; 氏 is a formal form of referring to a person, typically someone one is not close with).&lt;/p&gt;
+
+&lt;p&gt;I started reading near the end of February and it took me three months to read the novel in Japanese, reading a few pages most evenings.&lt;/p&gt;
+
+&lt;p&gt;I would recommend this book because it is very taught-provoking. Although nothing really bad happens explicitly, it is a very sad story. The book has 28 chapters and the real turning point is by the end of Chapter 25. It’s very beautifully written, with a great eye for small details and remarkable control over specificity: early on, the setting of the story seems very generic but as the book progresses, there are more specific Japanese cultural references; towards the end they disappear again. I really like the way the author expresses e.g. unease of a character by describing how he keeps putting his feet into his slippers and pulling them back out, or the details about the type of shoe that makes a specific sound, so you can tell the wearer is a young woman, etc.&lt;/p&gt;
+
+&lt;p&gt;In the title in Japanese &lt;em&gt;hisoyaka&lt;/em&gt; means quiet, still, surreptitious; &lt;em&gt;kesshou&lt;/em&gt; means crystal or crystallisation but also fruits of labour etc. So it  is “Quiet crystallisation”. (The French title is “Cristallisation secrète”.) According to the afterword, the Yoko Ogawa was thinking of “crystallised” memories we carry inside us. The English title puts the focus on the Memory Police themselves but they are not the focus of the novel. The problem with the English title is that it leads the reader to expect some totalitarian political novel, which it is not. The memory police serve as a cause for fear because of their control of the population, but that is not the point at all. To my mind, the novel is really about the acceptance of loss. Loss of memories, loss of many good things in life, loss of loved ones, loss of abilities.&lt;/p&gt;
+
+&lt;!-- I have been considering the implication of the existence of the Memory Police in the novel (which in Japanese is simply called the　Secret Police, _himitsu keisatsu_ 秘密警察). There seems to be no reason why they should exist. Then I realised that there does not need to be a reason beyond their purpose: those in power have realised that a given situation can be exploited to gain additional control over the population, and created the system to exert that control. That the situation does not require this system is entirely irrelevant. The purpose is control. --&gt;
+
+&lt;h2 id=&quot;issues-of-translation-from-japanese&quot;&gt;Issues of translation from Japanese&lt;/h2&gt;
+
+&lt;p&gt;I am increasingly interested in issues of translation from Japanese.  Reading a Japanese novel does not require full translation, because I don’t need to turn a Japanese sentence into an English  one (or a Dutch one, as that is my native tongue) to understand it. I’ve written a few blog posts on &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/reading-murakami/&quot;&gt;reading Japanese&lt;/a&gt;, especially &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/learning-japanese-reading-murakami/&quot;&gt;as a learner&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;But while reading this novel I did think a lot about how it could be translated. What is peculiar in this novel is that there are hardly any typically Japanese elements. It could be set anywhere. Mentions of food are very unspecific; people drink coffee, black tea or cocoa and sometimes wine. Even terms that could have been specific such as the mention of an altar to the sea gods in an old ferry, are not: the word used is &lt;em&gt;umi no kamisama no saidan&lt;/em&gt; 海の神様の祭壇 rather than the more common Shinto term &lt;em&gt;watatzumi no kamidana&lt;/em&gt; 海神の神棚. 
+There are the typically Japanese politeness levels and honorary pre- and suffixes, but if I were to translate it, I would not try to emulate them. Especially the old man is &lt;em&gt;very&lt;/em&gt; polite, and always refers to the narrator as &lt;em&gt;ojousama&lt;/em&gt; お嬢様, a very formal way of saying “Miss”.
+The word used for clothes is  &lt;em&gt;youfuku&lt;/em&gt; 洋服, Western clothes, but I feel that is purely for the benefit of the Japanese audience, so I would just translate it as “clothes”.
+The climate is definitely not Scotland but not specifically Japan either, nor is the vegetation that is mentioned.&lt;/p&gt;
+
+&lt;p&gt;So it is carefully unspecific, at least in the initial chapters. It made me wonder if there was any benefit at all in reading it in Japanese. The translation is excellent, it was shortlisted for the Booker Prize 2020. And yet, I find the Japanese very beautiful and I think impossible to convey entirely in translation.&lt;/p&gt;
+
+&lt;p&gt;The translator, Stephen Snyder, &lt;a href=&quot;https://shelfmediagroup.com/interview/interview-stephen-snyder-translator-for-the-memory-police-by-yoko-ogawa/&quot;&gt;says in an interview&lt;/a&gt;: “Yoko Ogawa’s prose in Japanese is extraordinarily beautiful, so it’s always a challenge to try to find a way to capture even a vague sense of that beauty in English.”&lt;/p&gt;
+
+&lt;p&gt;And I just like reading Japanese, slowly.&lt;/p&gt;
+
+&lt;p&gt;While reading I noted down some typical Japanese cultural elements that caught my eye.&lt;/p&gt;
+
+&lt;p&gt;(Indented sentences are quotes. English quotes in italics are from the translation by Stephen Snyder, other translations are mine.)&lt;/p&gt;
+
+&lt;h3 id=&quot;roses&quot;&gt;Roses&lt;/h3&gt;
+
+&lt;p&gt;For about the first quarter of the novel, there are no Japan-specific references, but then, in Chapter 6, with the disappearance of the roses, there was one after all: primary school kids with &lt;em&gt;randoseru&lt;/em&gt; ランドセル , firm-sided school backpacks made of leather. A less specific word would have been 学生鞄 &lt;em&gt;gakusei kaban&lt;/em&gt; (school bag). The word &lt;em&gt;randoseru&lt;/em&gt; derives from the Dutch “ransel”; they are very typical for Japanese schoolkids. Still, when I was in primary school in Flanders, I had one too, with a slightly different shape, wider and less deep; we just called it “boekentas” (book bag). I loved the sound the clasps made. And when you ran with it on, the books and pens etc would rattle inside, which is exactly what the writer describes as well:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The children took off running along the river, their backpacks rattling behind them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;子供たちはランドセルを鳴らしながら、流れを追いかけていった。&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;kodomotachi ha RANDOSERU wo narashinagara, nagare wo oikakete itta.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;With rattling school bags, the kids went chasing the flow.&lt;/blockquote&gt;
+
+&lt;p&gt;And another, perhaps less obvious, cultural reference, occurs at the start of Chapter 7:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At the base of the bridge next to my laundry platform stood an elegantly dressed woman. &lt;br /&gt; “What lovely roses,” I told her.&lt;br /&gt;This was the first thing that came to mind.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;洗濯場にかかる橋のたもとにも、お金持ち風の婦人が一人、たたずんでいた。&lt;br /&gt;「気品のあるバラですね」わたしは言った。&lt;br /&gt;それでふと頭に浮かんだ修飾語を、そのまま口にしたのだった&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;sentakujo ni kakaru hashi no tamoto ni mo, okanemochi fuu no fujin ga hitori, tatazunde ita.&lt;br /&gt;“kihin no aru bara desu ne” watashi ha itta.&lt;br /&gt;sore de futo atama ni ukanda shoushokugo wo, sono mama kuchi ni shita no datta.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The “What lovely roses” in Japanese is “&lt;em&gt;kihin no aru bara desu ne&lt;/em&gt;” (what elegant roses), and the narrator comments on her random choice of “&lt;em&gt;kihin no aru&lt;/em&gt;”  with the term &lt;em&gt;shoushokugo&lt;/em&gt; 修飾語 which is the general grammatical term for “modifier” (she is after all a novelist). That is because it is an adjectival sentence rather than an adjective (“roses that have elegance”).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Once her work was done, she turned and, without a glance at the stream, gave me the sort of graceful bow typical of people of her class and left.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;すべての作業が終わると婦人は、川の流れを目で追い掛けようともせず、上流階級の人独特のゆったりとしたお辞儀をして、わたしから離れていった。&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;subete no sagyou ga owaru to fujin ha, kawa no nagare wo me de oikake you to mo sezu, jouryuukaikyuu no hito dokutoku no yuttari shita ojigi wo shite, watashi kara hanarete itta.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The “graceful bow” is a &lt;em&gt;jiki&lt;/em&gt; 辞儀, a bow accompanying a greeting, rather than &lt;em&gt;rei&lt;/em&gt; 礼, a bow to thank someone. The narrator uses the words &lt;em&gt;jouryuukaikyuu no hito&lt;/em&gt; 上流階級の人 (upper class person) and &lt;em&gt;yuttari to shita&lt;/em&gt; ゆったりとした (easy, leisurely) bow.&lt;/p&gt;
+
+&lt;h3 id=&quot;iriko&quot;&gt;&lt;em&gt;Iriko&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;In Chapter 8, where R visits the narrator’s mother’s workshop in the basement, the narrator recalls her mother eating &lt;em&gt;iriko&lt;/em&gt; イリコ (also written 炒り子). This is quite specific: the term is only used in the West of Japan (and also in Hawaii, because of immigrants from Western Japan). It refers to Japanese anchovy fry  (&lt;em&gt;kataguchi-iwashi&lt;/em&gt;, 片口鰯), boiled in brine and then dried. In the rest of Japan they are called &lt;em&gt;niboshi&lt;/em&gt; or &lt;em&gt;jako&lt;/em&gt;. The writer was born in Okayama, Okayama Prefecture in Kansai, so that is probably why she uses the word &lt;em&gt;iriko&lt;/em&gt; rather than &lt;em&gt;niboshi&lt;/em&gt;. To translate it in a culturally context-free way, you could of course just say dried anchovies.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“My mother always kept dried sardines wrapped in newspaper on the desk in her studio, and she would snack on them as she worked.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;「母は仕事場の机に、いつも新聞紙にくるんだイリコを置いていたんです。それをムシャムシャ食べながら仕事をしていたの。」&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;haha ha shigotoba no tsukue ni, itsumo shinbungami ni kurunda IRIKO wo oite itandesu. sore wo MUSHAMUSHA tabenagara shigoto wo shite ita no.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;the-secret-police-does-not-take-prisoners&quot;&gt;The Secret Police does not take prisoners&lt;/h3&gt;
+
+&lt;p&gt;In Chapter 13, the narrator is at the head office of the secret police and talking to a kind of receptionist. She says 「差し入れ」 (&lt;em&gt;“sashiire”&lt;/em&gt;) and the person she’s talking to says 「さしいれ？」(&lt;em&gt;“sashiire?”&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;The word 差し入れ (sashi-ire) has the following meanings:
+(1) Insertion, letter drop.
+(2) Things sent to a prisoner.
+(3) Supply of provisions, refreshments, etc. to someone carrying out a task.&lt;/p&gt;
+
+&lt;p&gt;In the novel the meaning is clearly “Things sent to a prisoner”&lt;/p&gt;
+
+&lt;p&gt;The subtext is that the receptionist pretends not to understand this word (because of course the secret police does not take &lt;em&gt;prisoners&lt;/em&gt;).
+The use of &lt;em&gt;hiragana&lt;/em&gt; for this word normally written in &lt;em&gt;kanji&lt;/em&gt; makes that very clear, but is difficult to bring across in translation: use of italics or quotes do not have quite the same effect.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“I have a package I’d like to have delivered to an acquaintance…” My voice trailed off, echoing from the ceiling before being lost in the vastness of the hall.&lt;br /&gt;
+    “Package?” He paused, twirling his pen in his fingers, and repeated the word as though trying to recall the meaning of some rarely used philosophical term.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;kanji-and-the-latin-alphabet&quot;&gt;&lt;em&gt;Kanji&lt;/em&gt; and the Latin alphabet&lt;/h3&gt;
+
+&lt;p&gt;In the second chapter of the novel, the narrator refers to her father’s documents about birds with containing “”鳥”という 字” (&lt;em&gt;“tori” to iu ji&lt;/em&gt;). You can translate that as “the word ‘bird’, but  although &lt;em&gt;ji&lt;/em&gt;  can mean “word”, it usually means “character” and is anyhow more specific than &lt;em&gt;kotoba&lt;/em&gt; (word).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When they came upon something they considered dangerous—in other words, anything that contained the word “bird”—they threw the item unceremoniously on the floor.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;危険とみなされたものはーーつまりどこかに一つでも”鳥”という字がみつかったものはーーどんどん床に放り投げられていった。&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;kiken to minasareta mono ha – tsumari nanika hitotsu demo “tori” to iu ji ga mitsukatta mono ha – dondon yuka ni　hourinagerarete itta.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In the third chapter there is a scene of the narrator writing a novel, and she describes the typical &lt;em&gt;genkouyoushi&lt;/em&gt; 原稿用紙,  i.e “paper for manuscripts”, Japanese writing paper lined with a square grid, one square per character. Of course as a translator you could just say “writing paper”.&lt;/p&gt;
+
+&lt;p&gt;But in Chapter 14 there is a scene where the narrator, still in the HQ of the secret police, mentions specifically that someone is writing using the alphabet (&lt;em&gt;arufabetto&lt;/em&gt; アルファベット ):&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;His papers were thickly covered with numbers and letters in a script I did not understand.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;書類には意味のよく分らない数字やアルファベットが、びっしり書き込んであった。&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;shorui ni ha imi no yoku wakaranai suuji ya ARUFABETTO ga, bisshiri kakikonde atta.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If I would have translated the earlier kanji-specific terms in a generic way, then I would have to say&lt;/p&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;&lt;br /&gt;The forms were densely filled in with numbers and letters the meaning of which I didn't understand very well&lt;/blockquote&gt;
+
+&lt;p&gt;Whereas if I had been specific about the earlier writing being in kanji, I could translate&lt;/p&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;&lt;br /&gt;The forms were densely filled in with numbers and  characters in the latin alphabet, the meaning of which I didn't understand very well&lt;/blockquote&gt;
+
+&lt;p&gt;It does not matter much of course, but in the latter case the story would be more clearly set in Japan than in the former.&lt;/p&gt;
+
+&lt;h3 id=&quot;onomatopoeic-and-mimetic-words&quot;&gt;Onomatopoeic and mimetic words&lt;/h3&gt;
+
+&lt;p&gt;As an aside, Japanese has many words with the structure like the word &lt;em&gt;bisshiri&lt;/em&gt; びっしり (densely written) used in that sentence: four &lt;em&gt;hiragana&lt;/em&gt; characters, the second a small &lt;em&gt;tsu&lt;/em&gt; っ which indicates a glottal stop, and the last one &lt;em&gt;ri&lt;/em&gt; り. For example, &lt;em&gt;bikkuri&lt;/em&gt;　(surprised, frightened), &lt;em&gt;tappuri&lt;/em&gt; (plentiful), &lt;em&gt;sappari&lt;/em&gt; (feeling refreshed) etc.　Someone at made an attempt to enumerate them and &lt;a href=&quot;http://www1.kcn.ne.jp/~bamba/tips/XxXX.html&quot;&gt;counted 158 of them&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The National Institute for Japanese Language and Linguistics says that 103 of these words with pattern AっBり are &lt;a href=&quot;https://www2.ninjal.ac.jp/Onomatope/column/nihongo_2.html&quot;&gt;onomatopoeic and mimetic words&lt;/a&gt;. Japanese has about two thousand of these onomatopoeic and mimetic words; there are many forms but the most common is ABAB (like &lt;em&gt;wakuwaku&lt;/em&gt; わくわく, nervous, trembling, excited; or &lt;em&gt;mushamusha&lt;/em&gt; ムシャムシャ, munching); the pattern ABり (like &lt;em&gt;shikiri&lt;/em&gt; しきり, frequent, continual) is also quite common.&lt;/p&gt;
+
+&lt;p&gt;Yoko Ogawa makes liberal use of such words and it is one of the aspects that is hard to convey in translation, especially the mimetic words.&lt;/p&gt;
+
+&lt;!-- Nothing in Chapters 9, 10 , 11, 12? --&gt;
+&lt;h3 id=&quot;baumkuchen&quot;&gt;Baumkuchen&lt;/h3&gt;
+
+&lt;p&gt;At the end of Chapter 13 is a very specific Japanese cultural reference, the mention of &lt;em&gt;baumukuuhen&lt;/em&gt; バウムクーヘン, “Baumkuchen”. This is a kind of cake of German origin that looks like a cross-section of a tree trunk with a hole in the middle, as it is baked on a spit. It is very popular in Japan. I used to buy them in the &lt;em&gt;konbini&lt;/em&gt; to have with my coffee. And it is specifically popular as a gift to guests at weddings, which is exactly the case in the novel.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“My parents had come home from the wedding, but neither of them seemed to realize that I’d slept the entire day. They were animated and wanted me to taste the cake they had brought home from the reception.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;「両親が結婚式から帰ってきたんです。二人ともわたしが眠り続けていたことに、気づきもしませんでした。さあ、お土産のバウムクーヘンを食べましょうなんて、うきうきしているだけなんです」&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“ryoushin ga kekkonshiki kara kaette kitandesu. futari tomo watashi ga nemuritsdzukete ita koto ni, kidzuki mo shimasen deshita. saa, omiyage no BAUMUKUUHEN wo tabemashou nante, ukiuki shite iru data nandesu”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If as a translator I wanted to avoid the cultural reference I could replace it by “wedding cake”, and that would at least work in Anglo-Saxon countries. In other countries where guests don’t get to take a piece of cake home (like in Flanders), the text gives me a way out because it refers to the Baumkuchen as &lt;em&gt;omiyage&lt;/em&gt; (お土産, local specialty or souvenir bought as a gift while travelling) so I could simply call it “the local speciality cake” or something similar.　&lt;/p&gt;
+
+&lt;p&gt;On the whole, if I were to translate this novel, I think I would prefer to keep the few Japanese cultural references as they are. It would fit better with other culturally specific elements such as the politeness levels, which it would be rather a shame to remove entirely in translation.&lt;/p&gt;
+
+&lt;h3 id=&quot;loanwords&quot;&gt;Loanwords&lt;/h3&gt;
+
+&lt;p&gt;Japanese has a lot of loanwords that are written in &lt;em&gt;katakana&lt;/em&gt;. Most of them are from American English, to the extent that it is a running joke that you can speak Japanese with only &lt;em&gt;katakana&lt;/em&gt;-English.&lt;/p&gt;
+
+&lt;p&gt;I am generally more interested in the &lt;em&gt;katakana&lt;/em&gt; loanwords that are not from English. In this novel there are quite a few. I already mentioned &lt;em&gt;randoseru&lt;/em&gt; and &lt;em&gt;baumukuuhen&lt;/em&gt;. Other examples are &lt;em&gt;mesu&lt;/em&gt; メス from Dutch “mes” – Japanese meaning “scalpel”, Dutch meaning knife; &lt;em&gt;kokku&lt;/em&gt; コック from Dutch “kok”, “cook”; &lt;em&gt;karute&lt;/em&gt; カルテ from German &lt;em&gt;Karte&lt;/em&gt; – Japanese meaning “clinical record”, German meaning “card”; and &lt;em&gt;noruma&lt;/em&gt; ノルマ from Russian “norma” – Japanese meaning “quota”, Russian meaning “norm”.&lt;/p&gt;
+
+&lt;p&gt;I like such words because they relate to Japan’s history, for example Japan imported the German medical system in the 19th century; the Baumkuchen were created by a German baker, an ex-prisoner-of-war, for the Hiroshima Prefectural Commercial Exhibition in 1919. The Dutch words are even older as they were one of the few nations allowed to trade with Japan in the Tokugawa era (early 1600s), together with the Portuguese from which amongst others パン “pan”, bread was loaned.&lt;/p&gt;
+
+&lt;p&gt;In the novel, the bread is usually ロールパ &lt;em&gt;roorupan&lt;/em&gt; which means “breadroll”, the &lt;em&gt;rooru&lt;/em&gt; (roll) borrowed from English, or &lt;em&gt;furansupan&lt;/em&gt; フランスパン “French bread”. In common Japanese, the most common word is &lt;em&gt;shokupan&lt;/em&gt; 食パン which is typically a white square loaf; &lt;em&gt;shoku&lt;/em&gt; just means “food”.&lt;/p&gt;
+
+&lt;p&gt;An English loanword that is interesting from a translation perspective is ショートケーキ &lt;em&gt;shootokeeki&lt;/em&gt;, “shortcake”, because this is a typical American cake also popular in Japan. If I were translate this novel into Dutch with Japanese cultural references I would leave it as “shortcake”; but it’s a type of cake not so well known in Flanders so otherwise I would probably use “gâteau” as that is a similar cake for a Flemish audience. (And yes, that is a loanword from French into Flemish.)&lt;/p&gt;
+
+&lt;!-- That section from Ch 13 is not in the online book?  --&gt;
+&lt;!-- Nothning in 15? --&gt;
+
+&lt;h3 id=&quot;cherry-blossoms&quot;&gt;Cherry blossoms&lt;/h3&gt;
+
+&lt;p&gt;If there was still any doubt about the Japanese setting of the novel, the following sentence in Chapter 16 puts an end to that:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Even if we couldn’t recall the exact date, I knew that his came around every year just as the cherry blossoms were budding out. I was quite certain that time was fast approaching.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;日付けは思い出せなくても、毎年桜がわずかに開き始める季節だったことは確かで、
+そろそろそういう時期が近づいてきたという予感は間違いなくするのだった。&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;nittsuke ha omoidasenakute, mainen sakura ga wazuka ni hirakihajimeru kisetsu datta koto ha tashika de, sorosoro sou iu jiki ga chikadzuite kita tou iu yokan ha machigainaku suru no datta.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;Even though I couldn't remember the date anymore, it was certainly around the time when every year the cherry blossoms just started to open, and I had the unmistakeable premonition that that season was soon drawing near.&lt;/blockquote&gt;
+
+&lt;p&gt;The &lt;em&gt;sakura&lt;/em&gt;, cherry blossoms, are quintessentially Japanese.&lt;/p&gt;
+
+&lt;h3 id=&quot;music-box&quot;&gt;Music box&lt;/h3&gt;
+
+&lt;p&gt;In Chapter 16, another nice loanword appears, again from Dutch: &lt;em&gt;orugooru&lt;/em&gt; オルゴール  from “orgel”, meaning music box. The word “orgel” literally means organ. The mechanism for music boxes were initially based on the barrel organ, “draaiorgel” in Dutch. According to Kotobank, the first mention in Japanese is in a publication from 1750.&lt;/p&gt;
+
+&lt;p&gt;The scene where this &lt;em&gt;orugooru&lt;/em&gt; is introduced is one of my favourite scenes in the novel. Such a nice description of the emotions that listening to the melody played by a music box evokes. It is all the more poignant because the narrotor and the old man have no memory of music boxes anymore.&lt;/p&gt;
+
+&lt;p&gt;This is one of the two Japanese words kept in the English translation:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“It’s not really magic,” R said. “It’s an orugooru.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;「魔術だなて大げさなものじゃありません。これはオルゴールです」R氏が言った。&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“majutsu da nante oogesa na mono ja arimasen. kore ha ORUGOORU desu” R-shi ga itta.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;yamato-and-wa&quot;&gt;Yamato and &lt;em&gt;wa&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;In Chapter 19, there is an explicit reference to Japan:  &lt;em&gt;washitsu&lt;/em&gt; 和室, Japanese-style room. The character 和 (&lt;em&gt;wa&lt;/em&gt;) means both harmony, peace and Japan, Japanese-style.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Needless to say, I offered them the Japanese-style room on the first floor, as far as possible from the hidden room.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;もちろんわたしは一階の和室ーー隠し部屋から一番遠い部屋ーーを提供してあげた。&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;mochiron watashi ha ikkai no washitsu – kakushiheya kara ichiban tooi heya – wo teikyou ageta.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The story behind the use of this character to mean Japan is quite interesting. Long ago, Japan was called Yamato. Originally, that was a region in what is now Nara prefecture, where the first capital was. Eventually it came to mean all of Japan. (Later it came to be called Nihon (日本) but that’s another story; as is why it’s called “Japan” in English.)&lt;/p&gt;
+
+&lt;p&gt;From the 3th century CE,  the Japanese adopted the Chinese writing system and until the 7th century, “Yamato” was written 倭,  the character the Chinese had been using for a long time to refer to the inhabitants of the  Japanese islands.&lt;/p&gt;
+
+&lt;p&gt;As I explained earlier, most kanji have two types of readings, “onyomi”, which is based on the Japanese rendition of the ancient Chinese pronunciation of a character, and kunyomi, which is the native Japanese reading. The kunyomi for 倭　is &lt;em&gt;yamato&lt;/em&gt;; the onyomi is &lt;em&gt;wa&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Then at the start of the Nara period, in 713 CE, the empress Genmei decreed that Yamato (and in fact all important place names) should be written with two “auspicious characters”. Therefore 倭 was prefixed with the character 大, “great”. So it became 大倭,  pronounced in full Ooyamato but usually just Yamato.&lt;/p&gt;
+
+&lt;p&gt;Then, for reasons lost in time, later in the Nara period, 倭 became replaced with 和 which has the same onyomi (&lt;em&gt;wa&lt;/em&gt;), but also means “peace, harmony”.&lt;/p&gt;
+
+&lt;p&gt;Both writings coexisted for a long time but eventually 大和 became the preferred writing. And so now 和 &lt;em&gt;wa&lt;/em&gt; is used to mean “Japanese”.&lt;/p&gt;
+
+&lt;h3 id=&quot;writing-practice&quot;&gt;Writing practice&lt;/h3&gt;
+
+&lt;p&gt;In Chapter 20, the narrator writes out a series of characters. The sequence she writes is the first two rows of the standard organisation for &lt;a href=&quot;https://en.wikipedia.org/wiki/Hiragana#Writing_system&quot;&gt;the Japanese syllabary&lt;/a&gt;, a table with ten rows and five columns, one colum for each vowel sound and one row for each starting consonant.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To warm up my fingers, I tried writing a, i, u, e, o. Then, taking care to match the size of the characters to the lines on the paper, I continued with ka, ki, ku, ke, ko.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;指慣らしのために最初、あ、い、う、え、お、と書いて見る。ますめと字の大きさのバランスを確かめながら、か、き、く、け、こと続ける。&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;yubinarashi no tame ni sasho, a, i, u, e, o to kaite miru. masume to ji no ookisa no BARANSU wo tashikamenagara, ka, ki, ku, ke, ko to tsudzukeru.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The word &lt;em&gt;masume&lt;/em&gt; means a square on Japanese manuscript paper.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-childrens-game-and-candy&quot;&gt;A childrens’ game and candy&lt;/h3&gt;
+
+&lt;p&gt;In the later chapters, there are more specifically Japanese references, for example in Chapter 22, there is a mention of おはじき &lt;em&gt;ohajiki&lt;/em&gt;, a traditional Japanese children’s game similar to marbles, played with coin-shaped pieces made of coloured glass or plastic.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;So I sounded out the children’s songs my nurse had taught me or the tune we had used to count for tiddlywinks.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;仕方ないで、昔ばあやさんが歌ってくれた子守歌や、おはじきの数え歌をただただしく吹いた。&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;shikatanai de, mukashi baayasan ga utatte kureta komoriuta ya, ohajiki no kazoeuta wo tadatadashiku fuita.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There is also a mention of　&lt;em&gt;ramune&lt;/em&gt; ラムネ, fizzy soda candy, a &lt;a href=&quot;https://www.morinaga.co.jp/ramune/&quot;&gt;typical Japanese type of candy&lt;/a&gt;. This is the only other place in the novel where the translator has kept a Japanese word.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Is it medicine?” I asked. &lt;br /&gt; “No, it’s called &lt;em&gt;ramune&lt;/em&gt;. I’m impressed that your mother tried to preserve something as ordinary as this.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;「何かの薬かしら」わたしは言った。&lt;br /&gt;
+「いいや。ラムネだよ。君のお母さんはこんなささやかな物まで、大事に取っていたんだね」&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“nanika no kusuri kashira” watashi ha itta.&lt;br /&gt;“iiya. RAMUNE da yo. kimi no okaasan ha konna sasayaka no mono made, daiji ni totteitanda ne”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And further:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“It’s a lemon-flavored candy. When we were children, all the stores sold them and there were countless &lt;em&gt;ramune&lt;/em&gt; on the island, but now there are only these few left here.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;「砂糖菓子さ。子供の頃はお店にいくらでも売っていた。島中には数えきれないくらいのラムネがあった。でも今残っているのは、ここにある数粒だけだ」&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“satoukashi sa. kodomo no goro ha omise ni ikurademo utteita. touchuu ni ha kazoekirenaikurai no RAMUNE ga atta. demo ima nokotte iru no ha, koko ni aru suutsubu dake da”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Japanese word &lt;em&gt;satoukashi&lt;/em&gt; 砂糖菓子 means simply “sugar candy”.&lt;/p&gt;
+
+&lt;h3 id=&quot;trains&quot;&gt;Trains&lt;/h3&gt;
+
+&lt;p&gt;Chapter 23 features a train journey. Train is normally  &lt;em&gt;densha&lt;/em&gt; 電車 which literally means “electric vehicle”, but the novel always uses &lt;em&gt;kisha&lt;/em&gt; 汽車 “train, esp. long distance, but originally steam train” (&lt;em&gt;ki&lt;/em&gt; means steam). And as it mentions a whistle, I think it is actually a steam train.&lt;br /&gt;
+The other word used is  &lt;em&gt;ressha&lt;/em&gt; 列車 the term for “train” used by the railway companies; &lt;em&gt;retsu&lt;/em&gt; means “file”, so it is literally a file of cars.&lt;/p&gt;
+
+&lt;p&gt;There are mentions of several types trains:  &lt;em&gt;kyuukou&lt;/em&gt; 急行 “express” and  &lt;em&gt;tokkyuu&lt;/em&gt; 特急 “limited express” (faster than an express) and also of the  &lt;em&gt;kaisatsuguchi&lt;/em&gt; 改札口, ticket gates.&lt;/p&gt;
+
+&lt;p&gt;Trains are of course universal but this terminology is quite specific to the Japanese railway system. Also, for me personally, it evokes memories of taking the train in Japan.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-hands-of-the-old-man-made-many-things&quot;&gt;The hands of the old man made many things&lt;/h3&gt;
+
+&lt;p&gt;In Chapter 24 there is a beautiful description of the hands of the old man, with a list of objects his hands had made.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have always loved his hands, from the time I was a little girl. They could make almost anything: a toy box, a plastic model, a cage for a rhinoceros beetle, a beanbag, a desk lamp, a bicycle seat cover, smoked fish, an apple cake.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;子供の頃から、わたしはおじいさんの手が大好きだった。みんなで一緒に出掛ける時は、いつでもおじいさんと手をつないだ。それはおもちゃ箱や、自動車のプラモデルや、カブト虫の飼育箱や、お手玉や、電気スタンドや、自転車のサドルカバーや、魚の燻製や、リンゴケーキや、とにかく何でも作り出すことができる。&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;kodomo no goro kara, watashi ha ojiisan no te ga suki datta. minna de issho ni dekakeru toki ha, itsudemo ojiisan no te wo tusnaida. sore ha omochabako, jidousha no PURAMODERU ya, KABUTOmushi no shiikubako ya, otedama ya, deki SUTANDO ya, jitensha no SADORUKABAA ya, sakana no kunsei ya, RINGOKEEKI ya, tonikaku nandemo tsukuridasu koto ga dekiru.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Some of these are very typical: カブト虫の飼育箱 &lt;em&gt;kabutomushi no shiikubako&lt;/em&gt;,  a cage for rearing a Japanese rhinoceros beetle;　お手玉 &lt;em&gt;otedama&lt;/em&gt;  (translated above as “beanbag”) are &lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%81%8A%E6%89%8B%E7%8E%89&quot;&gt;balls of colourful fabric filled with rice or beans&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There is a small phrase left untranslated:&lt;/p&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;&lt;br /&gt;みんなで一緒に出掛ける時は、いつでもおじいさんと手をつないだ。&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;minna de issho ni dekakeru toki ha, itsudemo ojiisan no te wo tusnaida&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;no-italic&quot;&gt;When we all went out together, I was always holding the old man's hand.&lt;/blockquote&gt;
+
+&lt;p&gt;It doesn’t work so well in English because for the narrator, &lt;em&gt;ojiisan&lt;/em&gt; is a term of endearment, and “the old man” does not carry that connotation.&lt;/p&gt;
+
+&lt;p&gt;All in all, there are very few explicit Japanese cultural references in the original novel, only about one for every two chapters. It’s interesting to see that the English translation keeps enough of them that the Japanese setting of the novel is still clear to the attentive reader.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The banner picture shows green tea Baumkuchen in a shop in Kyoto.&lt;/em&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Parsnip pizza</title>
@@ -34,6 +400,8 @@
   &lt;li&gt;Fermented broad bean paste (called &lt;em&gt;doubanjiang&lt;/em&gt; in Chinese, &lt;em&gt;tobanjan&lt;/em&gt; in Japanese) is a key ingredient, as it adds both umami and spicyness to the parsnips. Make sure to check the ingredients as there are many types of chilli bean paste and a lot of them are not vegetarian. The Chinese characters are 豆瓣酱. If it says 辛豆瓣酱 then it will be very spicy. The brand I got is Pearl River Bridge Chilli Bean Paste.&lt;/li&gt;
   &lt;li&gt;What I call tomato purée is called tomato paste in the US.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;https://quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;600 kcal per person&lt;/em&gt;  &lt;a href=&quot;https://quickandtastycooking.org.uk/tags/#400-600kcals&quot;&gt;&lt;img src=&quot;https://quickandtastycooking.org.uk/images/battery_lvl_2.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
 
@@ -99,6 +467,273 @@
   &lt;li&gt;Put the pizza back in the oven and bake for another 3 minutes.&lt;/li&gt;
 &lt;/ul&gt;
 
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Aubergine salad</title>
+        <link href="https://quickandtastycooking.org.uk/recipes/aubergine-salad/"/>
+        <updated>2021-12-29T00:00:00+00:00</updated>
+        <id>https://quickandtastycooking.org.uk/recipes/aubergine-salad</id>
+        <author>
+					<name>Wim</name>
+					<uri>https://quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/aubergine-salad_1600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;This is a nice summery salad of aubergines, chick peas and fresh mushrooms, served with Japanese rice in a separate bowl. It’s very simple, the secret is in the dressing.&lt;/p&gt;
+
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;https://quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;https://quickandtastycooking.org.uk/tags/#gluten-free&quot;&gt;&lt;em&gt;gluten-free&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;https://quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;600 kcal per person&lt;/em&gt;  &lt;a href=&quot;https://quickandtastycooking.org.uk/tags/#400-600kcals&quot;&gt;&lt;img src=&quot;https://quickandtastycooking.org.uk/images/battery_lvl_2.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;For two people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Main ingredients
+    &lt;ul&gt;
+      &lt;li&gt;1 tin of chick peas&lt;/li&gt;
+      &lt;li&gt;100 g fresh mushrooms&lt;/li&gt;
+      &lt;li&gt;300 g aubergines&lt;/li&gt;
+      &lt;li&gt;1 cup Japanese rice&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ingredients for the dressing:
+    &lt;ul&gt;
+      &lt;li&gt;1 tablespoon chopped ginger&lt;/li&gt;
+      &lt;li&gt;1 tablespoon tomato puree&lt;/li&gt;
+      &lt;li&gt;1 teaspoon tobanjan (chilli bean sauce)&lt;/li&gt;
+      &lt;li&gt;1 tablespoon vinegar&lt;/li&gt;
+      &lt;li&gt;1 tablespoon soy sauce&lt;/li&gt;
+      &lt;li&gt;1 tablespoon yuzu juice&lt;/li&gt;
+      &lt;li&gt;1 teaspoon garlic oil&lt;/li&gt;
+      &lt;li&gt;3 tablespoons pumpkin seeds ground in a mortar&lt;/li&gt;
+      &lt;li&gt;the cooking liquid from the aubergines&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quickandtastycooking.org.uk/basics/#toc0&quot;&gt;Cook the rice&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Wash the chick peas.&lt;/li&gt;
+  &lt;li&gt;Wash and dice the aubergines and cook them for 12 minutes in the microwave at 900 W.&lt;/li&gt;
+  &lt;li&gt;Slice the mushrooms.&lt;/li&gt;
+  &lt;li&gt;Put the chick peas, cooked aubergines and mushrooms in a bowl and add the dressing. Mix well.&lt;/li&gt;
+  &lt;li&gt;Serve the rice in a separate bowl.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>The mystery of the giant Kannon statues</title>
+        <link href="https://quickandtastycooking.org.uk/articles/kannon/"/>
+        <updated>2021-05-01T00:00:00+01:00</updated>
+        <id>https://quickandtastycooking.org.uk/articles/kannon</id>
+        <author>
+					<name>Wim</name>
+					<uri>https://quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/kannon_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Some time ago I stumbled across an intriguing random fact: of the &lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_tallest_statues&quot;&gt;fifty tallest statues in the world&lt;/a&gt;, fourteen are of the Buddha but eighteen are of a being called &lt;em&gt;Kannon&lt;/em&gt; in Japanese (&lt;em&gt;Guanyin&lt;/em&gt; in Chinese). Thirteen of these tallest statues are in Japan and twelve of these are  Kannon statues (the other is a statue of the Buddha).&lt;/p&gt;
+
+&lt;p&gt;So who is this Kannon, and why are some many of the tall statues of it, in particular in Japan?&lt;/p&gt;
+
+&lt;p&gt;First of all, there is little mystery in the tall statues themselves. They are almost invariably built either as tourist attractions or as war memorials. What is more interesting though is why so many of them represent the Kannon.&lt;/p&gt;
+
+&lt;h2 id=&quot;buddha-and-bodhisattva&quot;&gt;Buddha and Bodhisattva&lt;/h2&gt;
+
+&lt;p&gt;Buddhism originated in India sometime between the sixth and fourth century BCE, and spread to Japan via China in the first half of the sixth century CE. By that time, it had already developed a long tradition and forked into several branches. There are three major  schools of Buddhism: &lt;a href=&quot;https://www.namchak.org/community/blog/three-different-paths-theravada-mahayana-and-vajrayana/&quot;&gt;&lt;em&gt;Theravada&lt;/em&gt;, &lt;em&gt;Mahāyāna&lt;/em&gt;, and &lt;em&gt;Vajrayana&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In general in Buddhism, a &lt;em&gt;bodhisattva&lt;/em&gt; (a sentient being, &lt;em&gt;sattva&lt;/em&gt; , that develops enlightenment, &lt;em&gt;bodhi&lt;/em&gt;) is any person who is on the path towards Buddhahood. Specifically in Mahāyāna Buddhism, a bodhisattva refers to anyone who has developed a mind that strives toward awakening (attaining Buddhahood), empathy, and compassion for the benefit of all sentient beings. (This is known as &lt;em&gt;bodhicitta&lt;/em&gt;.)&lt;/p&gt;
+
+&lt;h2 id=&quot;kannon&quot;&gt;Kannon&lt;/h2&gt;
+
+&lt;p&gt;In Japanese, &lt;em&gt;bodhisattva&lt;/em&gt; are know as &lt;em&gt;bosatsu&lt;/em&gt; (菩薩). One &lt;em&gt;bosatsu&lt;/em&gt; that is especially popular is &lt;em&gt;Kannon&lt;/em&gt; (観音). The word is a contraction of &lt;em&gt;Kanzeon&lt;/em&gt; (観世音), which in its turn is the most commonly used translation of the bodhisattva known in Sanskrit as &lt;em&gt;Avalokiteśvara&lt;/em&gt;. Kannon is the bodhisattva associated with compassion. The name means “[The One Who] Perceives (観) the Sounds (音) of the World (世).”&lt;/p&gt;
+
+&lt;p&gt;The Sanskrit term was originally &lt;em&gt;Avalokitasvara&lt;/em&gt; with the ending &lt;em&gt;svara&lt;/em&gt; (“sound, noise”), which means “sound perceiver”, literally “he who looks down upon sound” (i.e., the cries of sentient beings who need his help).  Over time, the name changed to Avalokiteśvara. The ending &lt;em&gt;īśvara&lt;/em&gt; means “lord”, so the meaning became “lord who gazes down (at the world)”, but &lt;em&gt;kannon&lt;/em&gt; retains the original meaning.&lt;/p&gt;
+
+&lt;p&gt;This bodhisattva is also referred to as Padmapāṇi (“Holder of the Lotus”) or Lokeśvara (“Lord of the World”). In Tibetan, Avalokiteśvara is known as Chenrézig and the Dalai Lama is considered the reincarnation of Chenrézig.&lt;/p&gt;
+
+&lt;p&gt;In summary, Kannon is the bodhisattva of infinite compassion who gazes down at the human world,
+hears all the cries of suffering, and works tirelessly to help those who call upon its name.&lt;/p&gt;
+
+&lt;p&gt;The gender of Kannon is rather vague (I will explain that below) so in what follows I will use the pronouns “they/them” to refer to Kannon.&lt;/p&gt;
+
+&lt;h2 id=&quot;buddhism-in-japan&quot;&gt;Buddhism in Japan&lt;/h2&gt;
+
+&lt;p&gt;Outside of Japan, Japanese Buddhism is usually associated with Zen Buddhism, but there are many different Buddhist sects in Japan, and Zen sects are actually a minority.  &lt;a href=&quot;https://www.tofugu.com/japan/japanese-buddhism/&quot;&gt;This Tofugu article&lt;/a&gt; gives a good overview. The dominant form of Buddhism in Japan is Mahāyāna: of the main thirteen sects, eleven are Mahāyāna, including the three Zen sects; only the Ritsu (Theravāda) and Shingon (Vajrayana) sects are not Mahāyāna.&lt;/p&gt;
+
+&lt;p&gt;In Mahāyāna (and Vajrayana) Buddhism, several Buddhas are venerated that are not found in early Buddhism or in Theravada Buddhism. They are considered to be living in other realms, known as “Pure Lands” (&lt;em&gt;Jōdo&lt;/em&gt; 浄土), and are sometimes called “celestial Buddhas” as they are not of this earth.&lt;/p&gt;
+
+&lt;p&gt;The most important of these is Amitābha (&lt;em&gt;Amida&lt;/em&gt; 阿弥陀, “Buddha of Infinite Light”). This is the principal deity of worship for the Pure Land Buddhist sect and sects that derive from this tradition. Kannon is a spiritual emanation of Amida Buddha and therefore occupies a major place in the pantheon.&lt;/p&gt;
+
+&lt;p&gt;Kannon is mentioned in numerous Mahāyāna sutra (religious texts), but especially in Chapter 25 of the &lt;a href=&quot;http://buddhasutra.com/files/lotus_sutra.htm&quot;&gt;Lotus Sutra&lt;/a&gt; (&lt;em&gt;Hokekyō&lt;/em&gt; 法華経). Because they are the bodhisattva of  of infinite compassion, they became the favourite deity.
+Today, Kannon worship is very widespread and essentially non-denominational. Their statues are everywhere, and there are hundreds of pilgrimage routes.&lt;/p&gt;
+
+&lt;h2 id=&quot;gender&quot;&gt;Gender&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://buddhasutra.com/files/lotus_sutra.htm&quot;&gt;Lotus Sutra&lt;/a&gt; describes Avalokiteśvara (Kannon) as a bodhisattva who can take the form of any type of god, any type of Buddha, as well as any gender, adult or child, human or non-human being, in order to teach the Dharma to sentient beings.&lt;/p&gt;
+
+&lt;p&gt;Avalokiteśvara was originally depicted as a male bodhisattva and sometimes even has a light moustache. Although this depiction still exists, in modern times Kannon is more often depicted as a woman or as an  androgynous figure. According to the doctrines of the Mahāyāna sūtras themselves, it does not matter whether Kannon is male, female, or genderless, as the ultimate reality is in emptiness (&lt;em&gt;kū&lt;/em&gt; 空, śūnyatā).&lt;/p&gt;
+
+&lt;h2 id=&quot;manifestations&quot;&gt;Manifestations&lt;/h2&gt;
+
+&lt;p&gt;A total of 33 different manifestations of Kannon are described in Chapter 25 of the &lt;a href=&quot;http://buddhasutra.com/files/lotus_sutra.htm&quot;&gt;Lotus Sutra&lt;/a&gt; depending on whatever a living being needs to be saved. One might think that 33 different forms would be plenty. However, when we look at the Kannon statues, we find that some are indeed part of these 33:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The Byakue Kannon (白衣観音, White-robed Kannon), &lt;a href=&quot;http://www.aisf.or.jp/~jaanus/deta/b/byakuekannon.htm&quot;&gt;“A persistent femininity clings to this kannon even though the figure is shown as a male.”&lt;/a&gt;
+    &lt;figure&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/ryozen_kannon_kyoto.jpg&quot; alt=&quot;A white statue of a seated kannon.&quot; title=&quot;A white statue of a seated kannon.&quot; /&gt;
+&lt;figcaption&gt;The Ryōzen Kannon 霊山観音 of Kyoto, a Byakue Kannon.&lt;/figcaption&gt;
+&lt;/figure&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Guze (救世 , salvation or Shou 聖, holy), a male Kannon. The most famous Guze Kannon statue can be found in the Hōryū-ji Temple (法隆寺) in Nara. It was made in the image of prince Shōtoku Taishi (聖徳太子), the first great patron of Buddhism in Japan, in the early 7th Century. Many statues are copies of this one.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Gyouran (魚籃, Kannon carrying a fish basket), a female Kannon. There is an &lt;a href=&quot;https://blog.mindvalley.com/fish-basket/&quot;&gt;interesting story about this kannon&lt;/a&gt; (and &lt;a href=&quot;http://buddhasutra.com/stories/origin_fish_basket_holding_guanyin.htm&quot;&gt;the same story as a comic&lt;/a&gt;) and &lt;a href=&quot;https://ideal.accelerate-ed.com/pub/a/em/-/lo/cebf7683-740a-4f67-8ba8-921ac4fd4cb2/p/40ed4d52-d4aa-467d-8ef9-37bc4279321b&quot;&gt;another nice one&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But there are also some that are not part of the 33 canonical ones:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Jibō Kannon (慈母, loving mother), a female Kannon holding a baby, patron of motherhood ans children (&lt;em&gt;koyasu&lt;/em&gt; 子安), and both protect the souls of aborted or stillborn children (&lt;em&gt;mizuko&lt;/em&gt; 水子). Despite not being in the canon, this is a very popular Kannon.
+    &lt;figure&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/aizu_jibo_daikannon.jpg&quot; alt=&quot;A white statue of a standing kannon.&quot; title=&quot;A white statue of a standing kannon.&quot; /&gt;
+&lt;figcaption&gt;The Jibō Daikannon of Aizu.&lt;/figcaption&gt;
+&lt;/figure&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Heiwa Kannon (平和 eternal piece), usually male or androgynous, to to pray for world peace and commemorate the war dead. Most of these were built in the 1950s but an interesting example from 1997 is the &lt;a href=&quot;https://impressionsofeastasia.com/2013/04/16/the-unfortunate-history-of-the-whiplash-kannon-and-heiwakannon-ji/&quot;&gt;Awaji Heiwa Kannon&lt;/a&gt;. Some of the Kannon dedicated to world piece are Byakue, like the Ryōzen Kannon above and the Ofuna Kannon in Kamakura.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Maria Kannon (マリア観音, Virgin Mary), a female Kannon. Christianity was banned in Japan during the Tokugawa Era (1615-1867). In the 17th century, the Japanese crypto-Christians created statues of the Virgin Mary disguised as Kannon. These effigies, called Maria Kannon, looked like Jibō Kannon but they were venerated by the Christians silently praying to Mother Mary. Many of the statues had a Christian icon hidden inside the body or in the artwork.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;I consulted many references for this post but these are the most noteworthy:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_tallest_statues&quot;&gt;“List of tallest statues”, Wikipedia page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%B7%A8%E5%A4%A7%E4%BB%8F&quot;&gt;「巨大仏」Wikipedia page on large Buddha and Kannon statues, in Japanese&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.namchak.org/community/blog/three-different-paths-theravada-mahayana-and-vajrayana/&quot;&gt;“Three different paths: Theravada, Mahāyāna, and Vajrayana”, Lama Tsomo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tofugu.com/japan/japanese-buddhism/&quot;&gt;“The Real Japanese Monk’s Guide To Buddhism In Japan”, Mami Suzuki&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.onmarkproductions.com/html/kannon.shtml&quot;&gt;“Kannon Notebook”, Mark Schumacher&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://impressionsofeastasia.com/2013/04/16/the-unfortunate-history-of-the-whiplash-kannon-and-heiwakannon-ji/&quot;&gt;“The unfortunate history of the “Whiplash Kannon” and Heiwakannon-ji”, Austin Smith&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.aisf.or.jp/~jaanus/deta/b/byakuekannon.htm&quot;&gt;“Byakue Kannon 白衣観音”, Japanese Architecture and Art Net Users System&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://knight.as.cornell.edu/kannon-figure-bodhisattva-japanese-buddhism-steven-gump&quot;&gt;“Kannon: Figure of the Bodhisattva in Japanese Buddhism “, Steven Gump&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://buddhasutra.com/files/lotus_sutra.htm&quot;&gt;“The Lotus Sutra”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mindvalley.com/fish-basket/&quot;&gt;“The Buddhist Legend Of The Fish Basket”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://buddhasutra.com/stories/origin_fish_basket_holding_guanyin.htm&quot;&gt;“The Origin Of Fish Basket Holding Guan Yin” (comic) &lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ideal.accelerate-ed.com/pub/a/em/-/lo/cebf7683-740a-4f67-8ba8-921ac4fd4cb2/p/40ed4d52-d4aa-467d-8ef9-37bc4279321b&quot;&gt;“The Fish Basket Goddess: A Tale from Ancient China”&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The banner picture is a detail of the Ryozen Kannon (霊山観音) in Kyoto.&lt;/em&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Four portraits</title>
+        <link href="https://quickandtastycooking.org.uk/articles/umimachi-diary/"/>
+        <updated>2021-04-10T00:00:00+01:00</updated>
+        <id>https://quickandtastycooking.org.uk/articles/umimachi-diary</id>
+        <author>
+					<name>Wim</name>
+					<uri>https://quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/umimachi-diary_1600x600.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;I made a series of four portraits based on a scene from the 2015 movie “海街 diary” (&lt;em&gt;umimachi diary&lt;/em&gt;) by Hirokazu Kore-Eda, called “Our Little Sister” in English. The movie is based on a manga from 2007 of the same name by Akimi Yoshida (吉田秋生) &lt;a href=&quot;https://flowers.shogakukan.co.jp/work/317/&quot;&gt;[1]&lt;/a&gt;. The title means “diary of a seaside town”.  The seaside town in the story is Kamakura  (鎌倉市), an ancient capital of Japan on the Pacific coast. The banner picture shows a view over the town which I took in 2018.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/umimachi-diary-manga.png&quot; alt=&quot;A drawing of four girls, a group of three and a younger one facing them.&quot; title=&quot;A drawing of four girls, a group of three and a younger one facing them.&quot; /&gt;
+&lt;figcaption&gt;Illustration by Akimi Yoshida for the first chapter of her manga Umimachi Diary&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The manga and film tell the story of four sisters: after the funeral of their estranged father, the three Koda sisters Sachi, Yoshino and Chika invite their younger half-sister Suzu to come and live with them at the old family home they share in Kamakura. The film covers a year in Suzu’s life and the portraits are from a scene in summer at the end of that year.&lt;/p&gt;
+
+&lt;p&gt;The film is not so much about the sisters as about how things change with the passage of time, and that passage of time is beautifully suggested in the manga as well as in the movie through subtle references to the seasons. The story starts out in late summer (late August or early September) with the sound of the cicadas: the manga’s first chapter is called  &lt;em&gt;semijigure no yamu koro&lt;/em&gt; (蝉時雨のやむ頃) which means “the time when the chorus of the cicadas stops” (&lt;em&gt;semi&lt;/em&gt; means cicada and &lt;em&gt;jigure&lt;/em&gt; is literally “rain shower”). Suzu moves in with the sisters after the traditional &lt;a href=&quot;https://www.japanese-wiki-corpus.org/Buddhism/Chuin.html&quot;&gt;Buddhist 49-day period of mourning (&lt;em&gt;chuin&lt;/em&gt;, 中陰)&lt;/a&gt; for her father’s death, so by then it is early autumn. A bit later, when she joins the local soccer team, the colourful maple leaves (&lt;em&gt;kouyou&lt;/em&gt;, 紅葉) show us it’s late autumn, and later yet the sisters are huddled around the &lt;em&gt;kotatsu&lt;/em&gt; (a low table with an electric heater attached underneath) in the deep of winter. Then the cherry blossoms (&lt;em&gt;sakurabana&lt;/em&gt;, 桜花) herald spring, and the hydrangeas mark the rainy season (&lt;em&gt;tsuyu&lt;/em&gt;, 梅雨). At the end of this, the sisters pick the green plums from the plum tree in the garden to make plum wine, and then summer comes, with the fireworks (&lt;em&gt;hanabi&lt;/em&gt;, 花火).&lt;/p&gt;
+
+&lt;p&gt;The scene I have chosen for the portraits is when the sisters are having their own fireworks in their garden.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/scene-for-portraits.jpg&quot; alt=&quot;Four young women in yukata, holding sparklers.&quot; title=&quot;Four young women in yukata, holding sparklers.&quot; /&gt;
+&lt;figcaption&gt;The senkō hanabi scene from the movie &quot;Our Little Sister&quot;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I like it because they are all absorbed in the sparklers; because of the yukatas (summer kimonos) they are wearing for the occasion, which give the scene a timeless quality and provide interesting graphical patterns; and because of the reflection of the light from the sparklers on their faces.&lt;/p&gt;
+
+&lt;p&gt;The sparklers are called &lt;em&gt;senkō hanabi&lt;/em&gt; (線香花火, literally “incense-stick fireworks”). They date back to the Edo period (17th century) and are quite sophisticated:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Well manufactured senkō hanabi are renowned for having 5 phases in the course of its life: birth, infancy, youth, middle age, and old age. In the birth phase, the firework composition burns to leave a wire-like cinder. In the infancy phase, the cinder gradually shrinks and produces a fireball that increases in brilliancy. The youth phase then displays large pine needle shaped sparks that project from the surface of the fireball. Next, in the middle age phase, many small sparks are emitted from the fireball. Then finally, energy fades in the old age phase as the sparks die down and become willow-like.” &lt;a href=&quot;https://www.researchgate.net/publication/268805446_Japanese_Fireworks_Hanabi_The_Ephemeral_Nature_and_Symbolism&quot;&gt;[2]&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That same paper &lt;a href=&quot;https://www.researchgate.net/publication/268805446_Japanese_Fireworks_Hanabi_The_Ephemeral_Nature_and_Symbolism&quot;&gt;[2]&lt;/a&gt; makes the following observation on watching &lt;em&gt;senkō hanabi&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Watching senkō hanabi is like a meditation, mesmerising and calming, allowing thoughts and earthly worries to be temporarily cast aside. Although senkō hanabi only lasts approximately 20 seconds, its brief existence manages to express the sentiment and emotion of an entire life. As the senkō hanabi briefly transitions through each phase, comparisons can accordingly be drawn to the various transitions of one’s own life. The observer is reminded of the rapid change and development in birth and infancy; the vivacious energy of youth; refinement in middle age; and finally, withering in old age. Moreover, the irregular nature of the sparks stresses the randomness and uncertainty of life.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In my portraits the senkō hanabi is not visible but I wanted to capture the meditative atmosphere of the scene. When I make a portrait I want it to be as close to the photograph I start from but at the same time to reflect the subject’s character.&lt;/p&gt;
+
+&lt;p&gt;I used the &lt;em&gt;senkō hanabi&lt;/em&gt; scene to make four individual portraits. The reference picture is quite small, however: if it was printed each part corresponding to a portrait would measure about 5 cm x 7 cm. The drawings are on paper of 38 cm x 56 cm. Scaling up from such a small photograph is one of the challenges.&lt;/p&gt;
+
+&lt;p&gt;Furthermore,  I like to use cold pressed watercolour paper, in this case Arches 300 g/m². This kind of paper has a very coarse grain. It contributes a lot to the texture of the final work, but on the other hand, the coarse grain imposes a limit on the precision with which details can be drawn.&lt;/p&gt;
+
+&lt;p&gt;Finally, I prefer to use Conté pencils, because they have a much richer, blacker tint than ordinary pencils. But they have a thick, brittle lead that can’t be sharpened to a fine point. Also, Conté pencil strokes can’t be erased. So once they have been drawn they are part of the drawing, right or not. Because of all this, the final outcome of the drawing is not entirely under my control, and I like it that way.&lt;/p&gt;
+
+&lt;p&gt;For the first portrait, that of Yoshino, I used only Conté pencil and Faber-Castell Graphite Aquarelle pencils, and I washed the drawing to get a deeper black. I was not entirely happy with it, mostly because of the texture of the hair and the background, although the highlights on the face had turned out the way I wanted them and I was pleased with the ginkho pattern on the yukata as well.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/p0-yoshino.jpg&quot; alt=&quot;A pencil portrait of a Japanese woman in profile, wearing a yukata with a stylised ginkho leaf pattern. The scene is quite dark, the face has some highlights from an invisible light source placed in front and below the character. The background is a sketchy rendering of vegetation.&quot; title=&quot;A pencil portrait of a Japanese woman in profile, wearing a yukata with a stylised ginkho leaf pattern. The scene is quite dark, the face has some highlights from an invisible light source placed in front and below the character. The background is a sketchy rendering of vegetation.&quot; /&gt;
+&lt;figcaption&gt;First portrait of Yoshino&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For the portrait of Sachi, I used essentially the same approach but I decided to add a touch of blue colour to the &lt;em&gt;yukata&lt;/em&gt; and use it for highlights as well. I used a Derwent Inktense watercolour pencil for this. Compared to other watercolour pencils, these give a much more intense colour. I rendered the background differently, more abstracted.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/p2-sachi.jpg&quot; alt=&quot;A Conté pencil portrait of a Japanese woman in three-quarter, looking down at something in front of her. She is wearing a yukata with a stylised bamboo leaf, maple leaf and flower pattern. The scene is quite dark, the face has some highlights from an invisible light source placed in front and below the character. The background is a blurry blobs. The pattern of the yukata is tinted in blue watercolour.&quot; title=&quot;A Conté pencil portrait of a Japanese woman in three-quarter, looking down at something in front of her. She is wearing a yukata with a stylised bamboo leaf, maple leaf and flower pattern. The scene is quite dark, the face has some highlights from an invisible light source placed in front and below the character. The background is a blurry blobs. The pattern of the yukata is tinted in blue watercolour.&quot; /&gt;
+&lt;figcaption&gt;Portrait of Sachi&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For the portrait of Suzu, I used pale pink and blue for the pattern of the yukata, and a slightly more magenta-like colour for the obi (sash), for highlights on the face and for the hairband.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/p3-suzu.jpg&quot; alt=&quot;Drawing of a young Japanese girl in a yukata with stylised motif of stalks with large leaves, tinted with blue and dark pink watercolour. The person is crouching and looking down at something in front of her. Her hair is tied up on top with a pink hairband. The legs are not visible.&quot; title=&quot;Drawing of a young Japanese girl in a yukata with stylised motif of stalks with large leaves, tinted with blue and dark pink watercolour. The person is crouching and looking down at something in front of her. Her hair is tied up on top with a pink hairband. The legs are not visible.&quot; /&gt;
+&lt;figcaption&gt;Portrait of Suzu&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The final portrait was that of Chika, and it was a bit more challenging because it is very dark and also more cropped than I wanted it for my composition, so I had to extend the right part of it. I again used the same blue with just a few accents of the pink. It is the most abstracted of the four portraits.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/p4-chika.jpg&quot; alt=&quot;Drawing of a torso at a three-quarters angle of a young Japanese girl in a yukata with stylised motif of flowers. The yukata is tinted blue with watercolour, the flowers are white with a pink accent. The person is looking down at something in front of her. Her hair is tied up on top with a hair elastic with two white ponpons with some pink. The background is dark.&quot; title=&quot;Drawing of a torso at a three-quarters angle of a young Japanese girl in a yukata with stylised motif of flowers. The yukata is tinted blue with watercolour, the flowers are white with a pink accent. The person is looking down at something in front of her. Her hair is tied up on top with a hair elastic with two white ponpons with some pink. The background is dark.&quot; /&gt;
+&lt;figcaption&gt;Portrait of Chika&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;When these three portraits were done, I was no longer satisfied with the first one of Yoshino so I redid it. The composition is different, with the figure much larger, and I changed the position of the torso so that more of the yukata is visible. I used the same Derwent Inktense blue as for the other portraits on the yukata, and the same style of background treatment.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://quickandtastycooking.org.uk/images/p1-yoshino.jpg&quot; alt=&quot;A Conté pencil portrait of a Japanese woman in profile, wearing a yukata with a stylised ginkho leaf pattern in blue. The scene is quite dark, the face has some highlights from an invisible light source placed in front and below the character. The background is a sketchy rendering of vegetation.&quot; title=&quot;A Conté pencil portrait of a Japanese woman in profile, wearing a yukata with a stylised ginkho leaf pattern in blue. The scene is quite dark, the face has some highlights from an invisible light source placed in front and below the character. The background is a sketchy rendering of vegetation.&quot; /&gt;
+&lt;figcaption&gt;Final portrait of Yoshino&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[1] &lt;a href=&quot;https://flowers.shogakukan.co.jp/work/317/&quot;&gt;Offical web page of the manga Umimachi diary (in Japanese)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;[2] &lt;a href=&quot;https://www.researchgate.net/publication/268805446_Japanese_Fireworks_Hanabi_The_Ephemeral_Nature_and_Symbolism&quot;&gt;Japanese Fireworks (Hanabi): The Ephemeral Nature and Symbolism”, Damien Liu-Brennan, Mio Bryce, The International Journal of the Arts in Society, Volume 4, Number 5, 2010&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
         </content>
     </entry>
@@ -596,7 +1231,7 @@ wrote this great track “Daffodils” as he explained above, and he sent me a d
 
 &lt;p&gt;The default setting for the Vocoder results in a rather tame distortion. My settings are&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Distance: 50.0
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Distance: 50.0
     Output choice: Both channels
     Number of vocoder bands: 60
     Amplitude of original audio (percent): 100.0
@@ -609,7 +1244,7 @@ wrote this great track “Daffodils” as he explained above, and he sent me a d
 
 &lt;p&gt;I found that the &lt;a href=&quot;https://manual.audacityteam.org/man/phaser.html&quot;&gt;Phaser&lt;/a&gt; could introduce some interesting distortions. Again, the default effect is quite tame. I used the following setting, on a separate copy of the voice track:&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Stages: 20
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Stages: 20
     Dry/Wet: 180
     LFO Frequency (Hz): 0.6
     LFO Start Phase (deg.): 50.0
@@ -2024,461 +2659,6 @@ I added &lt;a href=&quot;https://shop.waiyeehong.com/food-ingredients/dried-prod
   &lt;li&gt;“does not shine” and “never vanish”: 照らず and 消ぬ are &lt;a href=&quot;https://www.kokugobunpou.com/%E5%8A%A9%E5%8B%95%E8%A9%9E/%E3%81%AA%E3%81%84-%E3%81%AC-%E3%82%93/&quot;&gt;archaic grammar constructions still in current use (&lt;em&gt;-zu&lt;/em&gt; and &lt;em&gt;-nu&lt;/em&gt; endings)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;“the blossoms beseech the gods”: the verb used is &lt;em&gt;kohinomu&lt;/em&gt; (to pray), and  &lt;a href=&quot;http://k-amc.kokugakuin.ac.jp/DM/detail.do?class_name=col_dsg&amp;amp;data_id=68283&quot;&gt;as this scholar explains &lt;/a&gt;, it means “to earnestly pray to the gods (for happiness)”. So “beseech” seems more apt than just “pray”.&lt;/li&gt;
 &lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>A shop, the planets and the days of the week</title>
-        <link href="https://quickandtastycooking.org.uk/articles/suikin-planets-weekdays/"/>
-        <updated>2019-09-08T00:00:00+01:00</updated>
-        <id>https://quickandtastycooking.org.uk/articles/suikin-planets-weekdays</id>
-        <author>
-					<name>Wim</name>
-					<uri>https://quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/suikin-planets-weekdays_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;In Tokyo there is &lt;a href=&quot;http://www.hpfrance.com/Shop/Brand/suikin.html&quot;&gt;a shop called &lt;em&gt;Sui Kin Chi Ka Moku Do Ten Mei Kai&lt;/em&gt;&lt;/a&gt;, written 水金地火木土天冥海. At first glance this seems a very long, hard to pronounce and difficult to remember name, so why name a shop like that?&lt;/p&gt;
-
-&lt;h2 id=&quot;the-names-of-the-planets-in-the-solar-system&quot;&gt;The names of the planets in the solar system&lt;/h2&gt;
-
-&lt;p&gt;The explanation is that the name refers to a mnemonic for the planets in the solar system: each &lt;em&gt;kanji&lt;/em&gt; in the name of the shop is the first kanji of the name of a planet, starting from the one closest to the sun. So most Japanese people will recognise and remember the name. And because in Japanese everything gets abbreviated if at all possible, in practice everyone calls the shop “Suikin”.&lt;/p&gt;
-
-&lt;p&gt;One oddity about the name is that most people will in school have learned the sequence &lt;em&gt;Sui Kin Chi Ka Moku Do Ten Kai Mei&lt;/em&gt; ( 水金地火木土天海冥), so the last two names are swapped. This is because when the shop was founded (in 1984), Pluto (冥王星, &lt;em&gt;meiōsei&lt;/em&gt;) was closer to the earth than Neptune (海王星, &lt;em&gt;kaiōsei&lt;/em&gt;), but because of Pluto’s strongly elliptical orbit, this is only the case for two periods of about 20 years in the total of 248 year it takes to complete one orbit around the Sun. The last time this happened was between 1979 and 1999, and it won’t happen again until 2227.&lt;/p&gt;
-
-&lt;p&gt;What puzzled me is the connection between the order of the planets and the order of the days of the week in Japanese. The names of the planets are:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;English name&lt;/th&gt;
-      &lt;th&gt;Japanese name&lt;/th&gt;
-      &lt;th&gt;Reading&lt;/th&gt;
-      &lt;th&gt;Meaning&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Mercurius&lt;/td&gt;
-      &lt;td&gt;水星&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;suisei&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Water Star&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Venus&lt;/td&gt;
-      &lt;td&gt;金星&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;kinsei&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Metal Star&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;em&gt;(Earth&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;地球&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;chikyuu&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;Terrestrial Globe)&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Mars&lt;/td&gt;
-      &lt;td&gt;火星&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;kasei&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Fire star&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Jupiter&lt;/td&gt;
-      &lt;td&gt;木星&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;mokusei&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Wood star&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Saturn&lt;/td&gt;
-      &lt;td&gt;土星&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;dosei&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Earth star&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Uranus&lt;/td&gt;
-      &lt;td&gt;天王星&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;ten-ōsei&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;King of Heaven’s Star&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Neptune&lt;/td&gt;
-      &lt;td&gt;海王星&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;kai-ōsei&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;King of the Sea’s Star&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Pluto&lt;/td&gt;
-      &lt;td&gt;冥王星&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;mei-ōsei&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;King of the Dark’s Star&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Table 1. Names of the planets in English and Japanese&lt;/p&gt;
-
-&lt;p&gt;The suffix &lt;em&gt;-sei&lt;/em&gt; (星) actually means “star”. The names of the last three planets are Japanese descriptions of the roles of the gods Uranus, Neptune and Pluto. The other five planets are named after the &lt;a href=&quot;https://en.wikipedia.org/wiki/Five_elements_(China)&quot;&gt;Five Elements (五大, &lt;em&gt;godai&lt;/em&gt;)&lt;/a&gt; used in Chinese philosophy: water (水), metal (金), fire (火), wood (木), and earth in the sense of soil (土).&lt;/p&gt;
-
-&lt;p&gt;The days of the week are listed in Table 2. The suffix &lt;em&gt;-yōbi&lt;/em&gt; (曜日) means “weekday”. I’ve added the names used in the Roman calendar for comparison.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Day&lt;/th&gt;
-      &lt;th&gt;Japanese&lt;/th&gt;
-      &lt;th&gt;Reading&lt;/th&gt;
-      &lt;th&gt;Roman name&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Sunday&lt;/td&gt;
-      &lt;td&gt;日曜日&lt;/td&gt;
-      &lt;td&gt;nichiyōbi&lt;/td&gt;
-      &lt;td&gt;Sun-day&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Monday&lt;/td&gt;
-      &lt;td&gt;月曜日&lt;/td&gt;
-      &lt;td&gt;getsuyōbi&lt;/td&gt;
-      &lt;td&gt;Moon-day&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tuesday&lt;/td&gt;
-      &lt;td&gt;火曜日&lt;/td&gt;
-      &lt;td&gt;kayōbi&lt;/td&gt;
-      &lt;td&gt;Mars-day&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Wednesday&lt;/td&gt;
-      &lt;td&gt;水曜日&lt;/td&gt;
-      &lt;td&gt;suiyōbi&lt;/td&gt;
-      &lt;td&gt;Mercury-day&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Thursday&lt;/td&gt;
-      &lt;td&gt;木曜日&lt;/td&gt;
-      &lt;td&gt;mokuyōbi&lt;/td&gt;
-      &lt;td&gt;Jupiter-day&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Friday&lt;/td&gt;
-      &lt;td&gt;金曜日&lt;/td&gt;
-      &lt;td&gt;kinyōbi&lt;/td&gt;
-      &lt;td&gt;Venus-day&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Saturday&lt;/td&gt;
-      &lt;td&gt;土曜日&lt;/td&gt;
-      &lt;td&gt;doyōbi&lt;/td&gt;
-      &lt;td&gt;Saturn-day&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Table 2. Names of the days of the week in English and Japanese and their Roman name&lt;/p&gt;
-
-&lt;h2 id=&quot;the-order-of-the-days-of-the-week&quot;&gt;The order of the days of the week&lt;/h2&gt;
-
-&lt;p&gt;What I found intriguing is that the days of the week occur in the same order in our calendar and in the Japanese calendar. My first assumption was that the Japanese simply borrowed the Western convention after contact with the West, which would have been in the 16th century at the earliest, but it turns out that this is not the case: the adoption of a 7-day week and the naming of the weekdays was introduced in China in the 4th century (from either  ancient Mesopotamia or Egypt, and likely via Greece) and from there in Japan in the 9th century. I found the answer on the website of the &lt;a href=&quot;http://www.sendai-astro.jp/observation/blog/2016/01/qa025.html&quot;&gt;Sendai Astronomical Observatory (&lt;em&gt;Sendaishi Tenmondai&lt;/em&gt;, 仙台市天文台)&lt;/a&gt;. What follows is a rewording of that explanation.&lt;/p&gt;
-
-&lt;p&gt;In ancient times, people read the time and season from the stars in the night sky. They discovered that five of these “stars” were moving in a strange way, overtaking each other and sometimes appearing to move backwards. They called these &lt;em&gt;wakusei&lt;/em&gt; (惑星), literally “perplexing stars”. These are the five planets Mercury, Venus, Mars, Jupiter and Saturn that can be seen with the naked eye.&lt;/p&gt;
-
-&lt;p&gt;The ancients thought that planets, the sun and the moon were turning around the earth. As a result of their observations they thought the moon was closest to the earth followed by Mercury, Venus, the Sun, Mars, Jupiter, and Saturn:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;月&lt;/td&gt;
-      &lt;td&gt;水&lt;/td&gt;
-      &lt;td&gt;金&lt;/td&gt;
-      &lt;td&gt;日&lt;/td&gt;
-      &lt;td&gt;火&lt;/td&gt;
-      &lt;td&gt;木&lt;/td&gt;
-      &lt;td&gt;土&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Moon&lt;/td&gt;
-      &lt;td&gt;Mercury&lt;/td&gt;
-      &lt;td&gt;Venus&lt;/td&gt;
-      &lt;td&gt;Sun&lt;/td&gt;
-      &lt;td&gt;Mars&lt;/td&gt;
-      &lt;td&gt;Jupiter&lt;/td&gt;
-      &lt;td&gt;Saturn&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Furthermore, the belief was that the sun, the moon, and the five planets were “star gods”  (星の神, &lt;em&gt;hoshi no kami&lt;/em&gt;) who dominated time and space. And the astronomers observed the moon cycle of 28 days, which was split into four 7-day units, with one day dedicated to each star god. This was the basis for the notion of the ​”week”. The division of the day into 24 hours had already evolved based on the concept of the &lt;a href=&quot;https://www.japantimes.co.jp/community/2011/10/22/our-lives/telling-time-with-animals/&quot;&gt;twelve constellations of the zodiac&lt;/a&gt;. Each hour was believed to be controlled by a specific star god, and each day was believed to be dominated by the specific star god controlling the first hour of that day. And the order in which the star gods were assigned to the hours and days was based on the order in which the “stars” were observed.&lt;/p&gt;
-
-&lt;p&gt;If we start on the first hour of the first day with Saturn, the planet furthest away from the earth, this is Saturn’s day (土曜日). Each hour we move to the next closer planet in the geocentric model: Jupiter, Mars, the Sun,Venus, Mercury and the Moon, and we repeat this process, so after the Moon we start again with Saturn. Doing so, after 24 hours, we arrive at the Sun (日曜日), and 24 hours after that, the Moon (月曜日), then Mars (火曜日), Mercury (水曜日), Jupiter (木曜日), Venus (金曜日),   and after one week, this pattern repeats itself and we’re back at Saturn:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt;Hour in the day&lt;/th&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Day&lt;/th&gt;
-      &lt;th&gt;１　２　３　４　５　６　７　８　９　…　２４&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Saturn’s day&lt;/td&gt;
-      &lt;td&gt;土　木　火　日　金　水　月　土　木　…　火&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Sun’s day&lt;/td&gt;
-      &lt;td&gt;日　金　水　月　土　木　火　日　金　…　水&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Moon’s day&lt;/td&gt;
-      &lt;td&gt;月　土　木　火　日　金　水　月　土　…　木&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Mars’ day&lt;/td&gt;
-      &lt;td&gt;火　日　金　水　月　土　木　火　日　…　金&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Mercury’s day&lt;/td&gt;
-      &lt;td&gt;水　月　土　木　火　日　金　水　月　…　土&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Jupiter’s day&lt;/td&gt;
-      &lt;td&gt;木　火　日　金　水　月　土　木　火　…　日&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Venus’ day&lt;/td&gt;
-      &lt;td&gt;金　水　月　土　木　火　日　金　水　…　月&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Saturn’s day&lt;/td&gt;
-      &lt;td&gt;土　木　火　日　金　水　月　土　木　…　火&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;This is how the ancient astronomers in Mesopotamia or Egypt related the days of the week to the planets, and from there it was adopted in ancient Greece and Rome but also in ancient China and Japan. To my mind it’s really quite amazing to learn that the order of the days of the week relates in this way to the ordering of the “stars” in the geocentric model.&lt;/p&gt;
-
-&lt;h2 id=&quot;bonus-track&quot;&gt;Bonus track&lt;/h2&gt;
-
-&lt;p&gt;Here is a small &lt;a href=&quot;https://www.haskell.org/&quot;&gt;Haskell&lt;/a&gt; program that creates the week day sequences from the sequence of the “star gods”:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  starGodSequence = reverse [&quot;月&quot;,&quot;水&quot;,&quot;金&quot;,&quot;日&quot;,&quot;火&quot;,&quot;木&quot;,&quot;土&quot;]
-  starGodsAllHours = concat ( repeat starGodSequence )
-  starGodsDaysFrom s = (head s):starGodsDaysFrom (drop 24 s)
-  weekDays = take 7 ( starGodsDaysFrom starGodsAllHours )
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;The program performs the operations explained above: it takes the list of “star gods” in geocentric order and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reverse&lt;/code&gt;s them so that “土” (Saturn) is first, this is &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;starGodSequence&lt;/code&gt;. It then &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;repeat&lt;/code&gt;s this list forever (in Haskell you can do this). The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;concat&lt;/code&gt; flattens this list of lists into a single list, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;starGodsAllHours&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;The function &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;starGodsDaysFrom&lt;/code&gt; is recursive, what it does is take the first element in a list, then drops 24 elements (including this first one), and repeats the process, again potentially forever. We apply this function to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;starGodsAllHours&lt;/code&gt;. This produces a new list which repeats the days of the week forever.&lt;/p&gt;
-
-&lt;p&gt;Finally, to get the seven days of the week, we &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;take&lt;/code&gt; the first seven elements of that new list.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-The banner photo shows the moon-viewing room  (&lt;em&gt;shōgetsurō&lt;/em&gt;, 嘯月楼) of the Shisen-dō (詩仙堂) temple in Kyoto.&lt;/p&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Reading Murakami in Japanese</title>
-        <link href="https://quickandtastycooking.org.uk/articles/reading-murakami/"/>
-        <updated>2019-05-25T00:00:00+01:00</updated>
-        <id>https://quickandtastycooking.org.uk/articles/reading-murakami</id>
-        <author>
-					<name>Wim</name>
-					<uri>https://quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/reading-murakami_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;As mentioned in &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/learning-japanese/&quot;&gt;previous posts&lt;/a&gt;, I started reading Murakami’s 1Q84 in Japanese in October 2014, after I had been learning Japanese for about three years. The paperback (&lt;em&gt;bunko&lt;/em&gt;, 文庫) edition consists of 6 volumes, two volumes for each of the three Books that make up 1Q84. Each volume is about 400 pages. In July 2016 I finished the first volume. It is now May 2019 and I have finally finished the four volumes comprising Books 1 and 2.&lt;/p&gt;
-
-&lt;p&gt;At first, my reading speed was very slow, about half an hour per page, because I constantly had to look up kanji and grammar constructs. In the last three years, my reading speed has fortunately improved quite a bit: it takes me now five minutes to read a page in Japanese. However, to read the equivalent English translation takes only one minute, so I still have some way to go.&lt;/p&gt;
-
-&lt;p&gt;As my reading improved, I started to use different ways of reading. 
-&lt;!--
-I am taking a break from 1Q84 and instead I started reading &quot;Lizard&quot; (Japanese title _tokage_ とかげ), a collection of short stories by Banana Yoshimoto, my other favourite Japanese author. It's very interesting to read a different author because it shows that what I have learned by reading Murakami is mainly how to read Murakami. It is taking me quite a while to get used to Banana Yoshimoto's use of style, vocabulary and grammar. 
---&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;reading-aloud&quot;&gt;Reading aloud&lt;/h2&gt;
-
-&lt;p&gt;In Japanese, “reading aloud” is called &lt;em&gt;rōdoku&lt;/em&gt; (ろうどく, 朗読), a word I quite like because &lt;em&gt;rō&lt;/em&gt; means “melodious, clear, bright, serene, cheerful”.&lt;/p&gt;
-
-&lt;p&gt;Maybe somewhat surprisingly, it turns out that &lt;a href=&quot;https://qz.com/quartzy/1118580/the-beginning-of-silent-reading-was-also-the-beginning-of-an-interior-life/&quot;&gt;silent reading is a relatively young development&lt;/a&gt;: before the 17th century, reading essentially meant reading aloud.&lt;/p&gt;
-
-&lt;p&gt;I find reading aloud very useful because it helps me to understand the flow of the sentence and I also find it easier to understand the meaning. There are many other benefits to reading aloud, as explained in &lt;a href=&quot;https://www.voices.com/blog/7_ways_reading_aloud_improves_your_life/&quot;&gt;this article on Voices.com&lt;/a&gt;.
- A small disadvantage is that I can get stuck on any kanji for which I don’t know the pronunciation – I find it hard to continue without looking it up right away in my dictionary. Still, I like to read aloud also because I simply like the sound of Japanese.&lt;/p&gt;
-
-&lt;h2 id=&quot;reading-without-vocalising&quot;&gt;Reading without vocalising&lt;/h2&gt;
-
-&lt;p&gt;When reading Japanese silently (&lt;em&gt;mokudoku&lt;/em&gt; もくどく, 黙読), I usually &lt;a href=&quot;https://en.wikipedia.org/wiki/Subvocalization&quot;&gt;subvocalise&lt;/a&gt;, i.e. I hear the text in my head. However, I found that &lt;em&gt;not&lt;/em&gt; doing this has some interesting advantages. I am of course not the first one to make this observation, see e.g. &lt;a href=&quot;http://www.theindependentbd.com/magazine/details/8098/Significance-of-Silent-Reading&quot;&gt;Significance of Silent Reading&lt;/a&gt;, but these are my observations for the particular case of reading Japanese as a non-native. 
-For one, I don’t get stuck on unknown kanji readings, so my flow is not broken so easily. Also, it means that I go straight from word shapes to meanings. For example, I do not need to know that 菜食主義者 is pronounced &lt;em&gt;saishokushugisha&lt;/em&gt; (さいしょくしゅぎしゃ) to know that it means “vegetarian” (菜 &lt;em&gt;sai&lt;/em&gt; is vegetable, 食 &lt;em&gt;shoku&lt;/em&gt; is to eat, 主義 &lt;em&gt;shugi&lt;/em&gt; is doctrine and 者 &lt;em&gt;sha&lt;/em&gt; is person). Even for new words it is often possible to tell the meaning from the kanji – one of the advantages of a writing system based on logograms. 
-When not vocalising, it is not necessary to read every individual character. In Japanese the grammar is usually conveyed using groups of hiragana characters and I find that just geting the overall shape is enough to see if a sequence of characters is a negation, or a polite suffix etc. And finally it allows me to &lt;a href=&quot;https://www.irisreading.com/speed-reading-tips-5-ways-to-minimize-subvocalization/&quot;&gt;speed-read&lt;/a&gt;: I can simply scan the text for kanji that indicate the “interesting” parts. And I can now add speed reading to my vocabulary as well: &lt;em&gt;sokudoku&lt;/em&gt; (そくどく, 速読).&lt;/p&gt;
-
-&lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
-
-&lt;p&gt;Here are some articles for your perusal (&lt;em&gt;jukudoku&lt;/em&gt;, じゅくどく, 熟読).&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;An interesting Japanese article on silent reading and reading aloud: &lt;a href=&quot;https://www.office-srr.com/column/silent-reading-vs-reading-aloud/&quot;&gt;黙読と朗読・音読の違い&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;About reading, but otherwise unrelated: &lt;a href=&quot;https://www.japantimes.co.jp/life/2018/02/19/language/reading-roman-alphabet-japanese-isnt-easy-abc/&quot;&gt;Reading the Roman alphabet in Japanese isn’t as easy as ABC&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;A chapter from the book “A History of Reading” by Alberto Mangue, &lt;a href=&quot;https://web.stanford.edu/class/history34q/readings/Manguel/Silent_Readers.html&quot;&gt;The Silent Readers&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Orzo with celeriac, mixed mushrooms and tofu sticks</title>
-        <link href="https://quickandtastycooking.org.uk/recipes/orzo-celeriac-mushrooms-tofu-sticks/"/>
-        <updated>2019-03-31T00:00:00+00:00</updated>
-        <id>https://quickandtastycooking.org.uk/recipes/orzo-celeriac-mushrooms-tofu-sticks</id>
-        <author>
-					<name>Wim</name>
-					<uri>https://quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/orzo-celeriac-mushrooms-tofu-sticks_1600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;Orzo is durum wheat pasta shaped like grains of barley (called &lt;em&gt;orzo&lt;/em&gt; in Italian). In this recipe it is combined with celeriac and mixed mushrooms (oyster, shiitake, eryngii). The less common ingredient is &lt;a href=&quot;https://shop.waiyeehong.com/food-ingredients/dried-products/dried-beancurd-seaweed/dried-beancurd-sticks-tofu-bamboo-2?language=tw&quot;&gt;dried tofu (bean curd) sticks&lt;/a&gt;. For the seasoning I also used &lt;em&gt;miso&lt;/em&gt; and &lt;a href=&quot;https://quickandtastycooking.org.uk/recipes/nabe-yellow-peppers-celeriac-shiitake-tofu/index.html&quot;&gt;fermented broad bean paste (tobanjan)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;https://quickandtastycooking.org.uk/tags/#vegan&quot;&gt;&lt;em&gt;vegan&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;https://quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;725 kcal per person&lt;/em&gt;  &lt;a href=&quot;https://quickandtastycooking.org.uk/tags/#600-800kcals&quot;&gt;&lt;img src=&quot;https://quickandtastycooking.org.uk/images/battery_lvl_3.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
-
-&lt;p&gt;For two people:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fresh ingredients &amp;amp; groceries
-    &lt;ul&gt;
-      &lt;li&gt;400 g celeriac&lt;/li&gt;
-      &lt;li&gt;150-200 g mixed mushrooms&lt;/li&gt;
-      &lt;li&gt;2 cm ginger, finely chopped&lt;/li&gt;
-      &lt;li&gt;1 clove garlic&lt;/li&gt;
-      &lt;li&gt;70 g dried tofu sticks&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;From the store cupboard
-    &lt;ul&gt;
-      &lt;li&gt;1 cup of orzo&lt;/li&gt;
-      &lt;li&gt;3 dried tomatoes&lt;/li&gt;
-      &lt;li&gt;1/2 teaspoon &lt;em&gt;miso&lt;/em&gt; paste&lt;/li&gt;
-      &lt;li&gt;1/2 teaspoon &lt;em&gt;tobanjan&lt;/em&gt; (broad bean paste)&lt;/li&gt;
-      &lt;li&gt;1 tablespoon tomato puree&lt;/li&gt;
-      &lt;li&gt;1 tablespoon mirin&lt;/li&gt;
-      &lt;li&gt;2 tablespoons sesame seeds&lt;/li&gt;
-      &lt;li&gt;1 tablespoon sunflower seeds&lt;/li&gt;
-      &lt;li&gt;1 tablespoon pine kernels&lt;/li&gt;
-      &lt;li&gt;1/2 teaspoon ground coriander&lt;/li&gt;
-      &lt;li&gt;1/2 teaspoon soy sauce&lt;/li&gt;
-      &lt;li&gt;2 tablespoons olive oil&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Soak the tofu sticks in very hot water for 30 minutes.&lt;/li&gt;
-  &lt;li&gt;Wash and peel the celeriac and chop it into small pieces (~ 1 cm).&lt;/li&gt;
-  &lt;li&gt;If desired, wash the mushrooms, and chop them into small pieces.&lt;/li&gt;
-  &lt;li&gt;Bring 2 l water for the orzo to the boil, with the dried tomatoes, and cook the orzo for 4 minutes over high heat. Switch off the hob and leave it for 8 minutes.&lt;/li&gt;
-  &lt;li&gt;Take out the dried tomatoes and chop them.&lt;/li&gt;
-  &lt;li&gt;Meanwhile
-    &lt;ul&gt;
-      &lt;li&gt;Cook the celeriac for 5 minutes in the microwave at full power (900W).&lt;/li&gt;
-      &lt;li&gt;Drain the cooking liquid of the celeriac in a small bowl and mix in the tomato puree, &lt;em&gt;miso&lt;/em&gt;, &lt;em&gt;tobanjan&lt;/em&gt; and &lt;em&gt;mirin&lt;/em&gt;.&lt;/li&gt;
-      &lt;li&gt;Drain the tofu sticks and cut them into pieces.&lt;/li&gt;
-      &lt;li&gt;Heat the oil in a deep pan. When the oil is hot, add the ginger, garlic, sesame seeds and sunflower seeds and fry for a few minutes over medium heat.&lt;/li&gt;
-      &lt;li&gt;Add the mushrooms and fry over medium heat until they just start to brown.&lt;/li&gt;
-      &lt;li&gt;Add the coriander and the soy sauce to the pan.&lt;/li&gt;
-      &lt;li&gt;Add the celeriac and tofu sticks to the pan and cook until lightly browned.&lt;/li&gt;
-      &lt;li&gt;Turn the heat very low.&lt;/li&gt;
-      &lt;li&gt;Add the tomato puree mixture and the dried tomatoes to the pan&lt;/li&gt;
-      &lt;li&gt;Drain the orzo and add it to the pan.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Season pepper to taste.&lt;/li&gt;
-&lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Getting started with vegan cooking</title>
-        <link href="https://quickandtastycooking.org.uk/articles/balanced-vegan-meals/"/>
-        <updated>2019-03-30T00:00:00+00:00</updated>
-        <id>https://quickandtastycooking.org.uk/articles/balanced-vegan-meals</id>
-        <author>
-					<name>Wim</name>
-					<uri>https://quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/balanced-vegan-meals_1600x600.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;h2 id=&quot;going-vegan&quot;&gt;Going vegan&lt;/h2&gt;
-
-&lt;p&gt;If you have recently decided or are considering to become vegan, it’s important to get off to a good start. Going vegan is great but there are some common pitfals if you come from a omnivorous diet. Just cutting out all non-plant-based food might leave you feeling dissatisfied, and craving some of your old food. If your vegan meals are not nutritiously balanced, this will also affect your health. Both are common reasons why people give up on a vegan diet.&lt;/p&gt;
-
-&lt;p&gt;The good news is that making balanced and tasty vegan meals is quite easy. You could of course just make &lt;a href=&quot;https://quickandtastycooking.org.uk/tags/#vegan&quot;&gt;one of my recipes&lt;/a&gt;, but if you want to make your own, here are a few simple guidelines, &lt;a href=&quot;#resources&quot;&gt;supported by expert nutritional advice&lt;/a&gt;. But let’s first have a look at the fundamentals of a healthy diet.&lt;/p&gt;
-
-&lt;h2 id=&quot;fundamentals-of-a-healthy-diet&quot;&gt;Fundamentals of a healthy diet&lt;/h2&gt;
-
-&lt;p&gt;A healthy diet should provide your body with the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Proteins&lt;/em&gt;, for &lt;a href=&quot;https://en.wikipedia.org/wiki/Protein_(nutrient)&quot;&gt;growth and maintenance&lt;/a&gt;. Our bodies do not use the proteins we eat directly, but break them down into amino acids.  There are nine essential amino acids which we must obtain from our diet to prevent &lt;a href=&quot;https://en.wikipedia.org/wiki/Protein%E2%80%93energy_malnutrition&quot;&gt;protein-energy malnutrition&lt;/a&gt;. Making sure our meals contain sufficient amounts of these is easy, there are several foods such as beans and pulses that are “complete proteins” which provide all essential amino acids.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Vitamins and minerals&lt;/em&gt; , &lt;a href=&quot;https://www.nhs.uk/conditions/vitamins-and-minerals/&quot;&gt;nutrients our bodies need in small amounts to work properly and stay healthy&lt;/a&gt;. From this angle, there is not much difference between a vegan diet and other diets, with the exception of vitamin B12. As there are no plant-based sources, this needs to be taken as a supplement.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Essential fatty acids&lt;/em&gt; , needed for &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/B9780702054013000278&quot;&gt;many physiological processes&lt;/a&gt;, including maintenance of cell membrane structure and skin integrity. There are only two of them, omega-3 and omega-6 fatty acids. Again, they are easy to add to your diet: several types of nuts, seeds and vegetable oils are good sources.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Carbohydrates&lt;/em&gt;, for energy and to aid digestion. Although recently “carbs” got a bad reputation, &lt;a href=&quot;https://www.bupa.co.uk/health-information/nutrition-diet/carbohydrates&quot;&gt;they are really essential for a healthy diet&lt;/a&gt;. There are three main types of carbohydrates: sugar,  starch, and fibre. For a healthy diet we need all of them, in the right amounts. The main sources are typical starchy foods like rice, pasta and potatoes. The less refined the food, the better as a source of fibre.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It’s not really neccessary to have all components for every meal though, as long as your diet on the whole provides them.&lt;/p&gt;
-
-&lt;h2 id=&quot;simple-guidelines&quot;&gt;Simple guidelines&lt;/h2&gt;
-
-&lt;p&gt;That may seem like a lot to take in. So how do you make sure you get all these on a daily basis? I use as a very simple rule that my meals should have:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A source of protein. Based on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Protein_Digestibility_Corrected_Amino_Acid_Score&quot;&gt;“Protein Digestibility Corrected Amino Acid Score”&lt;/a&gt;, the best sources are tofu, soy beans, chick peas and black beans, but other types of beans or pulses are good too. I use about 100 g per person per meal.&lt;/li&gt;
-  &lt;li&gt;A source of starchy carbohydrates, such as rice, pasta and other grain-based foods, or potatoes and similar root vegetables. For rice or pasta I use about 100 g per person per meal, for potatoes about 250g (uncooked weight).&lt;/li&gt;
-  &lt;li&gt;A source of fresh vegetables, whatever you like, but as much variety as possible.  These provide you with vitamins and some of the minerals, as well as some carbohydrates and protein. I use about 200 g per person per meal (uncooked weight).&lt;/li&gt;
-  &lt;li&gt;Some nuts or seeds, like pumkin seeds, sunflower seeds or walnuts. These are great sources of omega fatty acids and minerals. Just a handful is enough.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;With these guidelines, you can be confident your vegan meals are balanced.&lt;/p&gt;
-
-&lt;p&gt;All &lt;a href=&quot;https://quickandtastycooking.org.uk/recipes&quot;&gt;Quick &amp;amp; Tasty recipes&lt;/a&gt; follow this pattern. Why not get started with some of my favourites:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Very quick and easy to make: &lt;a href=&quot;https://quickandtastycooking.org.uk/recipes/murakami-2/&quot;&gt;&lt;em&gt;soba&lt;/em&gt; noodles with &lt;em&gt;edamame&lt;/em&gt; soy beans.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Very simple: &lt;a href=&quot;https://quickandtastycooking.org.uk/recipes/carrots-potatoes-chickpeas/&quot;&gt;a stir-fry  of carrots, potatoes and chickpeas.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;A bit more special: &lt;a href=&quot;https://quickandtastycooking.org.uk/recipes/butternut-squash-pear-blackeyed-beans/&quot;&gt;a stir-fry of butternut squash, pear and black-eyed beans with brown rice.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nhs.uk/live-well/eat-well/the-vegan-diet/&quot;&gt;NHS advice on vegan diet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://med.libretexts.org/Bookshelves/Nutrition/Book%3A_An_Introduction_to_Nutrition_(Zimmerman)&quot;&gt;An Introduction to Nutrition (Zimmerman), a free textbook from the LibreTexts library&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hsph.harvard.edu/nutritionsource/&quot;&gt;Harvard School of Public Health’s “Nutrition Source”&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
 
         </content>
     </entry>
