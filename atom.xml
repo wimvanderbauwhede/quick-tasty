@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="https://quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="https://quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2022-05-26T12:58:59+01:00</updated>
+    <updated>2022-05-26T13:05:00+01:00</updated>
     <id>https://quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
@@ -1999,10 +1999,14 @@ In Ghost in the Shell, the word ghost is colloquial slang for an individual’s 
 
 &lt;p&gt;There is another reference, one that I found particularly interesting. After the parade scene, Togusa sees the following poem written on a wall:&lt;/p&gt;
 
-&lt;p&gt;落一棚生&lt;br /&gt;
-落線頭死&lt;br /&gt;
-磊断傀去&lt;br /&gt;
-磊時儡来&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;writing-mode: vertical-rl&quot;&gt;
+生死去来&lt;br /&gt;
+棚頭傀儡&lt;br /&gt;
+一線断時&lt;br /&gt;
+落落磊磊
+&lt;/p&gt;
 
 &lt;p&gt;The writing order is top to bottom, right to left, and it is an archaic and poetic form of Japanese without hiragana. Togusa reads it in full as:&lt;/p&gt;
 
