@@ -121,6 +121,13 @@
   </url>
 
   <url>
+    <loc>https://quickandtastycooking.org.uk/articles/kitchen/</loc>
+    <lastmod>2016-07-21T14:42:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://quickandtastycooking.org.uk/articles/learning-japanese/</loc>
     <lastmod>2016-07-21T14:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
