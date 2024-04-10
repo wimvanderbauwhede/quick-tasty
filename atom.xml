@@ -7,7 +7,7 @@
     <subtitle>Quick and Tasty</subtitle>
     <link href="https://quickandtastycooking.org.uk/atom.xml" rel="self"/>
     <link href="https://quickandtastycooking.org.uk/" rel="alternate" type="text/html"/>
-    <updated>2024-02-09T11:29:20+00:00</updated>
+    <updated>2024-04-10T17:57:29+01:00</updated>
     <id>https://quickandtastycooking.org.uk/</id>
     <author>
 			<name>Wim</name>
@@ -15,6 +15,69 @@
 			
 		</author>
 
+    
+    <entry>
+        <title>Green beans with paneer in tomato sauce</title>
+        <link href="https://quickandtastycooking.org.uk/recipes/beans-paneer/"/>
+        <updated>2024-03-31T00:00:00+00:00</updated>
+        <id>https://quickandtastycooking.org.uk/recipes/beans-paneer</id>
+        <author>
+					<name>Wim</name>
+					<uri>https://quickandtastycooking.org.uk/</uri>
+					
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/beans-paneer_1600.avif&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;This recipe is inspired by &lt;a href=&quot;https://quickandtastycooking.org.uk/recipes/fasolakia-ladera/&quot;&gt;Artisa’s Greek-style green beans recipe&lt;/a&gt;. It’s a bit more fusion with paneer and miso; make this variant more often.&lt;/p&gt;
+
+&lt;p&gt; &lt;a class=&quot;post-tag&quot; href=&quot;https://quickandtastycooking.org.uk/tags/#vegetarian&quot;&gt;&lt;em&gt;vegetarian&lt;/em&gt;&lt;/a&gt;  &lt;a class=&quot;post-tag&quot; href=&quot;https://quickandtastycooking.org.uk/tags/#30-minutes&quot;&gt;&lt;em&gt;30-minutes&lt;/em&gt;&lt;/a&gt;  • &lt;em&gt;850 kcal per person&lt;/em&gt;  &lt;a href=&quot;https://quickandtastycooking.org.uk/tags/#800-1000kcals&quot;&gt;&lt;img src=&quot;https://quickandtastycooking.org.uk/images/battery_lvl_4.png&quot; style=&quot;height:1.0em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;p&gt;For two people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fresh ingredients &amp;amp; groceries
+    &lt;ul&gt;
+      &lt;li&gt;225 g green beans (I used frozen cut beans)&lt;/li&gt;
+      &lt;li&gt;4-5 small potatoes (150-200 g)&lt;/li&gt;
+      &lt;li&gt;1 or 2 sticks of celery&lt;/li&gt;
+      &lt;li&gt;2 cm ginger, finely chopped&lt;/li&gt;
+      &lt;li&gt;2 cloves garlic&lt;/li&gt;
+      &lt;li&gt;1 tin canned tomatoes (300 g)&lt;/li&gt;
+      &lt;li&gt;1 pack of paneer (200 g)&lt;/li&gt;
+      &lt;li&gt;(some leftover baked beans in tomato sauce)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;From the store cupboard
+    &lt;ul&gt;
+      &lt;li&gt;1 cup rice (I used jasmine rice)&lt;/li&gt;
+      &lt;li&gt;4 tablespoons tomato puree&lt;/li&gt;
+      &lt;li&gt;1/2 teaspoon miso&lt;/li&gt;
+      &lt;li&gt;1 bay leaf&lt;/li&gt;
+      &lt;li&gt;1 tablespoon pine kernels&lt;/li&gt;
+      &lt;li&gt;4 tablespoons olive oil (as much or little as you like)&lt;/li&gt;
+      &lt;li&gt;salt and pepper to taste (I added 1/4 teaspoon salt, and sprinkled some pepper on serving)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wash the potatoes, slice them and cook them in a pot in the microwave for 5 minutes at full power (900W).&lt;/li&gt;
+  &lt;li&gt;Meanwhile,
+    - Cook the rice (see “The Basics” for how to cook rice).
+    - Heat the olive oil and garlic oil in a large deep pan and stir-fry the ginger, celery and garlic for about 5 minutes over high heat. Add the potatoes and the paneer
+    - Add the pine kernels at the end and fry for another minute or so until they start to brown. Take care as they burn very easily.&lt;/li&gt;
+  &lt;li&gt;Add the tomatoes, some hot water and the miso and herbes de provence&lt;/li&gt;
+  &lt;li&gt;Cook the beans in the microwave for 4 minutes at full power (900W). Add to the pan.&lt;/li&gt;
+  &lt;li&gt;Cook  5-10 minutes on low hear, stirring to thicken the sauce&lt;/li&gt;
+  &lt;li&gt;Season with pepper to taste.&lt;/li&gt;
+&lt;/ul&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>The age of bloom</title>
@@ -2752,77 +2815,6 @@ I found that reading with a dictionary and looking up the readings and meanings 
   &lt;li&gt;Preheat the oven on 160 °C and bake for 25 minutes at 160 °C.&lt;/li&gt;
   &lt;li&gt;Leave to cool in the ramekins.&lt;/li&gt;
 &lt;/ul&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Cold or not: a riddle in Murakami&apos;s 1Q84</title>
-        <link href="https://quickandtastycooking.org.uk/articles/cold-or-not/"/>
-        <updated>2020-06-05T00:00:00+01:00</updated>
-        <id>https://quickandtastycooking.org.uk/articles/cold-or-not</id>
-        <author>
-					<name>Wim</name>
-					<uri>https://quickandtastycooking.org.uk/</uri>
-					
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;https://quickandtastycooking.org.uk/images/cold-or-not_1600x600.avif&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;As &lt;a href=&quot;https://quickandtastycooking.org.uk/articles/reading-murakami&quot;&gt;mentioned before&lt;/a&gt;, I have been slowly reading Haruki Murakami’s novel 1Q84 in Japanese. Like &lt;a href=&quot;https://www.nytimes.com/2011/10/23/magazine/the-fierce-imagination-of-haruki-murakami.html&quot;&gt;all his novels&lt;/a&gt;, this novel is many things. For this article I want to view it as a reflection on morality. Almost all of the characters have to make complex moral choices based on incomplete or incorrect information. One such character is Tamaru, a bodyguard and security expert in the service of a rich old widow who has embarked on a personal crusade against domestic violence. He is at the same time a very cultured person and a consummate professional.&lt;/p&gt;
-
-&lt;p&gt;But this article is really about a something that puzzled me.&lt;/p&gt;
-
-&lt;p&gt;In one of the final chapters (Chapter 25 of Book 3), just before he has to make a very hard moral choice, Tamaru recounts an interesting story about the famous Swiss psychologist Carl Gustav Jung. He explains how Jung lived in a large house in Zürich, but wanted a place to think and work in solitude. So he built a place which he called the “Tower”, in Bollingen near the shore of the Zürich lake. He built it with his own hands from stones from a local quarry, and had to join the guild become a licensed stone mason to be allowed to do so. It was an austere place, without gas, electricity or running water. On the lintel above the entrance, Jung engraved a phrase which in Japanese reads:&lt;/p&gt;
-
-&lt;p&gt;冷たくても、冷たくなくても、神はここにいる&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Tsumetakutemo, tsumetakunakutemo, kami wa koko ni iru&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;In the English translation by Philip Gabriel, this runs “Cold or Not, God Is Present”.&lt;/p&gt;
-
-&lt;p&gt;This phrase is also the title of the chapter, and I think that because of this story about Jung, this chapter might very well be the key chapter of the entire novel.&lt;/p&gt;
-
-&lt;p&gt;I was intrigued by the phrase and started to read up on Jung, to try and find out more about this story. It turns out that the story as told by Tamaru is not entirely accurate: Jung did indeed build the tower with his own hands. He started building it in 1923, when he was 48, and worked on it and reshaped it for most of the rest of his life &lt;a href=&quot;https://thefirstgates.com/2014/01/02/jungs-tower-simplicity-and-the-inner-life/&quot;&gt;[1]&lt;/a&gt;. And he did put an inscription above the entrance of the original tower. It is the same inscription that was first engraved over the entrance of his house in Küsnacht &lt;a href=&quot;http://www.jungatlanta.com/articles/summer14-two-houses.pdf&quot;&gt;[2]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;However, the words as mentioned by Tamaru are different from the inscription. The original inscription is in Latin and reads “Vocatus atque non vocatus deus aderit”, which translates as “Bidden or unbidden, the god will be present”.&lt;/p&gt;
-
-&lt;p&gt;The origin of this phrase is interesting: the Latin phrase is from the Adagia, a collection of sayings from ancient sources collected by Erasmus. The actual source is the  “History of the Peloponnesian War”, written around 400 BC by the Athenian historian and general Thucydides. In it, he recounts how the Spartans asked the Oracle of Apollo in Delphi if it would go well with them if they went to war with Athens. The oracle answered that if they put all their strength into the war, victory would be theirs, and that “the god himself would be there, whether invoked or uninvoked” &lt;a href=&quot;https://www.harvardreview.org/content/culled-and-not-culled-the-poet-will-be-there/#return-link-5&quot;&gt;[3]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Jung himself knew this background, and he commented “It says: yes, the god will be on the spot, but in what form and to what purpose? I have put the inscription there to remind my patients and myself: Timor dei initium sapientiae.” (Fear of God is the start of wisdom) &lt;a href=&quot;http://carljungdepthpsychology.blogspot.com/2017/03/carl-jung-it-is-delphic-oracle-though.html&quot;&gt;[4]&lt;/a&gt;. Jung’s view on religion was that people need a God because a person needs to recognise a higher authority than the ego. Without a God, a person will make a God out of something else. So there will be a God in people’s lives, whether they want it or not, for good or for worse. Hence the choice of the phrase.&lt;/p&gt;
-
-&lt;p&gt;As the original phrase is different from Tamaru’s quote, either Tamaru has it wrong, or in the parallel universe of 1Q84, the inscription is different. That is of course very well possible: as the novel makes clear, 1Q84 is superficially the same as 1984 but differs from it in many subtle ways; Tamaru being a person who is very precise in his mental habits, it is not so likely that he would not have checked the translation of a phrase which he considers so important. In fact, he comments that “There’s some deep allusion here, something difficult to interpret.”. So I am assuming that in the 1Q84 universe, the inscription is different.&lt;/p&gt;
-
-&lt;p&gt;I am of course not the first one to point this out &lt;a href=&quot;http://hyoshiok.hatenablog.com/entry/20130617/p1&quot;&gt;[5]&lt;/a&gt;, and several people have surmised that this is a pun on cold/called, [&lt;a href=&quot;https://chazzw.wordpress.com/2011/11/13/more-of-the-things-you-learn-in-books/&quot;&gt;6&lt;/a&gt;,&lt;a href=&quot;https://citronimus.de/haruki-murakami-1q84/&quot;&gt;7&lt;/a&gt;] because a possible English translation of the Latin phrase is “Called or uncalled, God is present”.&lt;/p&gt;
-
-&lt;p&gt;As explained above, this is only one possible translation – “vocatus” could be translated as “bidden” or “summoned” as well, and “the god” is more accurate than “God” – and somehow I find this theory not satisfactory.
-At first sight, the cold/called theory may seem to be corroborated because Tamaru mentions that the Catholic orphanage where he grew up was always cold, even in summer. However, in Japanese, Tamaru there uses the word “samui” (寒い) which means that it felt cold to him, whereas in the phrase he uses the word “tsumetai” (冷たい), which means that something is cold. Because of his experience in that cruel place, he also says that as far as he is concerned, if God existed, He could not be said to be kind at all. The Japanese adjective shinsetsu (親切,しんせつ) which he uses means “kind,” but is used to describe the character of someone based on their actions.&lt;/p&gt;
-
-&lt;p&gt;I am therefore inclined to interpret the “tsumetai” as “emotionally cold, unfeeling, indifferent”. In other words, God is here, but we don’t know if he is indifferent or not. That is to my mind also closer to Jung’s own interpretation of the Latin phrase, and yet different of course, as might be expected in 1Q84.&lt;/p&gt;
-
-&lt;p&gt;I don’t think it is a coincidence that Murakami introduces Jung at the end of this novel. Arguably, the actions of many of the characters match Jung’s views on good and evil. For example Ushikawa, who is the protagonist of the chapter, and quite a creep, is at some point shown his dark side (&lt;a href=&quot;http://compassreview.org/summer03/6.html&quot;&gt;what Jung calls the Shadow&lt;/a&gt;) but decides to embrace it instead of reject it. 
- And it is not a stretch to view the Little People as a kind of collective god: they have no individuality but collectively they have supernatural powers. They are also clearly not bound by human morals, and are (not unlike the Greek gods) quite indifferent to the fate of humans. And they speak through a human, i.e. a prophet, or an oracle. Considering that Jung developed the theory of the collective unconscious, and the notion of archetypes, having a collective god seems fitting.&lt;/p&gt;
-
-&lt;p&gt;The banner picture of this article is the cover of the 2nd volume of Book 3 in the Japanese paperback. In Japanese, “1Q84” and “1984” are both pronounced as “ichi-kew-hachi-yon”, that’s why this is written underneath the title.&lt;/p&gt;
-
-&lt;p&gt;The cover illustration for each volume is a detail of &lt;a href=&quot;https://archief.ntr.nl/tuinderlusten/en.html&quot;&gt;“The Garden of Earthly Delights” by Jheronimus Bosch&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
-
-&lt;p&gt;[1] &lt;a href=&quot;https://thefirstgates.com/2014/01/02/jungs-tower-simplicity-and-the-inner-life/&quot;&gt;Jung’s Tower: simplicity and the inner life&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[2] &lt;a href=&quot;http://www.jungatlanta.com/articles/summer14-two-houses.pdf&quot;&gt;A Tale  of Two  Houses: Küsnacht and Bollingen&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[3] &lt;a href=&quot;https://www.harvardreview.org/content/culled-and-not-culled-the-poet-will-be-there/#return-link-5&quot;&gt;Culled and Not Culled, the Poet Will Be There&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[4] &lt;a href=&quot;http://carljungdepthpsychology.blogspot.com/2017/03/carl-jung-it-is-delphic-oracle-though.html&quot;&gt; Carl Jung: It is a Delphic oracle though.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[5] &lt;a href=&quot;http://hyoshiok.hatenablog.com/entry/20130617/p1&quot;&gt;冷たくても、冷たくなくても、神はここにいるの謎&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[6] &lt;a href=&quot;https://chazzw.wordpress.com/2011/11/13/more-of-the-things-you-learn-in-books/&quot;&gt;More…of The Things You Learn in Books&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[7] &lt;a href=&quot;https://citronimus.de/haruki-murakami-1q84/&quot;&gt;Haruki Murakami: 1Q84 (in German)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[8] &lt;a href=&quot;http://compassreview.org/summer03/6.html&quot;&gt;Jung and the moral self&lt;/a&gt;&lt;/p&gt;
 
         </content>
     </entry>
