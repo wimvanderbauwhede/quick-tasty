@@ -6,13 +6,13 @@ modified: 2020-02-21
 tags: [ Japanese, cooking-boffin ]
 excerpt: "On the symbolism of puppets in Ghost in the Shell anime series."
 current: ""
-current_image:   ghost-in-the-shell-puppets_1600x600.jpg
+current_image:   ghost-in-the-shell-puppets_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: ghost-in-the-shell-puppets_1600x600.jpg
+  feature: ghost-in-the-shell-puppets_1600x600.avif
   teaser: ghost-in-the-shell-puppets_400x150.jpg
   thumb: ghost-in-the-shell-puppets_400x150.jpg
 ---
@@ -67,10 +67,14 @@ The main reference to puppets in Ghost in the Shell “Innocence” is an implic
 
 There is another reference, one that I found particularly interesting. After the parade scene, Togusa sees the following poem written on a wall:
 
-落一棚生<br>
-落線頭死<br>
-磊断傀去<br>
-磊時儡来
+<br>
+
+<p style="writing-mode: vertical-rl">
+生死去来<br>
+棚頭傀儡<br>
+一線断時<br>
+落落磊磊
+</p>
 
 The writing order is top to bottom, right to left, and it is an archaic and poetic form of Japanese without hiragana. Togusa reads it in full as:
 
@@ -96,9 +100,7 @@ like marionettes dancing on a table.<br>
 Once their strings are cut,<br>
 they easily crumble.”
 
-The _rakuraku rairai_ is particularly poetic. _raku_ means
-
-to fall down; _rai_ means a heap of stones, the kanj<i 磊 is stone 石 repeated three times. Hence the overall meaning of crumble. Curiously, the word 磊磊落落 (_rairairakuraku_) also exists; it means "openhearted; unaffected; free and easy".
+The _rakuraku rairai_ is particularly poetic. _raku_ means to fall down; _rai_ means a heap of stones, the kanji 磊 is stone 石 repeated three times. Hence the overall meaning of crumble. Curiously, the word 磊磊落落 (_rairairakuraku_) also exists; it means "openhearted; unaffected; free and easy".
 
 
 The original author of this poem is a Buddhist monk called Getsuan Soukou (月庵宗光), who lived 1326－1389, during the The Nanboku-chō period (南北朝時代). He used it in one of his sermons.
@@ -137,7 +139,7 @@ But perhaps more significant is the fact that to Batō, who clearly has missed t
 And as if not to leave any doubt about the importance of the puppets in the movie, the final scene ends with a close-up of a doll held by Togusa's daughter.
 
 <figure>
-<img src="{{ site.url }}/images/doll.png" alt="Close-up of a child's doll with blond hair, blue eyes and a red hat"
+<img src="{{ site.url }}/images/doll.avif" alt="Close-up of a child's doll with blond hair, blue eyes and a red hat"
 title="Close-up of a child's doll with blond hair, blue eyes and a red hat"
 />
 <figcaption>Final shot of "Innionce"</figcaption>
@@ -163,7 +165,7 @@ The English subtitles say "Controlling two prosthetic bodies at the same time is
 The first occurrence of the poem is after the parade scene:
 
 <figure>
-<img src="{{ site.url }}/images/first-occurrence.png" alt="A brick wall in tints of grey. On it, or maybe in front of it, a large stone frame with a stylised decoration, a kind of frieze reminiscent of ironmongery. This surrounds an area of about 1m x 1m on which is displayed a grid of 4x4 handwritten Chinese characters, in black ink or paint."
+<img src="{{ site.url }}/images/first-occurrence.avif" alt="A brick wall in tints of grey. On it, or maybe in front of it, a large stone frame with a stylised decoration, a kind of frieze reminiscent of ironmongery. This surrounds an area of about 1m x 1m on which is displayed a grid of 4x4 handwritten Chinese characters, in black ink or paint."
 title="A brick wall in tints of grey. On it, or maybe in front of it, a large stone frame with a stylised decoration, a kind of frieze reminiscent of ironmongery. This surrounds an area of about 1m x 1m on which is displayed a grid of 4x4 handwritten Chinese characters, in black ink or paint."
 />
 <figcaption>First occurrence of the puppet poem, on a wall in the city.</figcaption>
@@ -172,11 +174,11 @@ title="A brick wall in tints of grey. On it, or maybe in front of it, a large st
 It also appears on the wall of Kim's study:
 
 <figure>
-<img src="{{ site.url }}/images/study-1.png" alt="A study, executed mostly in dark purple tones. On the right a bookshelf; on the far wall a large 4x4 grid of Chinese characters written in an ancient mode. To the right at the back of the room, a person in a suit is bending over to receive a cup of tea from a small, doll-like figure in a kimono."
+<img src="{{ site.url }}/images/study-1.avif" alt="A study, executed mostly in dark purple tones. On the right a bookshelf; on the far wall a large 4x4 grid of Chinese characters written in an ancient mode. To the right at the back of the room, a person in a suit is bending over to receive a cup of tea from a small, doll-like figure in a kimono."
  title="A study, executed mostly in dark purple tones. On the right a bookshelf; on the far wall a large 4x4 grid of Chinese characters written in an ancient mode. To the right at the back of the room, a person in a suit is bending over to receive a cup of tea from a small, doll-like figure in a kimono."
 />
 
-<img src="{{ site.url }}/images/study-2.png" alt="The same space, a similar angle. The person in the suit is now closer, centre-screen, carrying a white china tea cup."
+<img src="{{ site.url }}/images/study-2.avif" alt="The same space, a similar angle. The person in the suit is now closer, centre-screen, carrying a white china tea cup."
 title="The same space, a similar angle. The person in the suit is now closer, centre-screen, carrying a white china tea cup." />
 <figcaption>Togusa in Kim's study, poem behind him</figcaption>
 </figure>
@@ -184,11 +186,11 @@ title="The same space, a similar angle. The person in the suit is now closer, ce
 After Togusa narrowly escapes an attack on his cyberbrain :
 
 <figure>
-<img src="{{ site.url }}/images/attack-1.png" alt="A person seated in an office chair, seen from the back, with some kind of VR headset on. In front of him an explosion, he is being thrown back by the force."
+<img src="{{ site.url }}/images/attack-1.avif" alt="A person seated in an office chair, seen from the back, with some kind of VR headset on. In front of him an explosion, he is being thrown back by the force."
 title="A person seated in an office chair, seen from the back, with some kind of VR headset on. In front of him an explosion, he is being thrown back by the force." />
-<img src="{{ site.url }}/images/attack-2.png" alt="A person in a suit, with a kind of VR headset on his forehead so you can see his face. He is sitting on the floor, and in the air in front of him columns of Chinese characters appear."
+<img src="{{ site.url }}/images/attack-2.avif" alt="A person in a suit, with a kind of VR headset on his forehead so you can see his face. He is sitting on the floor, and in the air in front of him columns of Chinese characters appear."
 title="A person in a suit, with a kind of VR headset on his forehead so you can see his face. He is sitting on the floor, and in the air in front of him columns of Chinese characters appear." />
-<img src="{{ site.url }}/images/attack-3.png" alt="Chinese characters in a 4x4 grid, seemingly written in pure light hanging in the air. The grid is repeated 6 times in different sized and at different angles."
+<img src="{{ site.url }}/images/attack-3.avif" alt="Chinese characters in a 4x4 grid, seemingly written in pure light hanging in the air. The grid is repeated 6 times in different sized and at different angles."
 title="Chinese characters in a 4x4 grid, seemingly written in pure light hanging in the air. The grid is repeated 6 times in different sized and at different angles."
 />
 <figcaption>Poem appearing when an attack fries Kim's cyberbrain</figcaption>
@@ -197,7 +199,7 @@ title="Chinese characters in a 4x4 grid, seemingly written in pure light hanging
 When Batō and the Major manage to take control of the factory ship:
 
 <figure>
-<img src="{{ site.url }}/images/factory-ship.png" title="A grid of 4x4 Chinese characters in blood red paint, probably about 1m x 1m.  They appear on a heavy door, about 2m high and 3m wide, which seems to have been originally painted with diagonal yellow and black warning stripes, then overpainted with a grey rectangle on which are on the left the faded letters R11 and on the right a black square with a white border and some smaller white squares and rectangles inside it. There is also what looks like a kind of pasted notice, pale orange paper with black Chinese characters, about 30cm wide and 60cm high. The red Chinese characters are painted by hand on top of all that. The right side of the scene is illuminated, the left side is in shadows."
+<img src="{{ site.url }}/images/factory-ship.avif" title="A grid of 4x4 Chinese characters in blood red paint, probably about 1m x 1m.  They appear on a heavy door, about 2m high and 3m wide, which seems to have been originally painted with diagonal yellow and black warning stripes, then overpainted with a grey rectangle on which are on the left the faded letters R11 and on the right a black square with a white border and some smaller white squares and rectangles inside it. There is also what looks like a kind of pasted notice, pale orange paper with black Chinese characters, about 30cm wide and 60cm high. The red Chinese characters are painted by hand on top of all that. The right side of the scene is illuminated, the left side is in shadows."
 alt="A grid of 4x4 Chinese characters in blood red paint, probably about 1m x 1m.  They appear on a heavy door, about 2m high and 3m wide, which seems to have been originally painted with diagonal yellow and black warning stripes, then overpainted with a grey rectangle on which are on the left the faded letters R11 and on the right a black square with a white border and some smaller white squares and rectangles inside it. There is also what looks like a kind of pasted notice, pale orange paper with black Chinese characters, about 30cm wide and 60cm high. The red Chinese characters are painted by hand on top of all that. The right side of the scene is illuminated, the left side is in shadows."
 />
 <figcaption>Final appearance of the poem, in the factory ship</figcaption>
@@ -207,3 +209,5 @@ alt="A grid of 4x4 Chinese characters in blood red paint, probably about 1m x 1m
 
 - [Free: Filimon, Luiza Maria. "Dolls, Offsprings, and Automata. Analyzing the Posthuman Experience in _Ghost in the Shell 2: Innocence_." Ekphrasis. Images, Cinema, Theory, Media 17.1 (2017): 45-66.](https://www.ekphrasisjournal.ro/index.php?p=artc&id=861)
 - [Not free: Brown, Steven T. "Tokyo cyberpunk: Posthumanism in Japanese visual culture.", Springer, 2016.](https://link.springer.com/book/10.1057/9780230110069)
+
+                                                                                                                                                               _The banner picture shows a white plastic head wearing a samurai helmet, all of it made from junk plastic_

@@ -6,13 +6,13 @@ modified: 2020-02-15
 tags: [ cooking-boffin, Japan ]
 excerpt: "Some years ago I photographed musicians in a festival float in Kyoto on the eve of the Gion Matsuri. I finally turned it into a drawing."
 current: ""
-current_image:   naginata-hoko-kitsune_1600x600.jpg
+current_image:   naginata-hoko-kitsune_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: naginata-hoko-kitsune_1600x600.jpg
+  feature: naginata-hoko-kitsune_1600x600.avif
   teaser: naginata-hoko-kitsune_400x150.jpg
   thumb: naginata-hoko-kitsune_400x150.jpg
 ---
@@ -77,7 +77,7 @@ The musicians in my drawing wear the same summer kimonos (_yukata_) as in the pi
 ## The drawing
 
 <figure>
-<img src="{{ site.url }}/images/gion-matsuri-float-musicians-fin-1280px.jpg" alt="the drawing" />
+<img src="{{ site.url }}/images/gion-matsuri-float-musicians-fin-1280px.avif" alt="the drawing" />
 <!-- add a caption -->
 <figcaption>The finished drawing</figcaption>
 </figure>
@@ -91,33 +91,33 @@ I used mainly Derwent Inktense, which do give quite deep colours, but also Cont√
 As usual I started the drawing with a ghost drawing in pencil. Because of the size of the drawing, I used a grid to make sure the figure was positioned correctly. The focus of detail is on the characters and in particular the masks, the further away from these the more sketchy and impressionistic I treated the drawing.
 
 <figure>
-<img src="{{ site.url }}/images/gion-matsuri-float-musicians-pencil-1280px.jpg" alt="the drawing" />
+<img src="{{ site.url }}/images/gion-matsuri-float-musicians-pencil-1280px.avif" alt="the drawing" />
 <figcaption>Pencil ghost drawing</figcaption>
 </figure>
 
 <figure>
-<img src="{{ site.url }}/images/gion-matsuri-float-musicians-pencil-detail-1280px.jpg" alt="the drawing" />
+<img src="{{ site.url }}/images/gion-matsuri-float-musicians-pencil-detail-1280px.avif" alt="the drawing" />
 <figcaption>Pencil ghost drawing detail, start of colouring</figcaption>
 </figure>
 
 Then I added detail and colour with the watercolour pencils. The float has a lot of gold and silver on the hangings, and these are very difficult to render in colour pencil. The level of details is such that to really reproduce it would require very smooth paper and very fine brushes. I picked the coarse paper on purpose and the pencils are not particularly sharp. This forces me to abstract a lot of the detail.
 
 <figure>
-<img src="{{ site.url }}/images/gion-matsuri-float-musicians-colour-pencil-detail-1280px.jpg" alt="the drawing" />
+<img src="{{ site.url }}/images/gion-matsuri-float-musicians-colour-pencil-detail-1280px.avif" alt="the drawing" />
 <figcaption>First layer of detail and colour</figcaption>
 </figure>
 
 Next I did some separate sketches for the non-musician characters, because they are to my mind very important in this drawing.
 
 <figure>
-<img src="{{ site.url }}/images/gion-matsuri-float-musicians-sep-detail-1280px.jpg" alt="the drawing" />
+<img src="{{ site.url }}/images/gion-matsuri-float-musicians-sep-detail-1280px.avif" alt="the drawing" />
 <figcaption>Separate drawing of non-musician characters</figcaption>
 </figure>
 
 I left the characters until the end and washed the watercolours starting from the bottom.
 
 <figure>
-<img src="{{ site.url }}/images/gion-matsuri-float-musicians-almost-finished-1280px.jpg" alt="the drawing" />
+<img src="{{ site.url }}/images/gion-matsuri-float-musicians-almost-finished-1280px.avif" alt="the drawing" />
 <figcaption>Partially washed drawing</figcaption>
 </figure>
 

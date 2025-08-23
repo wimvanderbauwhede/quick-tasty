@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  cauliflower-potatoes-lentils_1600.jpg
+current_image:  cauliflower-potatoes-lentils_1600.avif
 current_anchor:  cauliflower-potatoes-lentils
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: cauliflower-potatoes-lentils_1600.jpg
+  feature: cauliflower-potatoes-lentils_1600.avif
   teaser: cauliflower-potatoes-lentils_400.jpg
   thumb: cauliflower-potatoes-lentils_400.jpg
 ---

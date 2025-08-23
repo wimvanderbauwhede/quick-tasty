@@ -9,14 +9,14 @@ calorielevel: "4"
 calorierange: "800-1000kcals"
 preptime: "60 mins soak + 45 mins cook"
 current: ""
-current_image:  iridoufu-hijiki-hourensou_1600.jpg
-current_anchor:  iridoufu-hijiki-hourensou.jpg
+current_image:  iridoufu-hijiki-hourensou_1600.avif
+current_anchor:  iridoufu-hijiki-hourensou.avif
 comments: false
 toc: false
 categories: recipes
 subset: japanese
 image:
-  feature: iridoufu-hijiki-hourensou_1600.jpg
+  feature: iridoufu-hijiki-hourensou_1600.avif
   teaser: iridoufu-hijiki-hourensou_400.jpg
   thumb: iridoufu-hijiki-hourensou_400.jpg
 ---

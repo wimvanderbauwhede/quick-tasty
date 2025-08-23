@@ -6,7 +6,8 @@ excerpt: ""
 comments: false
 toc: true
 image:
-  feature: fuud_1600x500.jpg
+  feature: fuud_1600x500.avif
+  teaser: fuud_400x125.jpg
 ---
 
 <div class="tiles">

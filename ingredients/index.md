@@ -1,14 +1,14 @@
 ---
 layout: article
 title: "The Store Cupboard"
-date: 2021-12-31
+date: 2025-08-05
 tags: [cooking,ingredients,condiments]
 excerpt: "You can find all the ingredients used in the recipes in the supermarket."
 comments: false
 toc: true
 image:
-  feature: dried_tomatoes_1600x500.jpg
-
+  feature: dried_tomatoes_1600x500.avif
+  teaser: dried_tomatoes_400x125.jpg
 ---
 
 You can find all the ingredients used in the recipes in the supermarket.
@@ -22,7 +22,7 @@ There are a few condiments that I use quite a lot. If you have these you can mak
 
 ### Nuts and Seeds
 
-![Sunflower seeds]({{ site.url }}/images/sunflower_seeds_400x300.jpg)
+![Sunflower seeds]({{ site.url }}/images/sunflower_seeds_400x300.avif)
 
 Nuts and seeds are very tasty when roasted, and provide a very interesting texture as well.
 
@@ -34,7 +34,7 @@ Nuts and seeds are very tasty when roasted, and provide a very interesting textu
 
 ### Spices
 
-![Ginger]({{ site.url }}/images/ginger_400x300.jpg)
+![Ginger]({{ site.url }}/images/ginger_400x300.avif)
 
 I use ginger and cumin in many of the recipes. Turmeric, coriander and cardamom are for the more curry-style recipes.
 
@@ -46,7 +46,7 @@ I use ginger and cumin in many of the recipes. Turmeric, coriander and cardamom 
 
 ### Other condiments
 
-![Dried tomatoes]({{ site.url }}/images/dried_tomatoes_400x300.jpg)
+![Dried tomatoes]({{ site.url }}/images/dried_tomatoes_400x300.avif)
 
 Dried tomatoes are my favourite condiment because they add a lot of taste to the food and make it look nice too. Dried mushrooms are great for risottos and similar dishes.
 
@@ -59,7 +59,7 @@ Dried tomatoes are my favourite condiment because they add a lot of taste to the
 
 ## The Survival Store<a name="survival"></a>
 
-![Rice]({{ site.url }}/images/rice_400x300.jpg)
+![Rice]({{ site.url }}/images/rice_400x300.avif)
 
 These are items that keep for a very long time and allow you to whip up a meal in an emergency.
 
@@ -71,7 +71,7 @@ These are items that keep for a very long time and allow you to whip up a meal i
 
 ## The Specialty Corner<a name="special"></a>
 
-![Seaweed]({{ site.url }}/images/shiitake_shichimi_wakame_400x300.jpg)
+![Seaweed]({{ site.url }}/images/shiitake_shichimi_wakame_400x300.avif)
 
 Japanese dishes use a few ingredients that may be a bit harder to find in the supermarket:
 

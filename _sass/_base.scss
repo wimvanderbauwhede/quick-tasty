@@ -120,7 +120,7 @@ blockquote {
 		@include font-size(16);
 	}
 }
-
+.no-italic { font-style: normal }
 // Code
 tt, code, kbd, samp, pre {
 	font-family: $code-font;
@@ -342,7 +342,7 @@ select {
 
 form button,
 input[type="submit"] {
-	@extend .btn;
+	@extend .btn !optional;
 	@include appearance(none);
 	cursor: pointer;
 	user-select: none;

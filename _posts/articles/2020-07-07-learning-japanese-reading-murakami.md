@@ -6,13 +6,13 @@ modified: 2020-07-07
 tags: [ Japan, Murakami ]
 excerpt: "After spending nearly six years reading Murakami's 1Q84 in Japanese, I finally finished it. What did I learn?"
 current: ""
-current_image:   learning-japanese-reading-murakami_1600x600.jpg
+current_image:   learning-japanese-reading-murakami_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: learning-japanese-reading-murakami_1600x600.jpg
+  feature: learning-japanese-reading-murakami_1600x600.avif
   teaser: learning-japanese-reading-murakami_400x150.jpg
   thumb: learning-japanese-reading-murakami_400x150.jpg
 ---

@@ -9,14 +9,14 @@ calorielevel: "1"
 calorierange: "200-400kcals"
 preptime: "30 minutes"
 current: ""
-current_image:  japanese-potato-salad_1600.jpg
+current_image:  japanese-potato-salad_1600.avif
 current_anchor:  japanese-potato-salad
 comments: false
 toc: false
 categories: recipes
 subset: japanese
 image:
-  feature: japanese-potato-salad_1600.jpg
+  feature: japanese-potato-salad_1600.avif
   teaser: japanese-potato-salad_400.jpg
   thumb: japanese-potato-salad_400.jpg
 ---

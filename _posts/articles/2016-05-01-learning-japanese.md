@@ -6,13 +6,13 @@ modified: 2016-05-01
 tags: [ Japan,  cooking-boffin ]
 excerpt: "Discovering Murakami in Japanese, and a Zen cookbook."
 current: "Learning Japanese"
-current_image:   kanji_1600x600.jpg
+current_image:   kanji_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: kanji_1600x600.jpg
+  feature: kanji_1600x600.avif
   teaser: kanji_400x150.jpg
   thumb: kanji_400x150.jpg
 ---
@@ -27,7 +27,7 @@ Because of the earthquake and tsunami in March 2011, I had to postpone my trip. 
 And it was amazing: kanji everywhere! Somewhere along the path, learning Japanese had become a goal in its own right, not just a practical tool for survival in the wild. It was that as well, of course -- just try shopping in a Japanese supermarket without knowing any Japanese.
 
 <figure class="half">
-   <img title="Kyoto street just after sunset" src="{{ site.url }}/images/kyoto_street_night_600x800.jpg" alt="Kyoto street after sunset">
+   <img title="Kyoto street just after sunset" src="{{ site.url }}/images/kyoto_street_night_600x800.avif" alt="Kyoto street after sunset">
 </figure>
 
 So I conversed in broken Japanese, and looked up kanji on my phone (and was surprised how many signs said "dentist"), and tried to improve my [hiragana](https://www.tofugu.com/japanese/learn-hiragana/) and [katakana](https://www.tofugu.com/japanese/learn-katakana/) reading skills. I didn't actively study, the total immersion was all I wanted.
@@ -38,7 +38,7 @@ Kanji typically have several meanings, sometimes wildly different (e.g. 洗　me
 
 By now I was hooked, by both the language and the country.  Two more years of study later I visited Japan again. On that visit I bought the paperback version of Haruki Murakami's "1Q84". It comes in 6 volumes, each about 400 pages.
 
-!["Paperback version of 1Q84 by 村上春樹, 6 volumes"]({{ site.url }}/images/murakami_1Q84_1600.jpg "1Q84 by 村上春樹")
+!["Paperback version of 1Q84 by 村上春樹, 6 volumes"]({{ site.url }}/images/murakami_1Q84_1600.avif "1Q84 by 村上春樹")
 
 I started reading it on my return (October 2014). It is a slow process because really my Japanese is by far not good enough. I continuously encounter kanji that I have not learned yet or already forgotten, so I have to look them up. Luckily I can do this on my phone, by writing them stroke by stroke. It is now April 2016 and I have reached page 295 (of 357) in the first volume. At this rate, it will take me another 15 years to finish the book. This may not seem very encouraging. However, I hope of course that my reading skills will improve. And in fact I have found reading this way to be more enjoyable than reading the book in English translation: reading Japanese requires a deeper concentration and I feel more immersed in the story -- and I find the Japanese writing simply beautiful.
 

@@ -49,6 +49,8 @@ black beans: 91; 230; pack of 230 g provides 208
 blackeye beans: 116; 240; tin is 240g
 adzuki beans: 120; 230; tin is 230g
 soy beans: 147; 200; a cup
+mung dal: 347; 150; a small cup
+mung beans: 347; 150; a small cup
 green peas: 55; 150; a small cup
 green beans: 30; 200; a small cup
 
@@ -74,6 +76,7 @@ sweet potato: 86; 200;
 
 egg: 155; 50; (1 egg ~ 50g)
 
+sugar: 387;15
 chocolate: 568;15; (we eat about 15 g per meal = 90 cal)
 dates: 295;50;
 flour: 361;50

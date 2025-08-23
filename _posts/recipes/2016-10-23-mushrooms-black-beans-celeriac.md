@@ -9,14 +9,14 @@ calorielevel: "4"
 calorierange: "800-1000kcals"
 preptime: "30 minutes"
 current: ""
-current_image: mushrooms-black-beans-celeriac_1600.jpg
+current_image: mushrooms-black-beans-celeriac_1600.avif
 current_anchor: mushrooms-black-beans-celeriac
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: mushrooms-black-beans-celeriac_1600.jpg
+  feature: mushrooms-black-beans-celeriac_1600.avif
   teaser: mushrooms-black-beans-celeriac_400.jpg
   thumb: mushrooms-black-beans-celeriac_400.jpg
 ---

@@ -9,14 +9,14 @@ calorielevel: "5"
 calorierange: "1000-1200kcals"
 preptime: "5 minutes per day"
 current: ""
-current_image:  sourdough-starter_1600.jpg
+current_image:  sourdough-starter_1600.avif
 current_anchor:  sourdough-starter
 comments: false
 toc: false
 categories: recipes
 subset: baking
 image:
-  feature: sourdough-starter_1600.jpg
+  feature: sourdough-starter_1600.avif
   teaser: sourdough-starter_400.jpg
   thumb: sourdough-starter_400.jpg
 ---

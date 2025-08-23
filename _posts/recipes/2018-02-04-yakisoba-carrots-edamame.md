@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  yakisoba-carrots-edamame_1600.jpg
+current_image:  yakisoba-carrots-edamame_1600.avif
 current_anchor:  yakisoba-carrots-edamame
 comments: false
 toc: false
 categories: recipes
 subset: japanese
 image:
-  feature: yakisoba-carrots-edamame_1600.jpg
+  feature: yakisoba-carrots-edamame_1600.avif
   teaser: yakisoba-carrots-edamame_400.jpg
   thumb: yakisoba-carrots-edamame_400.jpg
 ---

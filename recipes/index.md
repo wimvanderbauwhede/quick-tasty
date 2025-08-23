@@ -5,7 +5,8 @@ tags: [blog,recipes,cooking,food,vegetarian,vegan]
 comments: false
 toc: true
 image:
-  feature: recipe_1600x500.jpg
+  feature: recipe_1600x500.avif
+  teaser: recipe_400x125.jpg
 ---
 ## Fuss-free food for one or two
 

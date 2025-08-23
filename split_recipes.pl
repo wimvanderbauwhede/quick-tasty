@@ -19,15 +19,15 @@ modified: $date
 tags: [ $tags ]
 excerpt: \"$excerpt\"
 current: \"$excerpt\"
-current_image:  ${name}_1600.jpg
+current_image:  ${name}_1600.avif
 current_anchor:  $name
 comments: false
 toc: false
 categories: $cat
 image:
-  feature: ${name}_1600.jpg
-  teaser: ${name}_1600.jpg
-  thumb: ${name}_1600.jpg
+  feature: ${name}_1600.avif
+  teaser: ${name}_1600.avif
+  thumb: ${name}_1600.avif
 ---
 
 END_HEAD

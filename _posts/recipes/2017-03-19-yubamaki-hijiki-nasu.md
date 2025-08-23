@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "1h soak + 45mins cook"
 current: ""
-current_image:  yubamaki-hijiki-nasu_1600.jpg
+current_image:  yubamaki-hijiki-nasu_1600.avif
 current_anchor:  yubamaki-hijiki-nasu
 comments: false
 toc: false
 categories: recipes
 subset: japanese
 image:
-  feature: yubamaki-hijiki-nasu_1600.jpg
+  feature: yubamaki-hijiki-nasu_1600.avif
   teaser: yubamaki-hijiki-nasu_400.jpg
   thumb: yubamaki-hijiki-nasu_400.jpg
 ---

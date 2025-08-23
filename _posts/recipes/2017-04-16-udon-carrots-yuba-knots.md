@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "30 minutes"
 current: ""
-current_image:  udon-carrots-yuba-knots_1600.jpg
+current_image:  udon-carrots-yuba-knots_1600.avif
 current_anchor:  udon-carrots-yuba-knots
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: udon-carrots-yuba-knots_1600.jpg
+  feature: udon-carrots-yuba-knots_1600.avif
   teaser: udon-carrots-yuba-knots_400.jpg
   thumb: udon-carrots-yuba-knots_400.jpg
 ---

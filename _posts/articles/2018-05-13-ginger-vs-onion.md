@@ -6,13 +6,13 @@ modified: 2018-05-13
 tags: [ ginger,  cooking-boffin ]
 excerpt: "Quick and Tasty recipes don't use onion. There is no special reason, I just prefer ginger. So let's make the case for ginger."
 current: ""
-current_image:   ginger-vs-onion_1600x600.jpg
+current_image:   ginger-vs-onion_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: ginger-vs-onion_1600x600.jpg
+  feature: ginger-vs-onion_1600x600.avif
   teaser: ginger-vs-onion_400x150.jpg
   thumb: ginger-vs-onion_400x150.jpg
 ---

@@ -9,14 +9,14 @@ calorielevel: "4"
 calorierange: "800-1000kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  veggie-binagoonang-talong_1600.jpg
+current_image:  veggie-binagoonang-talong_1600.avif
 current_anchor:  veggie-binagoonang-talong
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: veggie-binagoonang-talong_1600.jpg
+  feature: veggie-binagoonang-talong_1600.avif
   teaser: veggie-binagoonang-talong_400.jpg
   thumb: veggie-binagoonang-talong_400.jpg
 ---

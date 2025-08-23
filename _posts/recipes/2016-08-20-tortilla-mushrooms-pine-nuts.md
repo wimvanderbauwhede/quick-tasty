@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  tortilla-mushrooms-pine-nuts_1600.jpg
+current_image:  tortilla-mushrooms-pine-nuts_1600.avif
 current_anchor:  tortilla-mushrooms-pine-nuts
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: tortilla-mushrooms-pine-nuts_1600.jpg
+  feature: tortilla-mushrooms-pine-nuts_1600.avif
   teaser: tortilla-mushrooms-pine-nuts_400.jpg
   thumb: tortilla-mushrooms-pine-nuts_400.jpg
 ---

@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "15 minutes"
 current: ""
-current_image:  asparagus-paneer-courgette-rocket-salad_1600.jpg
+current_image:  asparagus-paneer-courgette-rocket-salad_1600.avif
 current_anchor:  asparagus-paneer-courgette-rocket-salad
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: asparagus-paneer-courgette-rocket-salad_1600.jpg
+  feature: asparagus-paneer-courgette-rocket-salad_1600.avif
   teaser: asparagus-paneer-courgette-rocket-salad_400.jpg
   thumb: asparagus-paneer-courgette-rocket-salad_400.jpg
 ---

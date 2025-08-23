@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "30 minutes"
 current: ""
-current_image:  curry-potatoes-parsnips-chickpeas_1600.jpg
+current_image:  curry-potatoes-parsnips-chickpeas_1600.avif
 current_anchor:  curry-potatoes-parsnips-chickpeas
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: curry-potatoes-parsnips-chickpeas_1600.jpg
+  feature: curry-potatoes-parsnips-chickpeas_1600.avif
   teaser: curry-potatoes-parsnips-chickpeas_400.jpg
   thumb: curry-potatoes-parsnips-chickpeas_400.jpg
 ---

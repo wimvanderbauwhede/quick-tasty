@@ -9,14 +9,14 @@ calorielevel: "4"
 calorierange: "800-1000kcals"
 preptime: "15 minutes"
 current: ""
-current_image:  linguine-pesto-cream-asparagus-potatoes_1600.jpg
+current_image:  linguine-pesto-cream-asparagus-potatoes_1600.avif
 current_anchor:  linguine-pesto-cream-asparagus-potatoes
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: linguine-pesto-cream-asparagus-potatoes_1600.jpg
+  feature: linguine-pesto-cream-asparagus-potatoes_1600.avif
   teaser: linguine-pesto-cream-asparagus-potatoes_400.jpg
   thumb: linguine-pesto-cream-asparagus-potatoes_400.jpg
 ---

@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "20 mins"
 current: ""
-current_image:  winter-hotpot-root-vegetables-adzuki-beans_1600.jpg
+current_image:  winter-hotpot-root-vegetables-adzuki-beans_1600.avif
 current_anchor:  winter-hotpot-root-vegetables-adzuki-beans
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: winter-hotpot-root-vegetables-adzuki-beans_1600.jpg
+  feature: winter-hotpot-root-vegetables-adzuki-beans_1600.avif
   teaser: winter-hotpot-root-vegetables-adzuki-beans_400.jpg
   thumb: winter-hotpot-root-vegetables-adzuki-beans_400.jpg
 ---

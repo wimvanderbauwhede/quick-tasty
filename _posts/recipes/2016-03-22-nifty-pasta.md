@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "15 minutes"
 current: ""
-current_image:  nifty_pasta_1600.jpg
+current_image:  nifty_pasta_1600.avif
 current_anchor:  nifty_pasta
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: nifty_pasta_1600.jpg
+  feature: nifty_pasta_1600.avif
   teaser: nifty_pasta_400.jpg
   thumb: nifty_pasta_400.jpg
 ---

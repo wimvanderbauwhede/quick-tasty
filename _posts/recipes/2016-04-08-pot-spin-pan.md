@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "30 minutes"
 current: ""
-current_image:  pot_spin_pan_1600.jpg
+current_image:  pot_spin_pan_1600.avif
 current_anchor:  pot_spin_pan
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: pot_spin_pan_1600.jpg
+  feature: pot_spin_pan_1600.avif
   teaser: pot_spin_pan_400.jpg
   thumb: pot_spin_pan_400.jpg
 ---

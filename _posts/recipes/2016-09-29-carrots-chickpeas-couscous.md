@@ -9,14 +9,14 @@ calorielevel: "4"
 calorierange: "800-1000kcals"
 preptime: "15 minutes"
 current: ""
-current_image: carrots-chickpeas-couscous_1600.jpg
+current_image: carrots-chickpeas-couscous_1600.avif
 current_anchor: carrots-chickpeas-couscous 
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: carrots-chickpeas-couscous_1600.jpg
+  feature: carrots-chickpeas-couscous_1600.avif
   teaser: carrots-chickpeas-couscous_400.jpg
   thumb: carrots-chickpeas-couscous_400.jpg
 ---

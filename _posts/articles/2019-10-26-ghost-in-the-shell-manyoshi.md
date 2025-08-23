@@ -6,18 +6,18 @@ modified: 2019-10-26
 tags: [ Japanese ]
 excerpt: "The many layers behind the theme song of the Ghost in the Shell anime 'Innocence'."
 current: ""
-current_image:   ghost-in-the-shell-manyoshi_1600x600.jpg
+current_image:   ghost-in-the-shell-manyoshi_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: ghost-in-the-shell-manyoshi_1600x600.jpg
+  feature: ghost-in-the-shell-manyoshi_1600x600.avif
   teaser: ghost-in-the-shell-manyoshi_400x150.jpg
   thumb: ghost-in-the-shell-manyoshi_400x150.jpg
 ---
 
-The first "Ghost in the Shell" anime has [a very striking opening theme](https://www.youtube.com/watch?v=ebkGo-nUPhk). It was expanded for the second movie, "Innocence". I was in particular intrigued by [the "Puppet Song"](https://www.youtube.com/watch?v=WOEEfPpSAZ8) in Innocence, and tried to unwrap the many layers behind it.
+The first "Ghost in the Shell" anime has [a very striking opening theme](https://www.youtube.com/watch?v=iTPNaUsjksM). It was expanded for the second movie, "Innocence". I was in particular intrigued by [the "Puppet Song"](https://www.youtube.com/watch?v=WOEEfPpSAZ8) in Innocence, and tried to unwrap the many layers behind it.
 
 ## Ghost in the Shell
 
@@ -25,9 +25,9 @@ In 1995, the first "Ghost in the Shell" anime was released, based on the 1991 ma
 
 ## Making of Cyborg
 
-When [listening to this song](https://www.youtube.com/watch?v=z64HCi2rQkE), what struck me is that it sounds similar to the choral songs of ["Le Mystère des Voix Bulgares"](https://www.youtube.com/watch?v=AFgzzWT3zX4), which was the name of a 1975 recording of Bulgarian folk songs performed by the Bulgarian State Radio & Television Female Vocal Choir. It only became widely known after being re-released by the British independent record label 4AD in 1986.
+When [listening to this song](https://www.youtube.com/watch?v=WjOuEruzoh0), what struck me is that it sounds similar to the choral songs of ["Le Mystère des Voix Bulgares"](https://www.youtube.com/watch?v=AFgzzWT3zX4), which was the name of a 1975 recording of Bulgarian folk songs performed by the Bulgarian State Radio & Television Female Vocal Choir. It only became widely known after being re-released by the British independent record label 4AD in 1986.
 
-As it turns out, this is not a coincidence: [in an interview](http://www.gamesetwatch.com/2010/02/sound_current_kenji_kawai_the.php), the composer explained he had wanted a chorus in Bulgarian style but using Japanese folk singers. According to [the Japanese Wiki](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8E%E3%82%BB%E3%83%B3%E3%82%B9), he used only three singers for the recording. The result is a very interesting combination of a traditional Bulgarian mode with Japanese lyrics and singing style.
+As it turns out, this is not a coincidence: [in an interview](https://www.gamedeveloper.com/pc/interview-kenji-kawai-talks-unique-video-game-film-soundtrack-experiences), the composer explained he had wanted a chorus in Bulgarian style but using Japanese folk singers. According to [the Japanese Wiki](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8E%E3%82%BB%E3%83%B3%E3%82%B9), he used only three singers for the recording. The result is a very interesting combination of a traditional Bulgarian mode with Japanese lyrics and singing style.
 
 What is also very interesting is the nature of the song: it is intended to be similar to a traditional Japanese wedding song, but as far as I could gather the composer wrote the lyrics. He used a very archaic style, dating back to the Heian period (794 to 1185, when Kyoto became the capital) or even the earlier Nara period (710 to 794, when Nara was the capital).
 

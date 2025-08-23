@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "30 minutes"
 current: ""
-current_image:  risotto-parsnips-oyster-mushrooms_1600.jpg
+current_image:  risotto-parsnips-oyster-mushrooms_1600.avif
 current_anchor:  risotto-parsnips-oyster-mushrooms
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: risotto-parsnips-oyster-mushrooms_1600.jpg
+  feature: risotto-parsnips-oyster-mushrooms_1600.avif
   teaser: risotto-parsnips-oyster-mushrooms_400.jpg
   thumb: risotto-parsnips-oyster-mushrooms_400.jpg
 ---

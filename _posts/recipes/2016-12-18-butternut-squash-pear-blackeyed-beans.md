@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  butternut-squash-pear-blackeyed-beans_1600.jpg
+current_image:  butternut-squash-pear-blackeyed-beans_1600.avif
 current_anchor:  butternut-squash-pear-blackeyed-beans
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: butternut-squash-pear-blackeyed-beans_1600.jpg
+  feature: butternut-squash-pear-blackeyed-beans_1600.avif
   teaser: butternut-squash-pear-blackeyed-beans_400.jpg
   thumb: butternut-squash-pear-blackeyed-beans_400.jpg
 ---

@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "20 minutes"
 current: ""
-current_image: fried-potatoes-carrots-soy-beans_1600.jpg
+current_image: fried-potatoes-carrots-soy-beans_1600.avif
 current_anchor: fried-potatoes-carrots-soy-beans
 comments: false
 toc: false
 categories: recipes
 subset: japanese
 image:
-  feature: fried-potatoes-carrots-soy-beans_1600.jpg
+  feature: fried-potatoes-carrots-soy-beans_1600.avif
   teaser: fried-potatoes-carrots-soy-beans_400.jpg
   thumb: fried-potatoes-carrots-soy-beans_400.jpg
 ---

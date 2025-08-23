@@ -9,14 +9,14 @@ calorielevel: "4"
 calorierange: "800-1000kcals"
 preptime: "45 minutes"
 current: ""
-current_image:  festive-aubergines-mushrooms-bake_1600.jpg
+current_image:  festive-aubergines-mushrooms-bake_1600.avif
 current_anchor:  festive-aubergines-mushrooms-bake
 comments: false
 toc: false
 categories: recipes
 subset: special
 image:
-  feature: festive-aubergines-mushrooms-bake_1600.jpg
+  feature: festive-aubergines-mushrooms-bake_1600.avif
   teaser: festive-aubergines-mushrooms-bake_400.jpg
   thumb: festive-aubergines-mushrooms-bake_400.jpg
 ---

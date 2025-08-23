@@ -6,13 +6,13 @@ modified: 2018-11-24
 tags: [ Japanese ]
 excerpt: "A story of counting systems, a mathematics treatise and buddhist scriptures, with a supercomputer and a samurai."
 current: ""
-current_image:   japanese-large-numbers_1600x600.jpg
+current_image:   japanese-large-numbers_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: japanese-large-numbers_1600x600.jpg
+  feature: japanese-large-numbers_1600x600.avif
   teaser: japanese-large-numbers_400x150.jpg
   thumb: japanese-large-numbers_400x150.jpg
 ---
@@ -43,7 +43,7 @@ Table 1. _Kanji for large numbers with readings and number values_
 For example, the character 京, which is the "kyō" in Kyoto (京都) means "metropolis", but also 10<sup>16</sup>. For that meaning it is pronounced "kei", and this is the origin of the name of the famous Riken supercomputer in Kobe, the "K computer": it is a computer capable of 10 petaflops, so 10<sup>16</sup> or _kei_ flops. Incidentally, it is probably the only supercomputer that has its own railway station, 京コンピュータ前駅.
 
 <figure>
-<img src="{{ site.url }}/images/k-computer-mae_1600.jpg" alt="K Computer Mae Station"/>
+<img src="{{ site.url }}/images/k-computer-mae_1600.avif" alt="K Computer Mae Station"/>
 <figcaption>The 京コンピュータ前駅 (K Computer Mae Station) in Kobe.</figcaption>
 </figure>
 

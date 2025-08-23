@@ -6,13 +6,13 @@ modified: 2020-11-03
 tags: [ music, cooking-boffin ]
 excerpt: "The short story of a whimsical music collaboration."
 current: ""
-current_image:   daffodils_1600x600.jpg
+current_image:   daffodils_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: daffodils_1600x600.jpg
+  feature: daffodils_1600x600.avif
   teaser: daffodils_400x150.jpg
   thumb: daffodils_400x150.jpg
 ---
@@ -34,7 +34,7 @@ Your browser does not support the audio element.
 all started from the title, really. “Daffodils”. Nice word, which reminds of many things – an Arcadia of beautiful flowers and their scent, or Wordsworth’s famous poem, for instance. Among the many spurious thoughts that such a word could evoke, there was one that triggered the resolve to create a piece of music from it: the presence of letters that can be interpreted as note names, together with others that can not. Of the many possible mappings, this one was chosen:
 
 <figure>
-<img src="{{ site.url }}/images/Theme.png" alt="A piece of musical score showing the theme of Daffodils."
+<img src="{{ site.url }}/images/Theme.avif" alt="A piece of musical score showing the theme of Daffodils."
 title="A piece of musical score showing the theme of Daffodils."
 />
 <figcaption>The theme of "Daddodils": ‘D’, ‘A’, ‘F’, ‘F’, rest, ‘D’, rest, rest, (rest)</figcaption>
@@ -47,7 +47,7 @@ In retrospective, it is possible that, from the very beginning, it all was leadi
 The track was created with [TuxGuitar](http://tuxguitar.com.ar/), a nice tabulature editor whose notes input interfaces include guitar fretboards. So yes all the instruments you can hear in Daffodils have been composed… on guitar ^_^. Some of the sounds were produced via the Timbres Of Heaven soundfont, while for others we used MuseScore, after importing MIDI files exported from TuxGuitar.
 
 <figure>
-<img src="{{ site.url }}/images/Tux.png" alt="TuxGuitar UI."
+<img src="{{ site.url }}/images/Tux.avif" alt="TuxGuitar UI."
 title="The TuxGuitar UI."
 />
 <figcaption>The TuxGuitar UI</figcaption>
@@ -58,7 +58,7 @@ title="The TuxGuitar UI."
 [Audacity](https://www.audacityteam.org/) is perhaps not the best tool one could use, though it has certain valuable features. One such feature is so-called Envelope Tool: with it, it is possible to finely control the volume of each voice.
 
 <figure>
-<img src="{{ site.url }}/images/Audax.png" alt="Audacity UI for the Envelope Tool."
+<img src="{{ site.url }}/images/Audax.avif" alt="Audacity UI for the Envelope Tool."
 title="Audacity UI for the Envelope Tool."
 />
 <figcaption>Each voice is wrapped in a “control envelope”, which changes the volume of the track proportionally to the ‘height’ of the envelope.</figcaption>
@@ -147,4 +147,4 @@ Our album "Daffodils and Other Flowers" is available on [Funkwhale.it](https://f
 <iframe width="100%" height="330" scrolling="no" frameborder="no" src="https://funkwhale.it/front/embed.html?&amp;type=album&amp;id=184"></iframe> 
 </p>
 
-- "Daffodils" and "Daffodils and Other Flowers" is © 2020 Eidon and Wim. https://octodon.social/@wim_v12e, Eidon@tutanota.com.<br>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+- "Daffodils" and "Daffodils and Other Flowers" is © 2020 Eidon and Wim. https://octodon.social/@wim_v12e, Eidon@tutanota.com.<br>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.avif" /></a>

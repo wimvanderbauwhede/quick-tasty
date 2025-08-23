@@ -46,13 +46,13 @@ for my $line (@lines) {
     $line=~/(?:og|twitter):description/ && do { 
         $line=~s/content=.+\"/content=\"Fuss-free food for one or two\"/; 
     };
-#        <meta property="og:image" content="http://www.quickandtastycooking.org.uk/images/orzo_ricotta_mushrooms_1600.jpg" />
+#        <meta property="og:image" content="http://www.quickandtastycooking.org.uk/images/orzo_ricotta_mushrooms_1600.avif" />
     $line=~/og:image/ && do {
-        $line=~s/images\/.+_1600\.jpg/images\/${page_name}_1600.jpg/;
+        $line=~s/images\/.+_1600\.avif/images\/${page_name}_1600.avif/;
     };
-#<meta name="twitter:image" content="http://www.quickandtastycooking.org.uk/images/recipe_1600x500.jpg">
+#<meta name="twitter:image" content="http://www.quickandtastycooking.org.uk/images/recipe_1600x500.avif">
     $line=~/twitter:image/ && do {
-        $line=~s/images\/recipe_1600x500\.jpg/images\/${page_name}_1600.jpg/;
+        $line=~s/images\/recipe_1600x500\.avif/images\/${page_name}_1600.avif/;
     };
     $line=~/canonical/ && do {
         $line=~s/\"\>/$page_name\.html\"\>/;

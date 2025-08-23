@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "30 minutes"
 current: ""
-current_image: yellow-peppers-potatoes-puy-lentils_1600.jpg
+current_image: yellow-peppers-potatoes-puy-lentils_1600.avif
 current_anchor: yellow-peppers-potatoes-puy-lentils
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: yellow-peppers-potatoes-puy-lentils_1600.jpg
+  feature: yellow-peppers-potatoes-puy-lentils_1600.avif
   teaser: yellow-peppers-potatoes-puy-lentils_400.jpg
   thumb: yellow-peppers-potatoes-puy-lentils_400.jpg
 ---

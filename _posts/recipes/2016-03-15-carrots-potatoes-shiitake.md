@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  carrots_potatoes_shiitake_1600.jpg
+current_image:  carrots_potatoes_shiitake_1600.avif
 current_anchor:  carrots_potatoes_shiitake
 comments: false
 toc: false
 categories: recipes
 subset: japanese
 image:
-  feature: carrots_potatoes_shiitake_1600.jpg
+  feature: carrots_potatoes_shiitake_1600.avif
   teaser: carrots_potatoes_shiitake_400.jpg
   thumb: carrots_potatoes_shiitake_400.jpg
 ---

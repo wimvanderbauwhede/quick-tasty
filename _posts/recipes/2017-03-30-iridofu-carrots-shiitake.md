@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  iridofu-carrots-shiitake_1600.jpg
+current_image:  iridofu-carrots-shiitake_1600.avif
 current_anchor:  iridofu-carrots-shiitake
 comments: false
 toc: false
 categories: recipes
 subset: japanese
 image:
-  feature: iridofu-carrots-shiitake_1600.jpg
+  feature: iridofu-carrots-shiitake_1600.avif
   teaser: iridofu-carrots-shiitake_400.jpg
   thumb: iridofu-carrots-shiitake_400.jpg
 ---

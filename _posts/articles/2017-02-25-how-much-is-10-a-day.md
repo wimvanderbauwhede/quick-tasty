@@ -6,13 +6,13 @@ modified: 2017-02-25
 tags: [ cooking-boffin]
 excerpt: "Some thoughts on a recent study saying that we need to eat ten portions of fruit and vegetables per day."
 current: ""
-current_image:   how-much-is-10-a-day_1600x600.jpg
+current_image:   how-much-is-10-a-day_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: how-much-is-10-a-day_1600x600.jpg
+  feature: how-much-is-10-a-day_1600x600.avif
   teaser: how-much-is-10-a-day_400x150.jpg
   thumb: how-much-is-10-a-day_400x150.jpg
 ---
@@ -35,7 +35,7 @@ The paper shows that the relative risk of death from  coronary heart disease, st
 To put this into perspective, the relative risk of death from coronary heart disease for men of age 40-44 due to [smoking](https://www.ncbi.nlm.nih.gov/books/NBK53012/
 ) is _6.3_. That means that smoking increases your risk by more than 6 times compared to not smoking. By comparison, eating 800g/day instead of 400g/day reduces your relative risk from 0.75 to 0.70 compared to eating no fruits or vegetables at all. 
 
-<img title="Fruits, vegetables and all-cause mortality, non-linear dose response" src="{{ site.url }}/images/eat_more_fruit.png" alt="Fruits, vegetables and all-cause mortality, non-linear dose response">
+<img title="Fruits, vegetables and all-cause mortality, non-linear dose response" src="{{ site.url }}/images/eat_more_fruit.avif" alt="Fruits, vegetables and all-cause mortality, non-linear dose response">
 
 The key message of paper is that, assuming there is a causal link, then the percentage of deaths per year due to coronary heart disease, stroke and cancer that could have been avoided by eating 800g fruit/veg a day was 9%, whereas for 500g fruit/veg a day it was 6% (in the UK). So increasing intake from 500g/day to 800g/day would result in 3% fewer deaths, or 14,000 deaths prevented (total number of deaths from these causes was 315,000/year in the UK). The unknown factor is of course if the reduced risk is only because of the diet or if people who eat more fruit and vegetables have lower risks due to other causes as well. 
 

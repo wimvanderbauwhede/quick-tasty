@@ -6,13 +6,13 @@ modified: 2017-01-28
 tags: [ cooking-boffin]
 excerpt: "Quick an Tasty Cooking is one year old!"
 current: "Celebrations! One year of Quick & Tasty!"
-current_image:   one-year-of-quick-and-tasty_1600x600.jpg
+current_image:   one-year-of-quick-and-tasty_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: one-year-of-quick-and-tasty_1600x600.jpg
+  feature: one-year-of-quick-and-tasty_1600x600.avif
   teaser: one-year-of-quick-and-tasty_400x150.jpg
   thumb: one-year-of-quick-and-tasty_400x150.jpg
 ---

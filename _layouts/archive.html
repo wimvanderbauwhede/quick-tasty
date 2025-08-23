@@ -7,7 +7,12 @@ layout: default
 		{% if page.image.feature %}
 		<div class="page-feature">
 			<div class="page-image">
-				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}">
+				<picture>
+				<source height="500" srcset="{{ site.url }}/images/{{ page.image.feature }}" type="image/avif"
+				class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+					<img src="{{ site.url }}/images/{{ page.image.teaser }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+				</picture>
+				<!-- <img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}"> -->
 				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
 			</div><!-- /.page-image -->
 		</div><!-- /.page-feature -->

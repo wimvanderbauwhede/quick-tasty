@@ -9,14 +9,14 @@ calorielevel: "4"
 calorierange: "800-1000kcals"
 preptime: "45 minutes"
 current: ""
-current_image:  japanese-risotto-black-rice_1600.jpg
+current_image:  japanese-risotto-black-rice_1600.avif
 current_anchor:  japanese-risotto-black-rice
 comments: false
 toc: false
 categories: recipes
 subset: japanese
 image:
-  feature: japanese-risotto-black-rice_1600.jpg
+  feature: japanese-risotto-black-rice_1600.avif
   teaser: japanese-risotto-black-rice_400.jpg
   thumb: japanese-risotto-black-rice_400.jpg
 ---

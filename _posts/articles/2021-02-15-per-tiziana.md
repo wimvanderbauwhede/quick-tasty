@@ -9,7 +9,7 @@ comments: false
 toc: false
 categories: articles
 image:
-  feature: per-tiziana_1600x600.jpg
+  feature: per-tiziana_1600x600.avif
   teaser: per-tiziana_400x150.jpg
   thumb: per-tiziana_400x150.jpg
 ---

@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "60 minutes"
 current: ""
-current_image: stuffed-aubergines-cauliflower-gratin_1600.jpg
+current_image: stuffed-aubergines-cauliflower-gratin_1600.avif
 current_anchor:  stuffed-aubergines-cauliflower-gratin
 comments: false
 toc: false
 categories: recipes
 subset: special
 image:
-  feature: stuffed-aubergines-cauliflower-gratin_1600.jpg
+  feature: stuffed-aubergines-cauliflower-gratin_1600.avif
   teaser: stuffed-aubergines-cauliflower-gratin_400.jpg
   thumb: stuffed-aubergines-cauliflower-gratin_400.jpg
 ---

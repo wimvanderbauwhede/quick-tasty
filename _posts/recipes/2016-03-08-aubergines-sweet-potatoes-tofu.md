@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  aubergines_sweet_potatoes_tofu_1600.jpg
+current_image:  aubergines_sweet_potatoes_tofu_1600.avif
 current_anchor:  aubergines_sweet_potatoes_tofu
 comments: false
 toc: false
 categories: recipes
 subset: japanese
 image:
-  feature: aubergines_sweet_potatoes_tofu_1600.jpg
+  feature: aubergines_sweet_potatoes_tofu_1600.avif
   teaser: aubergines_sweet_potatoes_tofu_400.jpg
   thumb: aubergines_sweet_potatoes_tofu_400.jpg
 ---

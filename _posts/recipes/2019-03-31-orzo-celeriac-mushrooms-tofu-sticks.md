@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  orzo-celeriac-mushrooms-tofu-sticks_1600.jpg
+current_image:  orzo-celeriac-mushrooms-tofu-sticks_1600.avif
 current_anchor:  orzo-celeriac-mushrooms-tofu-sticks
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: orzo-celeriac-mushrooms-tofu-sticks_1600.jpg
+  feature: orzo-celeriac-mushrooms-tofu-sticks_1600.avif
   teaser: orzo-celeriac-mushrooms-tofu-sticks_400.jpg
   thumb: orzo-celeriac-mushrooms-tofu-sticks_400.jpg
 ---

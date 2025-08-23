@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  imam_bayildi_couscous_feta_1600.jpg
+current_image:  imam_bayildi_couscous_feta_1600.avif
 current_anchor:  imam_bayildi_couscous_feta
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: imam_bayildi_couscous_feta_1600.jpg
+  feature: imam_bayildi_couscous_feta_1600.avif
   teaser: imam_bayildi_couscous_feta_400.jpg
   thumb: imam_bayildi_couscous_feta_400.jpg
 ---

@@ -9,14 +9,14 @@ calorielevel: "4"
 calorierange: "800-1000kcals"
 preptime: "30 minutes"
 current: ""
-current_image:  courgettes_mushrooms_puy_lentils_1600.jpg
+current_image:  courgettes_mushrooms_puy_lentils_1600.avif
 current_anchor:  courgettes_mushrooms_puy_lentils
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: courgettes_mushrooms_puy_lentils_1600.jpg
+  feature: courgettes_mushrooms_puy_lentils_1600.avif
   teaser: courgettes_mushrooms_puy_lentils_400.jpg
   thumb: courgettes_mushrooms_puy_lentils_400.jpg
 ---

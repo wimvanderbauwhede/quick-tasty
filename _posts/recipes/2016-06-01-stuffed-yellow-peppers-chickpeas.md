@@ -9,14 +9,14 @@ calorielevel: "4"
 calorierange: "800-1000kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  stuffed-yellow-peppers-chickpeas_1600.jpg
+current_image:  stuffed-yellow-peppers-chickpeas_1600.avif
 current_anchor:  stuffed-yellow-peppers-chickpeas
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: stuffed-yellow-peppers-chickpeas_1600.jpg
+  feature: stuffed-yellow-peppers-chickpeas_1600.avif
   teaser: stuffed-yellow-peppers-chickpeas_400.jpg
   thumb: stuffed-yellow-peppers-chickpeas_400.jpg
 ---

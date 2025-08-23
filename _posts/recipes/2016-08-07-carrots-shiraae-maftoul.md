@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "20 minutes"
 current: ""
-current_image: carrots-shiraae-maftoul_1600.jpg
+current_image: carrots-shiraae-maftoul_1600.avif
 current_anchor: carrots-shiraae-maftoul
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: carrots-shiraae-maftoul_1600.jpg
+  feature: carrots-shiraae-maftoul_1600.avif
   teaser: carrots-shiraae-maftoul_400.jpg
   thumb: carrots-shiraae-maftoul_400.jpg
 ---

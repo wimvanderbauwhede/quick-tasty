@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "30 minutes"
 current: ""
-current_image:  potato-vegetable-bake_1600.jpg
+current_image:  potato-vegetable-bake_1600.avif
 current_anchor:  potato-vegetable-bake
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: potato-vegetable-bake_1600.jpg
+  feature: potato-vegetable-bake_1600.avif
   teaser: potato-vegetable-bake_400.jpg
   thumb: potato-vegetable-bake_400.jpg
 ---

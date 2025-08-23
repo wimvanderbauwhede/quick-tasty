@@ -6,13 +6,13 @@ modified: 2020-10-31
 tags: [ Japanese, cooking-boffin ]
 excerpt: "On the origin and meaning of a Shinshū Buddhist hymn which I encountered in Yu Miri's Tokyo Ueno Station."
 current: ""
-current_image:   shinshu-prayer_1600x600.jpg
+current_image:   shinshu-prayer_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: shinshu-prayer_1600x600.jpg
+  feature: shinshu-prayer_1600x600.avif
   teaser: shinshu-prayer_400x150.jpg
   thumb: shinshu-prayer_400x150.jpg
 ---
@@ -22,21 +22,17 @@ I am currently reading the original Japanese version of "Tokyo Ueno Station" by 
 ## The prayer
 
 The prayer in the book is written in archaic Japanese with old forms of _kanji_ and grammar and uncommon words:
-
-　 　 　 　 長 本 浄 娑 ツ 佛 イ 弘<br>
-　 　 　 　 時 師 土 婆 子 恩 ヅ 誓<br>
-　 　 　 　 ニ 釋 无 永 ニ フ レ ノ<br>
-　 　 　 　 慈 迦 爲 劫 弥 カ ノ チ<br>
-　 　 　 　 恩 ノ ヲ ノ 陀 ク ト カ<br>
-　 　 　 　 ヲ チ 期 苦 ヲ オ キ ラ<br>
-　 　 　 　 報 カ ス ヲ 念 モ ニ ヲ<br>
-　 　 　 　 ズ ラ ル ス ズ ヒ カ カ<br>
-　 　 　 　 ベ ナ コ テ ベ ツ 娑 フ<br>
-　 　 　 　 シ リ ト 、 シ 、 婆 ラ<br>
-　 　 　 　 　 　 　 　 　 　 ヲ ズ<br>
-　 　 　 　 　 　 　 　 　 　 い バ<br>
-　 　 　 　 　 　 　 　 　 　 デ<br>
-　 　 　 　 　 　 　 　 　 　 ン<br>
+<br><br>
+<div style="writing-mode: vertical-rl">
+弘誓ノチカラヲカフラズハ<br>
+イジレノトキニカ娑婆ヲイデン<br>
+佛恩フカクオモヒツ、<br>
+ツ子ニ弥陀ヲ念ズベシ<br>
+娑婆永劫ノ苦ヲステ、<br>
+浄土无爲ヲ期スルコト<br>
+本師釋迦ノチカラナリ<br>
+長時ニ慈恩ヲ報ズベシ
+</div>
 
 ## The puzzle
 

@@ -6,13 +6,13 @@ modified: 2021-04-10
 tags: [ Japan ]
 excerpt: "The story behind a series of four portraits from a scene in the movie 'Our Little Sister'."
 current: ""
-current_image:   umimachi-diary_1600x600.jpg
+current_image:   umimachi-diary_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: umimachi-diary_1600x600.jpg
+  feature: umimachi-diary_1600x600.avif
   teaser: umimachi-diary_400x150.jpg
   thumb: umimachi-diary_400x150.jpg
 ---
@@ -21,7 +21,7 @@ image:
 I made a series of four portraits based on a scene from the 2015 movie "海街 diary" (_umimachi diary_) by Hirokazu Kore-Eda, called "Our Little Sister" in English. The movie is based on a manga from 2007 of the same name by Akimi Yoshida (吉田秋生) [[1]](https://flowers.shogakukan.co.jp/work/317/). The title means "diary of a seaside town".  The seaside town in the story is Kamakura  (鎌倉市), an ancient capital of Japan on the Pacific coast. The banner picture shows a view over the town which I took in 2018.
 
 <figure>
-<img src="{{ site.url }}/images/umimachi-diary-manga.png" alt="A drawing of four girls, a group of three and a younger one facing them." title="A drawing of four girls, a group of three and a younger one facing them."/>
+<img src="{{ site.url }}/images/umimachi-diary-manga.avif" alt="A drawing of four girls, a group of three and a younger one facing them." title="A drawing of four girls, a group of three and a younger one facing them."/>
 <figcaption>Illustration by Akimi Yoshida for the first chapter of her manga Umimachi Diary</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ The film is not so much about the sisters as about how things change with the pa
 The scene I have chosen for the portraits is when the sisters are having their own fireworks in their garden. 
 
 <figure>
-<img src="{{ site.url }}/images/scene-for-portraits.jpg" alt="Four young women in yukata, holding sparklers." title="Four young women in yukata, holding sparklers."/>
+<img src="{{ site.url }}/images/scene-for-portraits.avif" alt="Four young women in yukata, holding sparklers." title="Four young women in yukata, holding sparklers."/>
 <figcaption>The senkō hanabi scene from the movie "Our Little Sister"</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ Finally, I prefer to use Conté pencils, because they have a much richer, blacke
 For the first portrait, that of Yoshino, I used only Conté pencil and Faber-Castell Graphite Aquarelle pencils, and I washed the drawing to get a deeper black. I was not entirely happy with it, mostly because of the texture of the hair and the background, although the highlights on the face had turned out the way I wanted them and I was pleased with the ginkho pattern on the yukata as well.
 
 <figure>
-<img src="{{ site.url }}/images/p0-yoshino.jpg" 
+<img src="{{ site.url }}/images/p0-yoshino.avif" 
 alt="A pencil portrait of a Japanese woman in profile, wearing a yukata with a stylised ginkho leaf pattern. The scene is quite dark, the face has some highlights from an invisible light source placed in front and below the character. The background is a sketchy rendering of vegetation."
 title="A pencil portrait of a Japanese woman in profile, wearing a yukata with a stylised ginkho leaf pattern. The scene is quite dark, the face has some highlights from an invisible light source placed in front and below the character. The background is a sketchy rendering of vegetation."  
 />
@@ -67,7 +67,7 @@ title="A pencil portrait of a Japanese woman in profile, wearing a yukata with a
 For the portrait of Sachi, I used essentially the same approach but I decided to add a touch of blue colour to the _yukata_ and use it for highlights as well. I used a Derwent Inktense watercolour pencil for this. Compared to other watercolour pencils, these give a much more intense colour. I rendered the background differently, more abstracted. 
 
 <figure>
-<img src="{{ site.url }}/images/p2-sachi.jpg" 
+<img src="{{ site.url }}/images/p2-sachi.avif" 
 alt="A Conté pencil portrait of a Japanese woman in three-quarter, looking down at something in front of her. She is wearing a yukata with a stylised bamboo leaf, maple leaf and flower pattern. The scene is quite dark, the face has some highlights from an invisible light source placed in front and below the character. The background is a blurry blobs. The pattern of the yukata is tinted in blue watercolour."
 title="A Conté pencil portrait of a Japanese woman in three-quarter, looking down at something in front of her. She is wearing a yukata with a stylised bamboo leaf, maple leaf and flower pattern. The scene is quite dark, the face has some highlights from an invisible light source placed in front and below the character. The background is a blurry blobs. The pattern of the yukata is tinted in blue watercolour."  
 />
@@ -77,7 +77,7 @@ title="A Conté pencil portrait of a Japanese woman in three-quarter, looking do
 For the portrait of Suzu, I used pale pink and blue for the pattern of the yukata, and a slightly more magenta-like colour for the obi (sash), for highlights on the face and for the hairband.
 
 <figure>
-<img src="{{ site.url }}/images/p3-suzu.jpg" 
+<img src="{{ site.url }}/images/p3-suzu.avif" 
 alt="Drawing of a young Japanese girl in a yukata with stylised motif of stalks with large leaves, tinted with blue and dark pink watercolour. The person is crouching and looking down at something in front of her. Her hair is tied up on top with a pink hairband. The legs are not visible."
 title="Drawing of a young Japanese girl in a yukata with stylised motif of stalks with large leaves, tinted with blue and dark pink watercolour. The person is crouching and looking down at something in front of her. Her hair is tied up on top with a pink hairband. The legs are not visible."  
 />
@@ -87,7 +87,7 @@ title="Drawing of a young Japanese girl in a yukata with stylised motif of stalk
 The final portrait was that of Chika, and it was a bit more challenging because it is very dark and also more cropped than I wanted it for my composition, so I had to extend the right part of it. I again used the same blue with just a few accents of the pink. It is the most abstracted of the four portraits.
 
 <figure>
-<img src="{{ site.url }}/images/p4-chika.jpg" 
+<img src="{{ site.url }}/images/p4-chika.avif" 
 alt="Drawing of a torso at a three-quarters angle of a young Japanese girl in a yukata with stylised motif of flowers. The yukata is tinted blue with watercolour, the flowers are white with a pink accent. The person is looking down at something in front of her. Her hair is tied up on top with a hair elastic with two white ponpons with some pink. The background is dark."
 title="Drawing of a torso at a three-quarters angle of a young Japanese girl in a yukata with stylised motif of flowers. The yukata is tinted blue with watercolour, the flowers are white with a pink accent. The person is looking down at something in front of her. Her hair is tied up on top with a hair elastic with two white ponpons with some pink. The background is dark."  
 />
@@ -97,7 +97,7 @@ title="Drawing of a torso at a three-quarters angle of a young Japanese girl in 
 When these three portraits were done, I was no longer satisfied with the first one of Yoshino so I redid it. The composition is different, with the figure much larger, and I changed the position of the torso so that more of the yukata is visible. I used the same Derwent Inktense blue as for the other portraits on the yukata, and the same style of background treatment.
 
 <figure>
-<img src="{{ site.url }}/images/p1-yoshino.jpg" alt="A Conté pencil portrait of a Japanese woman in profile, wearing a yukata with a stylised ginkho leaf pattern in blue. The scene is quite dark, the face has some highlights from an invisible light source placed in front and below the character. The background is a sketchy rendering of vegetation." title="A Conté pencil portrait of a Japanese woman in profile, wearing a yukata with a stylised ginkho leaf pattern in blue. The scene is quite dark, the face has some highlights from an invisible light source placed in front and below the character. The background is a sketchy rendering of vegetation."  />
+<img src="{{ site.url }}/images/p1-yoshino.avif" alt="A Conté pencil portrait of a Japanese woman in profile, wearing a yukata with a stylised ginkho leaf pattern in blue. The scene is quite dark, the face has some highlights from an invisible light source placed in front and below the character. The background is a sketchy rendering of vegetation." title="A Conté pencil portrait of a Japanese woman in profile, wearing a yukata with a stylised ginkho leaf pattern in blue. The scene is quite dark, the face has some highlights from an invisible light source placed in front and below the character. The background is a sketchy rendering of vegetation."  />
 <figcaption>Final portrait of Yoshino</figcaption>
 </figure>
 

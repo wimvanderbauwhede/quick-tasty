@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "45 minutes"
 current: ""
-current_image:  okra-tomatoes-tofu-sticks_1600.jpg
+current_image:  okra-tomatoes-tofu-sticks_1600.avif
 current_anchor:  okra-tomatoes-tofu-sticks
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: okra-tomatoes-tofu-sticks_1600.jpg
+  feature: okra-tomatoes-tofu-sticks_1600.avif
   teaser: okra-tomatoes-tofu-sticks_400.jpg
   thumb: okra-tomatoes-tofu-sticks_400.jpg
 ---

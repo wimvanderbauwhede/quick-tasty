@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "30 minutes"
 current: ""
-current_image:  celeriac-mushrooms-lentils-rice_1600.jpg
+current_image:  celeriac-mushrooms-lentils-rice_1600.avif
 current_anchor:  celeriac-mushrooms-lentils-rice
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: celeriac-mushrooms-lentils-rice_1600.jpg
+  feature: celeriac-mushrooms-lentils-rice_1600.avif
   teaser: celeriac-mushrooms-lentils-rice_400.jpg
   thumb: celeriac-mushrooms-lentils-rice_400.jpg
 ---

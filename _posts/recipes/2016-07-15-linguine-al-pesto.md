@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "15 minutes"
 current: ""
-current_image:  linguine-al-pesto_1600.jpg
+current_image:  linguine-al-pesto_1600.avif
 current_anchor:  linguine-al-pesto
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: linguine-al-pesto_1600.jpg
+  feature: linguine-al-pesto_1600.avif
   teaser: linguine-al-pesto_400.jpg
   thumb: linguine-al-pesto_400.jpg
 ---

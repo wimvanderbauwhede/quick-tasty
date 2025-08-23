@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  mushrooms_apple_cranberries_1600.jpg
+current_image:  mushrooms_apple_cranberries_1600.avif
 current_anchor:  mushrooms_apple_cranberries
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: mushrooms_apple_cranberries_1600.jpg
+  feature: mushrooms_apple_cranberries_1600.avif
   teaser: mushrooms_apple_cranberries_400.jpg
   thumb: mushrooms_apple_cranberries_400.jpg
 ---

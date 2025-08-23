@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "30 mins soak + 20 mins cook"
 current: ""
-current_image:  aubergine-boats-soy-beans_1600.jpg
+current_image:  aubergine-boats-soy-beans_1600.avif
 current_anchor:  aubergine-boats-soy-beans
 comments: false
 toc: false
 categories: recipes
 subset: japanese
 image:
-  feature: aubergine-boats-soy-beans_1600.jpg
+  feature: aubergine-boats-soy-beans_1600.avif
   teaser: aubergine-boats-soy-beans_400.jpg
   thumb: aubergine-boats-soy-beans_400.jpg
 ---

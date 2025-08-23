@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "30 minutes"
 current: ""
-current_image:  orzo_ricotta_mushrooms_1600.jpg
+current_image:  orzo_ricotta_mushrooms_1600.avif
 current_anchor:  orzo_ricotta_mushrooms
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: orzo_ricotta_mushrooms_1600.jpg
+  feature: orzo_ricotta_mushrooms_1600.avif
   teaser: orzo_ricotta_mushrooms_400.jpg
   thumb: orzo_ricotta_mushrooms_400.jpg
 ---

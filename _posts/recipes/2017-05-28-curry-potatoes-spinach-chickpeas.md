@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "30 minutes"
 current: ""
-current_image:  curry-potatoes-spinach-chickpeas_1600.jpg
+current_image:  curry-potatoes-spinach-chickpeas_1600.avif
 current_anchor:  curry-potatoes-spinach-chickpeas
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: curry-potatoes-spinach-chickpeas_1600.jpg
+  feature: curry-potatoes-spinach-chickpeas_1600.avif
   teaser: curry-potatoes-spinach-chickpeas_400.jpg
   thumb: curry-potatoes-spinach-chickpeas_400.jpg
 ---

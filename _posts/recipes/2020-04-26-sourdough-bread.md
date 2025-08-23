@@ -9,14 +9,14 @@ calorielevel: "5"
 calorierange: "1000-1200kcals"
 preptime: "4 hours prep, 60 mins baking"
 current: ""
-current_image:  sourdough-bread_1600.jpg
+current_image:  sourdough-bread_1600.avif
 current_anchor:  sourdough-bread
 comments: false
 toc: false
 categories: recipes
 subset: baking
 image:
-  feature: sourdough-bread_1600.jpg
+  feature: sourdough-bread_1600.avif
   teaser: sourdough-bread_400.jpg
   thumb: sourdough-bread_400.jpg
 ---
@@ -66,7 +66,7 @@ For this loaf I only use four ingredients:
 I usually bake in the evening, and wrap the loaf in a towel overnight to keep the crust from drying out too much.
 
 <figure>
-<img src="{{ site.url }}/images/sourdough-bread-slices.jpg" alt="A few slices of sourdough bread"
+<img src="{{ site.url }}/images/sourdough-bread-slices.avif" alt="A few slices of sourdough bread"
 title="A few slices of sourdough bread" />
 <figcaption>Doesn't it look delicious?</figcaption>
 </figure>

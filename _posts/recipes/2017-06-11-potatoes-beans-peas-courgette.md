@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "30 minutes"
 current: ""
-current_image:  potatoes-beans-peas-courgette_1600.jpg
+current_image:  potatoes-beans-peas-courgette_1600.avif
 current_anchor:  potatoes-beans-peas-courgette
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: potatoes-beans-peas-courgette_1600.jpg
+  feature: potatoes-beans-peas-courgette_1600.avif
   teaser: potatoes-beans-peas-courgette_400.jpg
   thumb: potatoes-beans-peas-courgette_400.jpg
 ---

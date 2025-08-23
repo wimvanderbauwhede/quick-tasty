@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  orzo-broccoli-paneer_1600.jpg
+current_image:  orzo-broccoli-paneer_1600.avif
 current_anchor:  orzo-broccoli-paneer
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: orzo-broccoli-paneer_1600.jpg
+  feature: orzo-broccoli-paneer_1600.avif
   teaser: orzo-broccoli-paneer_400.jpg
   thumb: orzo-broccoli-paneer_400.jpg
 ---

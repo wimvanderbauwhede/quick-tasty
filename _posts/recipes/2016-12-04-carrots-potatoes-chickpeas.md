@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  carrots-potatoes-chickpeas_1600.jpg
+current_image:  carrots-potatoes-chickpeas_1600.avif
 current_anchor:  carrots-potatoes-chickpeas
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: carrots-potatoes-chickpeas_1600.jpg
+  feature: carrots-potatoes-chickpeas_1600.avif
   teaser: carrots-potatoes-chickpeas_400.jpg
   thumb: carrots-potatoes-chickpeas_400.jpg
 ---

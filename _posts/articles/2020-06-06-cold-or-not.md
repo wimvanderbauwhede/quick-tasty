@@ -6,13 +6,13 @@ modified: 2020-06-05
 tags: [ Japan, Murakami ]
 excerpt: "In one of the final chapters in 1Q84, a character tells an intriguing story about Carl Gustav Jung. I went looking for the story behind the story."
 current: ""
-current_image:   cold-or-not_1600x600.jpg
+current_image:   cold-or-not_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: cold-or-not_1600x600.jpg
+  feature: cold-or-not_1600x600.avif
   teaser: cold-or-not_400x150.jpg
   thumb: cold-or-not_400x150.jpg
 ---

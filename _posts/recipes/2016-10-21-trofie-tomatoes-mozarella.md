@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "15 minutes"
 current: ""
-current_image: trofie-tomatoes-mozarella_1600.jpg
+current_image: trofie-tomatoes-mozarella_1600.avif
 current_anchor: trofie-tomatoes-mozarella
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: trofie-tomatoes-mozarella_1600.jpg
+  feature: trofie-tomatoes-mozarella_1600.avif
   teaser: trofie-tomatoes-mozarella_400.jpg
   thumb: trofie-tomatoes-mozarella_400.jpg
 ---

@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "30 mins soak + 20 mins cook"
 current: ""
-current_image:  parsnip-celeriac-soybean-nabe_1600.jpg
+current_image:  parsnip-celeriac-soybean-nabe_1600.avif
 current_anchor:  parsnip-celeriac-soybean-nabe
 comments: false
 toc: false
 categories: recipes
 subset: japanese
 image:
-  feature: parsnip-celeriac-soybean-nabe_1600.jpg
+  feature: parsnip-celeriac-soybean-nabe_1600.avif
   teaser: parsnip-celeriac-soybean-nabe_400.jpg
   thumb: parsnip-celeriac-soybean-nabe_400.jpg
 ---

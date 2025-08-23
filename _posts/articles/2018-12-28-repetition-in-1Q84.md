@@ -6,13 +6,13 @@ modified: 2018-12-28
 tags: [ Japanese ]
 excerpt: "Why do Tengo and Fuka-eri repeat one another so frequently?"
 current: ""
-current_image:   repetition-in-1Q84_1600x600.jpg
+current_image:   repetition-in-1Q84_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: repetition-in-1Q84_1600x600.jpg
+  feature: repetition-in-1Q84_1600x600.avif
   teaser: repetition-in-1Q84_400x150.jpg
   thumb: repetition-in-1Q84_400x150.jpg
 ---

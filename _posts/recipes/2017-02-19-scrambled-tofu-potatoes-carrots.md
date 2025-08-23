@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "45 minutes"
 current: ""
-current_image:  scrambled-tofu-potatoes-carrots_1600.jpg
+current_image:  scrambled-tofu-potatoes-carrots_1600.avif
 current_anchor:  scrambled-tofu-potatoes-carrots
 comments: false
 toc: false
 categories: recipes
 subset: japanese
 image:
-  feature: scrambled-tofu-potatoes-carrots_1600.jpg
+  feature: scrambled-tofu-potatoes-carrots_1600.avif
   teaser: scrambled-tofu-potatoes-carrots_400.jpg
   thumb: scrambled-tofu-potatoes-carrots_400.jpg
 ---

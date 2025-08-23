@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  stuffed_courgettes_gnocchi_1600.jpg
+current_image:  stuffed_courgettes_gnocchi_1600.avif
 current_anchor:  stuffed_courgettes_gnocchi
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: stuffed_courgettes_gnocchi_1600.jpg
+  feature: stuffed_courgettes_gnocchi_1600.avif
   teaser: stuffed_courgettes_gnocchi_400.jpg
   thumb: stuffed_courgettes_gnocchi_400.jpg
 ---

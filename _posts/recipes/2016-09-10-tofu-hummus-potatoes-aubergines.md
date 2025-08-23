@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "30 minutes"
 current: ""
-current_image:  tofu-hummus-potatoes-aubergines_1600.jpg
+current_image:  tofu-hummus-potatoes-aubergines_1600.avif
 current_anchor:  tofu-hummus-potatoes-aubergines
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: tofu-hummus-potatoes-aubergines_1600.jpg
+  feature: tofu-hummus-potatoes-aubergines_1600.avif
   teaser: tofu-hummus-potatoes-aubergines_400.jpg
   thumb: tofu-hummus-potatoes-aubergines_400.jpg
 ---

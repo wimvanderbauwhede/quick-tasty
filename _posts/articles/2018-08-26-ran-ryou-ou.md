@@ -6,13 +6,13 @@ modified: 2018-08-26
 tags: [ cooking-boffin, Japan ]
 excerpt: "Some years ago I saw a a traditional dance performance in Kyoto on the eve of the Gion Matsuri. I finally turned it into a drawing."
 current: ""
-current_image:   ran-ryou-ou_1600x600.jpg
+current_image:   ran-ryou-ou_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: ran-ryou-ou_1600x600.jpg
+  feature: ran-ryou-ou_1600x600.avif
   teaser: ran-ryou-ou_400x150.jpg
   thumb: ran-ryou-ou_400x150.jpg
 ---
@@ -61,7 +61,7 @@ Although Ranryōō masks can look vary different, they all share a common set of
 ## The drawing
 
 <figure>
-<img src="{{ site.url }}/images/ran_ryou_ou.jpg" alt="the drawing" />
+<img src="{{ site.url }}/images/ran_ryou_ou.avif" alt="the drawing" />
 <!-- add a caption -->
 <figcaption>The finished drawing</figcaption>
 </figure>
@@ -75,56 +75,56 @@ I used Derwent Inktense and Conté Aquaralle pencils as well as watercolour pain
 I started the drawing as usual with a pencil ghost drawing. Because of the size of the drawing, I used a grid to make sure the figure was positioned correctly.
 
 <figure>
-<img src="{{ site.url }}/images/s01-P1080141proc-19Jul.jpg" alt="the drawing" />
+<img src="{{ site.url }}/images/s01-P1080141proc-19Jul.avif" alt="the drawing" />
 <figcaption>Pencil ghost drawing</figcaption>
 </figure>
 
 Then I added a first layer of detail and colour with the watercolour pencils.  
 
 <figure>
-<img src="{{ site.url }}/images/s02-20180721_095211-21Jul.jpg" alt="the drawing" />
+<img src="{{ site.url }}/images/s02-20180721_095211-21Jul.avif" alt="the drawing" />
 <figcaption>First layer of detail and colour</figcaption>
 </figure>
 
 Next I started to detail and wash the mask. I needed a very fine pencil and a magnifying glass for the eyes.
 
 <figure>
-<img src="{{ site.url }}/images/s03-20180722_181118.jpg" alt="the drawing" />
+<img src="{{ site.url }}/images/s03-20180722_181118.avif" alt="the drawing" />
 <figcaption>Mask with washed watercolour pencils</figcaption>
 </figure>
 
 Then I worked on the tunic in the same way.
 
 <figure>
-<img src="{{ site.url }}/images/s04-20180729_113922.jpg" alt="the drawing" />
+<img src="{{ site.url }}/images/s04-20180729_113922.avif" alt="the drawing" />
 <figcaption>Tunic with washed watercolours</figcaption>
 </figure>
 
 Next I did the trousers, which took a long time, and the sleeves, ending the first full pass of the entire figure.
 
 <figure>
-<img src="{{ site.url }}/images/s05-20180802_163432.jpg" alt="the drawing" />
+<img src="{{ site.url }}/images/s05-20180802_163432.avif" alt="the drawing" />
 <figcaption>First full pass of the entire figure</figcaption>
 </figure>
 
 Then I worked on the detail of the _yukata_ of the figures in the background, which I decided to do in indigo blue for all of them. Usually I use a relatively blunt pencil because in general that works better on coarse-grained paper, but to render the patterns on the fabric with very fine lines before washing them I used an extra-sharp pencil. 
 
 <figure>
-<img src="{{ site.url }}/images/s06-20180804_180431.jpg" alt="the drawing" />
+<img src="{{ site.url }}/images/s06-20180804_180431.avif" alt="the drawing" />
 <figcaption>Detailing the _yukata_ designs for the background figures</figcaption>
 </figure>
 
 Next I added more detail and colour to the musicians, but I left them quite sketchy on purpose.
 
 <figure>
-<img src="{{ site.url }}/images/s07-20180805_crop.jpg" alt="the drawing" />
+<img src="{{ site.url }}/images/s07-20180805_crop.avif" alt="the drawing" />
 <figcaption>More detail and colour on the musicians</figcaption>
 </figure>
 
 Then I put a second layer of colour on the dancer, to make the red and orange more vibrant, and make the shadows more pronounced. I used a mixture of watercolour paint and watercolour pencils.
 
 <figure>
-<img src="{{ site.url }}/images/s08-20180812_171109.jpg" alt="the drawing" />
+<img src="{{ site.url }}/images/s08-20180812_171109.avif" alt="the drawing" />
 <figcaption>Second pass of the dancer</figcaption>
 </figure>
 

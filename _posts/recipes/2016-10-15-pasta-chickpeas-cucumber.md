@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "15 minutes"
 current: ""
-current_image: pasta-chickpeas-cucumber_1600.jpg
+current_image: pasta-chickpeas-cucumber_1600.avif
 current_anchor: pasta-chickpeas-cucumber
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: pasta-chickpeas-cucumber_1600.jpg
+  feature: pasta-chickpeas-cucumber_1600.avif
   teaser: pasta-chickpeas-cucumber_400.jpg
   thumb: pasta-chickpeas-cucumber_400.jpg
 ---

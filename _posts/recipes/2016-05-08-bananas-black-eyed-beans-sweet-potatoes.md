@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  bananas_black_eyed_beans_sweet_potatoes_1600.jpg
+current_image:  bananas_black_eyed_beans_sweet_potatoes_1600.avif
 current_anchor:  bananas_black_eyed_beans_sweet_potatoes
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: bananas_black_eyed_beans_sweet_potatoes_1600.jpg
+  feature: bananas_black_eyed_beans_sweet_potatoes_1600.avif
   teaser: bananas_black_eyed_beans_sweet_potatoes_400.jpg
   thumb: bananas_black_eyed_beans_sweet_potatoes_400.jpg
 ---

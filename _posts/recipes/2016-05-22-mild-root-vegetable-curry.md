@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "30 minutes"
 current: ""
-current_image:  mild_root_vegetable_curry_1600.jpg
+current_image:  mild_root_vegetable_curry_1600.avif
 current_anchor:  mild_root_vegetable_curry
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: mild_root_vegetable_curry_1600.jpg
+  feature: mild_root_vegetable_curry_1600.avif
   teaser: mild_root_vegetable_curry_400.jpg
   thumb: mild_root_vegetable_curry_400.jpg
 ---

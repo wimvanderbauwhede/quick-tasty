@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "45 minutes"
 current: ""
-current_image:  fasolakia-ladera_1600.jpg
+current_image:  fasolakia-ladera_1600.avif
 current_anchor:  fasolakia-ladera
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: fasolakia-ladera_1600.jpg
+  feature: fasolakia-ladera_1600.avif
   teaser: fasolakia-ladera_400.jpg
   thumb: fasolakia-ladera_400.jpg
 ---

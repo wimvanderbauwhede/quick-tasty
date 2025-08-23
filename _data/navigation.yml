@@ -4,20 +4,20 @@
 
 - title: The Recipes
   url: /recipes/
-  image: recipe_adj.jpg
+  image: recipe_adj.avif
 
 - title: The Store Cupboard
   url: /ingredients/
-  image: dried_tomatoes_400x300.jpg
+  image: dried_tomatoes_400x300.avif
 
 - title: The Basics
   url: /basics/
-  image: basics_600.jpg
+  image: basics_600.avif
 
 - title: About
   url: /about/
-  image: W_at_shrine.jpg
+  image: W_at_shrine.avif
 
 - title: Blog
   url: /articles/
-  image: fuud_800x600.jpg
+  image: fuud_800x600.avif

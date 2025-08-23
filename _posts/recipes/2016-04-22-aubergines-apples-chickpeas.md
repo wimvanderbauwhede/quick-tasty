@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "30 minutes"
 current: ""
-current_image:  aubergines_apples_chickpeas_1600.jpg
+current_image:  aubergines_apples_chickpeas_1600.avif
 current_anchor:  aubergines_apples_chickpeas
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: aubergines_apples_chickpeas_1600.jpg
+  feature: aubergines_apples_chickpeas_1600.avif
   teaser: aubergines_apples_chickpeas_400.jpg
   thumb: aubergines_apples_chickpeas_400.jpg
 ---

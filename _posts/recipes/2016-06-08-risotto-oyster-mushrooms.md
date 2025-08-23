@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "30 minutes"
 current: ""
-current_image:  risotto_oyster_mushrooms_1600.jpg
+current_image:  risotto_oyster_mushrooms_1600.avif
 current_anchor:  risotto_oyster_mushrooms
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: risotto_oyster_mushrooms_1600.jpg
+  feature: risotto_oyster_mushrooms_1600.avif
   teaser: risotto_oyster_mushrooms_400.jpg
   thumb: risotto_oyster_mushrooms_400.jpg
 ---

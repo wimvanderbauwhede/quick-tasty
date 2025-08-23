@@ -6,13 +6,13 @@ modified: 2016-04-06
 tags: [ cooking-boffin, Japan ]
 excerpt: "What we can learn from a Zen Buddhist cookbook."
 current: "The Zen way of cooking"
-current_image:   zencookbook_1600x600.jpg
+current_image:   zencookbook_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: zencookbook_1600x600.jpg
+  feature: zencookbook_1600x600.avif
   teaser: zencookbook_400x150.jpg
   thumb: zencookbook_400x150.jpg
 ---
@@ -34,17 +34,19 @@ The Zen way of cooking is somewhat similar. Japanese Zen Buddhism has a long tra
 When I was living in Japan, near Kyoto, there was a Zen temple close by, the beautiful Manpukuji.
 
 <figure class="half">
-	<img src="{{ site.url }}/images/manpukuji-1.jpg">
-  <img src="{{ site.url }}/images/manpukuji-2.jpg">
+	<img src="{{ site.url }}/images/manpukuji-1.avif" alt="Gate of a Buddhist temple in Kyoto" title="Gate of a Buddhist temple in Kyoto">
+  <img src="{{ site.url }}/images/manpukuji-2.avif" alt="Lotus pond of a Buddhist temple in Kyoto" title="Lotus pond of a Buddhist temple in Kyoto">
 </figure>
 
 In the shop of the Manpukuji temple I bought this cookbook (in Japanese only) about "fucha ryori" (Zen temple cuisine):
 
-![Zen temple cookbook]({{ site.url }}/images/zencookbook.jpg "Zen temple cookbook")
+<figure>
+<img src="{{ site.url }}/images/zencookbook.avif" alt="Zen temple cookbook" title="Zen temple cookbook">
+</figure>
 
 The book is full of delicious-looking pictures of the recipes, like this one:
 
-![Page from the zen temple cookbook]({{ site.url }}/images/zencookbook_page.jpg "Page from the zen temple cookbook")
+![Page from the zen temple cookbook]({{ site.url }}/images/zencookbook_page.avif "Page from the zen temple cookbook")
 
 What is very different from a regular cookbook is the way the recipes are described: typically, there is a list of ingredients but no amounts, and the method of cooking is described but usually no cooking times are given. Clearly, these details are not the essence of Zen cooking.
 

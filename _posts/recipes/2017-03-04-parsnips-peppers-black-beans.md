@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  parsnips-peppers-black-beans_1600.jpg
+current_image:  parsnips-peppers-black-beans_1600.avif
 current_anchor:  parsnips-peppers-black-beans
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: parsnips-peppers-black-beans_1600.jpg
+  feature: parsnips-peppers-black-beans_1600.avif
   teaser: parsnips-peppers-black-beans_400.jpg
   thumb: parsnips-peppers-black-beans_400.jpg
 ---

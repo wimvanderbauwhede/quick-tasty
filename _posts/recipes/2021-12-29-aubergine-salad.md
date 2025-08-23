@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "30 minutes"
 current: ""
-current_image:  aubergine-salad_1600.jpg
+current_image:  aubergine-salad_1600.avif
 current_anchor:  aubergine-salad
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: aubergine-salad_1600.jpg
+  feature: aubergine-salad_1600.avif
   teaser: aubergine-salad_400.jpg
   thumb: aubergine-salad_400.jpg
 ---

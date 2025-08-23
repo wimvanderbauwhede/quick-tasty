@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "30 mins soak + 20 mins cook"
 current: ""
-current_image:  aubergines-ponzu-soybeans-rice_1600.jpg
+current_image:  aubergines-ponzu-soybeans-rice_1600.avif
 current_anchor:  aubergines-ponzu-soybeans-rice
 comments: false
 toc: false
 categories: recipes
 subset: japanese
 image:
-  feature: aubergines-ponzu-soybeans-rice_1600.jpg
+  feature: aubergines-ponzu-soybeans-rice_1600.avif
   teaser: aubergines-ponzu-soybeans-rice_400.jpg
   thumb: aubergines-ponzu-soybeans-rice_400.jpg
 ---

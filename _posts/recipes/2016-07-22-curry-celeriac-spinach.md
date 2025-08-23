@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "30 minutes"
 current: ""
-current_image:  curry-celeriac-spinach_1600.jpg
+current_image:  curry-celeriac-spinach_1600.avif
 current_anchor:  curry-celeriac-spinach
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: curry-celeriac-spinach_1600.jpg
+  feature: curry-celeriac-spinach_1600.avif
   teaser: curry-celeriac-spinach_400.jpg
   thumb: curry-celeriac-spinach_400.jpg
 ---

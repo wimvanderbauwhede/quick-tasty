@@ -6,13 +6,13 @@ modified: 2019-09-08
 tags: [ Japanese ]
 excerpt: "A tale of a shop with a strange name, the planets, and the days of the week."
 current: ""
-current_image:   suikin-planets-weekdays_1600x600.jpg
+current_image:   suikin-planets-weekdays_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: suikin-planets-weekdays_1600x600.jpg
+  feature: suikin-planets-weekdays_1600x600.avif
   teaser: suikin-planets-weekdays_400x150.jpg
   thumb: suikin-planets-weekdays_400x150.jpg
 ---

@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "30 mins soak + 20 mins cook"
 current: ""
-current_image:  nasu-dengaku_1600.jpg
+current_image:  nasu-dengaku_1600.avif
 current_anchor:  nasu-dengaku
 comments: false
 toc: false
 categories: recipes
 subset: japanese
 image:
-  feature: nasu-dengaku_1600.jpg
+  feature: nasu-dengaku_1600.avif
   teaser: nasu-dengaku_400.jpg
   thumb: nasu-dengaku_400.jpg
 ---

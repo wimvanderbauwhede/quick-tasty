@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  pasta-raw-carrots-mushrooms_1600.jpg
+current_image:  pasta-raw-carrots-mushrooms_1600.avif
 current_anchor:  pasta-raw-carrots-mushrooms
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: pasta-raw-carrots-mushrooms_1600.jpg
+  feature: pasta-raw-carrots-mushrooms_1600.avif
   teaser: pasta-raw-carrots-mushrooms_400.jpg
   thumb: pasta-raw-carrots-mushrooms_400.jpg
 ---

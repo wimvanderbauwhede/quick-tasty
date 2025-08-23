@@ -9,14 +9,14 @@ calorielevel: "5"
 calorierange: "1000-1200kcals"
 preptime: "2 h 30 mins prep, 40 mins baking"
 current: ""
-current_image:  white-bread_1600.jpg
+current_image:  white-bread_1600.avif
 current_anchor:  white-bread
 comments: false
 toc: false
 categories: recipes
 subset: baking
 image:
-  feature: white-bread_1600.jpg
+  feature: white-bread_1600.avif
   teaser: white-bread_400.jpg
   thumb: white-bread_400.jpg
 ---

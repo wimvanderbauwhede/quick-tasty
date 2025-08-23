@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  nabe-yellow-peppers-celeriac-shiitake-tofu_1600.jpg
+current_image:  nabe-yellow-peppers-celeriac-shiitake-tofu_1600.avif
 current_anchor:  nabe-yellow-peppers-celeriac-shiitake-tofu
 comments: false
 toc: false
 categories: recipes
 subset: japanese
 image:
-  feature: nabe-yellow-peppers-celeriac-shiitake-tofu_1600.jpg
+  feature: nabe-yellow-peppers-celeriac-shiitake-tofu_1600.avif
   teaser: nabe-yellow-peppers-celeriac-shiitake-tofu_400.jpg
   thumb: nabe-yellow-peppers-celeriac-shiitake-tofu_400.jpg
 ---

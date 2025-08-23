@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  stir-fry-carrots-courgettes-bean-curd-sticks_1600.jpg
+current_image:  stir-fry-carrots-courgettes-bean-curd-sticks_1600.avif
 current_anchor:  stir-fry-carrots-courgettes-bean-curd-sticks
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: stir-fry-carrots-courgettes-bean-curd-sticks_1600.jpg
+  feature: stir-fry-carrots-courgettes-bean-curd-sticks_1600.avif
   teaser: stir-fry-carrots-courgettes-bean-curd-sticks_400.jpg
   thumb: stir-fry-carrots-courgettes-bean-curd-sticks_400.jpg
 ---

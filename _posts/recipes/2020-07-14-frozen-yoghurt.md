@@ -9,14 +9,14 @@ calorielevel: "1"
 calorierange: "200-400kcals"
 preptime: "5 mins prep, 100-200 mins freezing"
 current: ""
-current_image:  frozen-yoghurt_1600.jpg
+current_image:  frozen-yoghurt_1600.avif
 current_anchor:  brownies
 comments: false
 toc: false
 categories: recipes
 subset: treats
 image:
-  feature: frozen-yoghurt_1600.jpg
+  feature: frozen-yoghurt_1600.avif
   teaser: frozen-yoghurt_400.jpg
   thumb: frozen-yoghurt_400.jpg
 ---

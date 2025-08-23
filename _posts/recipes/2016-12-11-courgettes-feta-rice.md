@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "15 minutes"
 current: ""
-current_image:  courgettes-feta-rice_1600.jpg
+current_image:  courgettes-feta-rice_1600.avif
 current_anchor:  courgettes-feta-rice
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: courgettes-feta-rice_1600.jpg
+  feature: courgettes-feta-rice_1600.avif
   teaser: courgettes-feta-rice_400.jpg
   thumb: courgettes-feta-rice_400.jpg
 ---

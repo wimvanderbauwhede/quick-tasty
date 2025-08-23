@@ -6,15 +6,15 @@ modified: 2020-12-21
 tags: [ Japanese, cooking-boffin ]
 excerpt: "川端康成の１９６８年のノーベル文学賞の講義"
 current: ""
-#current_image:   shinshu-prayer_1600x600.jpg
+#current_image:   shinshu-prayer_1600x600.avif
 #current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 #image:
-#  feature: shinshu-prayer_1600x600.jpg
-#  teaser: shinshu-prayer_400x150.jpg
-#  thumb: shinshu-prayer_400x150.jpg
+#  feature: shinshu-prayer_1600x600.avif
+#  teaser: shinshu-prayer_400x150.avif
+#  thumb: shinshu-prayer_400x150.avif
 ---
 # 美しい日本の私	
 

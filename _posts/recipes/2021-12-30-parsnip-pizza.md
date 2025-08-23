@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "2 h + 30 mins prep, 15 mins baking"
 current: ""
-current_image:  parsnip-pizza_1600.jpg
+current_image:  parsnip-pizza_1600.avif
 current_anchor:  parsnip-pizza
 comments: false
 toc: false
 categories: recipes
 subset: baking
 image:
-  feature: parsnip-pizza_1600.jpg
+  feature: parsnip-pizza_1600.avif
   teaser: parsnip-pizza_400.jpg
   thumb: parsnip-pizza_400.jpg
 ---

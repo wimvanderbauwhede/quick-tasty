@@ -6,13 +6,13 @@ modified: 2016-03-26
 tags: [ cooking-boffin ]
 excerpt: "Some of the qualities of a geek boffin are transferable to cooking."
 current: "The three great virtues of a cook"
-current_image:   shiitake_shichimi_wakame_1600x600.jpg
+current_image:   shiitake_shichimi_wakame_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: shiitake_shichimi_wakame_1600x600.jpg
+  feature: shiitake_shichimi_wakame_1600x600.avif
   teaser: shiitake_shichimi_wakame_400x150.jpg
   thumb: shiitake_shichimi_wakame_400x150.jpg
 ---

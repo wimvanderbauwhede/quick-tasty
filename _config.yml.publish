@@ -2,7 +2,7 @@
 
 title: Quick &amp; Tasty
 description: "Quick and Tasty"
-teaser: lino.jpg
+teaser: lino.avif
 locale: en_GB
 url: https://quickandtastycooking.org.uk
 
@@ -28,7 +28,7 @@ plugins:
 owner:
   name: Wim 
   web: https://www.quickandtastycooking.org.uk
-  bio: "Fuss-free food"
+  bio: ""
 
 #include:
 #  - .htaccess

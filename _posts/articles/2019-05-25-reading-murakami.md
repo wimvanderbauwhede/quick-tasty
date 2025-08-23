@@ -6,13 +6,13 @@ modified: 2019-05-25
 tags: [ Japanese ]
 excerpt: "Some observations on reading Japanese: reading aloud and reading without subvocalising."
 current: ""
-current_image:   reading-murakami_1600x600.jpg
+current_image:   reading-murakami_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: reading-murakami_1600x600.jpg
+  feature: reading-murakami_1600x600.avif
   teaser: reading-murakami_400x150.jpg
   thumb: reading-murakami_400x150.jpg
 ---

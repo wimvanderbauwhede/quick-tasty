@@ -1,38 +1,39 @@
 ---
 layout: home
 title: "Quick & Tasty"
-date: 2021-12-31
+date: 2025-08-05
 tags: [recipes,quick, tasty, healthy,food,cooking, vegetarian,vegan]
 excerpt: "Quick & Tasty: Fuss-free food for one or two"
 comments: false
 toc: false
 
 image:
-  feature: homepage_banner_1600_2.jpg
+  feature: homepage_banner_1600_2.avif
+  teaser: homepage_banner_400_2.jpg
 ---
 <div class="tiles">
 
 <article class="tile" itemscope itemtype="https://schema.org/Article">
   <a href="{{ site.url }}/recipes" title="The Recipes" class="post-teaser">
-  <img src="{{ site.url }}/images/recipe_adj.jpg" alt="The Recipes" itemprop="image"></a>
+  <img src="{{ site.url }}/images/recipe_400x300.jpg" alt="The Recipes" itemprop="image"></a>
   <h2 class="post-title" itemprop="name"><a class="post-title" href="{{ site.url }}/recipes">The Recipes</a></h2>
 </article>
 
 <article class="tile" itemscope itemtype="https://schema.org/Article">
 <a href="{{ site.url }}/ingredients" title="The Store Cupboard" class="post-teaser">
-<img src="{{ site.url }}/images/dried_tomatoes_1600.jpg" alt="The Store Cupboard" itemprop="image">
+<img src="{{ site.url }}/images/ingredients_400x300.jpg" alt="The Store Cupboard" itemprop="image">
 </a>
   <h2 class="post-title" itemprop="name"><a class="post-title" href="{{ site.url }}/ingredients">The Store Cupboard</a></h2>
 </article>
 <article class="tile" itemscope itemtype="https://schema.org/Article">
   <a href="{{ site.url }}/basics" title="The Basics" class="post-teaser">
-  <img src="{{ site.url }}/images/basics_600.jpg" alt="The Basics" itemprop="image"></a>
+  <img src="{{ site.url }}/images/basics_400x300.jpg" alt="The Basics" itemprop="image"></a>
   <h2 class="post-title" itemprop="name"><a class="post-title" href="{{ site.url }}/basics">The Basics</a></h2>
 </article>
 
 <article class="tile" itemscope itemtype="https://schema.org/Article">
   <a href="{{ site.url }}/about" title="About" class="post-teaser">
-  <img src="{{ site.url }}/images/W_at_shrine.jpg" alt="About" itemprop="image"></a>
+  <img src="{{ site.url }}/images/about_400x300.jpg" alt="About" itemprop="image"></a>
   <h2 class="post-title" itemprop="name"><a class="post-title" href="{{ site.url }}/about">About</a></h2>
 </article>
 

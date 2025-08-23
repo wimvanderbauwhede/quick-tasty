@@ -6,13 +6,13 @@ modified: 2016-04-23
 tags: [ cooking-boffin ]
 excerpt: "Cooking food in the microwave has many advantages."
 current: ""
-current_image:   microwave_1600x600.jpg
+current_image:   microwave_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: microwave_1600x600.jpg
+  feature: microwave_1600x600.avif
   teaser: microwave_400x150.jpg
   thumb: microwave_400x150.jpg
 ---

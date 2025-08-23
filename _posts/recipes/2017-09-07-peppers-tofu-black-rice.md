@@ -9,14 +9,14 @@ calorielevel: "2"
 calorierange: "400-600kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  peppers-tofu-black-rice_1600.jpg
+current_image:  peppers-tofu-black-rice_1600.avif
 current_anchor:  peppers-tofu-black-rice
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: peppers-tofu-black-rice_1600.jpg
+  feature: peppers-tofu-black-rice_1600.avif
   teaser: peppers-tofu-black-rice_400.jpg
   thumb: peppers-tofu-black-rice_400.jpg
 ---

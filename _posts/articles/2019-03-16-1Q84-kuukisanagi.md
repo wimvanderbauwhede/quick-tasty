@@ -6,13 +6,13 @@ modified: 2019-03-16
 tags: [ Japanese ]
 excerpt: "A look at why the 'Little People' in Haruki Murakami's 1Q84 say 'Ho ho'"
 current: ""
-current_image:   1Q84-kuukisanagi_1600x600.jpg
+current_image:   1Q84-kuukisanagi_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: 1Q84-kuukisanagi_1600x600.jpg
+  feature: 1Q84-kuukisanagi_1600x600.avif
   teaser: 1Q84-kuukisanagi_400x150.jpg
   thumb: 1Q84-kuukisanagi_400x150.jpg
 ---

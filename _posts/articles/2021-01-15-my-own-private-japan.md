@@ -6,13 +6,13 @@ modified: 2021-01-15
 tags: [ Japanese, cooking-boffin ]
 excerpt: "Some observations on the Nobel lecture of Yasunari Kawabata"
 current: ""
-current_image: my-own-private-japan_1600x600.jpg
+current_image: my-own-private-japan_1600x600.avif
 #current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: my-own-private-japan_1600x600.jpg
+  feature: my-own-private-japan_1600x600.avif
   teaser: my-own-private-japan_400x150.jpg
   thumb: my-own-private-japan_400x150.jpg
 ---

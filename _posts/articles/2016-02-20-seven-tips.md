@@ -6,13 +6,13 @@ modified: 2016-02-20
 tags: [ cooking-boffin ]
 excerpt: "With these tips, making tasty meals will be a breeze."
 current: "7 tips for making quick & tasty meals"
-current_image:   dried_tomatoes_bold_1600x600.jpg
+current_image:   dried_tomatoes_bold_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: dried_tomatoes_bold_1600x600.jpg
+  feature: dried_tomatoes_bold_1600x600.avif
   teaser: dried_tomatoes_bold_400x150.jpg
   thumb: dried_tomatoes_bold_400x150.jpg
 ---

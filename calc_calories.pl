@@ -49,6 +49,7 @@ for my $recipe_file (@recipe_files) {
             $line=lc($line);
             $line=~s/_//g;
             $line=~s/\-//g;
+            $line=~s/\[.+?\)//g;
             say $line;
             push @ingr_lines, $line;
         }

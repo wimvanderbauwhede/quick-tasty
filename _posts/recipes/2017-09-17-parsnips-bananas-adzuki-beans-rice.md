@@ -9,14 +9,14 @@ calorielevel: "3"
 calorierange: "600-800kcals"
 preptime: "20 minutes"
 current: ""
-current_image:  parsnips-bananas-adzuki-beans-rice_1600.jpg
+current_image:  parsnips-bananas-adzuki-beans-rice_1600.avif
 current_anchor:  parsnips-bananas-adzuki-beans-rice
 comments: false
 toc: false
 categories: recipes
 subset: quick-recipes
 image:
-  feature: parsnips-bananas-adzuki-beans-rice_1600.jpg
+  feature: parsnips-bananas-adzuki-beans-rice_1600.avif
   teaser: parsnips-bananas-adzuki-beans-rice_400.jpg
   thumb: parsnips-bananas-adzuki-beans-rice_400.jpg
 ---

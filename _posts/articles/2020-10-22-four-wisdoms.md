@@ -6,13 +6,13 @@ modified: 2020-10-22
 tags: [ Japanese, cooking-boffin ]
 excerpt: "On the origin and meaning of this chant, common in Japanese Buddhism."
 current: ""
-current_image:   four-wisdoms_1600x600.jpg
+current_image:   four-wisdoms_1600x600.avif
 current_anchor:  homepage_banner
 comments: false
 toc: false
 categories: articles
 image:
-  feature: four-wisdoms_1600x600.jpg
+  feature: four-wisdoms_1600x600.avif
   teaser: four-wisdoms_400x150.jpg
   thumb: four-wisdoms_400x150.jpg
 ---
@@ -24,7 +24,7 @@ A friend asked me about if I knew a Japanese Buddhist prayer suitable for a fune
 Traditionally, _shōmyō_ texts are written using specific and quite unusual Chinese characters, but they are used purely for their phonetic value, not for their meaning. Here is the text in full, from the site of the [Buzan sect](http://www.buzan.or.jp/index-1-1.html) of [Shingon Buddhism](http://www.philtar.ac.uk/encyclopedia/easia/shingon.html). It also has a recording of the chanting.
 
 <figure>
-<img src="{{ site.url }}/images/shingon_kongoukai.png" alt="Chinese characters written left-to-right, top-to-bottom, columns of irregular length"
+<img src="{{ site.url }}/images/shingon_kongoukai.avif" alt="Chinese characters written left-to-right, top-to-bottom, columns of irregular length"
 title="Chinese characters written left-to-right, top-to-bottom, columns of irregular length"
 />
 <figcaption>The Four Wisdoms in kanji and hiragana, from the site of the Buzan sect</figcaption>
@@ -102,10 +102,10 @@ In Shingon Buddhism, there is a group of deities, known as the Vajra Bodhisattva
 
 
 <figure>
-<img src="{{ site.url }}/images/Kongokai-shiin-e.jpg" alt="Detail of the Kongōkai Mandala showing five seated Buddha-like figures arranges in a cross, within a circle"
+<img src="{{ site.url }}/images/Kongokai-shiin-e.avif" alt="Detail of the Kongōkai Mandala showing five seated Buddha-like figures arranges in a cross, within a circle"
 title="Detail of the Kongōkai Mandala showing five seated Buddha-like figures arranges in a cross, within a circle"
 />
-<figcaption>Shiin-e (四印会) and ichiin-e (一印会) sections of the Kongōkai Mandala, Heian period, 9th century (Tōji Temple, Kyōto, National Treasure) (https://commons.wikimedia.org/wiki/File:Kongokai.jpg)</figcaption>
+<figcaption>Shiin-e (四印会) and ichiin-e (一印会) sections of the Kongōkai Mandala, Heian period, 9th century (Tōji Temple, Kyōto, National Treasure) (https://commons.wikimedia.org/wiki/File:Kongokai.avif)</figcaption>
 </figure>
 
 The Dainichi Nyorai (大日如来) is the Buddha in the highest form of existence, dharmakaya, _hosshin_ (法身) in Japanese. 
@@ -124,10 +124,10 @@ According to the explanation on the site of the [Buzan sect](http://www.buzan.or
 "The Four Wisdoms represents the wisdom of the four Wisdom Buddhas, and by making offerings to each other, the Four Wisdoms represent the entire mandala of Vajrayana, with Dainichi Nyorai in the center."
 
 <figure>
-<img src="{{ site.url }}/images/902px-Kongokai.jpg" alt="The Kongōkai Mandala, consisting of nine panels, three by three. Eight of them are  showing five seated Buddha-like figures arranges in a cross, within a circle. The middle panel in the top row shows a single larger seated Buddha-like figure."
+<img src="{{ site.url }}/images/902px-Kongokai.avif" alt="The Kongōkai Mandala, consisting of nine panels, three by three. Eight of them are  showing five seated Buddha-like figures arranges in a cross, within a circle. The middle panel in the top row shows a single larger seated Buddha-like figure."
 title="The Kongōkai Mandala, consisting of nine panels, three by three. Eight of them are  showing five seated Buddha-like figures arranges in a cross, within a circle. The middle panel in the top row shows a single larger seated Buddha-like figure."
 />
-<figcaption>Kongōkai Mandala, Heian period, 9th century (Tōji Temple, Kyōto, National Treasure) (https://commons.wikimedia.org/wiki/File:Kongokai.jpg)</figcaption>
+<figcaption>Kongōkai Mandala, Heian period, 9th century (Tōji Temple, Kyōto, National Treasure) (https://commons.wikimedia.org/wiki/File:Kongokai.avif)</figcaption>
 </figure>
 
 * _The banner picture is of the Great Buddha of Kamakura._ 
