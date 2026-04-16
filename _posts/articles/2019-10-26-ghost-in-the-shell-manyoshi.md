@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Ghost in the Shell and the Manyoshi"
+title: "Ghost in the Shell and the Manyoshu"
 date: 2019-10-26
 modified: 2019-10-26
 tags: [ Japanese ]

@@ -125,6 +125,6 @@ There is so much more in this wonderful story, please go and read it if you have
 
 - [Report on a Shopping Trip to Yokohama -- A Gentle End of the World, Doug Ikemi, 2007](http://www.ikemi.info/Comics/yokohama.html)
 - [Review: A Healing, Gentle Apocalypse: Yokohama kaidashi kikō, Marc Hairston, 2008](https://www.jstor.org/stable/41510914)
-- [Understanding Disaster, Part 4: Yokohama Kaidashi Kikou and the Harmonious Apocalypse, Pause and Select, 2016](https://www.pauseandselect.com/2015-2016/understanding-disaster-part-4)
+- [Understanding Disaster, Part 4: Yokohama Kaidashi Kikou and the Harmonious Apocalypse, Pause and Select, 2016](https://web.archive.org/web/20250228132306/https://www.pauseandselect.com/2015-2016/understanding-disaster-part-4)
 - [ヨコハマ買い出し紀行 A Peaceful Future,  2017](https://sdsuthefuture.files.wordpress.com/2017/11/ykkessay.pdf)
 
